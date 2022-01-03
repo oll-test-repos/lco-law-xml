@@ -75,4 +75,4 @@ notifications:
 
 artifacts:
   - path: test_roundtrip.log
-    name: roundtrip log  
+    name: roundtrip log
