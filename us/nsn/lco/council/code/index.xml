@@ -4,5 +4,11 @@
     <effective>0001-01-02</effective>
   </meta>
   <heading>Lac Courte Oreilles Tribal Code of Law</heading>
-  <xi:include href="./II.xml"/>
+  <xi:include href="./.xml"/>
+  <xi:include href="./.xml"/>
+  <xi:include href="./.xml"/>
+  <xi:include href="./.xml"/>
+  <xi:include href="./.xml"/>
+  <xi:include href="./.xml"/>
+  <xi:include href="./1.xml"/>
 </document>
