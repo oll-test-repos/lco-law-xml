@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Lac Courte Oreilles Tribal Code of Law">
+  <prefix>Chapter</prefix>
+  <num>II-5</num>
+  <heading>Sovereign Immunity Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
+  <text>Preamble</text>
+  <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to protect and preserve the sovereign immunity of the Tribe, to define the entities and individuals entitled to the protection of such immunity, and to specify the manner in which such immunity may be waived, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, § 1(s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "To promulgate and enforce ordinances…providing for the maintenance of law and order and the administration of justice…" Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby recognizes that Tribal sovereign immunity, as defined in numerous federal court decisions, is an inherent and indispensable aspect of Tribal sovereignty. The Lac Courte Oreilles Band of Lake Superior Chippewa Indians also recognizes that Tribal sovereign immunity affords necessary protection of Tribal resources, and necessary protection for Tribal officers, employees, and agents in both governmental and commercial settings.</text>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>5.1</num>
+    <heading>General Provisions</heading>
+    <section>
+      <num>5.101</num>
+      <heading>Title</heading>
+      <text>This ordinance shall be known as the Sovereign Immunity Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+    </section>
+    <section>
+      <num>5.102</num>
+      <heading>Authority</heading>
+      <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, Article V, § 1(s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "To promulgate and enforce ordinances…providing for the maintenance of law and order and the administration of justice…"</text>
+    </section>
+    <section>
+      <num>5.103</num>
+      <heading>Declaration Of Policy</heading>
+      <text>It is the policy of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to exercise its sovereign immunity, and to grant limited waivers of such immunity, as dictated by the best interests of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and its citizens. The Lac Courte Oreilles Band of Lake Superior Chippewa Indians recognizes that Tribal sovereign immunity, as defined in numerous federal court decisions, is an inherent and indispensable aspect of Tribal sovereignty. The Lac Courte Oreilles Band of Lake Superior Chippewa Indians also recognizes that Tribal sovereign immunity affords necessary protection of Tribal resources, and necessary protection for Tribal officers, employees, and agents in both governmental and commercial settings.</text>
+    </section>
+    <section>
+      <num>5.104</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this ordinance is to protect and preserve the sovereign immunity of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, to define the entities and individuals entitled to the protection of such immunity, and to specify the manner in which such immunity may be waived.</text>
+    </section>
+    <section>
+      <num>5.105</num>
+      <heading>Territorial Applicability</heading>
+      <text>This ordinance shall govern the sovereign immunity of the Tribe pursuant to the provisions of this ordinance within Lac Courte Oreilles Reservation lands as well as off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe.</text>
+    </section>
+    <section>
+      <num>5.106</num>
+      <heading>Effective Date</heading>
+      <text>Except as otherwise provided in specific sections, the provisions of this ordinance shall be effective on the date adopted by the Tribal Governing Board.</text>
+    </section>
+    <section>
+      <num>5.107</num>
+      <heading>Interpretation</heading>
+      <text>The provisions of this ordinance:</text>
+      <para>
+        <num>(1)</num>
+        <text>Shall be interpreted and applied as the minimum requirements applicable to the protection and preservation of the sovereign immunity of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Shall be liberally construed in favor of the Tribe;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Shall not be deemed a limitation or repeal of any other tribal power or authority.</text>
+      </para>
+    </section>
+    <section>
+      <num>5.108</num>
+      <heading>Severability And Non-Liability</heading>
+      <text>If any section, provision or portion of this ordinance is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this ordinance.</text>
+    </section>
+    <section>
+      <num>5.109</num>
+      <heading>Repeal Of Inconsistent Tribal Ordinances</heading>
+      <text>All ordinances and resolutions inconsistent with this ordinance are hereby repealed. To the extent that this ordinance imposes greater restrictions than those contained in any other tribal law, code, ordinance or regulation, the provisions of this ordinance shall govern.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>5.2</num>
+    <heading>Definitions</heading>
+    <section>
+      <num>5.201</num>
+      <heading>General Definitions</heading>
+      <text>Any term not defined in this Section shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+      <para>
+        <num>(1)</num>
+        <text><strong>"Agent"</strong> shall mean a person who is authorized to act on behalf of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians with respect to a specific transaction or transactions. For the purposes of this ordinance, agent shall include all individuals elected or appointed to serve on a board, committee, or commission of the Tribe.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text><strong>"Employee"</strong> shall mean any individual who is employed by the Tribe and is subject to the direction and control of the Tribe with respect to the material details of the work performed, or who has the status of an employee under the usual common law rules applicable to determining the employer-employee relationship. For the purposes of this ordinance, employee shall include individuals employed by a tribal entity or Tribally Chartered corporation.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text><strong>"Officer"</strong> shall mean a person elected or appointed to serve on a board, committee, or commission of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text><strong>"Reservation" or "Reservation Lands"</strong> means those lands located within the exterior boundaries of the Lac Courte Oreilles Reservation lands as well as off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text><strong>"Tribal Entity"</strong> shall mean a corporation or other organization which is wholly owned by the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and is operated for governmental or commercial purposes.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text><strong>"Tribe"</strong> shall mean the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, and includes all departments, divisions, business units, and other subdivisions of the Tribe.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text><strong>"Tribal Court"</strong> means the court of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text><strong>"Tribal Governing Board"</strong> means the Tribal Governing Board of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>5.3</num>
+    <heading>General</heading>
+    <section>
+      <num>5.301</num>
+      <heading>Sovereign Immunity Of The Tribe</heading>
+      <text>The sovereign immunity of the Tribe, including sovereign immunity from suit in any state, federal or Tribal court, is hereby expressly reaffirmed. No suit or other proceeding, including any Tribal proceeding, may be instituted or maintained against the Tribe unless the Tribe has specifically waived sovereign immunity for purposes of such suit or proceeding. No suit or other proceeding, including any Tribal proceeding, may be instituted or maintained against officers, employees or agents of the Tribe for actions within the scope of their authority, unless the Tribe has specifically waived sovereign immunity for purposes of such suit or proceeding.</text>
+    </section>
+    <section>
+      <num>5.302</num>
+      <heading>Sovereign Immunity Of Tribal Entities</heading>
+      <text>The sovereign immunity of Tribal Entities, including sovereign immunity from suit in any state, federal or Tribal court, is hereby expressly reaffirmed. No suit or other proceeding, including any Tribal proceeding, may be instituted or maintained against a Tribal Entity unless the Tribe has specifically waived sovereign immunity for purposes of such suit or proceeding. No suit or other proceeding, including any Tribal proceeding, may be instituted or maintained against officers, employees or agents of a Tribal Entity for actions within the scope of their authority, unless the Tribe has specifically waived sovereign immunity for purposes of such suit or proceeding.</text>
+    </section>
+    <section>
+      <num>5.303</num>
+      <heading>Waiver Of Sovereign Immunity</heading>
+      <para>
+        <num>(1)</num>
+        <text>All waivers of sovereign immunity shall be made in accordance with this ordinance.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A limited waiver of sovereign immunity of the Tribe or a Tribal Entity may be effected:</text>
+        <para>
+          <num>(a)</num>
+          <text>by express resolution of the Tribal Governing Board;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>by motion of the Tribal Governing Board in adoption of an employment agreement encompassing a limited waiver of sovereign immunity for purposes of enforcement of the terms of the employment agreement in tribal court; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>by express resolution of the Tribal Governing Board authorizing a limited waiver of immunity to a Tribal Entity to sue and be sued in the Tribal Entities corporate name, upon any contract, claim or obligation arising out of its activities under ordinance or charter, and limited to the liability for the debts or obligations of the Tribal Entity.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Only through express resolution of the Tribal Governing Board, shall the Tribe provide a limited waiver of its sovereign immunity to permit Tribal officers, employees, or agents to testify as witnesses or to produce documents following receipt of a subpoena from a court of competent jurisdiction or a duly authorized official.</text>
+        <para>
+          <num>(a)</num>
+          <text>A limited waiver of sovereign immunity to allow testimony and production of documents shall not extend to and shall not be deemed to include any testimony or the production of any documents which are not directly relevant to the limited purposes expressed in the waiver.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A limited waivers of sovereign immunity shall not be general but shall be specific and limited as to duration, grantee, transaction, assets subject to the waiver, the court having jurisdiction, and applicable law.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>No waiver of sovereign immunity shall be deemed to be consent to the levy of any judgment, lien, or attachment upon Reservation Land(s).</text>
+      </para>
+    </section>
+  </container>
+</container>
