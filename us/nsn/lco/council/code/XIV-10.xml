@@ -1,0 +1,1668 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Lac Courte Oreilles Tribal Code of Law">
+  <prefix>Chapter</prefix>
+  <num>XIV-10</num>
+  <heading>Governmental Fiscal Policies And Procedures Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
+  <text>Preamble</text>
+  <text>This fiscal policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. This fiscal policy and procedural manual, sets forth the fiscal and accounting policies and procedures in effect for the Lac Courte Oreilles Tribal Government. This Manual replaces any and all previous fiscal and accounting policy statements, whether written or oral. No prior fiscal or accounting policies or procedures will have any force or effect after the effective date of this Manual. This Manual will not be construed to create any contract or any other right. The Tribal Governing Board acting in its sovereign capacity may in its sole discretion amend this fiscal policy and procedural manual from time to time. All amendments to this Manual will be made in writing, and no amendment will be effective until approved by the Tribal Governing Board and signed by the Secretary/Treasurer. In the event of an inconsistency between any provision of this Manual and applicable law, the provision of this Manual shall be void and deemed stricken, and this Manual shall be amended to the extent necessary to comply with the same.</text>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>10.1</num>
+    <heading>General Provisions</heading>
+    <section>
+      <num>10.101</num>
+      <heading>Title</heading>
+      <text>This fiscal policies and procedures manual shall be known as the Governmental Fiscal Policies and Procedures of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+    </section>
+    <section>
+      <num>10.102</num>
+      <heading>Authority</heading>
+      <text>This fiscal policy and procedural manual is enacted pursuant to Article V, Section 1(j) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "To administer any funds within the control of the Band; to make expenditures from available funds for public purposes, including salaries or other remuneration of Band officials, employees or members. Such salaries or remuneration shall be paid only for services actually rendered. All expenditures by the Governing Board shall be in accord with a previously approved budget, and the amount so paid shall be a matter of public record at all times.</text>
+    </section>
+    <section>
+      <num>10.103</num>
+      <heading>Purpose</heading>
+      <text>It is the purpose of this fiscal policy and procedural manual is to provide the general policies, rules and practices in effect at the Tribe such as the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Ensure accurate and timely accounting of all financial transactions involving the Tribe or funds or assets of the Tribe.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Ensure that all funds and assets of the Tribe are properly accounted for in an effort to safeguard the same against loss from unauthorized use or disposition.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Ensure compliance by the Tribe will all requirements of every applicable governing authority, including those governing or related to grants or other sources of funding.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Ensure compliance with Generally Accepted Accounting Principles.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Ensure the accuracy and reliability of the Tribe's financial statements.</text>
+      </para>
+    </section>
+    <section>
+      <num>10.104</num>
+      <heading>Effective Date</heading>
+      <text>Except as otherwise provided in specific sections, the provisions of this fiscal policy and procedural manual shall be effective on the date adopted by the Tribal Governing Board.</text>
+    </section>
+    <section>
+      <num>10.105</num>
+      <heading>Interpretation</heading>
+      <text>The provisions of this fiscal policy and procedural manual:</text>
+      <para>
+        <num>(1)</num>
+        <text>Shall be interpreted and applied as minimum requirements applicable to the fiscal and accounting related activities of the Tribe;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Shall be liberally construed in favor of the Tribe;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Shall not be deemed a limitation or repeal of any other tribal power or authority.</text>
+      </para>
+    </section>
+    <section>
+      <num>10.106</num>
+      <heading>Severability And Non-Liability</heading>
+      <text>If any section, provision or portion of this fiscal policy and procedural manual is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this fiscal policy and procedural manual shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this fiscal policy and procedural manual.</text>
+    </section>
+    <section>
+      <num>10.107</num>
+      <heading>Repeal Of Inconsistent Governmental Manual(S)</heading>
+      <text>All previous fiscal policy and procedural manual(s) of the Tribe inconsistent with this manual are hereby repealed and the provisions of this manual shall govern the fiscal and accounting related activities of the Tribe.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>10.2</num>
+    <heading>Definitions</heading>
+    <section>
+      <num>10.201</num>
+      <heading>General Definitions</heading>
+      <text>Any term not defined in this Section shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+      <para>
+        <num>(1)</num>
+        <text><strong>"Account Number"</strong> means a group of numbers used to identify the fund, department, and description of an account. For example 171-6110-1900 is broken down as follows: 171 = indirect cost fund, 6110 = supplies and 1900 = project 1 (See Subchapter 10.4).</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text><strong>"Allowable Cost"</strong> (as set forth in OMB Circular A-87) means those which meet the following general criteria:</text>
+        <para>
+          <num>(a)</num>
+          <text>Be reasonable for the performance of the award and be allocable thereto under these principles;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Conform to any limitations or exclusions set forth in these principles or in the award as to types or amount of cost items;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Be consistent with policies and procedures that apply uniformly to both federally financed and other activities of the organization;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Be accorded consistent treatment;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Be determined in accordance with GAAP (Generally Accepted Accounting Principles);</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Not be included as a cost or used to meet cost sharing or matching requirements of any other federally financed program in either the current or a prior period; and</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Be adequately documented.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text><strong>"Asset"</strong> means any valuable item that is owned or a future economic benefit obtained or controlled by a particular entity as a result of past transactions or events. Examples include cash and accounts receivable.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text><strong>"Appropriation"</strong> means funds set aside for a specific purpose.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text><strong>"Balance Sheet"</strong> means a statement of the assets, liabilities, and fund balance as of a specified date. Total Assets equal total liabilities plus fund balance.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text><strong>"Budget"</strong> means an itemized summary of probable income and approved expenditures for a given program and period.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text><strong>"Capital Project Funds"</strong> means funds to account for financial resources to be used for the acquisition or construction of major capital facilities.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text><strong>"Chart of Accounts"</strong> means a list of all account numbers used by an organization to record activity into the general ledger.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text><strong>"Credit"</strong> means the right side of an account.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text><strong>"Debit" </strong>means the left side of an account.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text><strong>"Debt Service Funds"</strong> means an account for the accumulation of resources for, and the retirement of, general long-term debt principal and interest.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text><strong>"Deferred Compensation Fund"</strong> means the fund used to account for assets held for employees in accordance with the provisions of Internal Revenue Code Section 457.</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text><strong>"Deferred Revenue"</strong> means revenue that is not yet recognized.</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text><strong>"Direct Cost"</strong> means any cost which can be specifically identified with a particular cost objective.</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text><strong>"Disbursement"</strong> means funds paid out.</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text><strong>"Discretionary Funds"</strong> means funds that may be spent as the Tribal Governing Board wishes, subject to any applicable legal constraints.</text>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text><strong>"Enterprise Funds"</strong> means an account for business operations financed and operated in a manner similar to private business enterprises.</text>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text><strong>"Encumbrance"</strong> means commitments related to unperformed contracts for goods or services. As used in budgeting, encumbrances are not GAAP expenditures or liabilities, but represent the estimated amount of assets reserved for outstanding purchase orders.</text>
+      </para>
+      <para>
+        <num>(19)</num>
+        <text><strong>"Equipment Purchase"</strong> means the expense line item used to record equipment purchased. This  expense  line  should  only  include  items  costing  $5,000  or  more  individually. Equipment items of lesser value should be charged to a supply expense line.</text>
+      </para>
+      <para>
+        <num>(20)</num>
+        <text><strong>"Expense"</strong> means a decrease in financial resources.</text>
+      </para>
+      <para>
+        <num>(21)</num>
+        <text><strong>"Fiduciary Funds"</strong> means funds held by a governmental unit in a trustee capacity.</text>
+      </para>
+      <para>
+        <num>(22)</num>
+        <text><strong>"Financial Department"</strong> means the accounting department of the Tribe.</text>
+      </para>
+      <para>
+        <num>(23)</num>
+        <text><strong>"Fixed Asset"</strong> means a single tangible item valued at $2,000 or more with a useful life longer than one year, including buildings, equipment and vehicles and items of a lesser value which are subject to pilferage such as computers.</text>
+      </para>
+      <para>
+        <num>(24)</num>
+        <text><strong>"Fringe Benefit"</strong> means any property, service, cash or cash equivalent provided to an employee by an employer in connection with the performance of services.</text>
+      </para>
+      <para>
+        <num>(25)</num>
+        <text><strong>"Fund"</strong> means a fiscal and accounting entity with a self-balancing set of accounts which is segregated for the purpose of tracking specific activities in accordance with special regulations or restrictions.</text>
+      </para>
+      <para>
+        <num>(26)</num>
+        <text><strong>"Fund Balance"</strong> means the difference between the assets and liabilities of a governmental fund.</text>
+      </para>
+      <para>
+        <num>(27)</num>
+        <text><strong>"Generally Accepted Accounting Principles or GAAP"</strong> means the rules of accounting established by experienced professional accountants and bodies such as the financial accounting standards board.</text>
+      </para>
+      <para>
+        <num>(28)</num>
+        <text><strong>"General Fixed Assets"</strong> means capital assets which are not assets of any fund, but rather are assets of the unit as a whole. Most often these assets arise from the expenditures of the financial resources of governmental funds.</text>
+      </para>
+      <para>
+        <num>(29)</num>
+        <text><strong>"General Fixed Assets Account Group"</strong> means those fixed assets which are not recorded in a proprietary or another fund.</text>
+      </para>
+      <para>
+        <num>(30)</num>
+        <text><strong>"General Fund"</strong> means accounts for all financial resources except those required to be accounted for in another fund.</text>
+      </para>
+      <para>
+        <num>(31)</num>
+        <text><strong>"General Ledger"</strong> means a record of monetary transactions of an organization posted in the form of debits and credits.</text>
+      </para>
+      <para>
+        <num>(32)</num>
+        <text><strong>"General Long-Term Debt Account Group"</strong> means a fund used to account for a government's long term indebtedness that has not been identified as a specific fund liability of a proprietary or trust fund.</text>
+      </para>
+      <para>
+        <num>(33)</num>
+        <text><strong>"Government Accounting Standards Board or GASB"</strong> means the board which is the authority for establishing governmental accounting standards.</text>
+      </para>
+      <para>
+        <num>(34)</num>
+        <text><strong>"Governmental Funds"</strong> means the funds used to finance most governmental function.</text>
+      </para>
+      <para>
+        <num>(35)</num>
+        <text><strong>"Indirect Cost"</strong> means costs incurred for a common or joint purpose benefiting more than one cost objective. Assigning these costs to more than one objective requires an effort that is disproportionate to the results achieved. Examples of indirect costs include fiscal department staff and electricity for the administration building.</text>
+      </para>
+      <para>
+        <num>(36)</num>
+        <text><strong>"Internal Service Funds"</strong> means funds to account for the financing of goods or services provided by one department to other governmental units.</text>
+      </para>
+      <para>
+        <num>(37)</num>
+        <text><strong>"Journal Entry"</strong> means a two-sided entry consisting of a debit and a credit used to record information into the general ledger.</text>
+      </para>
+      <para>
+        <num>(38)</num>
+        <text><strong>"Liability"</strong> means the obligations of an entity, such as accounts payable.</text>
+      </para>
+      <para>
+        <num>(39)</num>
+        <text><strong>"Payee"</strong> means the one to whom money is to be paid.</text>
+      </para>
+      <para>
+        <num>(40)</num>
+        <text><strong>"Post"</strong> means to record an item in the general ledger.</text>
+      </para>
+      <para>
+        <num>(41)</num>
+        <text><strong>"Proprietary Funds"</strong> means funds used to account for governmental activities that are similar to for profit business operations in the private sector.</text>
+      </para>
+      <para>
+        <num>(42)</num>
+        <text><strong>"Reasonable Costs"</strong> (as set forth in OMB Circular A-87) means a cost which, in its nature or amount, it does not exceed that which would be incurred by a prudent person under the circumstances prevailing at the time the decision was made to incur the costs. The question of the reasonableness of specific costs must be scrutinized with particular care in connection with organizations or separate divisions thereof which receive the preponderance of their support from awards made by Federal agencies. In determining the reasonableness of a given cost, consideration will be given to:</text>
+        <para>
+          <num>(a)</num>
+          <text>Whether the cost is of a type generally recognized as ordinary and necessary for the operation of the organization or the performance of the award;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The restraints or requirements imposed by such factors as generally accepted sound business practices, arm's length bargaining, federal and state laws and regulations, and terms and conditions of the award;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Whether the individuals concerned acted with prudence in the circumstances, considering their responsibilities to the organization, its members, employees, and clients, the public at large, and the government; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Significant deviations from the established practices of the organization which may unjustifiably increase the award costs.</text>
+        </para>
+      </para>
+      <para>
+        <num>(43)</num>
+        <text><strong>"Reserved Fund Balance"</strong> means those portions of fund balance not appropriable for expenditures or that are legally segregated for a specific future use.</text>
+      </para>
+      <para>
+        <num>(44)</num>
+        <text><strong>"Revenue"</strong> means an increase in financial resources.</text>
+      </para>
+      <para>
+        <num>(45)</num>
+        <text><strong>"Special Revenue Funds"</strong> means funds to account for specific revenue sources that are restricted legally to be expended for specific purposes.</text>
+      </para>
+      <para>
+        <num>(46)</num>
+        <text><strong>"Statement of Revenues, Expenditures, and Changes in Fund Balance"</strong> means a financial statement which shows revenue, expenditures, and changes in fund balance during a specified period of time.</text>
+      </para>
+      <para>
+        <num>(47)</num>
+        <text><strong>"Tribal Balance"</strong> means a list of the balances of the accounts in a ledger fund by double entry, with the debit and credit balances shown in separate columns. The totals of the debits and credits must be equal for the trial balance to balance.</text>
+      </para>
+      <para>
+        <num>(48)</num>
+        <text><strong>"Unallowable Costs"</strong> (as set forth in OMB Circular A-87) include but are not limited to the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>Alcoholic beverages;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Bad debts;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Contingencies (See exceptions, Number 12, OMB Circular A-87);</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Contributions and donations;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Entertainment;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Fines and penalties;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Fund raising;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Interest and other financing costs except where authorized under the circular;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Legislative expenses;</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Lobbying expenses; and</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Under-recovery of costs of other grants or agreements</text>
+        </para>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>10.3</num>
+    <heading>Method Of Accounting</heading>
+    <section>
+      <num>10.301</num>
+      <heading>General</heading>
+      <text>As a governmental entity, the Tribe is required to follow GAAP as endorsed by the GASB, including the following five basic principles of governmental accounting, which the Tribe will adhere pursuant to this subchapter.</text>
+    </section>
+    <section>
+      <num>10.302</num>
+      <heading>Accounting And Reporting Capabilities</heading>
+      <text>The governmental accounting system must make it possible to present fairly and with full disclosure the financial position and results of operations of the funds and account groups of the governmental unit in conformity with GAAP and to demonstrate compliance with legal and contractual provisions.</text>
+    </section>
+    <section>
+      <num>10.303</num>
+      <heading>Fund Classifications</heading>
+      <text>The governmental accounting system should be organized and operated on the fund basis. The three major categories of funds are Governmental Funds, Proprietary Funds, and Account Groups. Within each of these categories there are the following fund types and account groups:</text>
+      <para>
+        <num>(1)</num>
+        <text>Governmental Funds include the General Fund, Special Revenue Funds, Capital Project Funds, and Debt Service Funds.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Proprietary Funds include Enterprise Funds, Internal Service Funds, Fiduciary Funds, and the Deferred Compensation Fund.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Account Groups include the General Fixed Assets Account Group, and the General Long-Term Debt Account Group.</text>
+      </para>
+    </section>
+    <section>
+      <num>10.304</num>
+      <heading>Basis For Accounting</heading>
+      <text>All governmental funds must be accounted for using the modified accrual basis of accounting, under which revenues are recognized when they become measurable and available, and expenditures are recognized when the related fund liability is incurred. All proprietary funds must be accounted for using the accrual basis of accounting, under which revenues are recognized when earned, and their expenses are recognized when incurred.</text>
+    </section>
+    <section>
+      <num>10.305</num>
+      <heading>Budgeting</heading>
+      <text>A budget must be prepared annually to coincide with the fiscal year. The accounting system provides the basis for appropriate budgetary control and budgetary comparisons will be included on the Revenue and Expenditure Report.</text>
+    </section>
+    <section>
+      <num>10.306</num>
+      <heading>Annual And Interim Financial Reporting</heading>
+      <text>Complete audited financial statements of the General Funds and the Special Revenue Funds must be issued annually.  Interim financial reports such as Trial Balances, Revenue &amp; Expenditure Reports and detailed general ledgers must be issued monthly or at the request of Program Directors or Tribal Governing Board. It is the responsibility of the Program Director to monitor their program. If they do not receive the financial information they need, they must contact the Finance Department and request it.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>10.4</num>
+    <heading>Chart Of Accounts</heading>
+    <section>
+      <num>10.401</num>
+      <heading>Purposes</heading>
+      <text>The Tribe has established the Chart of Accounts that is reflected below, the purpose of which is to establish a system of numbering accounts in such a way manner that identifies certain information about the account.</text>
+    </section>
+    <section>
+      <num>10.402</num>
+      <heading>Chart Of Accounts Grouping</heading>
+      <text>The Chart of Accounts is grouped into three groups of digits as follows: Fund – Activity– Area, with the following corresponding number of digits: xxx - xxxx - xxxx.</text>
+      <para>
+        <num>(1)</num>
+        <text>The first group of three digits represents the fund and the fiscal period.  The first two digits in this group represent the fund, and the last digit in this group represents the fiscal period.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The second group of four digits usually represents the activity, and is referred to as the line item account number.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The third group of four digits represents the area, project, or department.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>10.5</num>
+    <heading>Internal Controls</heading>
+    <section>
+      <num>10.501</num>
+      <heading>Objective</heading>
+      <text>The objective of internal controls is to provide management with reasonable assurance as to the safeguarding of assets against losses from unauthorized use or disposition, and the reliability of financial records for preparing financial statements and maintaining accountability of assets.</text>
+    </section>
+    <section>
+      <num>10.502</num>
+      <heading>Characteristics</heading>
+      <text>The characteristics of an adequate system of internal controls include:</text>
+      <para>
+        <num>(1)</num>
+        <text>The segregation of duties within the organization based on functional responsibilities;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A system of authorization and record retention;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A degree of personnel competence commensurate with responsibilities; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A sound basis for practices to be followed to achieve the objectives of internal accounting controls.</text>
+      </para>
+    </section>
+    <section>
+      <num>10.503</num>
+      <heading>Best Management Practices</heading>
+      <text>The following internal controls are recognized as best management practices, and although conditioned upon the number of employees, will be adhered to whenever possible:</text>
+      <para>
+        <num>(1)</num>
+        <text>No person will have complete control over all phases of any significant transaction.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Whenever possible, the flow of work will be from one employee to another so that the work of the second, without duplicating that of the first, provides a check upon the work of the first employee.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Responsibilities in the fiscal department will be clearly established and followed as closely as possible.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Record keeping will be separated from operations or the handling and custody of assets, including:</text>
+        <para>
+          <num>(a)</num>
+          <text>The function of receiving cash will be centralized in one person, who will not be concerned in any way with approving or certifying vouchers, acting as petty cash cashier, preparing deposits, making disbursements, or keeping accounting records; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In receiving cash through the mail, the person responsible for opening the envelopes will immediately restrict with a tribal endorsement stamp all incoming checks and other negotiable instruments; these along with other cash received will be logged and listed in duplicate before forwarding the receipts to accounting for deposits to the bank.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The following will be adhered to when handling cash:</text>
+        <para>
+          <num>(a)</num>
+          <text>All cash receipts will be deposited intact and for the full amount received; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>All collections will be deposited as soon as possible, preferably the day received.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Collections and all other funds held within an office pending regular deposit will be restrictively endorsed.  Petty cash funds and all other funds will be kept under complete  control  and  under  proper  safeguards;  preferably  in  a  fire-resistant combination safe or safe cabinet.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Uncollectible items and related documents will not be handled by the person making up deposits or by the person handling accounts receivable.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>If possible, persons preparing payrolls or time reporting records will not handle the related pay checks.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Bank statements will be reconciled promptly to the formal accounting records and the reconciliation reviewed and approved by the Chief Financial Officer.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>The number of bank accounts and inter-bank transfers will be kept to a minimum.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>The following will be adhered to when issuing checks:</text>
+        <para>
+          <num>(a)</num>
+          <text>Checks will not be issued to "cash" or "bearer;"</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Check signers will not sign blank checks; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Records of void checks will be kept. When possible the actual void check will be stamped void and filed.</text>
+        </para>
+        <text>If required, a replacement check will be issued following the process set forth in the Subchapter 10.13 of this manual. When the actual check is not available and the check is for more than $15, a stop payment will be issued.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>10.6</num>
+    <heading>Grants Managment</heading>
+    <section>
+      <num>10.601</num>
+      <heading>Separate Accounting</heading>
+      <text>Each grant must be accounted for separately and all terms and conditions of contracts and grants between the Tribe and Funding Agencies or Contractors will be complied with.</text>
+    </section>
+    <section>
+      <num>10.602</num>
+      <heading>Expenditures</heading>
+      <text>Expenditures will be charged to a particular grant/contract only in accordance with the terms and conditions thereof. Grant/contract compliance is the responsibility of the Program Manager, and compliance will be monitored by the Contract Officer.</text>
+    </section>
+    <section>
+      <num>10.603</num>
+      <heading>Compliance Requirement</heading>
+      <text>The Tribe, tribal entities, or a consortia receiving advance payments under the ISDEAA or the Tribally Controlled Schools Act may invest advance payments (some recipients refer to these advanced payments as "deferred revenue"), before such funds are expended for the purpose of the grant, contract, or funding agreement, so long as such funds are:</text>
+      <para>
+        <num>(1)</num>
+        <text>Invested only in obligations of the United States or in obligation or securities that are guaranteed or insured by the United States, or mutual (or other) funds registered with the Securities and Exchange Commission and which only invest in obligations of the United States or securities that are guaranteed or insured with the United States; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Deposited only in accounts that are insured by an agency or instrumentality of the United States, or are fully collateralized to ensure protection of the advance funds, even in event of a bank failure (25 U.S.C 450e-3).</text>
+      </para>
+    </section>
+    <section>
+      <num>10.604</num>
+      <heading>Department Proposals</heading>
+      <text>Departmental proposals for contract/grant funded programs and projects will be prepared with the knowledge and participation of the Contracts Officer and, at minimum, two (2) appropriate (staff involved in the administration of the proposed program) members of the management team, which consists of:</text>
+      <para>
+        <num>(1)</num>
+        <text>Tribal Chairman;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Executive Director;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Chief Financial Officer;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Director of Health &amp; Human Services;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Director of Natural Resource Department; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Director of the Development Corporation.</text>
+      </para>
+    </section>
+    <section>
+      <num>10.605</num>
+      <heading>Review Of Proposals</heading>
+      <text>Prior to submission to the Tribal Governing Board, all proposals must be reviewed by the Executive Director, the Contracts Officer, and the Chief Financial Officer, as well by as any other Management Team member who will be involved in the administration of the grant/contract.	A copy of the completed proposal and Funding Agency Request for Proposal also must be submitted to the Contracts Office. This will enable staff members who are responsible for administrating and reporting on these projects to review, revise, approve or disapprove proposed projects based upon considerations of budget information, project costs and benefits, technical and administrative capacity to perform, attainable goals and deliverables, space/equipment  and staffing requirements, realistic goals and matching requirements. This pre-approval process will be verified by the completion of the "Request for Tribal Council Authorization to Submit". See sample form A-1.</text>
+    </section>
+    <section>
+      <num>10.606</num>
+      <heading>Grants/Contracts Proposed As Pass Thru</heading>
+      <text>All grants/contracts that are proposed as pass thru to other Tribal entities will be accompanied with a certification that the governing authority of any such entity has reviewed and approved the application. All grant/contract "Request for Tribal Governing Board Authorization to Submit" forms will state the pass thru entities director's signature, indicating that the director has had the opportunity to review and approve the pass through application (See Authorization to Submit form).</text>
+    </section>
+    <section>
+      <num>10.607</num>
+      <heading>Grants/Contracts Reviews Completed</heading>
+      <text>All grant/contract proposals will have their reviews completed and must be submitted to Tribal Governing Board at least seven (7) calendar days prior to request for approval. This is intended to give the Tribal Governing Board time to review the applications, and if necessary to request additional information from the department submitting the application. Contract Compliance will require at least two (2) days for review applications and RFP prior to that submission.</text>
+    </section>
+    <section>
+      <num>10.608</num>
+      <heading>New Grants/Contracts Applications</heading>
+      <text>All new grant/contract applications (including those that are continuation of funding for existing programs) will require the approval of the Tribal Governing Board by Resolution.</text>
+    </section>
+    <section>
+      <num>10.609</num>
+      <heading>Departmental Programs And Projects</heading>
+      <text>Departmental programs and projects, including those implemented through wholly owned entities of the Tribe charted under tribal law will be subject to this Manual and all fiscal, personnel, and property management policies of the Tribe, as well as all applicable federal and state rules and regulations.</text>
+    </section>
+    <section>
+      <num>10.610</num>
+      <heading>Approved Proposals</heading>
+      <text>Copies of all approved proposals for contract/grant-funded programs and projects will be filed with the Executive Director prior to submission to funding agency. In all cases, the applicant entity will be the "Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin, 13394 W Trepania Road, Hayward, WI 54843." The authorizing official will be the Tribal Chairperson or another member of the Tribal Governing Board. All grant/contract award notifications will be directed to the Tribal Chairperson.</text>
+    </section>
+    <section>
+      <num>10.611</num>
+      <heading>Notice Of Award Selection</heading>
+      <text>When notice is received that the grant/contract grant has been selected for award, all pre award documents (contracts/agreements/certifications) will be processed by the Contracts Officer. All signatures/requested information (grant/ programmatic or narrative information requested will be the responsibility of the grant writer) and will be collected by the Executive Director for submission to funding agency.</text>
+    </section>
+    <section>
+      <num>10.612</num>
+      <heading>Advance Or Reimbursement From A Funding Agency</heading>
+      <text>Any department seeking an advance or reimbursement from a funding agency will initiate the request by written submission to the Executive Director, who shall process the request.</text>
+    </section>
+    <section>
+      <num>10.613</num>
+      <heading>Incurring Costs Against An Award</heading>
+      <text>Prior to incurring any costs against an award -all budgetary information will be submitted to the Executive Director for approval and forwarded to the Finance Department staff for entry into the accounting system. No expenditures will be coded to any line item that has not been appropriated. There will be no exceptions.</text>
+    </section>
+    <section>
+      <num>10.614</num>
+      <heading>Requests To Move Contract/Grant Funds</heading>
+      <text>Departmental requests to move contract/ grant funds from one budget line item to another must be made on the "Request for Modification" form and will require that department Directors signature (See sample form A-2).</text>
+    </section>
+    <section>
+      <num>10.615</num>
+      <heading>Technical Assistance Request</heading>
+      <text>Department staff who wish to maintain their own financial records can request technical assistance from the Executive Director/ or Chief Financial Officer to ensure that they are compliant with Tribal and Federal fiscal management policies and regulations.</text>
+    </section>
+    <section>
+      <num>10.616</num>
+      <heading>Denial Of Approval To Submit Grant/Contract Application</heading>
+      <text>Failure to follow Subchapter 10.11 of this manual will result in the denial of approval to submit grant/ contract application to funding agency and may result in a personnel disciplinary action. Any contract or grant application submitted without approval, if funded, will be returned.</text>
+    </section>
+    <section>
+      <num>10.617</num>
+      <heading>Internal Audit And Self-Monitoring</heading>
+      <text>The following apply regarding internal audit and self-monitoring:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Executive Director will schedule a date annually to meet with the Program Director of each Tribal program (excluding health) that provides services based upon eligibility determinations. The meeting shall be for the purpose of conducting an internal audit and to review Contract Compliance Procedures including grant/contract applications and administration, professional services contracts, match documentation requirements, and to distribute any updated forms.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Executive Director shall instruct any Program Director that has $2,000 or more budgeted for a construction contract concerning the requirements of the Davis Bacon Act. Under the Davis Bacon Act all laborers and mechanics employed by contractors or subcontractors to work on construction contracts in excess of $2,000 financed by federal assistance funds must be paid wages not less than those established for the locality of the project (prevailing wage rates) by the Department of Labor.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A signed acknowledgement must be received by the Program Director from any contractor receiving a construction contract in excess of $2,000 stating that they have been informed of the requirements of the Davis Bacon Act and that they will provide the Tribe with copies of their certified payrolls for the said contract.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Before the Contracts Office approves any payment on construction contracts of $2,000 or more, it must verify that the Davis Bacon Act is being complied with and that said contractor has provided the Tribe with said acknowledgement and with a copies of their certified payrolls for the afore said construction contract.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>All client/ participant files prepared or maintained during the twelve (12) months prior to the review will be audited. It will be determined if the program has followed all applicable policies, procedures and statutory requirements for eligibility and the payment or distribution of benefits from that program.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Program Directors will be required to provide the Executive Director copies of that programs policies, procedures and requirements at least one (1) week prior to the scheduled meeting. A report will be prepared within ten (10) working days after the completion of the review and copies will be forwarded to the Program Director and their Supervisor.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>If the Executive Director finds a program to be non-compliant, a corrective action plan will be initiated. This corrective action plan will be prepared with the participation of the Program Director, their Supervisor and the Executive Director.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>The corrective action plan will include a list of violations and strategies and the time line for correction of the same. The time line for completion of the tasks in the corrective action plan will be no less than five (5) working days and no longer than two (2) months from the date of the corrective action plan, depending upon the severity of the issues and the potential impact to that program's continuation.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>The Program Director will be responsible for correcting the deficiencies found in the review. The Executive Director will review the status of the corrective action plan at the end of the established time line. Program Directors that fail to correct noncompliance issues by that dead line will be subject to disciplinary action.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>The Executive Director will schedule a date annually to meet with the Program Director of each Tribal program that does not include the determination of eligibility or the distribution of benefits. The meeting shall be for the purpose of reviewing grant/contract compliance procedures including applications and administration, professional services contracts, match documentation requirements, and to distribute any updated forms. In the event of a violation, the above provisions of this Section shall apply as applicable.</text>
+      </para>
+    </section>
+    <section>
+      <num>10.618</num>
+      <heading>Memorandums Of Understanding</heading>
+      <text>All Memorandums of Understanding, Memorandums of Agreement or similar grant/contract agreements (the "Grant Agreements") must comply with the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Grant Agreement must be reviewed by all personnel who will be responsible for the implementation or administration of the same to address any concerns or issues.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A Request for Agreement Form (See sample form A-3) must be completed and the draft agreement must be attached.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Form A-3 and the draft agreement must then be sent to the Executive Director for review and approval.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Form A-3 and the draft agreement must then be sent to the Contracts Office for review and assignment of a number.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Form A-3 and draft agreement must then be submitted to the Tribal Governing Board  for  approval  at  least  seven  (7)  calendar  days  prior  to  the  date  of consideration, which will give the Tribal Governing Board time to review the documents and if necessary, request additional information.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>All Grant Agreements required the approval of the Tribal Governing Board and signature of the Chairperson or another authorized officer of the Tribal Governing Board.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>After approval and signature by the Tribal Chairperson, one (1) original must be forwarded to the Contracts Office.</text>
+      </para>
+    </section>
+    <section>
+      <num>10.619</num>
+      <heading>Drawdowns</heading>
+      <text>The following apply regarding drawdowns:</text>
+      <para>
+        <num>(1)</num>
+        <text>Each federal and state agency has established the method of grant/contract payments to the grantee/contractor. All drawdowns of these payments will be made according to grant guidelines provided by the funding agency. While some grants may be drawn down in advance, many may only be drawn down on a reimbursement basis.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Finance Department will follow the procedures for drawdown of funds and reimbursement of costs as set forth by the funding agency.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If a federal grant is drawn down in advance, the draw down will be done so that cash-on-hand is kept at the minimum amount needed for disbursements to be made immediately or within ten (1) 10 days, unless a different amount is specifically allowed by the grant.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If a program needs an unusually large disbursement of funds by a specific date, the Program Director will notify the Contracts Officer at least one (1) week before the payment is due.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Contract Officer will periodically review the financial reports of all programs. Upon review of the availability of funds, cash on hand, accounts payable, expenditures to date and encumbrances, funds will be requested as needed by the Contracts Officer by completing a draw down request form. The request for the drawdown of funds from the funding agency will be submitted to the funding agency by the Chief Financial Officer.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The total amount of the grant/contract will be requested in full and drawn down, if allowed. The Contracts Officer will review the cash needs of each program and determine what funds are not immediately required. The Chief Financial Officer will invest the funds in the manner that would be most financially advantageous and in the best interest of the Tribe, to the extent that is allowable by law. Any interest or revenue earned will be used for general tribal operations, to the extent that is allowable by law.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>10.7</num>
+    <heading>Budgets</heading>
+    <section>
+      <num>10.701</num>
+      <heading>Annual Budgets</heading>
+      <text>At the beginning of each fiscal year annual budgets will be prepared for the BIA Contracts, Health Contracts, Indirect Cost Pool, and any other grants that do not have approved budgets in the grant request.</text>
+    </section>
+    <section>
+      <num>10.702</num>
+      <heading>Budget Preparation</heading>
+      <text>The budgets will be prepared by the Contracts Officer with the help and input of program managers.</text>
+    </section>
+    <section>
+      <num>10.703</num>
+      <heading>Budget Review</heading>
+      <text>All budgets will be reviewed by the Chief Financial Officer.</text>
+    </section>
+    <section>
+      <num>10.704</num>
+      <heading>Budget Approval</heading>
+      <text>All budgets require the approval of the Tribal Governing Board.</text>
+    </section>
+    <section>
+      <num>10.705</num>
+      <heading>Budget Comparisons</heading>
+      <text>All approved budgets will be entered into the accounting system by fiscal staff so that actual to budget comparisons will be reflected on the Revenue and Expenditure Report.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>10.8</num>
+    <heading>Audits</heading>
+    <section>
+      <num>10.801</num>
+      <heading>Audit Accordance</heading>
+      <text>An audit in accordance with GAAP, and the standards applicable to financial audits contained in Auditing Standards issued by the Comptroller General of the United States will be conducted once a year. These standards require that the audit be planned and performed to obtain reasonable assurance about whether the financial statements are free of material misstatement.</text>
+    </section>
+    <section>
+      <num>10.802</num>
+      <heading>Single Audit Act</heading>
+      <text>The audit will be performed in accordance with the Single Audit Act and will address compliance and internal control issues.</text>
+    </section>
+    <section>
+      <num>10.803</num>
+      <heading>Auditing Firms</heading>
+      <text>All changes in auditing firms hired to perform and audit requires the prior approval of the Tribal Governing Board.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>10.9</num>
+    <heading>Petty Cash</heading>
+    <section>
+      <num>10.901</num>
+      <heading>Petty Cash</heading>
+      <text>Whenever possible and practical, disbursements should be made by check from the bank account. When it does become necessary to make small miscellaneous cash expenditures they may be made from the "petty cash" fund.</text>
+    </section>
+    <section>
+      <num>10.902</num>
+      <heading>Petty Cash Fund Issuance</heading>
+      <text>The person to whom a Petty Cash Fund is issued is solely responsible for properly controlling and maintaining the same.</text>
+    </section>
+    <section>
+      <num>10.903</num>
+      <heading>Petty Cash Access Restricted</heading>
+      <text>All petty cash will be kept in a locked box and in a locked drawer, with access restricted to the person to whom the Petty Cash Fund has been issued.</text>
+    </section>
+    <section>
+      <num>10.904</num>
+      <heading>Petty Cash Fund</heading>
+      <text>The amount of the Petty Cash Fund will not exceed $300. The total cash on hand plus the total of petty cash vouchers must equal the total fund at all times.</text>
+    </section>
+    <section>
+      <num>10.905</num>
+      <heading>Cash On Hand Replenishment</heading>
+      <text>When the total cash on hand requires replenishment the following steps should be followed:</text>
+      <para>
+        <num>(1)</num>
+        <text>Request replenishment of cash from the fiscal department;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Provide a reconciliation of all cash spent to the fiscal department;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Provide account numbers to be charged for expenditures; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Include invoices or other documentation to support reconciliation.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>10.10</num>
+    <heading>Bank Reconciliations</heading>
+    <section>
+      <num>10.1001</num>
+      <heading>Separate Accounts</heading>
+      <text>The Tribe will maintain one checking account for payroll and one account for cash disbursements. All cash receipts for all funds will flow through the cash disbursement account.</text>
+    </section>
+    <section>
+      <num>10.1002</num>
+      <heading>Reconciliation Of Cash Balances</heading>
+      <text>At the end of each month, all general ledger cash balances will be reconciled to the bank statement.</text>
+    </section>
+    <section>
+      <num>10.1003</num>
+      <heading>Additional Bank Accounts</heading>
+      <text>Additional bank accounts such as certificates of deposit may also be used by the Tribe. These bank accounts will also be reconciled to the general ledger on a monthly basis.</text>
+    </section>
+    <section>
+      <num>10.1004</num>
+      <heading>Bank Reconciliations</heading>
+      <text>The following will apply to bank reconciliations:</text>
+      <para>
+        <num>(1)</num>
+        <text>Bank statements must be picked up at the bank by an authorized employee, received via US mail, or printed off from the online banking website.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Reconciled deposits recorded on the bank statement to the cash receipts must be recorded in the cash receipts journal. Any deposit-in-transit from the prior month's reconciliation to the bank statement must be traced and the date these deposits were credited to the bank must be indicated.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any deposits not clearing the bank statement will represent deposits-in-transit on the current month's reconciliation. Deposits which have not cleared the bank within a week of the date deposited should be brought to the attention of the Chief Financial Officer.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The prior month's reconciliation must be matched to the cancelled checks against those listed as outstanding. Any checks still outstanding should be listed on the current month's outstanding check list.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Each cancelled check must be compared with the entry in the cash disbursements journal and place a check mark by the entry. Those entries not checked off will make up the current month's outstanding check list. Checks outstanding for a period of more than sixty (60) days should be brought to the attention of the Chief Financial Officer.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Any other transaction appearing on the bank statement which will be recorded on the books by journal entry must be noted, including:</text>
+        <para>
+          <num>(a)</num>
+          <text>Returned checks;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Bank service charge;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Wire transfer of funds; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Stop payment checks.</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The monthly bank statement must be reconciled to the balance shown in the general ledger account for cash on deposit. Since the balance in the general ledger account for cash on deposit controls the accuracy of the books, it is essential that the figure be reconciled with the balances shown by the bank statement.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>10.11</num>
+    <heading>Cash Receipts</heading>
+    <section>
+      <num>10.1101</num>
+      <heading>Cash Transactions</heading>
+      <text>There is a relatively high risk associated with transactions involving cash. Cash generally is received from the following sources:</text>
+      <para>
+        <num>(1)</num>
+        <text>Grant/contract funds received from the grantor/contractor;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Medical Billing Receipts;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Senior Citizen Nutrition Program Receipts;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Reimbursement of Unused Travel Advances; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Other Miscellaneous cash receipts.</text>
+      </para>
+    </section>
+    <section>
+      <num>10.1102</num>
+      <heading>Cash Internal Controls</heading>
+      <text>In addition to the provisions of this Manual, including the internal controls listed in Subchapter 10.5 of this manual, the following apply to all cash receipts:</text>
+      <para>
+        <num>(1)</num>
+        <text>Cash Receipts must be properly safeguarded and appropriately recorded;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Access to Cash Receipts must be limited to as few employees as possible;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Cash Receipts must be recorded immediately; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Cash Receipts must be deposited intact and on a timely basis.</text>
+      </para>
+    </section>
+    <section>
+      <num>10.1103</num>
+      <heading>Accounting Window Deposit</heading>
+      <text>Specifically, when a deposit is received at the accounting window the accounting clerk in attendance will sit down with the person that brought the deposit and verify the total amount of money received in cash and by check and enter that amount onto the Incoming Check Log sheet (See sample form A-19) along with a brief description of where it came from, what it was for, and who brought it over.</text>
+    </section>
+    <section>
+      <num>10.1104</num>
+      <heading>Incoming Check Log</heading>
+      <text>Once the amount has been verified by both the accounting clerk and the person that brought the deposit, each will sign off on the Incoming Check Log.</text>
+    </section>
+    <section>
+      <num>10.1105</num>
+      <heading>Immediate Transfer Of Cash</heading>
+      <text>The cash will immediately be transferred to the Accounts Receivable Clerk. The Accounts Receivable Clerk will count the cash, verify the amount, and initial the Incoming Check Log as verification that the entire amount of cash listed has been received. If the Accounts Receivable Clerk is not immediately available the cash will be given to the General Ledger Clerk or in their absence, to the supervisor in charge. This person will transfer the cash to the Accounts Receivable Clerk at their earliest opportunity, and have the Accounts Receivable Clerk verify the amount of cash received, and sign off on the Incoming Check Log. If the amount of cash does not agree with the amount on the Incoming Check Log, any discrepancy must be reported to the Chief Financial Officer immediately. All other deposits will be placed immediately in the Incoming Deposit Basket on the Accounts Receivable Clerk's desk.</text>
+    </section>
+    <section>
+      <num>10.1106</num>
+      <heading>Preparation Of Receipt</heading>
+      <text>The Accounts Receivable Clerk will prepare a receipt for each item received, and reconcile that item to the Incoming Check Log, and initial the Log as verification. The Accounts Receivable Clerk will immediately notify the CFO via e-mail of any receipts that do not agree with the amounts entered on the Incoming Check Log.  Each receipt will have three (3) copies, with the original going to the person making the payment. One ( 1) of the copies must be filed in the cash receipts journal and the other must remain in the cash receipts book (See sample form A-4).</text>
+    </section>
+    <section>
+      <num>10.1107</num>
+      <heading>Employee Cash Handling</heading>
+      <text>Each employee handling cash will be personally responsible for that amount until they have someone else sign off for it, or until it is verified as having been deposited into the proper bank account. Any shortages resulting from lost or missing cash will be deducted from the next payroll check of the last person to sign off as having received it prior to it being discovered to be lost or missing.</text>
+    </section>
+    <section>
+      <num>10.1108</num>
+      <heading>Miscellaneous Cash Receipts</heading>
+      <text>Miscellaneous cash receipts will show the source, amount and nature of the cash received. Cash receipts will be summarized in a cash receipts journal, which will contain the following information:</text>
+      <para>
+        <num>(1)</num>
+        <text>Date of receipt of the cash;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Source from which the cash was received;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Total amount of cash received; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Account number to be credited for the cash receipt.</text>
+      </para>
+    </section>
+    <section>
+      <num>10.1109</num>
+      <heading>Accounts Receivable Balance Review</heading>
+      <text>Accounts receivable balances will be reviewed periodically and adjusted for bad debts at least once per year.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>10.12</num>
+    <heading>Procurement</heading>
+    <section>
+      <num>10.1201</num>
+      <heading>Purchases</heading>
+      <text>All purchases must be in compliance with Title XIV, Chapter 2 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Property and Procurement Policies and Procedures. The applicable budget shall serve as the guideline for annual expenditures for all operating expenses.</text>
+    </section>
+    <section>
+      <num>10.1202</num>
+      <heading>Purchases Within The Approved Budget Line</heading>
+      <text>All purchases within the approved budget line items are classified as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text><u>Routine and Recurring Purchases</u>. Purchases under this category include monthly payments for rent, telephone, utilities, insurance, etc. It is not necessary for the finance department to obtain Program Director signature each month for these routine purchases.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text><u>Special Program Purchases</u>. Program purchases include project expenditures such as supplies and training. Prior to making these types of purchases, a Purchase Requisition Form must be received from the Program Director. This form must be completed in every detail and signed by the Program Director. Upon receipt of the Purchase Request, the Purchasing Officer will review the Purchasing Request for propriety regarding vendor, price, budget and bids. The Purchasing Officer will then prepare a purchase order using the Sage MIP Fund Accounting System. Upon signed authorization by the Program Director, the purchase order will then be submitted to the vendor for processing.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text><u>Travel Claims</u>. All purchases must be in compliance with Title XIV, Chapter 3 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Travel Personnel Policies and Procedures.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text><u>Equipment</u>. All purchase must be in compliance with Title XIV, Chapter 2 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Property and Procurement Policies and Procedures.</text>
+      </para>
+    </section>
+    <section>
+      <num>10.1203</num>
+      <heading>Purchases Of Individual Items</heading>
+      <text>Purchases of individual items require the following approval levels:</text>
+      <para>
+        <num>(1)</num>
+        <text>$0 to $2,000 requires approval of the Program Director; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Over $2,000 requires three (3) documented bids, and Tribal Governing Board approval; provided the Tribal Governing Board may determine that obtaining such bids is not possible, and may waive such requirement.</text>
+      </para>
+    </section>
+    <section>
+      <num>10.1204</num>
+      <heading>Vendor And Professional Services Contracts</heading>
+      <text>All vendor and professional services contracts, excluding Education Department Tutoring contracts, require Tribal Governing Board approval regardless of the dollar amount. The process for requesting such approval is as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>The procurement documentation and Request for Contract Form must be completed in their entirety (See sample form A-5).</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The procurement documentation and Request for Contract Form must be submitted to the Executive Director and Chief Financial Officer for review and approval. The Executive Director will assign a contract number.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The approved procurement documentation and Request for Contract Form must then be submitted to the Tribal Governing Board for approval at least seven (7) calendar days prior to the date of consideration, which will give the Tribal Governing Board time to review the documents and if necessary, request additional information.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>After approval and signature by the Tribal Chairperson, one original must be forwarded to the Executive Director.</text>
+      </para>
+    </section>
+    <section>
+      <num>10.1205</num>
+      <heading>Sole Source Provider</heading>
+      <text>The Tribe strongly discourages the awarding of any contract to a sole source provider. Unless sufficient evidence is provided that a contractor is a true sole source provider, such contract shall be rejected.</text>
+    </section>
+    <section>
+      <num>10.1206</num>
+      <heading>Purchase Orders</heading>
+      <text>The following requirements apply to purchase orders, in that all purchase orders must:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be pre-numbered;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Be issued by the Purchasing Clerk and authorized by a Program Director;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Be entered into the financial software to reflect encumbrances; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Be compared to invoices upon receipt, and related encumbrances must be removed when invoice is paid.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>10.13</num>
+    <heading>Cash Disbursements</heading>
+    <section>
+      <num>10.1301</num>
+      <heading>Unused Checks</heading>
+      <text>Unused checks will be stored in the locked file room located in the finance department.</text>
+    </section>
+    <section>
+      <num>10.1302</num>
+      <heading>W-9 Form</heading>
+      <text>A W-9 form will be completed for each new vendor used (See sample form A-6). No payments will be made to new vendors without W-9 information.</text>
+    </section>
+    <section>
+      <num>10.1303</num>
+      <heading>"Debarred" Or "Suspended"</heading>
+      <text>The finance department will periodically review new vendors to confirm that they have not been "debarred" or "suspended" by the federal government.</text>
+    </section>
+    <section>
+      <num>10.1304</num>
+      <heading>Accounts Payable Vouchers</heading>
+      <text>The deadline for submission of Accounts Payable vouchers is 4:30pm Monday. In order for a check to be issued by 11:00 am Friday, the properly completed voucher must be received by the 4:30 Monday deadline. Vouchers that are received after the submission deadline will not be processed until the following week.</text>
+    </section>
+    <section>
+      <num>10.1305</num>
+      <heading>Improperly Coded Vouchers</heading>
+      <text>Vouchers that are not properly coded and authorized will be returned and will not be processed until properly completed. The properly completed vouchers will be processed in accordance with the processing schedule cited above based on the time when the properly completed voucher is received.</text>
+    </section>
+    <section>
+      <num>10.1306</num>
+      <heading>Supporting Documentation</heading>
+      <text>The finance department will review and approve original supporting documentation for expenditures prior to payment.</text>
+    </section>
+    <section>
+      <num>10.1307</num>
+      <heading>Payments For Purchases</heading>
+      <text>Payments for purchases, and obligations made from grant funds will be made only by check; provided no check will be issued unless there is documentary proof that the service or merchandise has been received and is satisfactory.</text>
+    </section>
+    <section>
+      <num>10.1308</num>
+      <heading>Purpose For Payment</heading>
+      <text>When a check is written, the purpose for the payment will be stated in the related paperwork.</text>
+    </section>
+    <section>
+      <num>10.1309</num>
+      <heading>Check Signers</heading>
+      <text>All checks will be signed by two members of the Tribal Governing Board.</text>
+    </section>
+    <section>
+      <num>10.1310</num>
+      <heading>Recording Of Cash Disbursement Journal</heading>
+      <text>All checks will be recorded in the cash disbursement journal and posted to the general ledger when issued.</text>
+    </section>
+    <section>
+      <num>10.1311</num>
+      <heading>Cash Disbursement Journal</heading>
+      <text>The cash disbursement journal will contain the following information:</text>
+      <para>
+        <num>(1)</num>
+        <text>Check number;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Payee;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Date of check;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Amount of check; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Distribution of the expense accounts affected.</text>
+      </para>
+    </section>
+    <section>
+      <num>10.1312</num>
+      <heading>Proof That The Service Or Merchandise Has Been Received</heading>
+      <text>The bill, invoice, or proof that the service or merchandise has been received will be clearly marked "Paid", and a second copy of the check stapled to it to prevent duplicate payment.</text>
+    </section>
+    <section>
+      <num>10.1313</num>
+      <heading>Paid Bills In A Vendor File</heading>
+      <text>All paid bills will then be filed in a vendor file in alphabetical order for future reference.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>10.14</num>
+    <heading>Credit Cards</heading>
+    <section>
+      <num>10.1401</num>
+      <heading>Credit Cards</heading>
+      <text>Refer to Title XIV, Chapter 3 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Travel Personnel Policies and Procedures for details regarding the Tribe's policies and procedures relating to use of credit cards.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>10.15</num>
+    <heading>Travel</heading>
+    <section>
+      <num>10.1501</num>
+      <heading>Travel</heading>
+      <text>Refer to Title XIV, Chapter 3 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Travel Personnel Policies and Procedures for details regarding the Tribe's policies and procedures for details regarding the Tribe's travel policies and procedures.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>10.16</num>
+    <heading>Payroll</heading>
+    <section>
+      <num>10.1601</num>
+      <heading>Personnel Policy And Procedures Manual</heading>
+      <text>Refer to Title XIV, Chapter 1 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Governmental Personnel Policies and Procedures for more details regarding payroll, benefits, and other employment related issues. The provisions of this Subchapter summarize the payroll process.</text>
+    </section>
+    <section>
+      <num>10.1602</num>
+      <heading>Employment Forms</heading>
+      <text>All new employees must complete the following forms:</text>
+      <para>
+        <num>(1)</num>
+        <text>Personnel Information Sheet (See sample form A-7);</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Notify In Case of Emergency (See sample form A-8);</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Exemption Information (See sample form A-9);</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>I-9 Eligibility to Work Verification (See sample form A-10); and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>All other information, ID's, or forms required by the Tribe.</text>
+      </para>
+    </section>
+    <section>
+      <num>10.1603</num>
+      <heading>Payroll Information</heading>
+      <text>All   supervisors    of    new    employees    must    complete    and    provide    the payroll department with following information:</text>
+      <para>
+        <num>(1)</num>
+        <text>Notice of Appointment (See sample form A-11);</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any information regarding all special agreements or arrangements made with the new employee; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any other information or forms required by the Tribe.</text>
+      </para>
+    </section>
+    <section>
+      <num>10.1604</num>
+      <heading>Personnel Action Notice Form</heading>
+      <text>After obtaining all required approvals, a supervisor must complete and provide the finance department with a Personnel Action Notice Form whenever there is a change in an employee's employment status. Changes in employment status include raises, termination, and changes in fund being charged (See sample form A-14). Personal Action Notice's must be submitted by the due date for timecards for pay period in which the change becomes effective.</text>
+    </section>
+    <section>
+      <num>10.1605</num>
+      <heading>Pay Periods</heading>
+      <text>The normal pay periods for employees will be weekly. The deadline for submission of time cards is Noon Tuesday. In order for a paycheck to be issued by 11:00 am Friday, the properly completed time card must be received by the Noon Tuesday deadline. Completed time cards that are received after the submission deadline will not be processed until the next payroll.</text>
+    </section>
+    <section>
+      <num>10.1606</num>
+      <heading>Time Cards</heading>
+      <text>All time cards must have the hours accurately totaled, must be signed by the employee, and must be signed by the supervisor, or they will be returned and will not be processed until properly completed. The properly completed timecards will be processed in accordance with the processing schedule cited above based on the time when the properly completed time card is received. In order to maintain our current level of operating efficiency it is imperative that these submission deadlines and processing schedules be strictly adhered to.</text>
+    </section>
+    <section>
+      <num>10.1607</num>
+      <heading>End Of Pay Periods</heading>
+      <text>At the end of each pay period the following steps will be performed:</text>
+      <para>
+        <num>(1)</num>
+        <text>Each nonexempt employee will total the hours that have been punched on their time card during the week. After verifying that the hours are correct, the employee must sign the time card (See sample form A-12).</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The employee will then submit their time card to their supervisor for review. After verifying that the hours on the time card are correct, and that it has been signed by the employee, the supervisor must sign the time card.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Time cards must accurately reflect all annual leave, sick leave, holidays, or other absence from work during the pay period.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>All Request for Leave Forms must be turned in with time records (See sample form A-13).</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The finance department will maintain records showing current accrued vacation and sick leave.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Any time cards on which the hours are not accurately totaled, not signed by the employee or the supervisor or which do not otherwise meet the requirements of this Manual will be not be processed; but rather will be returned to the supervisor for proper completion.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Ensure that prior to payment, all payroll calculations will be reviewed by a financial department employee other than the person who prepared the original calculation.</text>
+      </para>
+    </section>
+    <section>
+      <num>10.1608</num>
+      <heading>Finance Department Responsibilities Pertaining To Pay Periods</heading>
+      <text>The finance department will:</text>
+      <para>
+        <num>(1)</num>
+        <text>Update computer files to reflect status changes, garnishments, and other items that affect payroll;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Charge wages to the correct funding sources;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Balance time cards with payroll reports;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Ensure that proper authorization for deductions are on file;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Ensure that all payroll checks are signed when they are printed out on the MICR check printer.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Ensure that payroll reports are printed and filed after processing a payroll.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Ensure that payroll tax deposits and fringe benefit payroll deductions are paid to the appropriate agencies in a timely manner.</text>
+      </para>
+    </section>
+    <section>
+      <num>10.1609</num>
+      <heading>Payroll Advances</heading>
+      <text>There will be no payroll advances and no early check releases shall occur except with approval of the Tribal Governing Board.</text>
+    </section>
+    <section>
+      <num>10.1610</num>
+      <heading>Termination, Resignation, Or Layoff Of An Employee</heading>
+      <text>Upon termination, resignation, or layoff of an employee, the Program Director must verify that the employee has completed all required reports, and turned in all keys, computers, cell phones, and all other property belong to the Tribe that was assigned to the employee during the term of their employment. The Program Director may place a hold on the employee's final pay check pending receipt of those items. An "Authorization to Hold Check" form will be completed and submitted to the Payroll Clerk (See sample form A- 15). The Payroll clerk will then hold the employee's final check until a completed "Authorization to Release Check" form is received from the Program Director (See sample form A-16).</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>10.17</num>
+    <heading>Journal Entries</heading>
+    <section>
+      <num>10.1701</num>
+      <heading>General</heading>
+      <text>Journal entries are made to accounts to record information not posted to the general ledger through the payroll, accounts receivable, or accounts payable systems.</text>
+    </section>
+    <section>
+      <num>10.1702</num>
+      <heading>General Ledger Journal Entry</heading>
+      <text>The finance department will comply with the following when recording a journal entry to the general ledger:</text>
+      <para>
+        <num>(1)</num>
+        <text>A journal voucher form will be utilized for entry of a journal entry into the general ledger (See sample form A-17).</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All necessary documentation will be attached. Where no documents exist, appropriate reference will be sufficient.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>After a journal entry is entered into the system a journal voucher edit list will be printed and reviewed for accuracy.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The journal voucher edit list will be reviewed to verify that it is correct, and upon verification the journal entry will be posted to the general ledger.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>10.18</num>
+    <heading>General Ledger</heading>
+    <section>
+      <num>10.1801</num>
+      <heading>Journal Entries To The General Ledger On A Weekly Basis</heading>
+      <text>The finance department will record and post all information from payroll, cash receipts, cash disbursements, as well as journal entries to the general ledger on a weekly basis.</text>
+    </section>
+    <section>
+      <num>10.1802</num>
+      <heading>Finance Department Responsibilities Each Month</heading>
+      <text>The finance department, after each month, will:</text>
+      <para>
+        <num>(1)</num>
+        <text>Lock down the general ledger for that month, which prevents information from being changed, which is necessary to ensure that the general ledger information coincides with the reports filed by Contracts Department with the funding agencies; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Generate Management Reports, which will be distributed to managers by the 1Oth of each month.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>10.19</num>
+    <heading>Year End Accrurals</heading>
+    <section>
+      <num>10.1901</num>
+      <heading>Finance Department Responsibilities Each Fiscal Year</heading>
+      <text>At the end of each fiscal year, the finance department will:</text>
+      <para>
+        <num>(1)</num>
+        <text>Record expenses into the correct year;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Prorate payroll expenses so that they are charged to the year in which the employee actually worked;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Record invoices for items received or services rendered in the prior fiscal year but paid for in the current fiscal year at year end to ensure that the financial statements reflected the expense in the correct fiscal year; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Record third party revenue to ensure that revenue is recognized in the year when the services were provided.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>10.20</num>
+    <heading>Fixed Assets</heading>
+    <section>
+      <num>10.2001</num>
+      <heading>Purchases</heading>
+      <text>Purchases of fixed assets will be made from funds designated for such purpose in compliance with Title XIV, Chapter 2 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Property and Procurement Policies and Procedures. The finance department will maintain a record on the Property Inventory List by program and location for each fixed asset costing $5000 or more and for all vehicles, computer equipment, and other sensitive "walk-away" assets (See sample form A-18).</text>
+    </section>
+    <section>
+      <num>10.2002</num>
+      <heading>Property Inventory List</heading>
+      <text>The Property Inventory List will include the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Description of the property, new or used;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Date of acquisition;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Location of the property;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Serial number, vehicle identification number, or other identifying number, if applicable;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Acquisition cost or assigned value; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>General condition of the property.</text>
+      </para>
+    </section>
+    <section>
+      <num>10.2003</num>
+      <heading>Equipment Accounts In The General Ledger</heading>
+      <text>The total amount shown on the record should be consistent with the amount shown in the Equipment Accounts in the General Ledger.</text>
+      <para>
+        <num>(1)</num>
+        <text>The finance department will conduct a physical inventory at least one (1) time every two (2) years. The inventory will be reconciled with the subsidiary ledger.</text>
+      </para>
+    </section>
+    <section>
+      <num>10.2004</num>
+      <heading>Finance Department Responsibilities</heading>
+      <text>The finance department will maintain the Property Inventory List; will record acquisitions, disposals, and transfers and will prepare fixed asset financial reports, such as:</text>
+      <para>
+        <num>(1)</num>
+        <text>Schedule of General Fixed Assets;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Schedule of changes in General Fixed Assets; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Proprietary fund schedules of property and equipment.</text>
+      </para>
+    </section>
+    <section>
+      <num>10.2005</num>
+      <heading>Fixed Asset Disposal</heading>
+      <text>No fixed asset shall be disposed of except in compliance with Title XIV, Chapter 2 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Property and Procurement Policies and Procedures. Fixed assets valued at more than $5,000.00, shall not be disposed of without the without the prior approval of the Tribal Governing Board and the additional approval of the funding agency that paid for the asset.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>10.21</num>
+    <heading>Indirect Cost Proposal</heading>
+    <section>
+      <num>10.2101</num>
+      <heading>Indirect Cost Proposal Preparation</heading>
+      <text>The Contracts Office will prepare an Indirect Cost Proposal each year in compliance with federal guidelines including Circular A-87. The Chief Financial Officer will review the Indirect Cost Proposal and submit it to the Tribal Governing Board.</text>
+    </section>
+    <section>
+      <num>10.2102</num>
+      <heading>Indirect Cost Proposal Approval</heading>
+      <text>The Indirect Cost Proposal requires the approval of the Tribal Governing Board prior to mailing to the National Business Center. The final negotiated rate also requires such approval by the Tribal Governing Board before it is signed for acceptance.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>10.22</num>
+    <heading>Matching Funds</heading>
+    <section>
+      <num>10.2201</num>
+      <heading>Matching Funds Required</heading>
+      <text>In cases where matching funds are required, the Program Director will ensure that adequate matching funds are secured and that the matching funds meet all guidelines called for in the award documents.</text>
+    </section>
+    <section>
+      <num>10.2202</num>
+      <heading>Matching Funds Compliance</heading>
+      <text>The Contracts Officer will monitor compliance with all matching requirements.</text>
+    </section>
+    <section>
+      <num>10.2203</num>
+      <heading>Indirect Cost As In-Kind Match</heading>
+      <text>In cases where indirect cost is utilized as in-kind matching funds, the Chief Financial Officer, or designee shall adhere to the following procedure:</text>
+      <para>
+        <num>(1)</num>
+        <text>Once month/end program funds are expended, the indirect cost rate shall be charged against the expenditure less any exclusion (equipment and contracted services);</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The indirect cost is then invoiced to the program for payment;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>For in-kind match. The invoice for indirect cost shall be entered into the system as in-kind (revenue) and as in-kind (expense), along with other monthly in-kind as valued and documented by the Program Director. Documentation shall be submitted on a monthly basis to the Compliance Office for review, and submitted to the General Ledger Specialist for entry into the financial system. One complete, monthly financial reports shall be issued to each Program Director.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>10.23</num>
+    <heading>Eligibility</heading>
+    <section>
+      <num>10.2301</num>
+      <heading>Eligibility Requirements</heading>
+      <text>Many programs and grants require that individuals who receive goods or services meet certain eligibility requirements. Program Directors must document eligibility before providing any goods or services.</text>
+    </section>
+    <section>
+      <num>10.2302</num>
+      <heading>Eligibility Determination</heading>
+      <text>The Executive Director will monitor compliance, but it is not the responsibility of the financial department to determine eligibility.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>10.24</num>
+    <heading>Financial Software</heading>
+    <section>
+      <num>10.2401</num>
+      <heading>Designated Financial Software</heading>
+      <text>It is important for the Tribe to use financial software designed for use by a governmental organization. The Tribe currently uses MOM Software, which is specifically designed for governmental accounting.</text>
+    </section>
+    <section>
+      <num>10.2402</num>
+      <heading>Financial Software Integrity</heading>
+      <text>The financial department and information technology staff shall maintain and ensure the security of written and electronic fiscal records.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>10.25</num>
+    <heading>Loans And Deliquent Debts</heading>
+    <section>
+      <num>10.2501</num>
+      <heading>Loans</heading>
+      <text>All loans made to individuals from the Tribe's discretionary funds require approval by the Tribal Governing Board, and shall be subject to a minimum annual interest rate of ten percent (10%), amortized over the life of the loan.</text>
+    </section>
+    <section>
+      <num>10.2502</num>
+      <heading>Debts</heading>
+      <text>Tribal members and others who owe delinquent debts to the Tribe, or any of its entities, for any amounts will not be eligible for assistance during the period of delinquency, including but not limited to LIHEAP, General Assistance, Childcare, Education, etc.</text>
+    </section>
+    <section>
+      <num>10.2503</num>
+      <heading>Exclusion</heading>
+      <text>This exclusion does not apply to medical benefits allowable under the Indian Health Service, but may apply to certain medical benefits under third party for non-emergent or elective medical or dental services or substance abuse program treatment and services, including the AAIR program.</text>
+      <text class="center">
+        <strong>ADDENDUM TO</strong>
+      </text>
+      <text class="center">
+        <strong>FISCAL POLICIES AND PROCEDURES MANAUAL</strong>
+      </text>
+      <text class="center">
+        <strong>CODE OF CONDUCT</strong>
+      </text>
+      <para>
+        <num>(1)</num>
+        <text>No employee, officer or agent of the Tribe or any sub-grantee will participate in selection or in the award or administration of a contract or grant if a conflict of interest, real or apparent is involved, including without limitation:</text>
+        <para>
+          <num>(a)</num>
+          <text>If the employee, officer or agent, any member of his/ her immediate family; his or her partner; or any organization which employs, or is about to employ, any of the above, has a financial interest in the firm selected for the award; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If a conflict of interest is deemed to exist under applicable law, including without limitation rules and regulations of the awarding agency.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>No employee, officer, or agent of the Tribe, or any sub-grantee or its officers, employees or agents will solicit or accept gratuities, favors or anything of monetary value from contractors, potential contractors, or parties to sub agreements.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any employee, officer or agent of the Tribe who is aware that a conflict of interest may exist is required to immediately and fully disclose the nature of the relationship to the Tribal Governing Board so as a determination can be made as to whether an actual or potential conflict of interest exists and if so, what remedies can be taken to correct the situation.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Any employee, officer or agent of the Tribe who is found to be in violation of this Code of Conduct or any other provision of this Manual is subject to disciplinary action, up to and including termination of their employment and possible civil or criminal penalties.</text>
+      </para>
+    </section>
+  </container>
+</container>

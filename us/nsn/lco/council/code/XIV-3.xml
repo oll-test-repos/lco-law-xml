@@ -1,0 +1,735 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Lac Courte Oreilles Tribal Code of Law">
+  <prefix>Chapter</prefix>
+  <num>XIV-3</num>
+  <heading>Travel Policies And Procedures Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
+  <text>Preamble</text>
+  <text>This travel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, Article V, § 1(j) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to "make expenditures from available funds for public purposes, including salaries or other remuneration of Band officials, employees or members." This travel policy and procedural manual, outlines the general policies, rules and practices and is intended to be a helpful reference. The Tribal Governing Board acting in its sovereign capacity may in its sole discretion amend this travel policy and procedural manual from time to time.</text>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>3.1</num>
+    <heading>General Provisions</heading>
+    <section>
+      <num>3.101</num>
+      <heading>Title</heading>
+      <text>This travel policies and procedures manual shall be known as the Travel Policies and Procedures of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+    </section>
+    <section>
+      <num>3.102</num>
+      <heading>Authority</heading>
+      <text>This travel policy and procedure manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, Article V, § 1(j) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to "make expenditures from available funds for public purposes, including salaries or other remuneration of Band officials, employees or members.."</text>
+    </section>
+    <section>
+      <num>3.103</num>
+      <heading>Purpose</heading>
+      <text>It is the purpose of this travel policy and procedural manual to provide the general policies, rules and practices governing travel by all employees of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in the performance of their official job duties on behalf of the Tribe. This travel policy and procedural manual is intended to be a helpful reference to employees when traveling on official tribal business. The Tribal Governing Board acting in its sovereign capacity may in its sole discretion amend this travel policy and procedural manual from time to time.</text>
+    </section>
+    <section>
+      <num>3.104</num>
+      <heading>Application</heading>
+      <text>This travel policy and procedural manual shall govern travel by all employees while on official tribal business.</text>
+    </section>
+    <section>
+      <num>3.105</num>
+      <heading>Effective Date</heading>
+      <text>Except as otherwise provided in specific sections, the provisions of this travel policy and procedural manual shall be effective on the date adopted by the Tribal Governing Board.</text>
+    </section>
+    <section>
+      <num>3.106</num>
+      <heading>Interpretation</heading>
+      <text>The provisions of this travel policy and procedural manual:</text>
+      <para>
+        <num>(1)</num>
+        <text>Shall be interpreted and applied as minimum requirements applicable to all employee travel conducted while on official tribal business;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Shall be liberally construed in favor of the Tribe;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Shall not be deemed a limitation or repeal of any other tribal power or authority.</text>
+      </para>
+    </section>
+    <section>
+      <num>3.107</num>
+      <heading>Severability And Non-Liability</heading>
+      <text>If any section, provision or portion of this travel policy and procedural manual is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this travel policy and procedural manual.</text>
+    </section>
+    <section>
+      <num>3.108</num>
+      <heading>Cost Control And Consistency With Good Business Practices</heading>
+      <text>All tribal entities involved in preparing, authorizing and processing travel requests shall exercise sound business judgment in preparing and authorizing travel requests. Travel shall be via the lowest reasonable cost alternative to minimize expense. In incurring travel expenses, all employees shall be as conservative as possible consistent with sound business/ cost control practices. The Travel/Purchase Clerk may assume that, if a practice or policy or procedure is in the best interests of the Tribe and is not addressed in this ordinance, nor prohibited by tribal law, federal law, or other directive including this travel policy and procedure manual, the practice, policy or procedure may be a permissible exercise of authority. The Travel/Purchase Clerk is advised to seek advice from the Executive Director or Tribal Governing Board liaison whenever doubts arise about an intended practice, policy or procedure. In circumstance where a conflict of interest may exist between the Executive Director and an employee, then the Travel/Purchase Clerk shall seek advice directly from the Tribal Governing Board liaison.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>3.2</num>
+    <heading>Definitions</heading>
+    <section>
+      <num>3.201</num>
+      <heading>General Definitions</heading>
+      <text>Any term not defined in this Section shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+      <para>
+        <num>(1)</num>
+        <text><strong>"Business Travel"</strong> means employee travel conducted in the performance of their official job duties on behalf of the Tribe.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text><strong>"Per Diem"</strong> is a daily payment instead of reimbursement for actual expenses for lodging (excluding taxes), meals, and related incidental expenses. Rate is specified by the U.S. General Services Administration (GSA).</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text><strong>"Reduced Per Diem"</strong> is a reduced per diem rate when there are known reductions in lodging and meal costs or when your subsistence costs can be determined in advance and are lower than the prescribed per diem rate.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text><strong>"Privately Owned Vehicle" or "POV"</strong> means any vehicle such as an automobile or motorcycle operated by an individual that is not owned or leased by the Tribe, and is not commercially leased or rented by an employee under a Tribal rental agreement for use in connection with official Tribal business.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text><strong>"Furnished meal"</strong> means a meal provided to an employee, either directly from the Tribe or as a result of the Tribe paying a registration fee or other cost which allows the employee to attend a conference or other event. If the Tribe has already paid for a meal, the employee/travel requester must not count the meal as quarter within the subsistence section of the travel advance request form.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text><strong>"Travel Advance Request Form" </strong>means the form that outlines the request for travel.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text><strong>"Conference"</strong> means a meeting, retreat, seminar, symposium or event that involves employee travel.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text><strong>"Accompanied baggage"</strong> means Tribal property and personal property of the traveler necessary for official travel.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text><strong>"Tribal Vehicle"</strong> means any automobile that is owned by the Tribe.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text><strong>"Tribal Governing Board" or "TGB"</strong> means the Tribal Governing Board as established by the Lac Courte Oreilles Constitution and Bylaws dated November 2, 1966.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text><strong>"Tribe"</strong> means the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>3.3</num>
+    <heading>Travel Authorization</heading>
+    <section>
+      <num>3.301</num>
+      <heading>Approval Authority</heading>
+      <text>Tribal Governing Board, the Executive Director and Program/Department Directors shall have the authority to approve or deny any business travel. Employees shall not approve the reimbursement or advance of their own travel related expenses.</text>
+    </section>
+    <section>
+      <num>3.302</num>
+      <heading>Authorization</heading>
+      <text>Generally a written or electronic authorization is required prior to employee incurring any travel expenses. If it is not practicable or possible to obtain such authorization prior to travel, the Tribal Governing Board, the Executive Director or Program/Department Director may approve a specific authorization for reimbursement of travel expenses after travel is complete.</text>
+    </section>
+    <section>
+      <num>3.303</num>
+      <heading>Reimbursement Or Advance</heading>
+      <para>
+        <num>(1)</num>
+        <text>The Tribe may reimburse travel expenses, documented through receipt; provided the expense is consistent with all provisions of this Travel Policy and Procedural Manual, including without limitation § 3.108 and § 3.303 (2).</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Alternatively, the Tribe may provide the employees with travel advances, which constitute a reasonable projection of travel expenses. All travel advances shall be subject to the provisions of this manual, including without limitation § 3.108 and § 3.303 (2).</text>
+      </para>
+    </section>
+    <section>
+      <num>3.304</num>
+      <heading>Travel Advance Request</heading>
+      <para>
+        <num>(1)</num>
+        <text>Employee shall not be eligible to receive a travel advance, if they have failed to timely submit a prior travel pack to the Travel Clerk for reconciliation.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Employee or a designated program/department employee shall submit the Travel Advance Request Form, and all required supporting documentation, to their immediate supervisor. The immediate supervisor shall ensure that the Travel Advance Request Form is complete and that all required supporting documentation is attached and shall forward to Grant Accountant. Grant Accountant shall forward approved Travel Advance Request Form to the Travel Clerk.</text>
+        <para>
+          <num>(a)</num>
+          <text>Travel advance requests that involve air travel shall be submitted at least twenty one (21) days prior to departure whenever possible to ensure a reduced rate.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Travel advance requests that do not involve air travel shall be submitted at least fifteen (15) days prior to travel.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Employee may choose to make a reservation for lodging consistent with          § 3.108 and § 3.603 before completion and/or submission of the travel advance request to ensure availability. Employee or designated employee shall include reservation documentation in the travel advance request.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Program/Department Director shall ensure employees authorized for travel are in compliance with this Travel Policy and Procedural Manual prior to authorizing business travel.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Decision to approve or deny the travel shall be based, as applicable, upon a consideration of the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>Whether it is necessary for the employee to perform official duties on behalf of the Tribe;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Whether it will increase the employee's understanding or ability to perform official duties on behalf of the Tribe;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Whether it will unreasonably interfere with or delay completion of assigned duties;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Whether the cost is covered by the applicable operating budget;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Whether the travel advance request is consistent with § 3.108, including regarding modes of transportation, whether it is less expensive than an alternative mode or necessarily saves time;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Any other appropriate factor deemed relevant.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>3.305</num>
+      <heading>Travel Pack</heading>
+      <para>
+        <num>(1)</num>
+        <text>Travel Clerk will prepare a travel pack for employee with instructions. Travel Clerk will issue a check advancing 80% of the amount determined to be the advance amount.</text>
+        <para>
+          <num>(a)</num>
+          <text>Upon the request of an employee, the Travel Clerk can advance 100% of the projected cost of lodging when circumstances necessitate.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Upon return, employees shall complete and submit travel pack with required documentation and receipts to the Travel Clerk within ten (10) business days.</text>
+        <para>
+          <num>(a)</num>
+          <text>It is the employee's responsibility to submit receipts. Travel Clerk is not responsible for obtaining receipts for the employee. Employees shall not be credited for claimed travel expenses which are not documented by receipt.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If employee was advanced for a travel expense (i.e., lodging) for which the Tribe paid separately, employee may include a check for the travel expense with the travel pack.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Employees are required to prepare a synopsis of the meeting, workshop, seminar, conference, etc. to evaluate the benefit of attendance.</text>
+        </para>
+      </para>
+      <para>
+        <num>(1)</num>
+        <text>As a courtesy, Travel Clerk will send employee an outstanding travel pack notice letter if the travel pack has not been received within ten (10) business days. The notice shall inform the employee that travel pack must be turned in within five (5) business days from the date of the notice and failure may result in the commencement of an automatic payroll deduction for the full amount that was advanced or at the discretion of the Travel Clerk an amount that ensures the Tribe will be reimbursed the advance within a reasonable amount of time.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Travel Clerk will reconcile the travel pack and issue a check for the remaining 20% of the amount determined to be the advance amount adjusting the advance amount as appropriate.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If travel pack reconciliation results in a credit, the Tribe will issue a check to the employee within ten (10) business days.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If travel pack reconciliation results in a deficit, Travel Clerk will send employee a reconciled travel pack notice. The reconciled travel pack notice will indicate the amount that is owed by employee to the Tribe. Employee will have five (5) business days from the date of the notice to pay the full amount or contact the Travel Clerk to make reasonable payment arrangements.</text>
+        <para>
+          <num>(a)</num>
+          <text>If Employee fails to pay the amount owed or make reasonable payment arrangements within five (5) business days, the Tribe will deduct the full amount from the employee's next payroll check or at the discretion of the Travel Clerk at an amount that ensures the Tribe will be reimbursed within a reasonable amount of time.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Employee may choose to pay the amount owed to the Tribe by check in lieu of having the amount owed deducted from the employee's payroll check. If the check is returned more than twice, the Travel Clerk may deduct the amount owed from the employee's next payroll check.</text>
+        </para>
+      </para>
+      <para>
+        <num>(1)</num>
+        <text>If an employee resigns or is terminated and has an outstanding travel pack, the amount of the travel advance will be deducted from their final paycheck and held until the travel pack is received and reconciled.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>3.4</num>
+    <heading>Transportation Expenses</heading>
+    <section>
+      <num>3.401</num>
+      <heading>Airline Travel</heading>
+      <text>Employees are required to exercise the same care in incurring expenses that a prudent person would exercise if traveling on personal business when making official travel arrangements, and therefore, should consider the least expensive class of travel that meets their needs.</text>
+      <para>
+        <num>(1)</num>
+        <text>Coach-class shall be used while on business travel consistent with § 3.108.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Coach-class Seating Upgrades are not considered a new or higher class of accommodation since seating is still in the coach cabin. However, the use of these upgraded/preferred coach seating options is generally a traveler's personal choice and therefore is generally deemed to be at the traveler's personal expense. The supervisor of the traveler may in a permissible exercise of authority authorize and reimburse the additional seat choice fee in reasonable circumstances.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>First-class and Business-Class may be used only when specifically authorized/approved if the following applies:</text>
+        <para>
+          <num>(a)</num>
+          <text>No coach-class accommodations are reasonably available. "Reasonably available" means available on an airline that is scheduled to leave within 24 hours of your proposed departure time, or scheduled to arrive within 24 hours of your proposed arrival time;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>When use of other than coach-class is necessary to accommodate a medical disability or other special need;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Where the scheduled flight time, including stopovers and change of planes, is in excess of 14 hours;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The use results in an overall cost savings to Tribe by avoiding additional subsistence costs, overtime, or lost productive time while awaiting coach-class accommodations.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Medical conditions may require consideration for the employee who is directed to travel.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Frequent Flyer Miles:</text>
+          <para>
+            <num>(i)</num>
+            <text>Employees shall retain all benefits from frequent flyer mile programs.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Compensation from Airline for voluntarily vacating seat and rescheduling:</text>
+          <para>
+            <num>(i)</num>
+            <text>Employees may retain compensation provided by an airline for voluntarily vacating their seat and rescheduling to a later flight as long as it does not interfere with performing their official duties.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Additional expenses incurred as a result of voluntarily vacating seat and rescheduling will not be reimbursed by the Tribe.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>If voluntarily vacating seat and rescheduling delays your travel during work hours, the Tribe will charge you for annual leave for the additional hours.</text>
+          </para>
+        </para>
+        <para>
+          <num>(a)</num>
+          <text>Luggage:</text>
+          <para>
+            <num>(b)</num>
+            <text>The Tribe will advance or reimburse for luggage fees, and similar expenses, documented through receipt; provided expense is consistent with § 3.108.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Employees shall pack luggage to avoid overweight luggage fees and multiple and excess luggage fees.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Consistent with § 3.108, the Tribe will generally only advance or reimburse for one checked bag if travel is for a duration that is less than one week. Tribe may advance or reimburse for more than one checked bag if approved by Program/Department Director.</text>
+          </para>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>3.402</num>
+      <heading>Tribal Vehicle</heading>
+      <para>
+        <num>(1)</num>
+        <text>Tribal vehicles shall be used only for approved business travel.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Employees who seek to use a tribal vehicle shall obtain the prior written authorization pursuant to Subchapter 3.3.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Employees must be compliant with the vehicle driver certification policy.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Generally, employees with certain moving violations and other infractions or crimes may be denied insurance coverage and therefore approval.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Tribal vehicles shall be driven on the most direct available route to and from the intended approved business travel destination. Employees shall not detour for personal use or reasons.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Employees shall not permit any other person, except another authorized employee, to operate a tribal vehicle.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Employees shall not operate a tribal vehicle while having any blood alcohol content or while under the influence of any illegal drug, chemical or non-prescribed prescription drug.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Employees shall not possess or transport in a tribal vehicle any alcoholic beverage, illegal drug, chemical or non-prescribed prescription drug.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Employees shall not abuse, misuse or operate contrary to law a tribal vehicle. If a tribal vehicle is damaged through an intentional or reckless act of an employee or while operating contrary to law, the employee may be charged the cost of any insurance deductible and other related costs.</text>
+      </para>
+    </section>
+    <section>
+      <num>3.403</num>
+      <heading>Privately Owned Vehicle (Pov)</heading>
+      <para>
+        <num>(1)</num>
+        <text>Employees who use a POV for business travel must have in effect at all times, and provide the Human Resource Department with, a valid driver's license and proof of current comprehensive automobile insurance, including liability insurance and coverage limits satisfactory to the Tribe, on January 1<sup>st</sup> and July 1<sup>st</sup> of each year, and upon request.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Employees shall only be authorized to use a POV for business travel if the employee has complied with § 3.403 (1) and the business travel is consistent with § 3.108 and § 3.303 (2). If not, employee is not authorized to engage in business travel for the Tribe in a POV. It is the responsibility of each employee to confirm whether he or she is authorized to use a POV by contacting the HR department.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Employees must obtain prior approval consistent with § 3.301 and § 3.302 to utilize a POV when a commercial carrier is more cost effective. If approved, the advance amount will factor in the totality of the circumstances. (e.g., airline ticket to Chicago, IL is $250.00, parking is $50.00 and baggage fee is $25.00 and mileage to Chicago, IL would be $500.00 the advance amount consistent with § 3.108 would be $325.00).</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Mileage Reimbursement:</text>
+        <para>
+          <num>(a)</num>
+          <text>In accordance with § 3.108, if more than one employee is traveling to the same destination for business; employees shall make accommodations and arrangements to ride share. Requests to drive separately must be approved by the Program/Department Director.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If more than one employee is traveling together in one POV, mileage will be paid to the driver of the POV.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Mileage will be reimbursed for travel to and from restaurants while on business travel.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>If mileage exceeds the amount that was advanced in the travel pack, Employee must submit with the travel pack an explanation and it must be approved by the Program/Department Director.</text>
+        </para>
+      </para>
+      <para>
+        <num>(1)</num>
+        <text>Employees assume responsibility for all parking and traffic fines and physical damage to vehicle. The Tribe shall not be responsible for any such damages, fines, costs or expenses.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any expenses incurred during the use of POV (ex: repairs, etc.) are ineligible for reimbursement.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Employees, with the exception of law enforcement, fire and emergency response personnel, shall not talk, text message, or email while operating a POV on business travel, and shall not perform any other work during such time. If an urgent matter arises, employee shall park the vehicle in a safe location, and then may address the work related matter.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>TGB members are eligible to receive mileage reimbursement, without prior approval, when attending board meetings or while conducting official tribal business.</text>
+      </para>
+    </section>
+    <section>
+      <num>3.404</num>
+      <heading>Rental Vehicle</heading>
+      <para>
+        <num>(1)</num>
+        <text>Rental vehicles may be approved in accordance with § 3.108 when more than one employee is traveling together and when lodging was not available at the time of making reservations at the conference/training/meeting location and it is more cost effective to rent a vehicle than pay for transportation that would be incurred for each employee without a rental vehicle. Rental vehicles may also be approved when the Program/Department Director believes a rental vehicle is necessary.</text>
+        <para>
+          <num>(a)</num>
+          <text>The Tribe will reimburse for fuel costs if documented through receipt.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>When an employee as a matter of personal preference (rental car not consistent with § 3.108 and not approved by Program/Department Director) decides to use a rental vehicle, the employee is expected to make arrangements and assume all risk, liability, and costs associated with the rental care. Upon approval by Program/Department Director, Tribe will reimburse an amount that does not exceed what it would have cost for transportation (taxi, bus, super shuttle, etc.). Employee shall submit a copy of the receipt to the travel clerk to verify the rental car.</text>
+      </para>
+    </section>
+    <section>
+      <num>3.405</num>
+      <heading>Tolls And Parking</heading>
+      <para>
+        <num>(1)</num>
+        <text>The Tribe will advance or reimburse road, bridge, and tunnel tolls and parking fees and similar expenses, documented through receipt; provided the expense is consistent with  § 3.108.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Consistent with § 3.108, employees are encouraged to reduce airport parking fees by making reservations at off-site parking.</text>
+      </para>
+    </section>
+    <section>
+      <num>3.406</num>
+      <heading>Taxi, Bus And Shuttle</heading>
+      <para>
+        <num>(1)</num>
+        <text>The Tribe will advance or reimburse for taxi, bus and shuttle service and similar expenses, documented through receipt; provided the expense is consistent with § 3.108.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Consistent with § 3.108, employees shall use the least expensive alternative among taxi, bus and shuttle service. Therefore, taxi service is permitted only when a bus or shuttle is not available or when delay warrants taxi service.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>3.5</num>
+    <heading>Per Diem</heading>
+    <section>
+      <num>3.501</num>
+      <heading>General Per Diem Rules</heading>
+      <text>Generally per diem is allowed when travel is for more than 12 hours. However, this can be waived by Tribal Governing Board, the Executive Director or Program/Department Directors upon consideration of the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Whether employee is attending a multiple day conference and mileage to and from would be more expensive for the Tribe than providing per diem;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Whether not allowing per diem will unreasonably interfere with or delay completion of assigned duties of employee;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Whether approval of per diem is consistent with § 3.108 of this manual;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Any other appropriate factor deemed relevant by the Director.</text>
+      </para>
+    </section>
+    <section>
+      <num>3.502</num>
+      <heading>Meals</heading>
+      <para>
+        <num>(1)</num>
+        <text>Tribe will advance or reimburse for meals at the federal per diem rate. The rate includes taxes and tips, so employees will not be reimbursed separately for those items.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If meals are provided at the conference/training or meeting, the per diem rate shall be adjusted accordingly in the travel advance request.</text>
+        <para>
+          <num>(a)</num>
+          <text>The Tribe may advance or reimburse when meals are provided if:</text>
+          <para>
+            <num>(i)</num>
+            <text>You are unable to consume the furnished meal(s) because of medical requirements or religious beliefs.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>You were unable to take part in the furnished meal due to the conduct of official business.</text>
+          </para>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>3.503</num>
+      <heading>Lodging</heading>
+      <para>
+        <num>(1)</num>
+        <text>Lodging shall be selected based upon comfort, convenience, and cost. Employees are free to select lodging based upon these considerations; provided the Tribe will not reimburse for more than the federal per diem rate, unless approved pursuant to Subchapter 3.3 of this manual.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Employees who lodge with other individuals (family members, etc.) while on business travel shall be solely responsible for all resulting additional costs, including those based upon increased room occupancy.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Tribe will advance or reimburse, documented through receipt; provided lodging expenses are consistent with § 3.108 of this manual.</text>
+      </para>
+    </section>
+    <section>
+      <num>3.504</num>
+      <heading>Reimbursement</heading>
+      <para>
+        <num>(1)</num>
+        <text>Meals and incidentals (M&amp;IE) rate will be applied in quarters as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>Departure Date – 3 quarters</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Return Date – 3 quarters</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Full Day – 4 quarters</text>
+        </para>
+      </para>
+      <para>
+        <num>(1)</num>
+        <text>Per diem shall be reduced in accordance with § 3.108 and § 3.502 (2) of this manual when meals are furnished at the conference/training/meeting.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>3.6</num>
+    <heading>Miscelleanous</heading>
+    <section>
+      <num>3.601</num>
+      <heading>Unusual Circumstances</heading>
+      <para>
+        <num>(1)</num>
+        <text>Reimbursement of travel expenses incurred based on unusual circumstances must be reviewed and approved by Program/Department Director.</text>
+      </para>
+    </section>
+    <section>
+      <num>3.602</num>
+      <heading>Travel Outside Of Normal Work Hours</heading>
+      <para>
+        <num>(1)</num>
+        <text>Overtime is not allowed in conjunction with travel. Employees will be compensated their regularly scheduled hours at their regularly scheduled rate while in travel status. Actual time spent attending a conference or traveling on the weekend will be paid when it occurs during the employees regularly scheduled hours for a weekday (between 8 AM and 5 PM for most employees). Nonexempt employees will be allowed to work a flexible schedule to avoid exceeding 40 hours in a payroll week (Sunday through Saturday) when travel will be taking place on the weekend.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>When it is not possible to avoid exceeding 40 hours in a payroll week due to travel, time above 40 hours will be considered compensatory time. Employee shall make arrangements with Program/Department Director to use compensatory time within a reasonable time frame.</text>
+      </para>
+    </section>
+    <section>
+      <num>3.603</num>
+      <heading>Tribal Credit Cards</heading>
+      <para>
+        <num>(1)</num>
+        <text>Use of Tribally issued cards shall be for official business only. All receipts for use of the credit cards must be retained and submitted to the fiscal department at the conclusion of each trip or use.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Each holder of a Tribally issued credit card will sign a statement agreeing to the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>That the card shall not be used for personal items under any circumstances, and that misuse of the card is grounds for disciplinary action up to and including termination.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any undocumented/unapproved purchase will be deducted from the cardholder's payroll check; three (3) days notice will be given of such a deduction; if receipts are submitted, this amount can be reimbursed.</text>
+        </para>
+      </para>
+      <para>
+        <num>(1)</num>
+        <text>When utilizing a Tribally issued credit card for travel costs, only approved expenses in accordance with § 3.108  may be charged to the card. Ineligible expenses may not be charged to the card, such expenses must be paid for separately (ex: room service, in room movies, tips, etc.).</text>
+      </para>
+    </section>
+    <section>
+      <num>3.604</num>
+      <heading>Ineligible Travel Expenses</heading>
+      <para>
+        <num>(1)</num>
+        <text>Common carrier transportation in excess of coach fare.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any lodging expense in excess of single occupancy, conference/government room rate.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any vehicle rental fee in excess of the standard rate (ex: GPS units, car seats, etc.).</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Additional insurance elected on a vehicle rental (this is not required as all rental vehicles are covered by the Tribe's insurance policy when rented by employees for official business).</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Additional airfare costs incurred due to personal preference in dates of travel (ex; if traveler will be staying additional days on personal time).</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Any costs incurred for entertainment (ex; in room movies, etc.).</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Tips of any kind.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>3.7</num>
+    <heading>Conferences And Trainings</heading>
+    <section>
+      <num>3.701</num>
+      <heading>Approval</heading>
+      <para>
+        <num>(1)</num>
+        <text>Employees shall obtain approval pursuant to Subchapter 3.3 to attend a conference, training, seminar, etc.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Information regarding the conference, training, seminar, etc. shall be attached to the Travel Advance Request form.</text>
+      </para>
+    </section>
+    <section>
+      <num>3.702</num>
+      <heading>Attendance</heading>
+      <para>
+        <num>(1)</num>
+        <text>Employees shall attend the entire conference or training and obtain all materials. Employees who fail to attend the entire conference or training may not be reimbursed or receive full credit during reconciliation for amounts received through travel advance.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>3.8</num>
+    <heading>Cancellation/Changes</heading>
+    <section>
+      <num>3.801</num>
+      <heading>General Rules</heading>
+      <para>
+        <num>(1)</num>
+        <text>Travel Clerk must be notified within 48 hours of cancellation if all possible to allow for the proper cancellation of lodging, airfare, etc.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If a travel advance has been prepared and disbursed for the business travel, employee must repay the travel advance in full within five (5) business days.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>In the event that adequate notice is not given and a "no-show" charge is incurred, it will be the employee's responsibility to cover the charge, unless it is due to unusual circumstances approved by the Program/Department Director. Payments for such charges will be due within five (5) business days.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>All costs incurred for non-business related change fees (airfare changes, early/late hotel checkouts, etc.) must be paid by the employee.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>3.9</num>
+    <heading>Employee Conduct</heading>
+    <section>
+      <num>3.901</num>
+      <heading>Expectations</heading>
+      <para>
+        <num>(1)</num>
+        <text>When in official travel status, the employee will conduct himself/herself in a professional manner. The employee must be aware that he/she is a representative of the Tribe and act accordingly.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>When attending training, attendance is required for the full course. If the employee becomes ill and cannot attend a day of training or complete the course, he/she must contact Program/Department Director as soon as possible.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>3.10</num>
+    <heading>Abuse Of Policy</heading>
+    <section>
+      <num>3.101</num>
+      <heading>Allegations</heading>
+      <para>
+        <num>(1)</num>
+        <text>Any allegations of abuse of the provisions of this policy will be investigated to the fullest extent possible.</text>
+      </para>
+    </section>
+    <section>
+      <num>3.102</num>
+      <heading>Violation Or Repeated Violations</heading>
+      <para>
+        <num>(1)</num>
+        <text>Violation may result in a suspension of travel privileges and disciplinary action in accordance with Tribal personnel policies and procedures.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Violations shall be subject to the 14 LCOTCL § 1.202 of the Tribal Government Personnel Manual, titled "Grounds for Disciplinary Action;" the procedures under that section will be followed regarding any violations under this manual. All violations are subject to discipline up to and including termination. The tribe reserves the right to pursue recovery for any funds deemed to be used in violation under this manual by current and former employees, including criminal and civil remedies.</text>
+      </para>
+    </section>
+  </container>
+</container>

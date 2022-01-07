@@ -1,0 +1,526 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Lac Courte Oreilles Tribal Code of Law">
+  <prefix>Chapter</prefix>
+  <num>VII-4</num>
+  <heading>Elders And Vulnerable Adults Protection Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
+  <text>Preamble</text>
+  <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to promote the traditional value of respect for tribal elders and vulnerable adults which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, § 1(s) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and providing for the maintenance of law and order and the administration of justice …" It is the purpose of this ordinance to protect elders and vulnerable adults within the jurisdiction of the Lac Courte Oreilles Tribe from abuse and neglect as defined in this ordinance.  This ordinance provides for: (a) reporting abuse or neglect to the proper agency; (b) receiving reports of and investigating suspected abuse or neglect; and (c) delivering elder protection services.</text>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>4.1</num>
+    <heading>Introduction</heading>
+    <section>
+      <num>4.101</num>
+      <heading>Title</heading>
+      <text>This ordinance shall be known as the Elders and Vulnerable Adults Protection Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians (hereinafter "Tribe").</text>
+    </section>
+    <section>
+      <num>4.102</num>
+      <heading>Authority</heading>
+      <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, Article V, § 1(s) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and providing for the maintenance of law and order and the administration of justice …"</text>
+    </section>
+    <section>
+      <num>4.103</num>
+      <heading>Policy</heading>
+      <text>It is the policy of the Lac Courte Oreilles Tribe to promote the traditional value of respect for tribal elders and vulnerable adults.  Elders, in particular, are valuable resources to the Tribe because they are repositories and custodians of tribal history, culture, and tradition and they are the best hope of the Tribe to pass on the tribal history, culture, and tradition to the children of the Tribe.  Elders also have valuable skills and knowledge as a result of their life experiences that, when shared, can offer important insights to younger generations and contribute to a healthy future for the Tribe.  Thus, it is in the best interest of and serves the welfare of the Tribe to protect tribal elders.</text>
+    </section>
+    <section>
+      <num>4.104</num>
+      <heading>Purpose</heading>
+      <text>It is the purpose of this ordinance to protect elders and vulnerable adults within the jurisdiction of the Lac Courte Oreilles Tribe from abuse and neglect as defined in this ordinance.  This ordinance provides for:</text>
+      <para>
+        <num>(1)</num>
+        <text>Reporting abuse or neglect to the proper agency;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Receiving reports of and investigating suspected abuse or neglect; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Delivering elder protection services.</text>
+      </para>
+    </section>
+    <section>
+      <num>4.105</num>
+      <heading>Effective Date</heading>
+      <text>Except as otherwise provided in specific sections, the provisions of this ordinance shall be effective on the date adopted by the Tribal Governing Board.</text>
+    </section>
+    <section>
+      <num>4.106</num>
+      <heading>Interpretation</heading>
+      <text>The provisions of this ordinance:</text>
+      <para>
+        <num>(1)</num>
+        <text>Shall be interpreted and applied as minimum requirements applicable to the promotion of the traditional value of respect for tribal elders and vulnerable adults subject to this ordinance;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Shall be liberally construed in favor of the Tribe;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Shall not be deemed a limitation or repeal of any other tribal power or authority.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Does not waive the sovereign immunity of the Tribe in any respect.</text>
+      </para>
+    </section>
+    <section>
+      <num>4.107</num>
+      <heading>Severability And Non-Liability</heading>
+      <text>If any section, provision or portion of this ordinance is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this ordinance.</text>
+    </section>
+    <section>
+      <num>4.108</num>
+      <heading>Repeal Of Inconsistent Tribal Ordinances</heading>
+      <text>All ordinances and resolutions inconsistent with this ordinance are hereby repealed. To the extent that this ordinance imposes greater restrictions than those contained in any other tribal law, code, ordinance or regulation, the provisions of this ordinance shall govern.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Subchapter</prefix>
+    <num>4.2</num>
+    <heading>Definitions</heading>
+    <section>
+      <num>4.201</num>
+      <heading>General Definitions</heading>
+      <text>Any term not defined in this Section shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+      <para>
+        <num>(1)</num>
+        <text><strong>"Abuse"</strong> means:</text>
+        <para>
+          <num>(a)</num>
+          <text>Intentional or negligent infliction of bodily injury, unreasonable confinement, intimidation, or cruel punishment of an elder or vulnerable adult with resulting physical harm, pain or mental anguish by any person, including anyone who has a special relationship with the elder or vulnerable adult such as a spouse, a child, or other relative recognized by tribal custom, or a caretaker;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Sexual abuse which includes any physical contact with an elder or vulnerable adult intended for sexual gratification of the person making such contact and which is not consented to by the elder or vulnerable adult and for which the consent is obtained by intimidation or fraud. Sexual abuse also includes marital rape, attacks on sexual parts of the body, forcing sex after physical violence has occurred, or treating one in a sexually demeaning manner.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Emotional abuse which includes intentional infliction of threats, humiliation or intimidation, undermining an individual's sense of self-worth and/or self-esteem constant criticism, diminishing one's abilities, name-calling, or damaging one's relationship with his or her children or grandchildren;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Physical abuse which includes hitting, slapping, shoving, grabbing, pinching, biting, hair pulling, denying medical care or forcing alcohol and/or drug use;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Exploitation which is the unauthorized or improper use of funds, property, or other resources of an elder or vulnerable adult; or the unauthorized or improper use of the elder or vulnerable adult by a caretaker or by any other person, for personal gain or profit; or the failure to use the funds, property, or other resources of an elder or vulnerable adult to their benefit or according to their desires; or withholding an elder or vulnerable adult's access to money;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Intentional threat or infliction of harm to the pets of elders and vulnerable adults; and</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Self neglect resulting in impairment of health or quality of life, including the failure to attend to medical and dietary needs, make housing payments, etc; and</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Neglect which is the failure of a caretaker to provide for the basic needs of an elder or vulnerable adult by not supplying resources, services, or supervision necessary to maintain minimum physical and mental health and includes the inability of an elder or vulnerable adult to supply such basic needs for him/herself.  Neglect is also interfering with delivery of necessary services and resources, failing to report abuse or neglect of an elder or vulnerable adult by any person, and failing to provide services or resources essential to the elder's or vulnerable adult's practice of his/her customs, traditions, or religion.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text><strong>"Caretaker"</strong> means:</text>
+        <para>
+          <num>(a)</num>
+          <text>A person who is required by tribal law and custom to provide services or resources to an elder or vulnerable adult, including a guardian ad litem;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A person who has voluntarily undertaken to provide care or resources to an elder or vulnerable adult;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>An institution or agency which voluntarily provides or is required by tribal law and custom and/or state law and/or federal law, to provide services or resources to an elder or vulnerable adult, including the duty to follow-up on placements, and any such institution or agency which receives anything of value in return for providing services or resources; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>An employee of any institution or agency specified in § 4.201 (2) (c) of this ordinance.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text><strong>"Elder"</strong> means a person subject to the jurisdiction of the Tribe who is at least 62 years of age.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text><strong>"Vulnerable Adult"</strong> means any person, aged 18 or over, who is in need of community services due to illness or intellectual or physical disability; and who is unable to take care of him/herself or unable to protect him/herself against significant harm or exploitation.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text><strong>"Emergency"</strong> means a situation in which an elder or vulnerable adult is immediately at risk of death or injury and is unable to consent to services which would remove the risk.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text><strong>"Family"</strong> means a group of people affiliated by tribal law and custom.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text><strong>"Good Faith"</strong> means an honest belief or purpose and the lack of intent to defraud.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text><strong>"Incapacity" </strong>means the current functional inability of a person to sufficiently understand, make, and communicate responsible decisions about him/herself as a result of mental illness, mental deficiency, physical illness or disability, or chronic use of drugs or alcohol, and to understand the consequences of any such decision.  Incapacity may vary in degree and duration and shall not be determined solely on the basis of age.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text><strong>"Least Restrictive Alternative"</strong> means an approach which allows an elder or vulnerable adult independence and freedom from intrusion consistent with the needs of the elder or vulnerable adult by requiring that the least drastic method of intervention be used when intervention is necessary to protect the elder or vulnerable adult from harm.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text><strong>"Protective Placement"</strong> means the placement of an elder or vulnerable adult in a hospital, nursing home, residential care facility, or transfer of the elder or vulnerable adult from one such institution to another with the their consent or appropriate legal authority.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text><strong>"Protective Services" </strong>means the services provided to an elder or vulnerable adult with their consent or with appropriate legal authority and include, but are not limited to:  social case work, psychiatric and health evaluation, home care, day care, legal assistance, social services, health care, case management, guardianship and other services consistent with this ordinance.  It does not include protective placement.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text><strong>"Retaliation"</strong> means threatening a reporter of abuse of an elder or vulnerable adult or the reporter's family in any way; causing bodily harm to the reporter or reporter's family; causing the reporter or any of the reporter's family to be terminated, suspended from employment or reprimanded by an employer, or damaging the reporter's or the reporter's family's real or personal property in any way.</text>
+        <text>
+          <u>SUBCHAPTER 4.3 – REPORTING and Investigations</u>
+        </text>
+        <text/>
+      </para>
+    </section>
+    <section>
+      <num>4.301</num>
+      <heading>Duty To Report Abuse Or Neglect Of An Elder</heading>
+      <text>Suspected abuse or neglect of an elder or vulnerable adult shall be reported to Lac Courte Oreilles Elder Services (unless immediate intervention is required to protect that person's life, which should be reported to law enforcement immediately) by:</text>
+      <para>
+        <num>(1)</num>
+        <text>The family or caretaker of the elder or vulnerable adult;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any tribal employee;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any tribal official;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Any employee of a tribally-owned business, even if not managed by the Tribe;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Any medical or osteopathic doctor, coroner or medical examiner, chiropractor, podiatrist, dentist, religious practitioner, nurse, health aide, human services worker, elders' service provider, nursing home provider, or any other health and elder human service provider, or its employees who deliver services to tribal elders and vulnerable adults;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Any person or agency or employee of such agency with a fiduciary duty to the elder or vulnerable adult such as a lawyer, accountant, financial institution, or property manager;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Any person who has good reason to suspect that an elder or vulnerable adult has been or is being abused or neglected.</text>
+      </para>
+    </section>
+    <section>
+      <num>4.302</num>
+      <heading>Immunity For Reporting</heading>
+      <text>A person who in good faith reports suspected abuse or neglect of an elder or vulnerable adult is immune from any civil or criminal suit based on that person's report.</text>
+    </section>
+    <section>
+      <num>4.303</num>
+      <heading>Failure To Report; Civil Penalty; Damages; Criminal Liability</heading>
+      <text>Any person who is required by this ordinance to report suspected abuse of an elder or vulnerable adult and fails to do so is subject to a civil penalty of up to $1,000.  The tribal court shall assess the penalty only after petition, notice, an opportunity for hearing, and a determination that the person had a mandated duty to report, had good reason to suspect abuse of an elder or vulnerable adult or neglect, and failed to report the abuse as required by this ordinance.  Further, the person failing to report is subject to any civil suit brought by or on behalf of the elder or vulnerable adult for damages suffered as a result of the failure to report and to any penalties set out in tribal, state, and/or federal law.</text>
+    </section>
+    <section>
+      <num>4.304</num>
+      <heading>Bad Faith Report; Civil Penalty; Damages; Criminal Liability</heading>
+      <text>Any person who makes a report of suspected abuse of an elder or vulnerable adult knowing it to be false is subject to a civil penalty of up to $1,000.  The tribal court shall assess the penalty only after petition, notice, and opportunity for hearing, and a determination that the reporter made the report knowing it to be false.  Further, the reporter is subject to any civil suit brought by or on behalf of the person(s) named as suspected abusers in the false report for damages suffered as a result of the false report and to any criminal penalties set out in tribal, state, and/or federal law.</text>
+    </section>
+    <section>
+      <num>4.305</num>
+      <heading>Investigation</heading>
+      <para>
+        <num>(1)</num>
+        <text>When Elder Protective Services ("EPS") receives a report of abuse or neglect perpetrated against elders or vulnerable adults, an investigation will be initiated as required in subsection (2), below.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Elder Protective Services will conduct an investigation and prepare a report within three days.  The written report of the investigation shall include the information set out in subsection (3), below as well as the results of interviews, observations and assessments and other fact finding.  The investigator shall conduct in-person interviews with the elder or vulnerable adult, the family and caretaker, persons suspected of having committed the acts complained of, employees of agencies or institutions with knowledge of the circumstances of the elder or vulnerable adult, and any other person the investigator believes has pertinent information.  The existence and contents of medical records and other reports of abuse and neglect shall be ascertained, after the elder or vulnerable executes a release of information.  The investigator personally shall assess the living conditions of the elder or vulnerable adult, including sleeping quarters.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The report must be in writing and shall contain:</text>
+        <para>
+          <num>(a)</num>
+          <text>The name, address or location, and telephone number of the elder or vulnerable adult;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Name, address or location, telephone number of the person(s) or agency suspected of abusing or neglecting the elder or vulnerable adult;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The nature and degree of incapacity of the elder or vulnerable adult;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The name, address or location, telephone number of witnesses;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The name, address or location, telephone number of the caretaker of the elder or vulnerable adult;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>A description of the acts which are complained of as abusive or neglectful; and</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Any other information that the reporter believes might be helpful in establishing abuse or neglect.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The report must abide by HIPPA regulations and protect the privacy of the victim.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The completed investigation report shall be filed with Elder Protective Services within seven to ten days and remain on file and not be destroyed for a period of ten years, even if it is determined that there is insufficient evidence to pursue any legal action.  However, if the investigating agency determines that the allegations of abuse were made in bad faith, it shall be destroyed immediately after the investigation is completed and if the evidence is insufficient to show abuse or neglect.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Completed investigation reports that substantiated elder or vulnerable adult abuse shall be forwarded to the Legal Department for review and prosecution.</text>
+      </para>
+    </section>
+    <section>
+      <num>4.306</num>
+      <heading>Sanctions Related To The Investigation And Retaliation</heading>
+      <para>
+        <num>(1)</num>
+        <text>No person shall interfere intentionally with a lawful investigation of suspected elder or vulnerable adult abuse.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>No person shall retaliate by any means against any person who has made a good faith report of suspected abuse or who cooperates with an investigation of suspected abuse.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any person who violates subsections (1) or (2) of this section shall be enjoined from such activity and shall be subject to a civil penalty of up to $500 per occurrence and may result in the loss of tribal privileges.  If a tribal employee violates subsections (1) or (2) of this section, he/she shall be subject to appropriate disciplinary action as allowed by the Tribe's personnel policies and procedures.  The penalty shall be assessed by the Tribal Court only after petition, notice, the opportunity to be heard, and a determination that either interference or retaliation as set out in this Section occurred.</text>
+        <text>
+          <u>SUBCHAPTER 4.4 – Elder Protective Services and Placement</u>
+        </text>
+      </para>
+    </section>
+    <section>
+      <num>4.401</num>
+      <heading>Elder Protective Services And Elder Protective Placement; Other Services; Evaluation Procedures; Duty To Pay</heading>
+      <para>
+        <num>(1)</num>
+        <text>Protective services or protective placement are provided either on a voluntary or involuntary basis.  Such services or placement may be provided on a voluntary basis by LCO Elder Protective Services or Adult Protective Services of Sawyer County when requested by any abused or neglected elder or vulnerable adult and the person is found to be in need of such services or placement.  Such services or placement may be provided on an involuntary basis by LCO Elder Protective Services or Adult Protective Services, if mandated by the circumstances leading to charges of abuse. Such services or placement shall be provided on an involuntary basis only if the Tribal Court determines they are necessary. If an elder or vulnerable adult if placed in an involuntary protective placement, a petition must be filed in Tribal Court and that petition must be heard by the Court within ten (10) days. Such services or placement may be provided on an emergency basis, or, if necessary, on a permanent basis through a guardian appointed pursuant to tribal law, and shall be provided in a manner least restrictive to the liberty and rights of the elder or vulnerable adult consistent with their welfare and needs.  Based on the Tribal Court's determination of the degree of incapacity, if any, as well as whether elder or vulnerable adult abuse or neglect has occurred, LCO Elder Protective Services will develop an individual plan for the delivery of protection services.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Voluntary protective services or protective placement are provided subject to available appropriations and resources and only as determined necessary by LCO Elder Protective Services.  If the consent of the elder or vulnerable adult to such services or placement is withdrawn, they shall cease.  Such protective services or protective placement shall be provided for a period of no more than 30 days at a time.  At the end of each period, LCO Elder Protective Services shall reassess the needs of the elder or vulnerable adult before agreeing to continue providing services and placement.  Voluntary placement shall not be continued without a court order permitting continued voluntary placement after the elder or vulnerable adult has been in such placement for 45 days.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Involuntary protective services or protective placement shall be provided to any elder or vulnerable adult who is incapacitated as a result of abuse or neglect but only upon Tribal Court order as required by this ordinance.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Services as determined necessary by LCO Elder Protective Services may be delivered to the family or caretaker of the elder or vulnerable adult in order to protect the elder or vulnerable adult.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Lac Courte Oreilles Elder Protective Services, in consultation with the Lac Courte Oreilles Community Health Center, will establish a process for conducting a comprehensive physical, mental and social assessment of an elder or vulnerable adult when a petition for a protection order has been filed.</text>
+        <text>
+          <u>SUBCHAPTER 4.5 – Emergency Situations</u>
+        </text>
+      </para>
+    </section>
+    <section>
+      <num>4.501</num>
+      <heading>Emergency</heading>
+      <para>
+        <num>(1)</num>
+        <text>The Tribal Court shall issue an emergency protection order authorizing protective services or protective placement on an emergency basis upon petition supported by clear and convincing evidence that an elder or vulnerable adult:</text>
+        <para>
+          <num>(a)</num>
+          <text>Is at risk of immediate physical harm;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is incapacitated and cannot consent to protective services;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Has no one who is authorized by law or court order to give consent on an emergency basis; and an emergency exists.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The emergency protection order shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Set out the specific emergency services to be provided to the elder or vulnerable adult to remove the conditions creating the emergency;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Provide only those services which will remove the emergency;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Allow protective placement only if the evidence shows that it is necessary;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Designate LCO Elder Protective Services as the entity required to implement the order; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Be issued for a maximum of 72 hours and may be renewed only once for an additional 72 hours provided the evidence show that the emergency is continuing.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Tribal Court may authorize forcible entry by law enforcement to enforce the emergency protection order after it has been shown that attempts to gain voluntary access to the elder have failed. A valid warrant must be issued in this instance.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The petition for an emergency protection order shall contain the name, address or location and interest of the petitioner; the name, address or location and condition of the elder or vulnerable adult; the nature of the emergency; the nature of the incapacity of the elder or vulnerable adult; the proposed protective services, and where applicable, protective placement; the attempts, if any, to secure the consent of the elder or vulnerable adult to services; and any other facts the petitioner believes will assist the court.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Tribal Court shall hold a hearing on a petition to provide protective services or placement to an elder within 24 hours after an emergency protection order is issued.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>An emergency protection order can be set aside by the Tribal Court upon a petition of any party showing good cause.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>If there is good cause to believe that an emergency exists and that an elder or vulnerable adult is at risk of immediate and irreparable physical harm, the LCO Elder Protective Services investigator or law enforcement shall immediately protect the elder or vulnerable adult, including, where necessary, transporting the elder or vulnerable adult for medical treatment or to an appropriate facility.  Immediately after the elder or other vulnerable adult is protected, a petition for an emergency protection order shall be filed and the procedures set out in this section will be followed.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Any person who acts in good faith pursuant to this section is immune from any civil or criminal suit based on that person's actions.</text>
+        <text>
+          <u>SUBCHAPTER 4.6 – Rights and Privileges</u>
+        </text>
+      </para>
+    </section>
+    <section>
+      <num>4.601</num>
+      <heading>Rights Of Elders, Their Families And Caretakers</heading>
+      <para>
+        <num>(1)</num>
+        <text>An elder or vulnerable adult may refuse to accept protection services, even if there is good cause to believe that the elder or vulnerable adult has been or is being abused, provided that s/he is able to care for him/herself, has the capacity to understand the nature of the services offered and it is determined that the abuse has stopped.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An investigator may be refused entry into the home of the elder or vulnerable adult by the elder or vulnerable adult, their family or caretaker but the investigator will inform them of the right to seek a warrant before seeking entry.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The elder or vulnerable adult, their family or caretaker have the right to attend any proceeding pertaining to the determination of the capacity of the elder or vulnerable adult and the elder or vulnerable adult shall be present at all proceedings unless the Tribal Court determines the health of the elder or vulnerable adult would be at risk at such a proceeding.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The elder or vulnerable adult, their family and caretaker have the right to be represented by counsel at all proceedings.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>In any proceeding involving an elder or vulnerable adult, all interested parties, including family and caretakers, may petition the Tribal Court to obtain party status in the proceeding.</text>
+        <text>
+          <u>SUBCHAPTER 4.7 – Procedures</u>
+        </text>
+      </para>
+    </section>
+    <section>
+      <num>4.701</num>
+      <heading>Procedures For Determining Incapacity, Abuse, Neglect Or Self Neglect</heading>
+      <text>The Tribal Court shall determine whether an elder or vulnerable adult is incapacitated and the degree of incapacity, and, where necessary, whether abuse or neglect has occurred.  The determination shall be made only after petition, notice, hearing, and proof that is beyond a reasonable doubt.</text>
+    </section>
+    <section>
+      <num>4.702</num>
+      <heading>Confidentiality Of Reporter, Records, Hearings; Penalty For Not Complying With Confidentiality</heading>
+      <para>
+        <num>(1)</num>
+        <text>The name of the person who reports abuse or neglect as required by this ordinance is confidential and shall not be released to any person unless the reporter consents to the release or the release is ordered by the Tribal Court.  The Tribal Court may release the reporter's name only after notice to the reporter is given, a closed evidentiary hearing is held, and the need to protect the elder or vulnerable adult is found to be greater than the reporter's right to confidentiality.  The reporter's name shall be released only to the extent determined necessary to protect the elder or vulnerable adult.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Records of an investigation of abuse against an elder or vulnerable adult or of a Tribal Court hearing regarding abuse shall remain confidential, unless production of such material is compelled by a court with proper jurisdiction.  Such records shall be open only to employees of LCO Elder Protective Services, law enforcement officers, Tribal Court officials, coroner or medical examiner who has reason to believe that an elder or vulnerable adult died as a result of abuse or neglect, and any other person who the Tribal Court determines has reasonable cause to have access to such record.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A proceeding held pursuant to this ordinance shall be closed and confidential.  Persons who may attend are those who have been made party to the proceeding. These may include, but are not limited to, the elder or vulnerable adult, their family or caretaker, the person or representative of an institution or program accused of abuse, the representative of LCO Elder Protective Services, necessary Tribal Court officials and attorneys to the parties.  Other persons may appear only to testify.  No one attending or testifying at such a proceeding shall reveal information about the proceeding unless ordered to do so by Tribal Court order.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Any person who violates any portion of this section shall be subject to a civil penalty of up to $1,000 per occurrence and, if a tribal employee, to appropriate disciplinary actions as allowed by the Tribe's personnel policies and procedures.  The penalty shall be assessed by the Tribal Court after petition, notice, opportunity to be heard, and a determination that a violation has occurred.</text>
+      </para>
+    </section>
+    <section>
+      <num>4.703</num>
+      <heading>Elder Protection Order Time Limits</heading>
+      <para>
+        <num>(1)</num>
+        <text>If the Tribal Court determines that an elder or vulnerable adult is incapacitated and abused or neglected, the Tribal Court shall issue a protection order which provides appropriate protection for the elder or vulnerable adult.  Such protection may include, but is not limited, to the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>Removing the elder or vulnerable adult from the place where the abuse or neglect has taken place or is taking place for no longer than 90 days;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Removing the person who has abused or neglected an elder or vulnerable adult from the elder's home;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Restraining the person who has abused or neglected an elder or vulnerable adult from continuing such acts;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Requiring the family or caretaker or any other person with a fiduciary duty to the elder or vulnerable adult to account for their funds and property;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Requiring any person who has abused or neglected an elder or vulnerable adult to pay restitution to the elder for damages resulting from that person's wrongdoing;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Appointing a representative or guardian ad litem for the elder or vulnerable adult;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Recommending that a representative payee be named; and</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Ordering Lac Courte Oreilles Elder Protective Services to prepare a plan for and deliver protection services which provide the least restrictive alternatives for services, care, treatment, or placement consistent with the needs of the elder or vulnerable adult.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A protection order shall be issued within 10 days after the petition is served on all parties, except for an emergency protection order.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An elder or vulnerable adult protection order shall remain in effect for a period not to exceed three years.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The order may be extended as many times as necessary to protect the elder or vulnerable adult, but only after a petition is filed by the party seeking an extension and notice, opportunity for hearing, and a determination based on proof beyond a reasonable doubt that such an extension is necessary to protect the elder or vulnerable adult.  Each extension shall be for a period not to exceed one year.</text>
+      </para>
+    </section>
+    <section>
+      <num>4.704</num>
+      <heading>Petition Hearing</heading>
+      <text>A hearing on a petition authorized or required by this ordinance shall be conducted with the purpose of protecting the elder or vulnerable adult only where necessary and only to the extent shown by the facts and using the least restrictive alternatives.  All rights set out specifically in this ordinance shall be enforced strictly during proceedings.  No hearing shall be held unless notice has been given to the elder or vulnerable adult and other interested parties, including their family and caretaker.  The elder or vulnerable adult and all other interested parties shall have the right and opportunity to be heard fully and to present evidence.  The Tribal Court shall issue a written statement of its findings in support of any order allowed by this ordinance.</text>
+    </section>
+    <section>
+      <num>4.705</num>
+      <heading>Regulations And Criteria Required To Comply With This Ordinance</heading>
+      <text>Lac Courte Oreilles Elder Services shall adopt and issue regulations establishing criteria and procedures which comply with the policy and requirements of this ordinance.</text>
+    </section>
+  </container>
+</container>
