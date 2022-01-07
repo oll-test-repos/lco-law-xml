@@ -12,6 +12,7 @@
   <xi:include href="./IV-2.xml"/>
   <xi:include href="./V-1.xml"/>
   <xi:include href="./V-2.xml"/>
+  <xi:include href="./VI-1.xml"/>
   <xi:include href="./VI-7.xml"/>
   <xi:include href="./VI-8.xml"/>
   <xi:include href="./VII-1.xml"/>
@@ -24,10 +25,13 @@
   <xi:include href="./XI-7.xml"/>
   <xi:include href="./XII-1.xml"/>
   <xi:include href="./XIV-1.xml"/>
+  <xi:include href="./XIV-2.xml"/>
   <xi:include href="./XIV-3.xml"/>
   <xi:include href="./XIV-4.xml"/>
   <xi:include href="./XIV-5.xml"/>
   <xi:include href="./XIV-7.xml"/>
+  <xi:include href="./XIV-9.xml"/>
   <xi:include href="./XIV-10.xml"/>
   <xi:include href="./XIV-14.xml"/>
+  <xi:include href="./XIV-17.xml"/>
 </document>
