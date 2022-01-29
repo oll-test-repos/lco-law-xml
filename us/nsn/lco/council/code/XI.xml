@@ -7,7 +7,7 @@
     <prefix>Chapter</prefix>
     <num>7</num>
     <heading>Housing Authority Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text class="center"><strong>Preamble</strong></text>
+    <text>Preamble</text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to provide for the decent, safe and sanitary dwellings for the members of the Tribe which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, §§ 1 (l) and (m) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "organize, charter and regulate any association or group, including a housing authority, for the purpose of providing social or economic benefits to the members of the Band or residents of the reservation" Article V, § 1 (l);  and "delegate to subordinate boards, officers, committees or cooperative associations which are open to all members of the Band any of the foregoing powers, reserving the right to review any action taken by virtue of such delegated powers" Article V, § 1 (m). Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby establishes a public body known as the Lac Courte Oreilles Housing Authority (hereinafter referred to as the Housing Authority), and enacts this ordinance which shall establish the purposes, powers and duties of the Housing Authority. In any suit, action or proceeding involving the validity or enforcement of or relating to any of its contracts, the Housing Authority shall be conclusively deemed to have become established and authorized to transact business and exercise its powers upon proof of the adoption of this ordinance. A copy of this ordinance duly certified by the Secretary/Treasurer of the Tribal Governing Board shall be admissible in evidence in any suit, action or proceedings.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -154,7 +154,7 @@
       <section>
         <num>7.201</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in this Section shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="§7.201">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(1)</num>
           <text><strong>"Abandonment"</strong> means the absence from the premises for three consecutive weeks without notification in writing to the Housing Authority.</text>
@@ -493,7 +493,7 @@
         </para>
         <para>
           <num>(22)</num>
-          <text>"<strong>Elderly and Near Elderly Family"</strong> means a family whose head (including co-head), spouse or sole member is an elderly or a near-elderly person, as defined in this section. It may include two or more elderly or near-elderly persons living together, or one or more elderly or near-elderly persons living with one or more live-in aides, or one or more such persons determined under the Indian housing plan for the agency to be essential to their care or well-being.</text>
+          <text>"<strong>Elderly and Near Elderly Family"</strong> means a family whose head (including co-head), spouse or sole member is an elderly or a near-elderly person, as defined in <cite path="§7.201">this section</cite>. It may include two or more elderly or near-elderly persons living together, or one or more elderly or near-elderly persons living with one or more live-in aides, or one or more such persons determined under the Indian housing plan for the agency to be essential to their care or well-being.</text>
         </para>
         <para>
           <num>(23)</num>
@@ -1255,22 +1255,22 @@
           </para>
           <para>
             <num>(q)</num>
-            <text>Exercise all or any part or combination of the powers granted in this section.</text>
+            <text>Exercise all or any part or combination of the powers granted in <cite path="§7.302">this section</cite>.</text>
           </para>
           <para>
             <num>(r)</num>
-            <text>Make covenants other than and in addition to the covenants expressly authorized in this section, of like or different character.</text>
+            <text>Make covenants other than and in addition to the covenants expressly authorized in <cite path="§7.302">this section</cite>, of like or different character.</text>
           </para>
           <para>
             <num>(s)</num>
-            <text>Make any covenant and do any acts and things necessary or convenient or desirable in order to secure its obligations, or, in the absolute discretion of the Housing Authority, tending to make the obligations more marketable although the covenants acts, or things are not enumerated in this section.</text>
+            <text>Make any covenant and do any acts and things necessary or convenient or desirable in order to secure its obligations, or, in the absolute discretion of the Housing Authority, tending to make the obligations more marketable although the covenants acts, or things are not enumerated in <cite path="§7.302">this section</cite>.</text>
           </para>
         </para>
       </section>
       <section>
         <num>7.303</num>
         <heading>Board Of Commissioners And Tribal Governing Board Liaison</heading>
-        <text>The Board of Commissioners is hereby created to act in an advisory capacity to the Tribal Governing Board and the Housing Authority Executive Director and shall have those powers as stated in this section:</text>
+        <text>The Board of Commissioners is hereby created to act in an advisory capacity to the Tribal Governing Board and the Housing Authority Executive Director and shall have those powers as stated in <cite path="§7.303">this section</cite>:</text>
         <para>
           <num>(1)</num>
           <text>The Tribal Governing Board, by formal action, shall appoint a Liaison(s) which shall be appointed to facilitate communication and coordination between the Tribal Governing Board and the Board. The Tribal Governing Board Liaison(s) shall not be considered a member of the Board.</text>
@@ -1385,7 +1385,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>All property including funds acquired or held by the Housing Authority pursuant to this ordinance shall be exempt from levy and sale by virtue of an execution, and no execution or other judicial process shall issue against the same nor shall any judgment against the Housing Authority be a charge or lien upon such property. However, the provisions of this section shall not apply to or limit the right of obligee's to pursue any remedies for the enforcement of any pledge or lien given by the Housing Authority on its rents, fees or revenues or the right of the Federal government to pursue any remedies conferred upon it pursuant to the provision of this ordinance or the right of the Housing Authority to bring eviction actions in accordance with § 7.301 (4) (l) and Subchapter 7.6 of this ordinance.</text>
+          <text>All property including funds acquired or held by the Housing Authority pursuant to this ordinance shall be exempt from levy and sale by virtue of an execution, and no execution or other judicial process shall issue against the same nor shall any judgment against the Housing Authority be a charge or lien upon such property. However, the provisions of <cite path="§7.304">this section</cite> shall not apply to or limit the right of obligee's to pursue any remedies for the enforcement of any pledge or lien given by the Housing Authority on its rents, fees or revenues or the right of the Federal government to pursue any remedies conferred upon it pursuant to the provision of this ordinance or the right of the Housing Authority to bring eviction actions in accordance with § 7.301 (4) (l) and Subchapter 7.6 of this ordinance.</text>
         </para>
       </section>
       <section>
@@ -1436,14 +1436,14 @@
           <text>Any obligations issued in connection with such project or any monies due to the Department of Housing and Urban Development in connection with such project remain unpaid, whichever period ends the latest.</text>
           <para>
             <num>(a)</num>
-            <text>If at any time title to, or possession of, any project is held by any public body or governmental agency authorized by law to engage in the development or operation of low income housing, including the Federal government, the provisions of this section shall inure to the benefit of and be enforced by such public body or governmental agency.</text>
+            <text>If at any time title to, or possession of, any project is held by any public body or governmental agency authorized by law to engage in the development or operation of low income housing, including the Federal government, the provisions of <cite path="§7.305">this section</cite> shall inure to the benefit of and be enforced by such public body or governmental agency.</text>
           </para>
         </para>
       </section>
       <section>
         <num>7.306</num>
         <heading>Relation To Federal Law</heading>
-        <text>The Authority's participation in Federal Indian housing programs may create additional rights and responsibilities between the Housing Authority and others. To the extent practicable, this chapter shall be read consistently with applicable Federal law. Where there is a conflict between this chapter and any statute or regulation of the United States, the Federal law shall apply if it has specific applicability and if it is clearly in conflict with the provisions of this chapter.</text>
+        <text>The Authority's participation in Federal Indian housing programs may create additional rights and responsibilities between the Housing Authority and others. To the extent practicable, <cite path="XI|7">this chapter</cite> shall be read consistently with applicable Federal law. Where there is a conflict between <cite path="XI|7">this chapter</cite> and any statute or regulation of the United States, the Federal law shall apply if it has specific applicability and if it is clearly in conflict with the provisions of <cite path="XI|7">this chapter</cite>.</text>
       </section>
     </container>
     <container>
@@ -1505,7 +1505,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>Any act within the Reservation dealing with the subject matter of this chapter.</text>
+          <text>Any act within the Reservation dealing with the subject matter of <cite path="XI|7">this chapter</cite>.</text>
         </para>
       </section>
       <section>
@@ -1651,7 +1651,7 @@
         </para>
         <para>
           <num>(10)</num>
-          <text>A person who has not yet established residency as defined in § 7.201 (75) of this ordinance. This section does not apply to elderly applicants, who are eligible to apply for housing regardless of residency;</text>
+          <text>A person who has not yet established residency as defined in § 7.201 (75) of this ordinance. <cite path="§7.506">This section</cite> does not apply to elderly applicants, who are eligible to apply for housing regardless of residency;</text>
         </para>
         <para>
           <num>(11)</num>
@@ -1785,7 +1785,7 @@
       <section>
         <num>7.515</num>
         <heading>Renewal</heading>
-        <text>Rental applicants are required to update their application at sometime within the twelve (12) month anniversary date of their application. Failure to update the application will result in the applicant being removed from the waiting list. The Housing Authority shall promptly notify the applicant of their removal from the waiting list. This section shall not apply to homebuyer or other waiting lists.</text>
+        <text>Rental applicants are required to update their application at sometime within the twelve (12) month anniversary date of their application. Failure to update the application will result in the applicant being removed from the waiting list. The Housing Authority shall promptly notify the applicant of their removal from the waiting list. <cite path="§7.515">This section</cite> shall not apply to homebuyer or other waiting lists.</text>
       </section>
       <section>
         <num>7.516</num>
@@ -1993,18 +1993,18 @@
           <text><u>Head of Household Demise</u>. In the event of the demise of the head of household, which is not related to criminal or nefarious activity related activities in a Drug Free Public Housing Zone, the unit shall be assigned to the remaining members of the Tenant family as identified on the lease unless one of the following circumstance arises;</text>
           <para>
             <num>(a)</num>
-            <text>All of the remaining household members are minor children, the person appointed legal guardian of the children shall have the right to occupy the unit as head of household in order to allow the minor children to remain in the unit, provided that the notice procedures as set forth in this section are followed.</text>
+            <text>All of the remaining household members are minor children, the person appointed legal guardian of the children shall have the right to occupy the unit as head of household in order to allow the minor children to remain in the unit, provided that the notice procedures as set forth in <cite path="§7.519">this section</cite> are followed.</text>
             <para>
               <num>(i)</num>
               <text>Within 30 days of the demise of the head of household, any person petitioning to be appointed legal guardian and desiring to occupy the unit with the children shall notify the Housing Authority of the petition and of the intent to occupy the unit with the children and shall provide to the Housing Authority a copy of the guardianship petition.</text>
             </para>
             <para>
               <num>(ii)</num>
-              <text>In the event more than one-person petitions for guardianship, any person awarded temporary guardianship shall have the occupancy rights stated in this section for as long as the temporary guardianship lasts, provided the named guardian immediately provides a copy of the court order to the Housing Authority establishing temporary guardianship.  Finally, the person appointed permanent guardianship shall immediately provide a copy of the court order to the Housing Authority.</text>
+              <text>In the event more than one-person petitions for guardianship, any person awarded temporary guardianship shall have the occupancy rights stated in <cite path="§7.519">this section</cite> for as long as the temporary guardianship lasts, provided the named guardian immediately provides a copy of the court order to the Housing Authority establishing temporary guardianship.  Finally, the person appointed permanent guardianship shall immediately provide a copy of the court order to the Housing Authority.</text>
             </para>
             <para>
               <num>(iii)</num>
-              <text>Any person petitioning for guardianship who has provided notice of an intent to occupy the unit under this section, shall conscientiously prosecute the guardianship petition so that it is resolved promptly, and shall apprise the Housing Authority of the state of the guardianship proceeding upon Housing Authority request.  The Housing Authority may terminate occupancy under this section if the petitioner fails to comply with the requirements of the preceding sentence.</text>
+              <text>Any person petitioning for guardianship who has provided notice of an intent to occupy the unit under <cite path="§7.519">this section</cite>, shall conscientiously prosecute the guardianship petition so that it is resolved promptly, and shall apprise the Housing Authority of the state of the guardianship proceeding upon Housing Authority request.  The Housing Authority may terminate occupancy under <cite path="§7.519">this section</cite> if the petitioner fails to comply with the requirements of the preceding sentence.</text>
             </para>
           </para>
           <para>
@@ -2201,7 +2201,7 @@
           </para>
           <para>
             <num>(i)</num>
-            <text><u>Insurance Claims Due to Tenant Negligence, Damage or Misuse of the Property</u>. Any insurance claims due to Tenant negligence, damage or misuse of the property will result in termination of the lease.  Any Tenant, member of Tenant's household, guest, or another person under the Tenant's control terminated from a unit under this section shall be ineligible to apply for housing for a period of 24 months.</text>
+            <text><u>Insurance Claims Due to Tenant Negligence, Damage or Misuse of the Property</u>. Any insurance claims due to Tenant negligence, damage or misuse of the property will result in termination of the lease.  Any Tenant, member of Tenant's household, guest, or another person under the Tenant's control terminated from a unit under <cite path="§7.519">this section</cite> shall be ineligible to apply for housing for a period of 24 months.</text>
           </para>
           <para>
             <num>(j)</num>
@@ -2296,7 +2296,7 @@
       <section>
         <num>7.521</num>
         <heading>Post Occupancy</heading>
-        <text>This section applies to all vacancy related occurrences.</text>
+        <text><cite path="§7.521">This section</cite> applies to all vacancy related occurrences.</text>
         <para>
           <num>(1)</num>
           <text><u>Move-Out Inspections.</u> The Housing Authority must conduct a move-out inspection pursuant to § 7.1102 of this ordinance. A copy of the inspection report with an estimate of charges will be provided to the Tenant, at the address provided by the former Tenant, no longer than 60 days after the official vacancy date is established.</text>
@@ -2410,7 +2410,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text><u>Housing Authority Termination Notice</u>. The Housing Authority termination notice shall qualify as the notice to quit required under this section so long as the time requirements of the Housing Authority termination notice are at least as long as the time requirements set forth in subs. (5), above.</text>
+          <text><u>Housing Authority Termination Notice</u>. The Housing Authority termination notice shall qualify as the notice to quit required under <cite path="§7.604">this section</cite> so long as the time requirements of the Housing Authority termination notice are at least as long as the time requirements set forth in subs. (5), above.</text>
         </para>
       </section>
       <section>
@@ -2451,7 +2451,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>The person giving notice must keep a copy of the notice and proof of service in accordance with this section, by affidavit or other manner recognized by law.</text>
+          <text>The person giving notice must keep a copy of the notice and proof of service in accordance with <cite path="§7.605">this section</cite>, by affidavit or other manner recognized by law.</text>
         </para>
       </section>
       <section>
@@ -2674,7 +2674,7 @@
           </para>
           <para>
             <num>(d)</num>
-            <text>Supervise the removal of the possessions of the evicted persons.  Any law enforcement officer shall, upon receipt of an order of the Court, execute the judgment or order made by it with in five (5) calendar days of the date of the judgment or order and make a report to the Court on what was done to enforce it. Any law enforcement officer to whom a judgment or order is given for enforcement who fails, in the absence of good faith, or refuses to execute it shall be subject to the payment of reasonable damages, costs, and expenses to a party for failure to execute the judgment and/or suspension from employment. This Section shall also apply to any judgment on behalf of a tenant obtained under the general tribal civil procedure code and/or tribal small claims procedure code. All other portions of the judgment shall be subject to execution in the manner otherwise provided under tribal law.</text>
+            <text>Supervise the removal of the possessions of the evicted persons.  Any law enforcement officer shall, upon receipt of an order of the Court, execute the judgment or order made by it with in five (5) calendar days of the date of the judgment or order and make a report to the Court on what was done to enforce it. Any law enforcement officer to whom a judgment or order is given for enforcement who fails, in the absence of good faith, or refuses to execute it shall be subject to the payment of reasonable damages, costs, and expenses to a party for failure to execute the judgment and/or suspension from employment. <cite path="§7.607">This Section</cite> shall also apply to any judgment on behalf of a tenant obtained under the general tribal civil procedure code and/or tribal small claims procedure code. All other portions of the judgment shall be subject to execution in the manner otherwise provided under tribal law.</text>
           </para>
         </para>
         <para>
@@ -2766,12 +2766,12 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>Following forcible eviction of the defendant and/or other occupants, the former occupant's personal property shall be stored by the Housing Authority for at least thirty (30) days, either on the dwelling or at another suitable location. In order to reclaim their property, the former occupants shall pay the reasonable costs of its removal and storage. If they do not pay such costs within thirty (30) days, the Housing Authority is authorized to sell the property in order to recover these costs. The Housing Authority shall not condition return of the former occupant's personal property on the payment of any costs or fees other than those of removal and storage of those personal possessions.  Should the Housing Authority attempt to condition return of personal possessions on payment of any other cost or fee, the Housing Authority shall forfeit its right to the costs of removal and storage. Upon request by the former occupants, the Housing Authority shall provide them with pertinent information concerning the sale, including the time, date and location. Any proceeds from the sale in excess of the storage and removal costs shall be remitted to the former occupants. Nothing in this section shall be construed to prevent the former occupants from reclaiming property remaining after the sale if they can arrange to do in a manner satisfactory to the owner. If the abandoned property is of cultural, religious, or ceremonial significance, the Housing Authority shall have an affirmative duty to locate next of kin and/or contact the Tribe to return these items.</text>
+            <text>Following forcible eviction of the defendant and/or other occupants, the former occupant's personal property shall be stored by the Housing Authority for at least thirty (30) days, either on the dwelling or at another suitable location. In order to reclaim their property, the former occupants shall pay the reasonable costs of its removal and storage. If they do not pay such costs within thirty (30) days, the Housing Authority is authorized to sell the property in order to recover these costs. The Housing Authority shall not condition return of the former occupant's personal property on the payment of any costs or fees other than those of removal and storage of those personal possessions.  Should the Housing Authority attempt to condition return of personal possessions on payment of any other cost or fee, the Housing Authority shall forfeit its right to the costs of removal and storage. Upon request by the former occupants, the Housing Authority shall provide them with pertinent information concerning the sale, including the time, date and location. Any proceeds from the sale in excess of the storage and removal costs shall be remitted to the former occupants. Nothing in <cite path="§7.607">this section</cite> shall be construed to prevent the former occupants from reclaiming property remaining after the sale if they can arrange to do in a manner satisfactory to the owner. If the abandoned property is of cultural, religious, or ceremonial significance, the Housing Authority shall have an affirmative duty to locate next of kin and/or contact the Tribe to return these items.</text>
           </para>
         </para>
         <para>
           <num>(16)</num>
-          <text><u>No Self-Help Evictions</u>. The Housing Authority may not compel a tenant to vacate any dwelling under this Subchapter in a forceful fashion or way which causes a breach of the peace.  For purposes of this section, the Housing Authority shall give a notice to quit and obtain a court order as provided in this under this Subchapter.</text>
+          <text><u>No Self-Help Evictions</u>. The Housing Authority may not compel a tenant to vacate any dwelling under this Subchapter in a forceful fashion or way which causes a breach of the peace.  For purposes of <cite path="§7.607">this section</cite>, the Housing Authority shall give a notice to quit and obtain a court order as provided in this under this Subchapter.</text>
         </para>
         <para>
           <num>(17)</num>
@@ -2844,7 +2844,7 @@
         <heading>Notice To Quit Requirements Pertaining To Immediate Evictions</heading>
         <para>
           <num>(1)</num>
-          <text><u>When Required</u>. A Notice to Quit is required when the Housing Authority desires to obtain immediate possession of a dwelling unit, and when there exists one or more concerns to immediately evict the tenant or tenants occupying the unit pursuant to § 7.609 of this ordinance, the Housing Authority shall give notice to the adult tenants to quit possession of such dwelling unit according to the provisions of this section.</text>
+          <text><u>When Required</u>. A Notice to Quit is required when the Housing Authority desires to obtain immediate possession of a dwelling unit, and when there exists one or more concerns to immediately evict the tenant or tenants occupying the unit pursuant to § 7.609 of this ordinance, the Housing Authority shall give notice to the adult tenants to quit possession of such dwelling unit according to the provisions of <cite path="§7.610">this section</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2909,7 +2909,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>The person giving notice must keep a copy of the notice and proof of service in accordance with this section, by affidavit or other manner recognized by law.</text>
+          <text>The person giving notice must keep a copy of the notice and proof of service in accordance with <cite path="§7.611">this section</cite>, by affidavit or other manner recognized by law.</text>
         </para>
       </section>
       <section>
@@ -3012,11 +3012,11 @@
           <text><u>Funds Eligible for Investment</u>.</text>
           <para>
             <num>(a)</num>
-            <text>IHBG funds subject to the approval of the Secretary of HUD may be invested pursuant to this section.</text>
+            <text>IHBG funds subject to the approval of the Secretary of HUD may be invested pursuant to <cite path="§7.705">this section</cite>.</text>
           </para>
           <para>
             <num>(b)</num>
-            <text>Other funds may be invested pursuant to this section provided that such investment is permissible under the law relating to the source of the funds and that such investment is performed pursuant to any applicable law, and provided further that any such investment is held separately from IHBG funds invested so as to fully comply with 24 C.F.R. § 1000.58 (d).</text>
+            <text>Other funds may be invested pursuant to <cite path="§7.705">this section</cite> provided that such investment is permissible under the law relating to the source of the funds and that such investment is performed pursuant to any applicable law, and provided further that any such investment is held separately from IHBG funds invested so as to fully comply with 24 C.F.R. § 1000.58 (d).</text>
           </para>
         </para>
         <para>

@@ -7,7 +7,7 @@
     <prefix>Chapter</prefix>
     <num>1</num>
     <heading>Children'S Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text class="center"><strong>Preamble</strong></text>
+    <text>Preamble</text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to promote the traditional value that children are the most important asset of the Tribe, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, § 1 (q), (s), (t), and (u) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to: "establish a tribal court for the purpose of enforcing tribal ordinance..." Article V, § 1 (q); "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and providing for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers" Article V, § 1 (s); "provide for the regulation of child custody and domestic relations matters by ordinances or resolution" Article V, § 1 (t); "provide for the appointment of guardians for minors, aged persons, and mental incompetents by ordinance or resolution" Article V, § 1 (u). It is the purpose of this ordinance to protect the health, safety, and welfare of all children within the jurisdiction of the Lac Courte Oreilles Tribe.  In the children lie the Tribe's future, and in their retention of Ojibwe traditions and culture lies the preservation of the Tribe's past. It is the policy of the Tribe to strengthen family structures, to prevent family breakups, and to foster conditions favorable to the growth, spirit, culture, and individuality of each child. A child without knowledge of the past is directionless in the path forward; a child without a nurturing present is denied the strengths that lead to the future. It is the Tribe's policy to favor preventive action over belated reaction, meditation over confrontation, counseling over lecturing, conciliation over punishment, - but in all decisions made under this ordinance the welfare of the child shall be the ultimate touchstone.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -105,7 +105,7 @@
       <section>
         <num>1.201</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in this Section shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="§1.201">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(1)</num>
           <text><strong>"Affected Persons"</strong> means the child who is the subject of a petition under this ordinance, the Tribe by the Child Welfare Director or the Assistant Child Welfare Director, and the child's parents, guardians, and custodians.</text>
@@ -269,7 +269,7 @@
         <text>There is hereby established a Children's Court Division of the Lac Courte Oreilles Tribal Court exercising jurisdiction pursuant to this ordinance as follows:</text>
         <para>
           <num>(1)</num>
-          <text>The chief judge and any associate judges of the Lac Courte Oreilles Tribal Court shall serve as judges of the Children's Court. Any magistrate of the Tribal Court shall serve as magistrate of the Children's Court with such powers as are provided in 2 LCOTCL Chapter 1 and in this ordinance.</text>
+          <text>The chief judge and any associate judges of the Lac Courte Oreilles Tribal Court shall serve as judges of the Children's Court. Any magistrate of the Tribal Court shall serve as magistrate of the Children's Court with such powers as are provided in <cite path="II|1">2 LCOTCL Chapter 1</cite> and in this ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -585,7 +585,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Any person taking a child into emergency custody under this section shall immediately attempt to notify the parent, guardian or custodian by the most practical means which may be accomplished through delivery of an emergency custody form, and shall continue to reasonably make such attempts until notification is made.  Any law enforcement officer acting under this section shall also immediately attempt to notify the Child Welfare Director or Assistant Child Welfare Director.  If the child is physically transferred to the Child Welfare Director or Assistant Child Welfare Director, the Director or the Assistant Director shall thereafter continue notification attempts until notification is made.  The person notifying the parent, guardian, or custodian, need not inform such person of the location of the child if the notifying person reasonably believes that providing such information will imminently endanger the child.</text>
+          <text>Any person taking a child into emergency custody under <cite path="§1.401">this section</cite> shall immediately attempt to notify the parent, guardian or custodian by the most practical means which may be accomplished through delivery of an emergency custody form, and shall continue to reasonably make such attempts until notification is made.  Any law enforcement officer acting under <cite path="§1.401">this section</cite> shall also immediately attempt to notify the Child Welfare Director or Assistant Child Welfare Director.  If the child is physically transferred to the Child Welfare Director or Assistant Child Welfare Director, the Director or the Assistant Director shall thereafter continue notification attempts until notification is made.  The person notifying the parent, guardian, or custodian, need not inform such person of the location of the child if the notifying person reasonably believes that providing such information will imminently endanger the child.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -677,11 +677,11 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>The hearing required under this section need not be held if the child's parents, guardians, or legal custodians and, if the child is over twelve (12), the child all agree that the child may remain in custody.</text>
+          <text>The hearing required under <cite path="§1.404">this section</cite> need not be held if the child's parents, guardians, or legal custodians and, if the child is over twelve (12), the child all agree that the child may remain in custody.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>A copy of the petition under this section and Subchapter 1.5 of this ordinance shall be given to the child's parent, guardian, or legal custodian, and to the child if twelve (12) or older, as soon as practicable, and in no case later than the commencement of the hearing.</text>
+          <text>A copy of the petition under <cite path="§1.404">this section</cite> and Subchapter 1.5 of this ordinance shall be given to the child's parent, guardian, or legal custodian, and to the child if twelve (12) or older, as soon as practicable, and in no case later than the commencement of the hearing.</text>
         </para>
         <para>
           <num>(5)</num>
@@ -689,11 +689,11 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>If the Children's Court finds that one or more of the conditions enumerated in § 1.401 (1) of this ordinance exists, it may continue custody in any of the placements enumerated in § 1.403 (3) of this ordinance.  The Children's Court may also impose reasonable restrictions on the child's travel, association with other persons, or places of abode, and may assign the child to the supervision of the Indian Child Welfare Department.  Reasonable restrictions may be placed upon the conduct of the parents, guardians, custodians, or other responsible adults as necessary to secure the safety and well-being of the child.  Any order entered under this section shall be reduced to writing within ten (10) days thereof.</text>
+          <text>If the Children's Court finds that one or more of the conditions enumerated in § 1.401 (1) of this ordinance exists, it may continue custody in any of the placements enumerated in § 1.403 (3) of this ordinance.  The Children's Court may also impose reasonable restrictions on the child's travel, association with other persons, or places of abode, and may assign the child to the supervision of the Indian Child Welfare Department.  Reasonable restrictions may be placed upon the conduct of the parents, guardians, custodians, or other responsible adults as necessary to secure the safety and well-being of the child.  Any order entered under <cite path="§1.404">this section</cite> shall be reduced to writing within ten (10) days thereof.</text>
         </para>
         <para>
           <num>(7)</num>
-          <text>Any order under this section shall be subject to rehearing for good cause.</text>
+          <text>Any order under <cite path="§1.404">this section</cite> shall be subject to rehearing for good cause.</text>
         </para>
       </section>
       <section>
@@ -778,7 +778,7 @@
         </para>
         <para>
           <num>(14)</num>
-          <text>The child is habitually truant from school, and the school attendance officer attests that the activities required under 8 LCOTCL Chapter 5 have been completed.</text>
+          <text>The child is habitually truant from school, and the school attendance officer attests that the activities required under <cite path="VIII|5">8 LCOTCL Chapter 5</cite> have been completed.</text>
         </para>
         <para>
           <num>(15)</num>
@@ -877,7 +877,7 @@
           </para>
           <para>
             <num>(f)</num>
-            <text>The right to demand for cause pursuant to 2 LCOTCL Chapter 1, or to request on any other ground, a substitution of judge, which if not made before the close of the initial hearing in the initial matter involving the subject minor, is deemed waived, and any request for substitution that 2 LCOTCL Chapter 1 does not require to be granted shall be decided in the discretion of the judge.</text>
+            <text>The right to demand for cause pursuant to <cite path="II|1">2 LCOTCL Chapter 1</cite>, or to request on any other ground, a substitution of judge, which if not made before the close of the initial hearing in the initial matter involving the subject minor, is deemed waived, and any request for substitution that <cite path="II|1">2 LCOTCL Chapter 1</cite> does not require to be granted shall be decided in the discretion of the judge.</text>
           </para>
         </para>
         <para>
@@ -965,7 +965,7 @@
           </para>
           <para>
             <num>(g)</num>
-            <text>Other factors calculated to meet the needs of the individual child and purposes of this chapter.</text>
+            <text>Other factors calculated to meet the needs of the individual child and purposes of <cite path="VII|1">this chapter</cite>.</text>
           </para>
         </para>
         <para>
@@ -1034,11 +1034,11 @@
         </para>
         <para>
           <num>(8)</num>
-          <text>Any party to a proceeding under this chapter may seek and the Children's Court on its own motion may direct the Child Welfare Director or the Assistant Child Welfare Director to seek enforcement of any Court order in any other appropriate Court.</text>
+          <text>Any party to a proceeding under <cite path="VII|1">this chapter</cite> may seek and the Children's Court on its own motion may direct the Child Welfare Director or the Assistant Child Welfare Director to seek enforcement of any Court order in any other appropriate Court.</text>
         </para>
         <para>
           <num>(9)</num>
-          <text>The Children's Court on its own motion may waive, and any party to a proceeding under this chapter may, by motion and for good cause shown, seek a waiver of, continuing jurisdiction over a child and refer a case to any other Court having jurisdiction in such a case.</text>
+          <text>The Children's Court on its own motion may waive, and any party to a proceeding under <cite path="VII|1">this chapter</cite> may, by motion and for good cause shown, seek a waiver of, continuing jurisdiction over a child and refer a case to any other Court having jurisdiction in such a case.</text>
         </para>
         <para>
           <num>(10)</num>
@@ -1284,7 +1284,7 @@
       <section>
         <num>1.603</num>
         <heading>Method For Giving Consent To Voluntary Termination</heading>
-        <text>The Children's Court may terminate the parental rights of a parent who has given his or her informed, voluntary consent by one of the methods provided in this section.</text>
+        <text>The Children's Court may terminate the parental rights of a parent who has given his or her informed, voluntary consent by one of the methods provided in <cite path="§1.603">this section</cite>.</text>
         <para>
           <num>(1)</num>
           <text>The parent appears personally at a hearing before the judge or magistrate and gives his or her consent, the Children's Court explains the effect of a termination of parental rights, and the Court has questioned the parent and found to its satisfaction that the consent is informed and voluntary.</text>
@@ -1307,7 +1307,7 @@
         <heading>Petition For Voluntary Or Involuntary Termination</heading>
         <para>
           <num>(1)</num>
-          <text>A termination of parental rights, whether voluntary or involuntary, may only be granted upon a petition as provided for in this section.</text>
+          <text>A termination of parental rights, whether voluntary or involuntary, may only be granted upon a petition as provided for in <cite path="§1.604">this section</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1451,7 +1451,7 @@
           </para>
           <para>
             <num>(f)</num>
-            <text>The right to demand for cause or pursuant to 2 LCOTCL Chapter 1, a substitution of judge, which if not made before the close of the initial hearing is deemed waived.</text>
+            <text>The right to demand for cause or pursuant to <cite path="II|1">2 LCOTCL Chapter 1</cite>, a substitution of judge, which if not made before the close of the initial hearing is deemed waived.</text>
           </para>
         </para>
         <para>
@@ -1477,7 +1477,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text><u>Court considerations</u>.  In making a decision about the appropriate disposition, the Children's Court shall consider the standard and factors enumerated in this section.</text>
+          <text><u>Court considerations</u>.  In making a decision about the appropriate disposition, the Children's Court shall consider the standard and factors enumerated in <cite path="§1.609">this section</cite>.</text>
           <para>
             <num>(a)</num>
             <text><u>Standard</u>.  The best interests of the child shall be the prevailing factor considered by the Children's Court in determining the disposition of all termination of parental rights proceedings.</text>
@@ -1586,13 +1586,13 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>The petition shall be filed with the Clerk of Court, with copies served, by the petitioner, on the Child Welfare Director or the Assistant Child Welfare Director, family member, caretaker if any, and appropriate agencies of the Tribe which may have an interest in the proceeding or be of assistance to the Court in adjudicating the matter. The petition shall be served in the manner provided for in 2 LCOTCL Chapter 1.</text>
+          <text>The petition shall be filed with the Clerk of Court, with copies served, by the petitioner, on the Child Welfare Director or the Assistant Child Welfare Director, family member, caretaker if any, and appropriate agencies of the Tribe which may have an interest in the proceeding or be of assistance to the Court in adjudicating the matter. The petition shall be served in the manner provided for in <cite path="II|1">2 LCOTCL Chapter 1</cite>.</text>
         </para>
       </section>
       <section>
         <num>1.612</num>
         <heading>Notice Of Hearing On Petition To Suspend Parental Rights</heading>
-        <text>Upon the filing of a petition seeking an order for the suspension of parental rights, the Clerk of Court shall schedule a hearing to be held thereon and shall cause written notice of such hearing to be served upon the petitioner; the child's tribe; the child's parent(s); family members; caretaker, if any; and appropriate agencies of the Tribe which may either have an interest in the proceeding or be of assistance to the Children's Court in adjudicating this matter. Such notice shall be served in the manner provided for in 2 LCOTCL Chapter 1. A Guardian ad Litem may be appointed to assist the Court in determining the best interests of the child. The petitioner(s) biological parents and Guardian ad Litem enjoy automatic party status.</text>
+        <text>Upon the filing of a petition seeking an order for the suspension of parental rights, the Clerk of Court shall schedule a hearing to be held thereon and shall cause written notice of such hearing to be served upon the petitioner; the child's tribe; the child's parent(s); family members; caretaker, if any; and appropriate agencies of the Tribe which may either have an interest in the proceeding or be of assistance to the Children's Court in adjudicating this matter. Such notice shall be served in the manner provided for in <cite path="II|1">2 LCOTCL Chapter 1</cite>. A Guardian ad Litem may be appointed to assist the Court in determining the best interests of the child. The petitioner(s) biological parents and Guardian ad Litem enjoy automatic party status.</text>
       </section>
       <section>
         <num>1.613</num>
@@ -1642,7 +1642,7 @@
           </para>
           <para>
             <num>(d)</num>
-            <text>The rules of evidence of 2 LCOTCL Chapter 3 shall apply.</text>
+            <text>The rules of evidence of <cite path="II|3">2 LCOTCL Chapter 3</cite> shall apply.</text>
           </para>
           <para>
             <num>(e)</num>
@@ -2040,7 +2040,7 @@
           </para>
           <para>
             <num>(b)</num>
-            <text>One of the Tribe's basic inherent sovereign rights is the right to make decisions regarding the best interest of its children including who should provide for the care, custody and control of its children. This section is intended to assure a safe, stable, nurturing, and permanent environment for the Tribe's children and to provide for the protection of our children, our people, and our way of life.</text>
+            <text>One of the Tribe's basic inherent sovereign rights is the right to make decisions regarding the best interest of its children including who should provide for the care, custody and control of its children. <cite path="§1.806">This section</cite> is intended to assure a safe, stable, nurturing, and permanent environment for the Tribe's children and to provide for the protection of our children, our people, and our way of life.</text>
           </para>
           <para>
             <num>(c)</num>
@@ -2112,7 +2112,7 @@
           <text><u>Certification of a Customary Adoption</u>.</text>
           <para>
             <num>(a)</num>
-            <text>A customary adoption, conducted in a manner consistent with this section is a long established, continued, reasonable process and considered by the Children's Court as having the same effect as an adoption order issued by this Court so long as it is in the best interests of the child and the child's Tribe.</text>
+            <text>A customary adoption, conducted in a manner consistent with <cite path="§1.806">this section</cite> is a long established, continued, reasonable process and considered by the Children's Court as having the same effect as an adoption order issued by this Court so long as it is in the best interests of the child and the child's Tribe.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -2137,7 +2137,7 @@
         <heading>Records</heading>
         <para>
           <num>(1)</num>
-          <text>The Children's Court may not disclose the records of any adoption except as provided for in this section.</text>
+          <text>The Children's Court may not disclose the records of any adoption except as provided for in <cite path="§1.808">this section</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2161,11 +2161,11 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Any agreement between a birth mother and an adoptive parent or parents for the payment of fees or expenses, including those expenses referred to in § 1.802 (3) (e) of this ordinance, relating to the adoption of a child may be rescinded by the birth mother at any time up to the time that she gives consent to terminate her parental rights under § 1.603 of this ordinance.  If the birth mother rescinds her consent as provided in this section, the adoptive parent or parents shall be entitled to judgment against the birth mother for all fees and expenses paid to her pursuant to the agreement between them.</text>
+          <text>Any agreement between a birth mother and an adoptive parent or parents for the payment of fees or expenses, including those expenses referred to in § 1.802 (3) (e) of this ordinance, relating to the adoption of a child may be rescinded by the birth mother at any time up to the time that she gives consent to terminate her parental rights under § 1.603 of this ordinance.  If the birth mother rescinds her consent as provided in <cite path="§1.809">this section</cite>, the adoptive parent or parents shall be entitled to judgment against the birth mother for all fees and expenses paid to her pursuant to the agreement between them.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>For purposes of this section "birth mother" means the individual who carries in utero any fetus, however fertilized or implanted.  For purposes of this section "child" means any child, regardless of § 1.201 (8) of this ordinance and of tribal membership or eligibility for membership, who, while in utero, was carried by a birth mother as herein defined.</text>
+          <text>For purposes of <cite path="§1.809">this section</cite> "birth mother" means the individual who carries in utero any fetus, however fertilized or implanted.  For purposes of <cite path="§1.809">this section</cite> "child" means any child, regardless of § 1.201 (8) of this ordinance and of tribal membership or eligibility for membership, who, while in utero, was carried by a birth mother as herein defined.</text>
           <text>
             <u>SUBCHAPTER 1.9 – Administration</u>
           </text>
@@ -2272,7 +2272,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>The Child Welfare Director and the Assistant Child Welfare Director shall have the authority to delegate the authority provided for in this section to such assistants as may be hired by the tribe to work under the Child Welfare Director and the Assistant Child Welfare Director's direction.</text>
+          <text>The Child Welfare Director and the Assistant Child Welfare Director shall have the authority to delegate the authority provided for in <cite path="§1.902">this section</cite> to such assistants as may be hired by the tribe to work under the Child Welfare Director and the Assistant Child Welfare Director's direction.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -2330,7 +2330,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Any petition filed under this Section shall cite the specific subsection of section 6.51 upon which the petitioner alleges jurisdiction, and shall allege the specific facts upon which the petitioner asserts jurisdiction exists.  No petition shall be sufficient if it merely reiterates the language of the subsection invoked.</text>
+          <text>Any petition filed under <cite path="§1.1005">this Section</cite> shall cite the specific subsection of section 6.51 upon which the petitioner alleges jurisdiction, and shall allege the specific facts upon which the petitioner asserts jurisdiction exists.  No petition shall be sufficient if it merely reiterates the language of the subsection invoked.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -2381,7 +2381,7 @@
           </para>
           <para>
             <num>(f)</num>
-            <text>The right to demand for cause pursuant to 2 LCOTCL Chapter 1, or to request on any other ground, a substitution of judge, which if not made before the close of the initial hearing in the initial matter involving the subject minor, is deemed waived, and any request for substitution that 2 LCOTCL Chapter 1 does not require to be granted shall be decided in the discretion of the judge.</text>
+            <text>The right to demand for cause pursuant to <cite path="II|1">2 LCOTCL Chapter 1</cite>, or to request on any other ground, a substitution of judge, which if not made before the close of the initial hearing in the initial matter involving the subject minor, is deemed waived, and any request for substitution that <cite path="II|1">2 LCOTCL Chapter 1</cite> does not require to be granted shall be decided in the discretion of the judge.</text>
           </para>
         </para>
       </section>
@@ -2461,7 +2461,7 @@
           </para>
           <para>
             <num>(g)</num>
-            <text>Other factors calculated to meet the needs of the individual child and purposes of this chapter.</text>
+            <text>Other factors calculated to meet the needs of the individual child and purposes of <cite path="VII|1">this chapter</cite>.</text>
           </para>
         </para>
         <para>
@@ -2502,11 +2502,11 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>Any party to a proceeding under this chapter may seek and the Children's Court on its own motion may direct the Behavioral Health Director to seek enforcement of any Court order in any other appropriate Court.</text>
+          <text>Any party to a proceeding under <cite path="VII|1">this chapter</cite> may seek and the Children's Court on its own motion may direct the Behavioral Health Director to seek enforcement of any Court order in any other appropriate Court.</text>
         </para>
         <para>
           <num>(8)</num>
-          <text>The Children's Court on its own motion may waive, and any party to a proceeding under this chapter may, by motion and for good cause shown, seek a waiver of, continuing jurisdiction over a child and refer a case to any other Court having jurisdiction in such a case.</text>
+          <text>The Children's Court on its own motion may waive, and any party to a proceeding under <cite path="VII|1">this chapter</cite> may, by motion and for good cause shown, seek a waiver of, continuing jurisdiction over a child and refer a case to any other Court having jurisdiction in such a case.</text>
         </para>
         <para>
           <num>(9)</num>
@@ -2631,7 +2631,7 @@
     <prefix>Chapter</prefix>
     <num>3</num>
     <heading>Guardianship Of Adults And Protective Placement Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text class="center"><strong>Preamble</strong></text>
+    <text>Preamble</text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, § 1 (s), (t), and (u) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and providing for the maintenance of law and order and the administration of justice …" Article V, § 1 (s); "provide for the regulation of … domestic relations matters by ordinances or resolution" Article V, § 1 (t); "provide for the appointment of guardians for … mental incompetents by ordinance or resolution" Article V, § 1 (u). The Lac Courte Oreilles Band of Lake Superior Chippewa Indians recognizes the need to promote the traditional value of respect for adults in need of protective placement or guardianship. The Tribe recognizes that adults that suffer from physical or mental disability, incapacity, other disability, or are substantially impaired whether from age, disease, alcohol, substance abuse, or psychological problems all deserve to lead a life of safety and respect. The dignity, self-reliance and rights of adults in need of protective placement or guardianship must be respected by family members, the Tribal community, employees of the Tribe and all people who are part of or inter-act with the Tribe and its adults in need of protective placement or guardianship. It is the purpose of this ordinance to protect the health, safety and welfare of all persons within the jurisdiction of the Lac Courte Oreilles Tribe and to codify a process and procedure governing the appointment of a Guardian for Adults who are incapable of managing their own affairs, require assistance in conducting business, or require assistance in obtaining necessary services. Thus, it is in the best interest of and serves the welfare of the Tribe to protect adults in need of protective placement or guardianship.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -2709,7 +2709,7 @@
       <section>
         <num>3.201</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in this Section shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="§3.201">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(1)</num>
           <text><strong>"Guardian"</strong> means an individual who is appointed by any Court to manage the income and assets and provide for the essential requirements and safety and the personal needs of an individual found to be incompetent;</text>
@@ -3027,7 +3027,7 @@
           </para>
           <para>
             <num>(d)</num>
-            <text>If the guardian violates any provision of this chapter.</text>
+            <text>If the guardian violates any provision of <cite path="VII|3">this chapter</cite>.</text>
           </para>
         </para>
         <para>
@@ -3049,7 +3049,7 @@
     <prefix>Chapter</prefix>
     <num>4</num>
     <heading>Elders And Vulnerable Adults Protection Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text class="center"><strong>Preamble</strong></text>
+    <text>Preamble</text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to promote the traditional value of respect for tribal elders and vulnerable adults which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, § 1(s) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and providing for the maintenance of law and order and the administration of justice …" It is the purpose of this ordinance to protect elders and vulnerable adults within the jurisdiction of the Lac Courte Oreilles Tribe from abuse and neglect as defined in this ordinance.  This ordinance provides for: (a) reporting abuse or neglect to the proper agency; (b) receiving reports of and investigating suspected abuse or neglect; and (c) delivering elder protection services.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -3131,7 +3131,7 @@
       <section>
         <num>4.201</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in this Section shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="§4.201">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(1)</num>
           <text><strong>"Abuse"</strong> means:</text>
@@ -3350,7 +3350,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Any person who violates subsections (1) or (2) of this section shall be enjoined from such activity and shall be subject to a civil penalty of up to $500 per occurrence and may result in the loss of tribal privileges.  If a tribal employee violates subsections (1) or (2) of this section, he/she shall be subject to appropriate disciplinary action as allowed by the Tribe's personnel policies and procedures.  The penalty shall be assessed by the Tribal Court only after petition, notice, the opportunity to be heard, and a determination that either interference or retaliation as set out in this Section occurred.</text>
+          <text>Any person who violates subsections (1) or (2) of <cite path="§4.306">this section</cite> shall be enjoined from such activity and shall be subject to a civil penalty of up to $500 per occurrence and may result in the loss of tribal privileges.  If a tribal employee violates subsections (1) or (2) of <cite path="§4.306">this section</cite>, he/she shall be subject to appropriate disciplinary action as allowed by the Tribe's personnel policies and procedures.  The penalty shall be assessed by the Tribal Court only after petition, notice, the opportunity to be heard, and a determination that either interference or retaliation as set out in <cite path="§4.306">this Section</cite> occurred.</text>
           <text>
             <u>SUBCHAPTER 4.4 – Elder Protective Services and Placement</u>
           </text>
@@ -3444,11 +3444,11 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>If there is good cause to believe that an emergency exists and that an elder or vulnerable adult is at risk of immediate and irreparable physical harm, the LCO Elder Protective Services investigator or law enforcement shall immediately protect the elder or vulnerable adult, including, where necessary, transporting the elder or vulnerable adult for medical treatment or to an appropriate facility.  Immediately after the elder or other vulnerable adult is protected, a petition for an emergency protection order shall be filed and the procedures set out in this section will be followed.</text>
+          <text>If there is good cause to believe that an emergency exists and that an elder or vulnerable adult is at risk of immediate and irreparable physical harm, the LCO Elder Protective Services investigator or law enforcement shall immediately protect the elder or vulnerable adult, including, where necessary, transporting the elder or vulnerable adult for medical treatment or to an appropriate facility.  Immediately after the elder or other vulnerable adult is protected, a petition for an emergency protection order shall be filed and the procedures set out in <cite path="§4.501">this section</cite> will be followed.</text>
         </para>
         <para>
           <num>(8)</num>
-          <text>Any person who acts in good faith pursuant to this section is immune from any civil or criminal suit based on that person's actions.</text>
+          <text>Any person who acts in good faith pursuant to <cite path="§4.501">this section</cite> is immune from any civil or criminal suit based on that person's actions.</text>
           <text>
             <u>SUBCHAPTER 4.6 – Rights and Privileges</u>
           </text>
@@ -3503,7 +3503,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Any person who violates any portion of this section shall be subject to a civil penalty of up to $1,000 per occurrence and, if a tribal employee, to appropriate disciplinary actions as allowed by the Tribe's personnel policies and procedures.  The penalty shall be assessed by the Tribal Court after petition, notice, opportunity to be heard, and a determination that a violation has occurred.</text>
+          <text>Any person who violates any portion of <cite path="§4.702">this section</cite> shall be subject to a civil penalty of up to $1,000 per occurrence and, if a tribal employee, to appropriate disciplinary actions as allowed by the Tribe's personnel policies and procedures.  The penalty shall be assessed by the Tribal Court after petition, notice, opportunity to be heard, and a determination that a violation has occurred.</text>
         </para>
       </section>
       <section>
@@ -3574,7 +3574,7 @@
     <prefix>Chapter</prefix>
     <num>5</num>
     <heading>Aging Administration Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text class="center"><strong>Preamble</strong></text>
+    <text>Preamble</text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians relating to the delivery of elder services which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, §§ 1(l) and (m) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "organize, charter and regulate any association or group, including a housing authority, for the purpose of providing social or economic benefits to the members of the Band or residents of the reservation" Article V, § 1 (l);  and "delegate to subordinate boards, officers, committees or cooperative associations which are open to all members of the Band any of the foregoing powers, reserving the right to review any action taken by virtue of such delegated powers" Article V, § 1 (m). This ordinance promotes the well-being of older individuals by providing services and programs designed to help them live independently in their homes and communities. This ordinance also empowers the Tribal government to receive funds form the Federal and State governments for supportive services for individuals over the age of 55.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -3645,7 +3645,7 @@
       <section>
         <num>5.201</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in this Section shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="§5.201">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(1)</num>
           <text>"Aging Director" or "Director" means the individual employed by the Tribal Governing Board to manage the affairs of the Aging Unit as provided for in this ordinance and other relevant documents.</text>
@@ -3801,7 +3801,7 @@
       <section>
         <num>5.303</num>
         <heading>Elders Advisory Council On Aging</heading>
-        <text>The Elders Advisory Council on Aging is hereby created to act in an advisory capacity to the Tribal Governing Board and the Aging Director and shall have those powers as stated in this section:</text>
+        <text>The Elders Advisory Council on Aging is hereby created to act in an advisory capacity to the Tribal Governing Board and the Aging Director and shall have those powers as stated in <cite path="§5.303">this section</cite>:</text>
         <para>
           <num>(1)</num>
           <text><u>Official Powers and Duties</u>. The Elders Advisory Council on Aging shall advise the Aging Director on all matters relating to the delivery of services within the program area of operation and offer specific recommendations to the Aging Unit. Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby establishes a public body known as the Lac Courte Oreilles Elders Advisory Council on Aging (hereinafter referred to as the Elders Advisory Council on Aging), and pursuant to this ordinance hereby establishes the following purposes, powers and duties of the Elders Advisory Council on Aging:</text>

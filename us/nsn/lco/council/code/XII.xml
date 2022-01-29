@@ -7,7 +7,7 @@
     <prefix>Chapter</prefix>
     <num>1</num>
     <heading>Gaming Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text class="center"><strong>Preamble</strong></text>
+    <text>Preamble</text>
     <text>The Tribe declares that the public good and the welfare of the Tribe requires the enactment of this ordinance in order to improve the Tribe's economic self-sufficiency, to enable the Tribe to better serve the social, economic, educational, and health and safety needs of its members and visitors, and to provide its members with opportunities to improve their own economic circumstances, which is enacted pursuant to the Tribe's inherent sovereign authority which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, §§ 1 (m) and (n) of the Amended Constitution and By-laws of the Lac Courte Oreilles Tribe of Lake Superior Chippewa Indians empowers the Tribal Governing Board: "to delegate to subordinate boards, officers, committees or cooperative associations which are open to all members of the Band any of the foregoing powers, reserving the right to review any action taken by virtue of such delegated powers" Article V, § 1 (m); and "regulate, by enactment of ordinances, the conduct of business within the territory of the Band, including the power to impose taxes or license fees upon members and non-members doing business within the reservation" Article V, § 1 (n).</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -137,7 +137,7 @@
       <section>
         <num>1.201</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in this section shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="§1.201">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(1)</num>
           <text><strong>"Act"</strong> means the <em>Indian Gaming Regulatory Act</em>, P.L. 100 – 497, 25 U.S.C. § 2701, <em>et seq.</em></text>
@@ -558,7 +558,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text><u>Enforcement Procedures</u>. Jurisdiction over violations contained in this section are hereby conferred upon the Lac Courte Oreilles Tribal Court.</text>
+          <text><u>Enforcement Procedures</u>. Jurisdiction over violations contained in <cite path="§1.302">this section</cite> are hereby conferred upon the Lac Courte Oreilles Tribal Court.</text>
         </para>
       </section>
       <section>
@@ -700,7 +700,7 @@
       <section>
         <num>1.403</num>
         <heading>Board Of Gaming Commissioners</heading>
-        <text>The Board of Gaming Commissioners is hereby created to act in an advisory capacity to the Tribal Governing Board and the Gaming Commission Executive Director and shall have those powers as stated in this section:</text>
+        <text>The Board of Gaming Commissioners is hereby created to act in an advisory capacity to the Tribal Governing Board and the Gaming Commission Executive Director and shall have those powers as stated in <cite path="§1.403">this section</cite>:</text>
         <para>
           <num>(1)</num>
           <text><u>Official Powers and Duties</u>. The Board of Gaming Commissioners shall carry out the following official powers and duties:</text>
@@ -1064,7 +1064,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>No person under the age of 18 may purchase a ticket, make a wager, or otherwise participate in any Class III game; provided that this section shall not prohibit a person 18 years old or older from giving a ticket or share to a person under the age of 18 as a gift.</text>
+          <text>No person under the age of 18 may purchase a ticket, make a wager, or otherwise participate in any Class III game; provided that <cite path="§1.503">this section</cite> shall not prohibit a person 18 years old or older from giving a ticket or share to a person under the age of 18 as a gift.</text>
         </para>
         <para>
           <num>(5)</num>
@@ -1080,7 +1080,7 @@
         </para>
         <para>
           <num>(8)</num>
-          <text>All gaming shall be conducted on a cash basis. Except as a herein provided, no person shall be extended credit for gaming by any tribal gaming facility, or shall the Tribe permit any other person of offer such credit for a fee. This section shall not restrict the right of the Tribe to install or accept bank card or credit card transactions in the same manner as would normally be permitted at any retail business within the State.</text>
+          <text>All gaming shall be conducted on a cash basis. Except as a herein provided, no person shall be extended credit for gaming by any tribal gaming facility, or shall the Tribe permit any other person of offer such credit for a fee. <cite path="§1.503">This section</cite> shall not restrict the right of the Tribe to install or accept bank card or credit card transactions in the same manner as would normally be permitted at any retail business within the State.</text>
         </para>
         <para>
           <num>(9)</num>
@@ -1156,7 +1156,7 @@
         <heading>Licenses For Key Employees And Primary Management Officials</heading>
         <para>
           <num>(1)</num>
-          <text><u>Procedures for Conducting Background Investigations</u>. For the purpose of this section, the following definitions apply:</text>
+          <text><u>Procedures for Conducting Background Investigations</u>. For the purpose of <cite path="§1.506">this section</cite>, the following definitions apply:</text>
           <para>
             <num>(a)</num>
             <text><strong>"Key Employee"</strong> means a person who performs one or more of the following functions:</text>

@@ -7,7 +7,7 @@
     <prefix>Chapter</prefix>
     <num>1</num>
     <heading>Citizenship Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text class="center"><strong>Preamble</strong></text>
+    <text>Preamble</text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to determine its Tribal citizenship which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article II, §§ 2, 3 and 4 of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the tribal governing board to "enact the ordinance subject to approval of the Secretary of the Interior stating the criteria for future membership and adoption of the new members…," establish that "Any person who has been rejected for enrollment as a member of the Band shall have the right of appeal to the Secretary of the Interior, whose decision shall be final" and "enact ordinances governing loss of membership..." It is the purpose of this ordinance to: (1) define and regulate membership in the Lac Courte Oreilles Tribe in accordance with the Constitution and By-Laws of the Lac Courte Oreilles Tribe; and (2) establish an orderly enrollment procedure which affords due process of Tribal law to all persons.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -528,7 +528,7 @@
     <prefix>Chapter</prefix>
     <num>2</num>
     <heading>Citizenship Committee By-Laws Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text class="center"><strong>Preamble</strong></text>
+    <text>Preamble</text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to determine its Tribal citizenship which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article II, §§ 2, 3 and 4 of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to enact an ordinance pertaining to citizenship. A critical component of the implementation of the Citizenship Code is the establishment of the Citizenship Committee. The responsibility of the Citizenship Committee is to review applications for Tribal citizenship, accept relinquishment requests, accept requests to rescind relinquishment, and recommend the acceptance or rejection of Citizenship applications or renunciation petitions to the Tribal Governing Board.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -682,7 +682,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text><u>General Powers</u>. The day-to-day activities of the Committee shall be managed by the members of the Committee.  The members of the Committee shall be vested with the authority necessary to effectuate its powers as delegated by the Citizenship Code, 4 LCOTCL Chapter 1, and as set forth in these By-Laws.  The members of the Committee are bound by a code of ethics signed by each member of the Committee.</text>
+          <text><u>General Powers</u>. The day-to-day activities of the Committee shall be managed by the members of the Committee.  The members of the Committee shall be vested with the authority necessary to effectuate its powers as delegated by the Citizenship Code, <cite path="IV|1">4 LCOTCL Chapter 1</cite>, and as set forth in these By-Laws.  The members of the Committee are bound by a code of ethics signed by each member of the Committee.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -877,7 +877,7 @@
           <text>All Citizenship Committee activity is highly confidential.  Committee members and employees of the Citizenship Services Department are to respect the confidentiality of all records, conversations, and other interactions.</text>
           <para>
             <num>(a)</num>
-            <text>Members of the Citizenship Committee shall sign a confidentiality agreement 	and shall be bound by the terms of such agreement. Violation of this section shall be 	reported to the Citizenship Committee who shall immediately investigate and issue a 	written finding to the Tribal Governing Board. Such finding may be the basis for 	removal from the Citizenship Committee.</text>
+            <text>Members of the Citizenship Committee shall sign a confidentiality agreement 	and shall be bound by the terms of such agreement. Violation of <cite path="§2.304">this section</cite> shall be 	reported to the Citizenship Committee who shall immediately investigate and issue a 	written finding to the Tribal Governing Board. Such finding may be the basis for 	removal from the Citizenship Committee.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -1005,7 +1005,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>The failure of Citizenship Committee members to comply with this section shall result in a recommendation of removal from the Committee in accordance with § 2.105 (10)(b) of this ordinance.</text>
+          <text>The failure of Citizenship Committee members to comply with <cite path="§2.406">this section</cite> shall result in a recommendation of removal from the Committee in accordance with § 2.105 (10)(b) of this ordinance.</text>
         </para>
       </section>
     </container>

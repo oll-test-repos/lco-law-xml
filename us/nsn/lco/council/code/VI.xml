@@ -7,7 +7,7 @@
     <prefix>Chapter</prefix>
     <num>1</num>
     <heading>Reservation / Tribal Land Conservation Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text class="center"><strong>Preamble</strong></text>
+    <text>Preamble</text>
     <text>Hunting, fishing and gathering has always been central to the Ojibwe way of life. As such, it is important that this ordinance fulfills two equally important goals. First, it must preserve <em>gidizhitwaawininaan</em> (our traditions and customs). Second, it must regulate the modern realities of hunting, fishing and gathering that our ancestors did not have to contemplate, such as ensuring Tribal members' safety from gunfire in residential areas. In order to ensure that this ordinance is interpreted in the spirit of <em>gidizhitwaawininaan</em>, statements of tradition and custom are placed throughout this ordinance. It is hoped that these statements will help to both preserve our past and provide guidance and education for our future.</text>
     <text class="center">
       <strong>Gidizhitwaawininaan</strong>
@@ -125,7 +125,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>No member shall fail to comply with the terms and conditions of a permit issued pursuant to this section. Permits may be issued for funerals, feasts, weddings, and any other occasion deemed appropriate by the Tribal Governing Board. The requesting member may use the services of another member to hunt an animal for them, in which case both the requesting member and the assisting person must be named on the permit.</text>
+          <text>No member shall fail to comply with the terms and conditions of a permit issued pursuant to <cite path="§1.109">this section</cite>. Permits may be issued for funerals, feasts, weddings, and any other occasion deemed appropriate by the Tribal Governing Board. The requesting member may use the services of another member to hunt an animal for them, in which case both the requesting member and the assisting person must be named on the permit.</text>
         </para>
       </section>
       <section>
@@ -151,7 +151,7 @@
       <section>
         <num>1.201</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in this Section shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="§1.201">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(1)</num>
           <text><strong>"Adequate Backstop"</strong> means a condition upon which a hunter should know that their discharged bullets will fall harmless.</text>
@@ -382,7 +382,7 @@
         </para>
         <para>
           <num>(48)</num>
-          <text><strong>"Non-Timber Forest Products"</strong> means any of the following miscellaneous forest products: bark, boughs, firewood, lodgepoles, and sap as further defined in this section.</text>
+          <text><strong>"Non-Timber Forest Products"</strong> means any of the following miscellaneous forest products: bark, boughs, firewood, lodgepoles, and sap as further defined in <cite path="§1.201">this section</cite>.</text>
         </para>
         <para>
           <num>(49)</num>
@@ -482,7 +482,7 @@
         </para>
         <para>
           <num>(71)</num>
-          <text><strong>"Subsistence Uses"</strong> shall mean the use of natural resources for direct personal or family consumption by members as food, medicine, shelter, fuel, clothing, tools or transportation; for the making or selling of handicraft articles; or for barter.  For purposes of this section, the term:</text>
+          <text><strong>"Subsistence Uses"</strong> shall mean the use of natural resources for direct personal or family consumption by members as food, medicine, shelter, fuel, clothing, tools or transportation; for the making or selling of handicraft articles; or for barter.  For purposes of <cite path="§1.201">this section</cite>, the term:</text>
           <para>
             <num>(a)</num>
             <text><strong>"family"</strong> means all persons related by blood, wenh'enh, doodem, marriage, or adoption, or any person living within the household on a permanent basis;</text>
@@ -682,7 +682,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>No member or non-member shall use, set, lay or prepare in any reservation waters any lime, poison, fish berries, or any other substance deleterious to fish life; or use baits containing poison of any description in any reservation forests, fields or other places where such baits might destroy or cause the destruction of wild animals; and the possession of any such poison, poison baits or substances deleterious to wild animals by a member or non-member while harvesting any resource on the reservation is prima facie evidence of a violation of this section.</text>
+          <text>No member or non-member shall use, set, lay or prepare in any reservation waters any lime, poison, fish berries, or any other substance deleterious to fish life; or use baits containing poison of any description in any reservation forests, fields or other places where such baits might destroy or cause the destruction of wild animals; and the possession of any such poison, poison baits or substances deleterious to wild animals by a member or non-member while harvesting any resource on the reservation is prima facie evidence of a violation of <cite path="§1.306">this section</cite>.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -879,11 +879,11 @@
           </para>
           <para>
             <num>(d)</num>
-            <text>This section shall not prohibit hunting over salt as bait.</text>
+            <text><cite path="§1.321">This section</cite> shall not prohibit hunting over salt as bait.</text>
           </para>
           <para>
             <num>(e)</num>
-            <text>This section shall not prohibit hunting over bait materials deposited by natural vegetation or found solely as a result of normal agricultural practices.</text>
+            <text><cite path="§1.321">This section</cite> shall not prohibit hunting over bait materials deposited by natural vegetation or found solely as a result of normal agricultural practices.</text>
           </para>
         </para>
       </section>
@@ -1017,7 +1017,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>No member or non-member shall violate the terms, conditions, or restrictions of an emergency closure order issued pursuant to this section.</text>
+          <text>No member or non-member shall violate the terms, conditions, or restrictions of an emergency closure order issued pursuant to <cite path="§1.330">this section</cite>.</text>
         </para>
       </section>
       <section>
@@ -1216,7 +1216,7 @@
       <section>
         <num>1.410</num>
         <heading>Civil Damages</heading>
-        <text>In addition to any other penalty allowed by this ordinance, the tribal court may award to the Tribe or, in addition to an action to impose penalties, the Tribe may bring a civil action for recovery of, damages against any person unlawfully killing, wounding, catching, taking, trapping, or having unlawfully in possession any of the following named protected miscellaneous forest products, wild rice, wild animals, or any part thereof, and the sum assessed for damages for each miscellaneous forest product, wild rice, or wild animal, shall not be less than the amount stated in this section:</text>
+        <text>In addition to any other penalty allowed by this ordinance, the tribal court may award to the Tribe or, in addition to an action to impose penalties, the Tribe may bring a civil action for recovery of, damages against any person unlawfully killing, wounding, catching, taking, trapping, or having unlawfully in possession any of the following named protected miscellaneous forest products, wild rice, wild animals, or any part thereof, and the sum assessed for damages for each miscellaneous forest product, wild rice, or wild animal, shall not be less than the amount stated in <cite path="§1.410">this section</cite>:</text>
         <para>
           <num>(1)</num>
           <text>Any endangered and threatened species protected under this ordinance, $875.00.</text>
@@ -1484,7 +1484,7 @@
       <section>
         <num>1.606</num>
         <heading>Deer Seasons; Specific Regulations</heading>
-        <text>Upon the determination of the tribal conservation department and the corresponding approval of the Tribal Governing Board, the deer hunting season may be changed if it is in the best interest of the Tribe to do so. All dates given in this section are inclusive:</text>
+        <text>Upon the determination of the tribal conservation department and the corresponding approval of the Tribal Governing Board, the deer hunting season may be changed if it is in the best interest of the Tribe to do so. All dates given in <cite path="§1.606">this section</cite> are inclusive:</text>
         <para>
           <num>(1)</num>
           <text><u>Closed Season for Deer Hunting</u>. Except as provided in subs. (3), no member or duly authorized non-member shall hunt deer from the first Monday following New Year's Day to the first Sunday following July 4th.</text>
@@ -1499,11 +1499,11 @@
         </para>
         <para>
           <num>(4)</num>
-          <text><u>Tradition and Custom</u>. Notwithstanding any other provision of this section, nothing in this section shall be construed to infringe upon the issuance of a permit according to the traditions and custom of the Tribe pursuant to § 1.109 of this ordinance.</text>
+          <text><u>Tradition and Custom</u>. Notwithstanding any other provision of <cite path="§1.606">this section</cite>, nothing in <cite path="§1.606">this section</cite> shall be construed to infringe upon the issuance of a permit according to the traditions and custom of the Tribe pursuant to § 1.109 of this ordinance.</text>
         </para>
         <para>
           <num>(5)</num>
-          <text><u>Emergency Closure</u>.  Notwithstanding any other provision of this section, nothing in this section shall be construed to authorize deer hunting or the opening of a deer hunting season contrary to an Emergency Closure Order issued pursuant to § 1.330 of this ordinance.</text>
+          <text><u>Emergency Closure</u>.  Notwithstanding any other provision of <cite path="§1.606">this section</cite>, nothing in <cite path="§1.606">this section</cite> shall be construed to authorize deer hunting or the opening of a deer hunting season contrary to an Emergency Closure Order issued pursuant to § 1.330 of this ordinance.</text>
         </para>
       </section>
       <section>
@@ -1621,7 +1621,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Notwithstanding any other provision of this section, nothing in this section shall be construed to infringe upon the issuance of permit according to the traditions and custom of the Tribe pursuant to § 1.109 of this ordinance.</text>
+          <text>Notwithstanding any other provision of <cite path="§1.702">this section</cite>, nothing in <cite path="§1.702">this section</cite> shall be construed to infringe upon the issuance of permit according to the traditions and custom of the Tribe pursuant to § 1.109 of this ordinance.</text>
         </para>
       </section>
     </container>
@@ -1671,7 +1671,7 @@
       <section>
         <num>1.807</num>
         <heading>Small Game Seasons; Specific Regulations</heading>
-        <text>Upon the determination of the tribal conservation department and the corresponding approval of the Tribal Governing Board, the small game harvest season may be changed if it is in the best interest of the Tribe to do so. All dates given in this section are inclusive:</text>
+        <text>Upon the determination of the tribal conservation department and the corresponding approval of the Tribal Governing Board, the small game harvest season may be changed if it is in the best interest of the Tribe to do so. All dates given in <cite path="§1.807">this section</cite> are inclusive:</text>
         <para>
           <num>(1)</num>
           <text>Annual small game trapping seasons for the time period provided in subs. (2), and annual small game hunting seasons for the time period provided in subs. (3), are hereby established.</text>
@@ -1690,11 +1690,11 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Notwithstanding any other provision of this section, nothing in this section shall be construed to infringe upon the issuance of a permit according to the traditions and custom of the Tribe pursuant to § 1.109 of this ordinance.</text>
+          <text>Notwithstanding any other provision of <cite path="§1.807">this section</cite>, nothing in <cite path="§1.807">this section</cite> shall be construed to infringe upon the issuance of a permit according to the traditions and custom of the Tribe pursuant to § 1.109 of this ordinance.</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>Notwithstanding any other provision of this section, nothing in this section shall be construed to authorize small game harvest or the opening of a small game harvest season contrary to an Emergency Closure Order issued pursuant to § 1.330 of this ordinance.</text>
+          <text>Notwithstanding any other provision of <cite path="§1.807">this section</cite>, nothing in <cite path="§1.807">this section</cite> shall be construed to authorize small game harvest or the opening of a small game harvest season contrary to an Emergency Closure Order issued pursuant to § 1.330 of this ordinance.</text>
         </para>
       </section>
       <section>
@@ -1729,7 +1729,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Notwithstanding any other provision of this section, nothing in this section shall be construed to infringe upon the issuance of permit according to the traditions and custom of the Tribe pursuant to § 1.109 of this ordinance.</text>
+          <text>Notwithstanding any other provision of <cite path="§1.811">this section</cite>, nothing in <cite path="§1.811">this section</cite> shall be construed to infringe upon the issuance of permit according to the traditions and custom of the Tribe pursuant to § 1.109 of this ordinance.</text>
         </para>
       </section>
       <section>
@@ -1961,7 +1961,7 @@
         <heading>Possession And Sale Of Live Small Game Animals</heading>
         <para>
           <num>(1)</num>
-          <text>As used in this section, the following terms shall be construed to apply as follows:</text>
+          <text>As used in <cite path="§1.819">this section</cite>, the following terms shall be construed to apply as follows:</text>
           <para>
             <num>(a)</num>
             <text>"Control temporarily" means to possess a small game animal for a limited period of time for one of the following purposes:</text>
@@ -2065,7 +2065,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <text><u>Other Restrictions Applicable</u>. While hunting wild turkeys, no member shall fail to comply with the other restrictions applicable to hunting generally or to small game hunting specifically, which are not modified or otherwise affected by the provisions of this section.</text>
+          <text><u>Other Restrictions Applicable</u>. While hunting wild turkeys, no member shall fail to comply with the other restrictions applicable to hunting generally or to small game hunting specifically, which are not modified or otherwise affected by the provisions of <cite path="§1.824">this section</cite>.</text>
         </para>
         <para>
           <num>(8)</num>
@@ -2117,7 +2117,7 @@
       <section>
         <num>1.905</num>
         <heading>Seasons, Methods, Bag Limits, And Size Limits; Specific Regulations</heading>
-        <text>Upon the determination of the tribal conservation department and the corresponding approval of the Tribal Governing Board, the fishing season may be changed if it is in the best interest of the Tribe to do so. All dates given in this section are inclusive:</text>
+        <text>Upon the determination of the tribal conservation department and the corresponding approval of the Tribal Governing Board, the fishing season may be changed if it is in the best interest of the Tribe to do so. All dates given in <cite path="§1.905">this section</cite> are inclusive:</text>
         <para>
           <num>(1)</num>
           <text>Annual fishing seasons for the time period provided in subs. (2), are hereby established.</text>
@@ -2132,11 +2132,11 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Notwithstanding any other provision of this section, nothing in this section shall be construed to infringe upon the issuance of a permit according to the traditions and custom of the Tribe pursuant to § 1.109 of this ordinance.</text>
+          <text>Notwithstanding any other provision of <cite path="§1.905">this section</cite>, nothing in <cite path="§1.905">this section</cite> shall be construed to infringe upon the issuance of a permit according to the traditions and custom of the Tribe pursuant to § 1.109 of this ordinance.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>Notwithstanding any other provision of this section, nothing in this section shall be construed to authorize small game harvest or the opening of a small game harvest season contrary to an Emergency Closure Order issued pursuant to § 1.330 of this ordinance.</text>
+          <text>Notwithstanding any other provision of <cite path="§1.905">this section</cite>, nothing in <cite path="§1.905">this section</cite> shall be construed to authorize small game harvest or the opening of a small game harvest season contrary to an Emergency Closure Order issued pursuant to § 1.330 of this ordinance.</text>
         </para>
       </section>
       <section>
@@ -2565,7 +2565,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>Nothing in this ordinance shall be construed to prohibit a member from selling to any person minnows lawfully taken pursuant to this section.</text>
+          <text>Nothing in this ordinance shall be construed to prohibit a member from selling to any person minnows lawfully taken pursuant to <cite path="§1.917">this section</cite>.</text>
         </para>
       </section>
       <section>
@@ -2588,13 +2588,13 @@
             <text>(i) The tribal conservation department may issue a permit to a member or duly authorized non-member for harvesting only the spawn of any fish without harvesting the carcass of the fish upon such terms and conditions as it deems necessary or appropriate.</text>
             <para>
               <num>(ii)</num>
-              <text>No member shall fail to comply with the terms and conditions of any permit issued pursuant to this section.</text>
+              <text>No member shall fail to comply with the terms and conditions of any permit issued pursuant to <cite path="§1.919">this section</cite>.</text>
             </para>
           </para>
         </para>
         <para>
           <num>(3)</num>
-          <text>Nothing in this section shall preclude the Tribe, tribal conservation department or the Commission's Biological Services Division, or their employees or agents, from stocking fish in any body of water pursuant to a management plan.</text>
+          <text>Nothing in <cite path="§1.919">this section</cite> shall preclude the Tribe, tribal conservation department or the Commission's Biological Services Division, or their employees or agents, from stocking fish in any body of water pursuant to a management plan.</text>
         </para>
       </section>
       <section>
@@ -2697,7 +2697,7 @@
           </para>
           <para>
             <num>(e)</num>
-            <text>By the use or aid of live birds as decoys; although not limited to, it shall be a violation of this section for any person to take migratory waterfowl in an area where tame or captive live ducks or geese are present unless such birds are and have been for a period of ten (10) consecutive days prior to such taking, confined within an enclosure which substantially reduces the audibility of their calls and totally conceals such birds from the sight of wild migratory waterfowl;</text>
+            <text>By the use or aid of live birds as decoys; although not limited to, it shall be a violation of <cite path="§1.1007">this section</cite> for any person to take migratory waterfowl in an area where tame or captive live ducks or geese are present unless such birds are and have been for a period of ten (10) consecutive days prior to such taking, confined within an enclosure which substantially reduces the audibility of their calls and totally conceals such birds from the sight of wild migratory waterfowl;</text>
           </para>
         </para>
       </section>
@@ -2781,7 +2781,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>In issuing a permit pursuant to this section, the Tribal Governing Board may impose such conditions and requirements as it deems appropriate or necessary.</text>
+          <text>In issuing a permit pursuant to <cite path="§1.1015">this section</cite>, the Tribal Governing Board may impose such conditions and requirements as it deems appropriate or necessary.</text>
         </para>
       </section>
       <section>
@@ -2797,7 +2797,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text><u>Possession limit</u>.  No member or duly authorized non-member shall possess more migratory birds taken within the exterior boundaries of the Lac Courte Oreilles Reservation and off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe than the possession limit or the aggregate possession limit, whenever established.  This section applies only to transportation.  Possession limits for the purposes of this subsection do not include birds which are cleaned, dressed, and at the member or duly authorized non-member's primary residence.</text>
+          <text><u>Possession limit</u>.  No member or duly authorized non-member shall possess more migratory birds taken within the exterior boundaries of the Lac Courte Oreilles Reservation and off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe than the possession limit or the aggregate possession limit, whenever established.  <cite path="§1.1016">This section</cite> applies only to transportation.  Possession limits for the purposes of this subsection do not include birds which are cleaned, dressed, and at the member or duly authorized non-member's primary residence.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -2976,7 +2976,7 @@
         </para>
         <para>
           <num>(8)</num>
-          <text><u>Termination of Possession</u>. Subject to all other requirements of this chapter, the possession of any migratory bird collected by any member or duly authorized non-member shall be deemed to have ceased when such bird has been given to the Tribe, Commission or has been delivered by him or her to another person as a gift.</text>
+          <text><u>Termination of Possession</u>. Subject to all other requirements of <cite path="VI|1">this chapter</cite>, the possession of any migratory bird collected by any member or duly authorized non-member shall be deemed to have ceased when such bird has been given to the Tribe, Commission or has been delivered by him or her to another person as a gift.</text>
         </para>
         <para>
           <num>(9)</num>
@@ -2988,7 +2988,7 @@
         </para>
         <para>
           <num>(10)</num>
-          <text><u>Failure to Comply with Permit Terms and Conditions</u>. No member or duly authorized non-member shall fail to comply with the terms and conditions of a permit issued pursuant to this section.</text>
+          <text><u>Failure to Comply with Permit Terms and Conditions</u>. No member or duly authorized non-member shall fail to comply with the terms and conditions of a permit issued pursuant to <cite path="§1.1023">this section</cite>.</text>
         </para>
       </section>
     </container>
@@ -3124,7 +3124,7 @@
       <section>
         <num>1.1202</num>
         <heading>Purpose</heading>
-        <text>The purpose of this chapter is to regulate the harvest of miscellaneous forest products, or any parts thereof, which are not regulated pursuant to subchapter 1.5 [Wild Rice Harvesting Regulations] and subchapter 1.11 [Timber Harvesting Regulations].</text>
+        <text>The purpose of <cite path="VI|1">this chapter</cite> is to regulate the harvest of miscellaneous forest products, or any parts thereof, which are not regulated pursuant to subchapter 1.5 [Wild Rice Harvesting Regulations] and subchapter 1.11 [Timber Harvesting Regulations].</text>
       </section>
       <section>
         <num>1.1203</num>
@@ -3440,10 +3440,10 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>(a)  The tribal conservation department, after consultation with the tribal forestry department or BIA forestry office, is authorized to issue permits under this section on such terms and conditions as it deems necessary and appropriate.</text>
+          <text>(a)  The tribal conservation department, after consultation with the tribal forestry department or BIA forestry office, is authorized to issue permits under <cite path="§1.1210">this section</cite> on such terms and conditions as it deems necessary and appropriate.</text>
           <para>
             <num>(b)</num>
-            <text>No member shall fail to comply with the terms and conditions of a permit issued pursuant to this section.</text>
+            <text>No member shall fail to comply with the terms and conditions of a permit issued pursuant to <cite path="§1.1210">this section</cite>.</text>
           </para>
         </para>
       </section>
@@ -3501,7 +3501,7 @@
           </para>
           <para>
             <num>(c)</num>
-            <text><u>Firewood Punch Card Required</u>. No member or duly authorized non-member shall harvest (cut) fuelwood within a woodlot area, except for their personal use with a firewood punch card issued by the tribal conservation department. Firewood punch cards shall be numbered in sequence for tracking purposes, along with the member's identification number and current address. Firewood punch cards shall have the date of issuance, a signature of the member named on the punch card, and a signature of a tribal conservation department representative. Any firewood punch card possessed without a tribal conservation department representative signature shall be invalid. Firewood punch cards shall have no more than 20 punches on each card and only one punch card shall be issued per household per season, except emergency loads can be requested based on need for reasons such as funerals, ceremonies, or extreme cold weather conditions. An emergency load shall be considered and approved at the discretion of the tribal conservation department or the Tribal Governing Board. The Tribal Governing Board has the authority to adjust and make changes to this program due to shortage of wood, road conditions, and/or weather conditions. Elders and disabled members may obtain a punch card and have another member cut wood for them. The member who will be cutting wood for them will be required to give their contact information to the woodlot area monitor and the tribal conservation department will follow up to ensure that the wood is going to the residence of the punch card holder. Any violations of this section, or misuse of the elder/disabled punch card shall result in penalties for that member, including being banned from all woodlot areas for the remainder of the firewood subsistence program season.</text>
+            <text><u>Firewood Punch Card Required</u>. No member or duly authorized non-member shall harvest (cut) fuelwood within a woodlot area, except for their personal use with a firewood punch card issued by the tribal conservation department. Firewood punch cards shall be numbered in sequence for tracking purposes, along with the member's identification number and current address. Firewood punch cards shall have the date of issuance, a signature of the member named on the punch card, and a signature of a tribal conservation department representative. Any firewood punch card possessed without a tribal conservation department representative signature shall be invalid. Firewood punch cards shall have no more than 20 punches on each card and only one punch card shall be issued per household per season, except emergency loads can be requested based on need for reasons such as funerals, ceremonies, or extreme cold weather conditions. An emergency load shall be considered and approved at the discretion of the tribal conservation department or the Tribal Governing Board. The Tribal Governing Board has the authority to adjust and make changes to this program due to shortage of wood, road conditions, and/or weather conditions. Elders and disabled members may obtain a punch card and have another member cut wood for them. The member who will be cutting wood for them will be required to give their contact information to the woodlot area monitor and the tribal conservation department will follow up to ensure that the wood is going to the residence of the punch card holder. Any violations of <cite path="§1.1214">this section</cite>, or misuse of the elder/disabled punch card shall result in penalties for that member, including being banned from all woodlot areas for the remainder of the firewood subsistence program season.</text>
             <para>
               <num>(i)</num>
               <text>A member living on reservation lands that uses firewood as the primary fuel source for their household shall apply for a firewood punch card at the tribal conservation department.</text>
@@ -3569,7 +3569,7 @@
           </para>
           <para>
             <num>(e)</num>
-            <text><u>Firewood Punch Card Revocation Reserved</u>. The tribal conservation department and the Tribal Governing Board hereby reserves the right to revoke any firewood punch card if the regulations established in this section are violated.</text>
+            <text><u>Firewood Punch Card Revocation Reserved</u>. The tribal conservation department and the Tribal Governing Board hereby reserves the right to revoke any firewood punch card if the regulations established in <cite path="§1.1214">this section</cite> are violated.</text>
           </para>
         </para>
         <para>
@@ -3609,7 +3609,7 @@
     <prefix>Chapter</prefix>
     <num>7</num>
     <heading>Shoreland Protection Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text class="center"><strong>Preamble</strong></text>
+    <text>Preamble</text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, to promote the health, safety, and welfare of Lac Courte Oreilles citizens (members) and protect the environment of the Lac Courte Oreilles Reservation, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, §§ 1(s) and (f) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "To promulgate and enforce ordinances…providing for the maintenance of law and order and the administration of justice…" Article V, § 1 (s) and "to manage, lease, permit or otherwise deal with tribal lands, interests in lands or other assets, and to purchase lands, or interests in lands, within or without the reservation" Article V, § 1 (f). Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby recognizes that uncontrolled use of the shorelands and pollution of the navigable waters of the Lac Courte Oreilles Reservation would adversely affect the public health, safety and general welfare of Lac Courte Oreilles citizens (members). The Lac Courte Oreilles Tribal Governing Board has the responsibility to promote the health, safety, and welfare, of Lac Courte Oreilles citizens (members); to further the maintenance of safe and healthful conditions; prevent and control water pollution; protect spawning grounds, fish and aquatic life; control building sites, placement of structures; and to preserve shore cover and natural beauty. This ordinance has been adopted for the purpose of protecting the environment of the Lac Courte Oreilles Reservation.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -3736,7 +3736,7 @@
       <section>
         <num>7.201</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in this Section shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="§7.201">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(1)</num>
           <text><strong>"Citizen"</strong> means an enrolled member of the Lac Courte Oreilles Lake Superior Band of Chippewa Indians.</text>
@@ -4196,7 +4196,7 @@
     <prefix>Chapter</prefix>
     <num>8</num>
     <heading>Industrial Hemp Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text class="center"><strong>Preamble</strong></text>
+    <text>Preamble</text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, Article V, § 1 (h) and (n) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "To engage in any business that will further the social or economic well-being of members of the Band or undertake any programs or projects designed for the economic advancement of the people," Article V, § 1 (h); and "To regulate, by enactment of ordinances, the conduct of business within the territory of the Band, including the power to impose taxes or license fees upon members and non-members doing business within the reservation" Article V, § 1 (n). Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby establishes the Agricultural Division of the Lac Courte Oreilles Conservation Department as a governmental instrumentality of the Tribe, and enacts this ordinance which shall establish the purposes, powers and duties of the same. The Agricultural Division shall carry out the requirements of the 2018 Farm Bill as adopted and implemented by the Tribe pursuant to the provisions of this ordinance. A copy of this ordinance duly certified by the Secretary/Treasurer of the Tribal Governing Board shall be admissible in evidence in any suit, action or proceedings.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -4559,7 +4559,7 @@
         <heading>Control Of Hemp</heading>
         <para>
           <num>(1)</num>
-          <text>This Title shall govern the cultivation and processing of Hemp on lands under the jurisdiction of the Tribe and will be the basis of the tribal plan described in the 2018 Farm Bill.</text>
+          <text><cite path="VI">This Title</cite> shall govern the cultivation and processing of Hemp on lands under the jurisdiction of the Tribe and will be the basis of the tribal plan described in the 2018 Farm Bill.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -4567,7 +4567,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Nothing in this Title shall be deemed to be in conflict with the Controlled Substances Act, 21 U.S.C. section 801 et seq.</text>
+          <text>Nothing in <cite path="VI">this Title</cite> shall be deemed to be in conflict with the Controlled Substances Act, 21 U.S.C. section 801 et seq.</text>
         </para>
       </section>
       <section>
@@ -5103,7 +5103,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Following review and consideration of the petition for review, the Tribal Court may overturn the decision of the Agricultural Division, subject to such conditions as it deems reasonable under the circumstances to protect the public health, safety, and welfare of the Tribe and its members, or the Tribal Court may affirm the decision of the Agricultural Division. The decision of the Tribal Court may be subject to further judicial review pursuant to 2 LCOTCL Chapter 4 – Appellate Code.</text>
+          <text>Following review and consideration of the petition for review, the Tribal Court may overturn the decision of the Agricultural Division, subject to such conditions as it deems reasonable under the circumstances to protect the public health, safety, and welfare of the Tribe and its members, or the Tribal Court may affirm the decision of the Agricultural Division. The decision of the Tribal Court may be subject to further judicial review pursuant to <cite path="II|4">2 LCOTCL Chapter 4</cite> – Appellate Code.</text>
         </para>
         <text>
           <strong>
@@ -5117,7 +5117,7 @@
         <text>The following procedures shall apply to sampling and testing of Cannabis sativa L. within the jurisdiction of the Tribe:</text>
         <para>
           <num>(1)</num>
-          <text>All sampling and testing of Cannabis sativa L. shall comply with this section.</text>
+          <text>All sampling and testing of Cannabis sativa L. shall comply with <cite path="§8.601">this section</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -5221,7 +5221,7 @@
         </para>
         <para>
           <num>(9)</num>
-          <text>Nothing in this Section shall prevent a Licensee from voluntarily collecting samples and testing Hemp for quality assurance and research and development purposes.</text>
+          <text>Nothing in <cite path="§8.601">this Section</cite> shall prevent a Licensee from voluntarily collecting samples and testing Hemp for quality assurance and research and development purposes.</text>
         </para>
         <para>
           <num>(10)</num>

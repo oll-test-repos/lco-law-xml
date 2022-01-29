@@ -7,7 +7,7 @@
     <prefix>Chapter</prefix>
     <num>1</num>
     <heading>Public Safety Commission Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text class="center"><strong>Preamble</strong></text>
+    <text>Preamble</text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to provide policy guidance and ensure that the Tribe's public safety agencies serve the members and visitors of the Lac Courte Oreilles Reservation, which authority predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, §§ 1(l) and (m) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "organize, charter and regulate any association or group … for the purpose of providing social or economic benefits to the members of the Band or residents of the reservation" Article V, § 1 (l);  and "delegate to subordinate boards, officers, committees or cooperative associations which are open to all members of the Band any of the foregoing powers, reserving the right to review any action taken by virtue of such delegated powers" Article V, § 1 (m). Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby establishes a public body known as the Lac Courte Oreilles Public Safety Commission (hereinafter referred to as the Public Safety Commission), and enacts this ordinance which shall establish the purposes, powers and duties of the Public Safety Commission. In any suit, action or proceeding involving the validity or enforcement of or relating to any of actions of the Tribe's public safety agencies, the Public Safety Commission shall be conclusively deemed to have become established and authorized to transact business and exercise its powers upon proof of the adoption of this ordinance. A copy of this ordinance duly certified by the Secretary/Treasurer of the Tribal Governing Board shall be admissible in evidence in any suit, action or proceedings.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -99,7 +99,7 @@
       <section>
         <num>1.201</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in this Section shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="§1.201">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(1)</num>
           <text>"Area of Operation" means all areas within the jurisdiction of the Lac Courte Oreilles Band of Lake Superior Chippewa.</text>
@@ -254,7 +254,7 @@
       <section>
         <num>1.302</num>
         <heading>Board Of Public Safety Commissioners And Tribal Governing Board Liaison</heading>
-        <text>The Board of Public Safety Commissioners is hereby created to act in an advisory capacity to the Tribal Governing Board and the Public Safety Commission Executive Director and shall have those powers as stated in this section:</text>
+        <text>The Board of Public Safety Commissioners is hereby created to act in an advisory capacity to the Tribal Governing Board and the Public Safety Commission Executive Director and shall have those powers as stated in <cite path="§1.302">this section</cite>:</text>
         <para>
           <num>(1)</num>
           <text>The Tribal Governing Board, by formal action, shall appoint a Liaison(s) which shall be appointed to facilitate communication and coordination between the Tribal Governing Board and the Board. The Tribal Governing Board Liaison(s) shall not be considered a member of the Board.</text>
@@ -869,7 +869,7 @@
           <text><u>Appeals of Commission Findings</u>. Appeals of Public Safety Commission's ruling shall be made to the Lac Courte Oreilles Tribal Court.</text>
           <para>
             <num>(a)</num>
-            <text><u>Hearing before the Lac Courte Oreilles Tribal Court</u>. Either party may request a review of the Public Safety Commission's ruling by the Tribal Court. The Tribal Court review will be limited to the information presented to the Public Safety Commission and the limited review is to ensure that the Due Process rights of the Employee and the Public Safety Agency were protected and followed. If the Court finds any deficiencies in the Public Safety Commission's decision, it shall remand the matter back the Public Safety Commission for further review consistent with the Tribal Court findings. Each party shall have five (5) working days to submit their request for Tribal Court review of the Public Safety Commission's decision; failure to abide by the timeline stated in this section shall be deemed a waiver of the disciplinary appeal and the appeal shall be terminated; the Public Safety Commission's decision shall be deemed as final.</text>
+            <text><u>Hearing before the Lac Courte Oreilles Tribal Court</u>. Either party may request a review of the Public Safety Commission's ruling by the Tribal Court. The Tribal Court review will be limited to the information presented to the Public Safety Commission and the limited review is to ensure that the Due Process rights of the Employee and the Public Safety Agency were protected and followed. If the Court finds any deficiencies in the Public Safety Commission's decision, it shall remand the matter back the Public Safety Commission for further review consistent with the Tribal Court findings. Each party shall have five (5) working days to submit their request for Tribal Court review of the Public Safety Commission's decision; failure to abide by the timeline stated in <cite path="§1.401">this section</cite> shall be deemed a waiver of the disciplinary appeal and the appeal shall be terminated; the Public Safety Commission's decision shall be deemed as final.</text>
             <para>
               <num>(i)</num>
               <text>The Tribal Court shall have the discretion to decide whether to schedule a hearing in any appeal of a disciplinary action taken by the Chief of the public safety agency.</text>
@@ -884,7 +884,7 @@
             </para>
             <para>
               <num>(iv)</num>
-              <text>If the Tribal Court determines that clear error occurred regarding all violations and procedural steps established in this section were not followed, it shall uphold/overturn the decision of the Public Safety Commission and order that the employee's personnel file reflect such decision; that the employee be restored to his or her previous position and that all the benefits which may have been withheld shall be credited to the employee as if no disciplinary action had ever occurred. Upon return to work, the Human Resource Director will meet with the employee and Chief of the public safety agency and develop a work reinstatement plan including specific timelines and tasks for reintroduction into the workforce.</text>
+              <text>If the Tribal Court determines that clear error occurred regarding all violations and procedural steps established in <cite path="§1.401">this section</cite> were not followed, it shall uphold/overturn the decision of the Public Safety Commission and order that the employee's personnel file reflect such decision; that the employee be restored to his or her previous position and that all the benefits which may have been withheld shall be credited to the employee as if no disciplinary action had ever occurred. Upon return to work, the Human Resource Director will meet with the employee and Chief of the public safety agency and develop a work reinstatement plan including specific timelines and tasks for reintroduction into the workforce.</text>
             </para>
             <para>
               <num>(v)</num>
@@ -892,7 +892,7 @@
             </para>
             <para>
               <num>(vi)</num>
-              <text>If the Tribal Court determines that clear error did not occur regarding any violation and the procedural steps established in this section were followed, it shall uphold/overturn the decision of the Tribal Court; and shall uphold all disciplinary measures taken by Management without substituting its judgment for that of Management.</text>
+              <text>If the Tribal Court determines that clear error did not occur regarding any violation and the procedural steps established in <cite path="§1.401">this section</cite> were followed, it shall uphold/overturn the decision of the Tribal Court; and shall uphold all disciplinary measures taken by Management without substituting its judgment for that of Management.</text>
             </para>
           </para>
         </para>
@@ -1168,7 +1168,7 @@
     <prefix>Chapter</prefix>
     <num>2</num>
     <heading>Solid Waste Disposal And Recycling Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text class="center"><strong>Preamble</strong></text>
+    <text>Preamble</text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, to promote and protect the land, water, health, safety, and well-being of the Lac Courte Oreilles tribal community and surrounding area and to ensure that efficient and environmentally safe solid waste management procedures are practiced on the Lac Courte Oreilles Reservation, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, § 1(s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "To promulgate and enforce ordinances…providing for the maintenance of law and order and the administration of justice…" Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby regulates solid waste and recycling by providing procedural guidelines and planning for the administration and enforcement of ordinance violations. This ordinance applies to the disposal and recycling activities of citizens (members) on the Lac Courte Oreilles Reservation. Further, this ordinance applies to residences, tribal programs and tribal enterprises located within the exterior boundaries of the reservation.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -1234,7 +1234,7 @@
       <section>
         <num>2.201</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in this Section shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="§2.201">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(1)</num>
           <text><strong>"Citizen"</strong> means an enrolled member of the Lac Courte Oreilles Lake Superior Band of Chippewa Indians.</text>
@@ -1427,7 +1427,7 @@
           <text><u>Warning</u>.</text>
           <para>
             <num>(a)</num>
-            <text>The first time a citizen or non-citizen is suspected of violating any provisions of this ordinance, the person shall be given a written warning and advised of the general requirements of this chapter and that a subsequent violation may result in the application of a penalty or forfeiture as provided in this section.</text>
+            <text>The first time a citizen or non-citizen is suspected of violating any provisions of this ordinance, the person shall be given a written warning and advised of the general requirements of <cite path="X|2">this chapter</cite> and that a subsequent violation may result in the application of a penalty or forfeiture as provided in <cite path="§2.305">this section</cite>.</text>
           </para>
           <para>
             <num>(b)</num>
