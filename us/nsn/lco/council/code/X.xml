@@ -7,7 +7,9 @@
     <prefix>Chapter</prefix>
     <num>1</num>
     <heading>Public Safety Commission Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text>Preamble</text>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to provide policy guidance and ensure that the Tribe's public safety agencies serve the members and visitors of the Lac Courte Oreilles Reservation, which authority predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, §§ 1(l) and (m) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "organize, charter and regulate any association or group … for the purpose of providing social or economic benefits to the members of the Band or residents of the reservation" Article V, § 1 (l);  and "delegate to subordinate boards, officers, committees or cooperative associations which are open to all members of the Band any of the foregoing powers, reserving the right to review any action taken by virtue of such delegated powers" Article V, § 1 (m). Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby establishes a public body known as the Lac Courte Oreilles Public Safety Commission (hereinafter referred to as the Public Safety Commission), and enacts this ordinance which shall establish the purposes, powers and duties of the Public Safety Commission. In any suit, action or proceeding involving the validity or enforcement of or relating to any of actions of the Tribe's public safety agencies, the Public Safety Commission shall be conclusively deemed to have become established and authorized to transact business and exercise its powers upon proof of the adoption of this ordinance. A copy of this ordinance duly certified by the Secretary/Treasurer of the Tribal Governing Board shall be admissible in evidence in any suit, action or proceedings.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -62,7 +64,7 @@
       <section>
         <num>1.107</num>
         <heading>Compliance With Federal And State Law</heading>
-        <text>The Tribe shall comply with all applicable federal laws, including the, 18 U.S.C. § 117, 18 U.S.C. § 922, 18 U.S.C. § 1162, 18 U.S.C. § 2261, 18 U.S.C. § 2262, 25 U.S.C. § 1301 <em>et seq.</em>, 25 U.S.C. § 2801 <em>et seq.</em>, 25 U.S.C. § 2451, 25 U.S.C. § 3613, 28 U.S.C. § 1360, 42 U.S.C. § 13925<em> et seq.</em>, Wis. Stat. §66.0313, Wis. Stat. §165.90, Wis. Stat. §165.92, Wis. Stat. §175.40, Wis. Stat. §806.245, Wis. Stat. §806.247, Wis. Stat. §813.12, Wis. Stat. §813.122, Wis. Stat. §813.123, Wis. Stat. §813.125, Wis. Stat. §813.128, Wis. Stat. §941.29.</text>
+        <text>The Tribe shall comply with all applicable federal laws, including the, 18 U.S.C. § 117, 18 U.S.C. § 922, 18 U.S.C. § 1162, 18 U.S.C. § 2261, 18 U.S.C. § 2262, 25 U.S.C. § 1301 <em>et seq.</em>, 25 U.S.C. § 2801 <em>et seq.</em>, 25 U.S.C. § 2451, 25 U.S.C. § 3613, 28 U.S.C. § 1360, 42 U.S.C. § 13925<em> et seq.</em>, Wis. Stat. <cite path="X|1|1.1|66.0313">§66.0313</cite>, Wis. Stat. §165.90, Wis. Stat. §165.92, Wis. Stat. §175.40, Wis. Stat. <cite path="X|1|1.1|806.245">§806.245</cite>, Wis. Stat. <cite path="X|1|1.1|806.247">§806.247</cite>, Wis. Stat. §813.12, Wis. Stat. <cite path="X|1|1.1|813.122">§813.122</cite>, Wis. Stat. <cite path="X|1|1.1|813.123">§813.123</cite>, Wis. Stat. <cite path="X|1|1.1|813.125">§813.125</cite>, Wis. Stat. <cite path="X|1|1.1|813.128">§813.128</cite>, Wis. Stat. §941.29.</text>
       </section>
       <section>
         <num>1.108</num>
@@ -99,7 +101,7 @@
       <section>
         <num>1.201</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in <cite path="§1.201">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="X|1|1.2|1.201">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(1)</num>
           <text>"Area of Operation" means all areas within the jurisdiction of the Lac Courte Oreilles Band of Lake Superior Chippewa.</text>
@@ -148,7 +150,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Pursuant to Tribal Governing Board Resolution No. 15-17, in the implementation of 2 LCOTCL § 5.303, the Tribal Governing Board thereby gave its consent to a limited waiver of immunity from suit which it does not otherwise have pursuant 2 LCOTCL § 5.302; thereby waiving the Tribe's sovereign immunity only to the limited extent necessary, as required by Wis. Stat. §165.92(3m)(a)1 and §66.0313(4)(a)1, to allow the enforcement in state courts of its liability in actions against the Tribe and its Tribal Officers while acting within the scope of their employment pursuant to this ordinance.</text>
+          <text>Pursuant to Tribal Governing Board Resolution No. 15-17, in the implementation of 2 LCOTCL <cite path="X|1|1.3|5.303">§ 5.303</cite>, the Tribal Governing Board thereby gave its consent to a limited waiver of immunity from suit which it does not otherwise have pursuant 2 LCOTCL <cite path="X|1|1.3|5.302">§ 5.302</cite>; thereby waiving the Tribe's sovereign immunity only to the limited extent necessary, as required by Wis. Stat. §165.92(3m)(a)1 and <cite path="X|1|1.3|66.0313">§66.0313</cite>(4)(a)1, to allow the enforcement in state courts of its liability in actions against the Tribe and its Tribal Officers while acting within the scope of their employment pursuant to this ordinance.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -191,7 +193,7 @@
           </para>
           <para>
             <num>(j)</num>
-            <text>To provide oversight as directed by the Tribal Governing Board on matters relevant to the Public Safety Commission and the purposes defined in § 1.104 of this ordinance.</text>
+            <text>To provide oversight as directed by the Tribal Governing Board on matters relevant to the Public Safety Commission and the purposes defined in <cite path="X|1|1.3|1.104">§ 1.104</cite> of this ordinance.</text>
           </para>
         </para>
         <para>
@@ -254,7 +256,7 @@
       <section>
         <num>1.302</num>
         <heading>Board Of Public Safety Commissioners And Tribal Governing Board Liaison</heading>
-        <text>The Board of Public Safety Commissioners is hereby created to act in an advisory capacity to the Tribal Governing Board and the Public Safety Commission Executive Director and shall have those powers as stated in <cite path="§1.302">this section</cite>:</text>
+        <text>The Board of Public Safety Commissioners is hereby created to act in an advisory capacity to the Tribal Governing Board and the Public Safety Commission Executive Director and shall have those powers as stated in <cite path="X|1|1.3|1.302">this section</cite>:</text>
         <para>
           <num>(1)</num>
           <text>The Tribal Governing Board, by formal action, shall appoint a Liaison(s) which shall be appointed to facilitate communication and coordination between the Tribal Governing Board and the Board. The Tribal Governing Board Liaison(s) shall not be considered a member of the Board.</text>
@@ -288,11 +290,11 @@
           </para>
           <para>
             <num>(h)</num>
-            <text>To provide advice as directed by the Tribal Governing Board or requested by the Executive Director on matters relevant to the Public Safety Commission and the purposes defined in § 1.104 of this ordinance; and</text>
+            <text>To provide advice as directed by the Tribal Governing Board or requested by the Executive Director on matters relevant to the Public Safety Commission and the purposes defined in <cite path="X|1|1.3|1.104">§ 1.104</cite> of this ordinance; and</text>
           </para>
           <para>
             <num>(i)</num>
-            <text>None of the aforementioned powers and duties may be construed or interpreted to empower the Board beyond the capacity of advisory in nature as more fully defined in subs. (7), below.</text>
+            <text>None of the aforementioned powers and duties may be construed or interpreted to empower the Board beyond the capacity of advisory in nature as more fully defined in <cite path="X|1|1.3|1.302|(7)">subs. (7)</cite>, below.</text>
           </para>
         </para>
         <para>
@@ -365,7 +367,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text><u>Term</u>. The Tribal Governing Board may appoint applicants, who meet the qualifications established in subs. (3) above, to the Board of Public Safety Commissioners as follows:</text>
+          <text><u>Term</u>. The Tribal Governing Board may appoint applicants, who meet the qualifications established in <cite path="X|1|1.3|1.302|(3)">subs. (3)</cite> above, to the Board of Public Safety Commissioners as follows:</text>
           <para>
             <num>(a)</num>
             <text>All members of the Board shall be appointed for three (3) year, staggered terms, except that in the case of prior vacancy, an appointment shall be only for the length of the unexpired term.</text>
@@ -500,7 +502,7 @@
           </para>
           <para>
             <num>(b)</num>
-            <text>The Board of Public Safety Commissioners, as a delegated body of the Tribal Governing Board pursuant to the Lac Court Oreilles Constitution, Article V, §§ 1 (m) and (n), is immune, as is the Tribe, from suit and legal process in any state, federal or tribal court. Except as provided for in § 1.301 (2) of this ordinance, the Lac Court Oreilles Band of Lake Superior Chippewa Indians does not waive any aspect of its sovereign immunity.</text>
+            <text>The Board of Public Safety Commissioners, as a delegated body of the Tribal Governing Board pursuant to the Lac Court Oreilles Constitution, Article V, §§ 1 (m) and (n), is immune, as is the Tribe, from suit and legal process in any state, federal or tribal court. Except as provided for in <cite path="X|1|1.3|1.301">§ 1.301</cite> (2) of this ordinance, the Lac Court Oreilles Band of Lake Superior Chippewa Indians does not waive any aspect of its sovereign immunity.</text>
           </para>
         </para>
       </section>
@@ -548,7 +550,7 @@
             <text>Disciplinary actions may be commenced against an employee of a public safety agency of the Tribe, by the Chief of the public safety agency, for violations of departmental Standard Operating Procedures, or laws of the Tribe, or other government. Discipline may range from a verbal warning to termination.</text>
             <para>
               <num>(b)</num>
-              <text>In serious matters, an internal investigation is conducted by the Public Safety Commission and the law enforcement officer under investigation may be placed on administrative leave pursuant to § 1.402 of this ordinance<strong>.</strong></text>
+              <text>In serious matters, an internal investigation is conducted by the Public Safety Commission and the law enforcement officer under investigation may be placed on administrative leave pursuant to <cite path="X|1|1.4|1.402">§ 1.402</cite> of this ordinance<strong>.</strong></text>
             </para>
           </para>
           <para>
@@ -869,7 +871,7 @@
           <text><u>Appeals of Commission Findings</u>. Appeals of Public Safety Commission's ruling shall be made to the Lac Courte Oreilles Tribal Court.</text>
           <para>
             <num>(a)</num>
-            <text><u>Hearing before the Lac Courte Oreilles Tribal Court</u>. Either party may request a review of the Public Safety Commission's ruling by the Tribal Court. The Tribal Court review will be limited to the information presented to the Public Safety Commission and the limited review is to ensure that the Due Process rights of the Employee and the Public Safety Agency were protected and followed. If the Court finds any deficiencies in the Public Safety Commission's decision, it shall remand the matter back the Public Safety Commission for further review consistent with the Tribal Court findings. Each party shall have five (5) working days to submit their request for Tribal Court review of the Public Safety Commission's decision; failure to abide by the timeline stated in <cite path="§1.401">this section</cite> shall be deemed a waiver of the disciplinary appeal and the appeal shall be terminated; the Public Safety Commission's decision shall be deemed as final.</text>
+            <text><u>Hearing before the Lac Courte Oreilles Tribal Court</u>. Either party may request a review of the Public Safety Commission's ruling by the Tribal Court. The Tribal Court review will be limited to the information presented to the Public Safety Commission and the limited review is to ensure that the Due Process rights of the Employee and the Public Safety Agency were protected and followed. If the Court finds any deficiencies in the Public Safety Commission's decision, it shall remand the matter back the Public Safety Commission for further review consistent with the Tribal Court findings. Each party shall have five (5) working days to submit their request for Tribal Court review of the Public Safety Commission's decision; failure to abide by the timeline stated in <cite path="X|1|1.4|1.401">this section</cite> shall be deemed a waiver of the disciplinary appeal and the appeal shall be terminated; the Public Safety Commission's decision shall be deemed as final.</text>
             <para>
               <num>(i)</num>
               <text>The Tribal Court shall have the discretion to decide whether to schedule a hearing in any appeal of a disciplinary action taken by the Chief of the public safety agency.</text>
@@ -884,7 +886,7 @@
             </para>
             <para>
               <num>(iv)</num>
-              <text>If the Tribal Court determines that clear error occurred regarding all violations and procedural steps established in <cite path="§1.401">this section</cite> were not followed, it shall uphold/overturn the decision of the Public Safety Commission and order that the employee's personnel file reflect such decision; that the employee be restored to his or her previous position and that all the benefits which may have been withheld shall be credited to the employee as if no disciplinary action had ever occurred. Upon return to work, the Human Resource Director will meet with the employee and Chief of the public safety agency and develop a work reinstatement plan including specific timelines and tasks for reintroduction into the workforce.</text>
+              <text>If the Tribal Court determines that clear error occurred regarding all violations and procedural steps established in <cite path="X|1|1.4|1.401">this section</cite> were not followed, it shall uphold/overturn the decision of the Public Safety Commission and order that the employee's personnel file reflect such decision; that the employee be restored to his or her previous position and that all the benefits which may have been withheld shall be credited to the employee as if no disciplinary action had ever occurred. Upon return to work, the Human Resource Director will meet with the employee and Chief of the public safety agency and develop a work reinstatement plan including specific timelines and tasks for reintroduction into the workforce.</text>
             </para>
             <para>
               <num>(v)</num>
@@ -892,7 +894,7 @@
             </para>
             <para>
               <num>(vi)</num>
-              <text>If the Tribal Court determines that clear error did not occur regarding any violation and the procedural steps established in <cite path="§1.401">this section</cite> were followed, it shall uphold/overturn the decision of the Tribal Court; and shall uphold all disciplinary measures taken by Management without substituting its judgment for that of Management.</text>
+              <text>If the Tribal Court determines that clear error did not occur regarding any violation and the procedural steps established in <cite path="X|1|1.4|1.401">this section</cite> were followed, it shall uphold/overturn the decision of the Tribal Court; and shall uphold all disciplinary measures taken by Management without substituting its judgment for that of Management.</text>
             </para>
           </para>
         </para>
@@ -1080,7 +1082,7 @@
       <section>
         <num>1.506</num>
         <heading>Conditional Employment</heading>
-        <text>Persons who are not certified law enforcement officers at the time of hire, are considered conditional employees and must attain the educational requirements as specified in § 1.405 (4) of this ordinance within five years of their date of hire. Conditional employees are not eligible for promotion. Law enforcement officers who fail to meet the specified requirements in § 1.405 of this ordinance, shall be subject to immediate termination.</text>
+        <text>Persons who are not certified law enforcement officers at the time of hire, are considered conditional employees and must attain the educational requirements as specified in <cite path="X|1|1.5|1.405">§ 1.405</cite> (4) of this ordinance within five years of their date of hire. Conditional employees are not eligible for promotion. Law enforcement officers who fail to meet the specified requirements in <cite path="X|1|1.5|1.405">§ 1.405</cite> of this ordinance, shall be subject to immediate termination.</text>
       </section>
       <section>
         <num>1.507</num>
@@ -1168,7 +1170,9 @@
     <prefix>Chapter</prefix>
     <num>2</num>
     <heading>Solid Waste Disposal And Recycling Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text>Preamble</text>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, to promote and protect the land, water, health, safety, and well-being of the Lac Courte Oreilles tribal community and surrounding area and to ensure that efficient and environmentally safe solid waste management procedures are practiced on the Lac Courte Oreilles Reservation, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, § 1(s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "To promulgate and enforce ordinances…providing for the maintenance of law and order and the administration of justice…" Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby regulates solid waste and recycling by providing procedural guidelines and planning for the administration and enforcement of ordinance violations. This ordinance applies to the disposal and recycling activities of citizens (members) on the Lac Courte Oreilles Reservation. Further, this ordinance applies to residences, tribal programs and tribal enterprises located within the exterior boundaries of the reservation.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -1234,7 +1238,7 @@
       <section>
         <num>2.201</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in <cite path="§2.201">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="X|2|2.2|2.201">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(1)</num>
           <text><strong>"Citizen"</strong> means an enrolled member of the Lac Courte Oreilles Lake Superior Band of Chippewa Indians.</text>
@@ -1334,7 +1338,7 @@
           </para>
           <para>
             <num>(b)</num>
-            <text><u>Disposal of Recyclables</u>. All recyclable materials as stated in § 2.201 (9) of this ordinance	shall be sorted, according to guidelines posted at the Transfer Station site, and placed in an unlabeled, clear plastic bag. Recycled materials shall be dropped off in the designated bin at the Transfer Station.</text>
+            <text><u>Disposal of Recyclables</u>. All recyclable materials as stated in <cite path="X|2|2.3|2.201">§ 2.201</cite> (9) of this ordinance	shall be sorted, according to guidelines posted at the Transfer Station site, and placed in an unlabeled, clear plastic bag. Recycled materials shall be dropped off in the designated bin at the Transfer Station.</text>
           </para>
           <para>
             <num>(c)</num>
@@ -1377,7 +1381,7 @@
             </para>
             <para>
               <num>(ix)</num>
-              <text>All solid waste, not collected by private collectors and transferred away, shall be disposed at the LCO Transfer Station and Recycling Center in accordance with the stated provisions under § 2.303 of this ordinance, below.</text>
+              <text>All solid waste, not collected by private collectors and transferred away, shall be disposed at the LCO Transfer Station and Recycling Center in accordance with the stated provisions under <cite path="X|2|2.3|2.303">§ 2.303</cite> of this ordinance, below.</text>
             </para>
             <para>
               <num>(x)</num>
@@ -1399,7 +1403,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Solid waste disposed in "LCO" plastic bags shall include all non-recyclable materials defined in § 2.201 (3) and § 2.201 (6) of this ordinance.</text>
+          <text>Solid waste disposed in "LCO" plastic bags shall include all non-recyclable materials defined in <cite path="X|2|2.3|2.201">§ 2.201</cite> (3) and <cite path="X|2|2.3|2.201">§ 2.201</cite> (6) of this ordinance.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -1427,11 +1431,11 @@
           <text><u>Warning</u>.</text>
           <para>
             <num>(a)</num>
-            <text>The first time a citizen or non-citizen is suspected of violating any provisions of this ordinance, the person shall be given a written warning and advised of the general requirements of <cite path="X|2">this chapter</cite> and that a subsequent violation may result in the application of a penalty or forfeiture as provided in <cite path="§2.305">this section</cite>.</text>
+            <text>The first time a citizen or non-citizen is suspected of violating any provisions of this ordinance, the person shall be given a written warning and advised of the general requirements of <cite path="X|2">this chapter</cite> and that a subsequent violation may result in the application of a penalty or forfeiture as provided in <cite path="X|2|2.3|2.305">this section</cite>.</text>
           </para>
           <para>
             <num>(b)</num>
-            <text>Notwithstanding the provisions of subs. (a) above, if an identified name or address is found on mail, a prescription bottle, or any other identifiable article in solid waste discarded in in violation of this ordinance, the citizen or non-citizen is hereby in violation of this ordinance subject to a rebuttable presumption and shall be issued a citation pursuant to § 2.405 of this ordinance and shall clean up the unlawfully discarded solid waste within three (3) days of the issuance of a citation.</text>
+            <text>Notwithstanding the provisions of <cite path="X|2|2.3|2.305|(a)">subs. (a)</cite> above, if an identified name or address is found on mail, a prescription bottle, or any other identifiable article in solid waste discarded in in violation of this ordinance, the citizen or non-citizen is hereby in violation of this ordinance subject to a rebuttable presumption and shall be issued a citation pursuant to <cite path="X|2|2.3|2.405">§ 2.405</cite> of this ordinance and shall clean up the unlawfully discarded solid waste within three (3) days of the issuance of a citation.</text>
           </para>
         </para>
         <para>
@@ -1439,11 +1443,11 @@
           <text><u>Prosecution</u>.</text>
           <para>
             <num>(a)</num>
-            <text>Any person who has been warned in the manner provided in subs. (1) above, and who thereafter violates any provisions of this ordinance shall, upon conviction thereof, forfeit not less than Twenty and 00/100 Dollars ($20.00) nor more than Five Thousand and 00/100 Dollars ($5000.00), together with the cost of prosecution.</text>
+            <text>Any person who has been warned in the manner provided in <cite path="X|2|2.3|2.305|(1)">subs. (1)</cite> above, and who thereafter violates any provisions of this ordinance shall, upon conviction thereof, forfeit not less than Twenty and 00/100 Dollars ($20.00) nor more than Five Thousand and 00/100 Dollars ($5000.00), together with the cost of prosecution.</text>
           </para>
           <para>
             <num>(b)</num>
-            <text>A citizen found guilty of violating this ordinance, whom has failed to pay a fine within the timeframe established by the Tribal Court or whom has failed to properly clean up the unlawfully discarded solid waste within three (3) days of the issuance of a citation pursuant to § 3.801 (2) of this ordinance shall have their hunting, fishing, trapping, and gathering rights (both on-reservation and off-reservation) revoked for the period of one (1) year from the date of the issuance of a citation.</text>
+            <text>A citizen found guilty of violating this ordinance, whom has failed to pay a fine within the timeframe established by the Tribal Court or whom has failed to properly clean up the unlawfully discarded solid waste within three (3) days of the issuance of a citation pursuant to <cite path="X|2|2.3|3.801">§ 3.801</cite> (2) of this ordinance shall have their hunting, fishing, trapping, and gathering rights (both on-reservation and off-reservation) revoked for the period of one (1) year from the date of the issuance of a citation.</text>
           </para>
         </para>
         <para>

@@ -7,7 +7,9 @@
     <prefix>Chapter</prefix>
     <num>1</num>
     <heading>Rules Of Civil Procedure Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text>Preamble</text>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, § 1 (q) and (s) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to: "establish a tribal court for the purpose of enforcing tribal ordinance…" Article V, § 1 (q); "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and provide for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers" Article V, § 1 (s). The following rules are adopted to govern civil proceedings initiated in the Lac Courte Oreilles Tribal Court.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -77,7 +79,7 @@
       <section>
         <num>1.201</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in <cite path="§1.201">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="II|1|1.2|1.201">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(1)</num>
           <text><strong>"Appellate Court"</strong> shall mean the appellate court as designated in <cite path="II|4">2 LCOTCL Chapter 4</cite> – Appellate Code.</text>
@@ -435,7 +437,7 @@
       <section>
         <num>1.702</num>
         <heading>Closed Files</heading>
-        <text>All juvenile and domestic relations files, and all other files specified by the Tribal Code of Law, shall be closed. The court may in its discretion and in the interest of privacy, deem other court files as closed files. All closed files shall be unavailable for public inspection without an order of the Tribal Court. <cite path="§1.702">This section</cite> shall not be construed to prevent law enforcement personnel or other Tribal entities/departments as otherwise authorized by law, from inspecting files of the Tribal Court upon request.</text>
+        <text>All juvenile and domestic relations files, and all other files specified by the Tribal Code of Law, shall be closed. The court may in its discretion and in the interest of privacy, deem other court files as closed files. All closed files shall be unavailable for public inspection without an order of the Tribal Court. <cite path="II|1|1.7|1.702">This section</cite> shall not be construed to prevent law enforcement personnel or other Tribal entities/departments as otherwise authorized by law, from inspecting files of the Tribal Court upon request.</text>
       </section>
       <section>
         <num>1.703</num>
@@ -469,7 +471,7 @@
         <heading>Procedure For Admission</heading>
         <para>
           <num>(1)</num>
-          <text>An attorney for the purposes of this subchapter shall be a person who has graduated from an American Bar Association accredited institution and has been admitted to a court or jurisdiction. A Lay Advocate is a person who has completed certified training in the practice of law in tribal courts.  A Lay advocate cannot be an attorney who is inactive or is not in current standing in another jurisdiction. Any person wishing to practice before the Tribal Court shall file a written request for admission with the Clerk of Court, accompanied by a Certificate of Good Standing from the State Bar or Supreme Court of the State in which such attorney is duly licensed to practice law. Such request shall be accompanied by an admission fee as determined by the Court rule pursuant to subs. (2)(a), below.</text>
+          <text>An attorney for the purposes of <cite path="II|1|1.8">this subchapter</cite> shall be a person who has graduated from an American Bar Association accredited institution and has been admitted to a court or jurisdiction. A Lay Advocate is a person who has completed certified training in the practice of law in tribal courts.  A Lay advocate cannot be an attorney who is inactive or is not in current standing in another jurisdiction. Any person wishing to practice before the Tribal Court shall file a written request for admission with the Clerk of Court, accompanied by a Certificate of Good Standing from the State Bar or Supreme Court of the State in which such attorney is duly licensed to practice law. Such request shall be accompanied by an admission fee as determined by the Court rule pursuant to <cite path="II|1|1.8|1.803|(2)|(a)">subs. (2)(a)</cite>, below.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -539,7 +541,7 @@
         <heading>Revocation Of License To Practice Before The Court</heading>
         <para>
           <num>(1)</num>
-          <text>Any license issued pursuant to §1.802 and §1.803 of <cite path="II|1">this Chapter</cite> may be revoked or suspended by the Tribal Court.  Such action may be taken on its own motion or upon sworn complaint by a citizen of the Tribe.</text>
+          <text>Any license issued pursuant to <cite path="II|1|1.8|1.802">§1.802</cite> and <cite path="II|1|1.8|1.803">§1.803</cite> of <cite path="II|1">this Chapter</cite> may be revoked or suspended by the Tribal Court.  Such action may be taken on its own motion or upon sworn complaint by a citizen of the Tribe.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -559,7 +561,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>A hearing shall be conducted, within thirty days of the notice under section (1), before a judge of the Tribal Court.  The Hearing will be informal and the Licensee shall be afforded the opportunity to respond to the complaint or the motion. The hearing will be final.</text>
+          <text>A hearing shall be conducted, within thirty days of the notice under <cite path="II|1|1.8|1.805|(1)">section (1)</cite>, before a judge of the Tribal Court.  The Hearing will be informal and the Licensee shall be afforded the opportunity to respond to the complaint or the motion. The hearing will be final.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -569,7 +571,7 @@
       <section>
         <num>1.806</num>
         <heading>Admissions And Continuation Rules</heading>
-        <text>The chief judge may, by rule, impose requirements in addition to those listed in § 1.803 for admission to the bar and for continuation of membership in the bar, which may include education requirements, examination requirements, renewal fees, or any combination thereof.</text>
+        <text>The chief judge may, by rule, impose requirements in addition to those listed in <cite path="II|1|1.8|1.803">§ 1.803</cite> for admission to the bar and for continuation of membership in the bar, which may include education requirements, examination requirements, renewal fees, or any combination thereof.</text>
       </section>
     </container>
     <container>
@@ -581,7 +583,7 @@
         <heading>Summons And Complaint</heading>
         <para>
           <num>(1)</num>
-          <text>An action in Tribal Court is commenced by the filing of a summons and complaint as prescribed by <cite path="§1.901">this section</cite>.</text>
+          <text>An action in Tribal Court is commenced by the filing of a summons and complaint as prescribed by <cite path="II|1|1.9|1.901">this section</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -621,11 +623,11 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>The first appearance date specified under subs. (2)(c), above shall be no less than 20 days and no more than 60 days from the date of issuance of the summons and complaint. Service, if by mail, shall be made no less than ten days prior to the first appearance date. Service, if personal, shall be made no less than seven days prior to the first appearance date.</text>
+          <text>The first appearance date specified under <cite path="II|1|1.9|1.901|(2)|(c)">subs. (2)(c)</cite>, above shall be no less than 20 days and no more than 60 days from the date of issuance of the summons and complaint. Service, if by mail, shall be made no less than ten days prior to the first appearance date. Service, if personal, shall be made no less than seven days prior to the first appearance date.</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>The Clerk of Court shall not accept for filing any summons and complaint that does not bear the dated signature of the plaintiff or plaintiff's attorney, or that is not accompanied by the filing fee as required by § 1.1501 (1) and, if applicable, the mailing fee as required by § 1.1501 (2).</text>
+          <text>The Clerk of Court shall not accept for filing any summons and complaint that does not bear the dated signature of the plaintiff or plaintiff's attorney, or that is not accompanied by the filing fee as required by <cite path="II|1|1.9|1.1501">§ 1.1501</cite> (1) and, if applicable, the mailing fee as required by <cite path="II|1|1.9|1.1501">§ 1.1501</cite> (2).</text>
         </para>
       </section>
       <section>
@@ -638,7 +640,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text><u>Natural Person under Disability</u>. When the defendant is a minor under the age of 18 years, service shall be made upon the minor's parent or guardian. When a minor defendant is 14 years of age or over, service shall also be made on the minor. When the defendant is an adult who is known by the plaintiff to have a guardian, service shall be made on the defendant and on the defendant's guardian. Service may be made personally as provided in subs. (1) above.</text>
+          <text><u>Natural Person under Disability</u>. When the defendant is a minor under the age of 18 years, service shall be made upon the minor's parent or guardian. When a minor defendant is 14 years of age or over, service shall also be made on the minor. When the defendant is an adult who is known by the plaintiff to have a guardian, service shall be made on the defendant and on the defendant's guardian. Service may be made personally as provided in <cite path="II|1|1.9|1.902|(1)">subs. (1)</cite> above.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -646,19 +648,19 @@
         </para>
         <para>
           <num>(4)</num>
-          <text><u>Service on other Governmental Bodies</u>. When the defendant is a governmental body other than the Tribe, service shall be made on the agent of the governmental body as designated under the law of the State in which service is made; however, service may be made either personally or by certified mail as provided in <cite path="§1.902">this section</cite>. If service is made personally, it may be made upon the agent so designated or upon the person apparently in charge of the agent's office.</text>
+          <text><u>Service on other Governmental Bodies</u>. When the defendant is a governmental body other than the Tribe, service shall be made on the agent of the governmental body as designated under the law of the State in which service is made; however, service may be made either personally or by certified mail as provided in <cite path="II|1|1.9|1.902">this section</cite>. If service is made personally, it may be made upon the agent so designated or upon the person apparently in charge of the agent's office.</text>
         </para>
         <para>
           <num>(5)</num>
-          <text><u>Service on Domestic or Foreign Corporations or Limited Liability Companies</u>. When the defendant is a domestic or foreign corporation or limited liability company, service shall be made on the agent of the domestic or foreign corporation or limited liability company as designated under the law of the State in which service is made; however, service may be made either personally or by certified mail as provided in <cite path="§1.902">this section</cite>. If service is made personally, it may be made upon the agent so designated or upon the person apparently in charge of the agent's office.</text>
+          <text><u>Service on Domestic or Foreign Corporations or Limited Liability Companies</u>. When the defendant is a domestic or foreign corporation or limited liability company, service shall be made on the agent of the domestic or foreign corporation or limited liability company as designated under the law of the State in which service is made; however, service may be made either personally or by certified mail as provided in <cite path="II|1|1.9|1.902">this section</cite>. If service is made personally, it may be made upon the agent so designated or upon the person apparently in charge of the agent's office.</text>
         </para>
         <para>
           <num>(6)</num>
-          <text><u>Service by Certified Mail</u>. A plaintiff may request the Clerk of Court to make service by certified mail, in which case the Clerk of Court shall mail a copy of the summons and complaint to each defendant, other individual, or agents as designated according to defendant's status under subs. (1) - (5), above. Mail shall be certified, return receipt requested, return requested if not claimed within five days. The Clerk shall charge the plaintiff the fees as required by § 1.1501 of this ordinance for service by certified mail, receipt requested, return postage guaranteed. Service by mail shall be complete upon mailing unless the envelope enclosing the summons and complaint is returned unopened by the post office to the Clerk of Court prior to the date of the first appearance.</text>
+          <text><u>Service by Certified Mail</u>. A plaintiff may request the Clerk of Court to make service by certified mail, in which case the Clerk of Court shall mail a copy of the summons and complaint to each defendant, other individual, or agents as designated according to defendant's status under <cite path="II|1|1.9|1.902|(1)">subs. (1) - (5)</cite>, and above. Mail shall be certified, return receipt requested, return requested if not claimed within five days. The Clerk shall charge the plaintiff the fees as required by <cite path="II|1|1.9|1.1501">§ 1.1501</cite> of this ordinance for service by certified mail, receipt requested, return postage guaranteed. Service by mail shall be complete upon mailing unless the envelope enclosing the summons and complaint is returned unopened by the post office to the Clerk of Court prior to the date of the first appearance.</text>
         </para>
         <para>
           <num>(7)</num>
-          <text><u>Service by Publication</u>. If service cannot reasonably be made under subs. (1) - (6) of this ordinance, service by publication may be made. Plaintiff shall cause a summons to be published in a newspaper of general circulation in the area of the defendant's last known residence. The summons for publication shall inform the defendant that a lawsuit has been filed against the defendant in Lac Courte Oreilles Tribal Court, and shall give the names of the parties, the case number, and the address of the Clerk of Court, with the advice that a copy of the full summons and complaint may be obtained at that address. Publication shall occur once each week for three consecutive weeks. The plaintiff shall file an affidavit showing the required publication and an affidavit detailing attempts to personally serve the defendant and to serve the defendant by mail and the reasons why such attempts failed and why the plaintiff does not believe additional attempts will be successful.</text>
+          <text><u>Service by Publication</u>. If service cannot reasonably be made under <cite path="II|1|1.9|1.902|(1)">subs. (1) - (6)</cite> of this ordinance, service by publication may be made. Plaintiff shall cause a summons to be published in a newspaper of general circulation in the area of the defendant's last known residence. The summons for publication shall inform the defendant that a lawsuit has been filed against the defendant in Lac Courte Oreilles Tribal Court, and shall give the names of the parties, the case number, and the address of the Clerk of Court, with the advice that a copy of the full summons and complaint may be obtained at that address. Publication shall occur once each week for three consecutive weeks. The plaintiff shall file an affidavit showing the required publication and an affidavit detailing attempts to personally serve the defendant and to serve the defendant by mail and the reasons why such attempts failed and why the plaintiff does not believe additional attempts will be successful.</text>
         </para>
         <para>
           <num>(8)</num>
@@ -674,11 +676,11 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Written pleadings shall not substitute for personal appearance or appearance by an attorney or lay advocate on the first appearance date. Failure of any party to appear may result in judgment as provided in §§ 1.1101 and 1.1102 of this ordinance.</text>
+          <text>Written pleadings shall not substitute for personal appearance or appearance by an attorney or lay advocate on the first appearance date. Failure of any party to appear may result in judgment as provided in §§ <cite path="II|1|1.9|1.1101">1.1101</cite> and <cite path="II|1|1.9|1.1102">1.1102</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>Upon the first appearance date, the court shall determine whether the defendant wishes to make a defense to the complaint. If the defendant does not wish to make a defense or raise a counterclaim, judgment may be entered in favor of the plaintiff. If the defendant does wish to make a defense, the court shall determine whether the parties wish to settle their differences without trial. If such settlement is made, the court shall enter judgment, or dismiss the complaint, as called for by the settlement. If the parties do not make such a settlement, a trial date shall be set or a scheduling order under § 1.905 of this ordinance, shall be entered depending on the complexity of the case. Trial may be had on the date of the first appearance if all parties and the court consent.</text>
+          <text>Upon the first appearance date, the court shall determine whether the defendant wishes to make a defense to the complaint. If the defendant does not wish to make a defense or raise a counterclaim, judgment may be entered in favor of the plaintiff. If the defendant does wish to make a defense, the court shall determine whether the parties wish to settle their differences without trial. If such settlement is made, the court shall enter judgment, or dismiss the complaint, as called for by the settlement. If the parties do not make such a settlement, a trial date shall be set or a scheduling order under <cite path="II|1|1.9|1.905">§ 1.905</cite> of this ordinance, shall be entered depending on the complexity of the case. Trial may be had on the date of the first appearance if all parties and the court consent.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -923,7 +925,7 @@
       <section>
         <num>1.1103</num>
         <heading>Summary Judgment</heading>
-        <text>At any time not barred by a scheduling order in the case, a party may move for summary judgment on any claim, counterclaim, cross-claim or third-party claim, which shall be granted if the pleadings, depositions, answers to interrogatories, admissions, and evidentiary affidavits on file show that there is no genuine issue as to any material fact and that the moving or opposing party is entitled to judgment as a matter of law. The court may, in its discretion, hold a non-evidentiary hearing on the motion. Any material upon which the motion is based which is not on file at the time of the filing of the motion shall be filed with the motion. Any counter affidavits or other material in opposition to the motion shall be filed and served within the time set by scheduling order, or if none is in effect, no more than 21 days after service of the motion and supporting papers on the responding party. If the court holds a hearing on the motion, it shall be no sooner than five days after the last date allowed for filing responsive materials. Interlocutory summary judgment may be entered on some but not all claims or issues in a case. The court may enter summary judgment in favor of a party even though the party has not moved for summary judgment, if the materials submitted in support of and opposition to another party's motion for summary judgment show that summary judgment is appropriate under the standards set by <cite path="§1.1103">this section</cite>.</text>
+        <text>At any time not barred by a scheduling order in the case, a party may move for summary judgment on any claim, counterclaim, cross-claim or third-party claim, which shall be granted if the pleadings, depositions, answers to interrogatories, admissions, and evidentiary affidavits on file show that there is no genuine issue as to any material fact and that the moving or opposing party is entitled to judgment as a matter of law. The court may, in its discretion, hold a non-evidentiary hearing on the motion. Any material upon which the motion is based which is not on file at the time of the filing of the motion shall be filed with the motion. Any counter affidavits or other material in opposition to the motion shall be filed and served within the time set by scheduling order, or if none is in effect, no more than 21 days after service of the motion and supporting papers on the responding party. If the court holds a hearing on the motion, it shall be no sooner than five days after the last date allowed for filing responsive materials. Interlocutory summary judgment may be entered on some but not all claims or issues in a case. The court may enter summary judgment in favor of a party even though the party has not moved for summary judgment, if the materials submitted in support of and opposition to another party's motion for summary judgment show that summary judgment is appropriate under the standards set by <cite path="II|1|1.11|1.1103">this section</cite>.</text>
       </section>
       <section>
         <num>1.1104</num>
@@ -994,7 +996,7 @@
         <heading>Writ Of Execution</heading>
         <para>
           <num>(1)</num>
-          <text>Upon receipt of the writ of execution, tribal law enforcement personnel shall serve the writ upon the losing party and take possession of any non-exempt property as ordered by the Tribal Court. Within 30 days, the tribal law enforcement personnel shall cause a sale of such property. The proceeds of the sale shall be returned to the Tribal Court within 30 days above prescribed. The net proceeds of such sale, after deducting sale expenses and amounts due any secured party under subs. (2), below shall be remitted to the prevailing party.</text>
+          <text>Upon receipt of the writ of execution, tribal law enforcement personnel shall serve the writ upon the losing party and take possession of any non-exempt property as ordered by the Tribal Court. Within 30 days, the tribal law enforcement personnel shall cause a sale of such property. The proceeds of the sale shall be returned to the Tribal Court within 30 days above prescribed. The net proceeds of such sale, after deducting sale expenses and amounts due any secured party under <cite path="II|1|1.12|1.1202|(2)">subs. (2)</cite>, below shall be remitted to the prevailing party.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1064,7 +1066,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Promptly upon filing of the foreign judgment and affidavit, the clerk shall mail notice of the filing to the judgment debtor and the judgment debtor's lawyer as named in the affidavit, and shall record proof of such mailing in the file. The notice shall include the name and address of the judgment creditor and the judgment creditor's lawyer, if any. The judgment creditor may also mail such notice and file proof of such mailing with the clerk of court. Failure of either the clerk or the judgment creditor to mail notice as provided in <cite path="§1.1303">this section</cite> shall not affect the enforceability of the foreign judgment if proof of mailing by the other is filed.</text>
+          <text>Promptly upon filing of the foreign judgment and affidavit, the clerk shall mail notice of the filing to the judgment debtor and the judgment debtor's lawyer as named in the affidavit, and shall record proof of such mailing in the file. The notice shall include the name and address of the judgment creditor and the judgment creditor's lawyer, if any. The judgment creditor may also mail such notice and file proof of such mailing with the clerk of court. Failure of either the clerk or the judgment creditor to mail notice as provided in <cite path="II|1|1.13|1.1303">this section</cite> shall not affect the enforceability of the foreign judgment if proof of mailing by the other is filed.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -1114,7 +1116,7 @@
       <section>
         <num>1.1403</num>
         <heading>Summary Procedure</heading>
-        <text>The judge presiding in an action or proceeding may impose a sanction upon a person who commits a contempt of court in the actual presence of the court. The judge shall impose the sanction immediately after the contempt of court and only for the purpose of preserving order in the court and preserving the authority and dignity of the court. A violation of § 1.1401 (3) or (5) may be considered under <cite path="§1.1403">this section</cite> even though the contemnor does not appear in court.</text>
+        <text>The judge presiding in an action or proceeding may impose a sanction upon a person who commits a contempt of court in the actual presence of the court. The judge shall impose the sanction immediately after the contempt of court and only for the purpose of preserving order in the court and preserving the authority and dignity of the court. A violation of <cite path="II|1|1.14|1.1401">§ 1.1401</cite> (3) or (5) may be considered under <cite path="II|1|1.14|1.1403">this section</cite> even though the contemnor does not appear in court.</text>
       </section>
       <section>
         <num>1.1404</num>
@@ -1155,13 +1157,13 @@
         </para>
         <para>
           <num>(8)</num>
-          <text>A sanction other than the sanctions specified in subs. (1) - (7) of this ordinance, if the court specifically finds that those sanctions would be ineffectual to terminate a continuing contempt of court.</text>
+          <text>A sanction other than the sanctions specified in <cite path="II|1|1.14|1.1405|(1)">subs. (1) - (7)</cite> of this ordinance, if the court specifically finds that those sanctions would be ineffectual to terminate a continuing contempt of court.</text>
         </para>
       </section>
       <section>
         <num>1.1406</num>
         <heading>Enforcement Of Monetary Sanctions</heading>
-        <text>Any sanction imposed under § 1.1405 (1), (2), or (7) may be enforced by the court or aggrieved party by any procedure provided in § 1.1201 - § 1.1205. As part of the contempt proceeding the court may of its own motion or on motion of any party order any monetary sanction under § 1.1405 (1), (2), or (7), and the costs of incarceration under § 1.1405 (6) to be paid from any funds held by the Tribe, or which may in the future be held by the Tribe, for the individual who is the subject of the order, and any such order for payment shall have priority over any other disbursement of such funds.</text>
+        <text>Any sanction imposed under <cite path="II|1|1.14|1.1405">§ 1.1405</cite> (1), (2), or (7) may be enforced by the court or aggrieved party by any procedure provided in <cite path="II|1|1.14|1.1201">§ 1.1201</cite> - <cite path="II|1|1.14|1.1205">§ 1.1205</cite>. As part of the contempt proceeding the court may of its own motion or on motion of any party order any monetary sanction under <cite path="II|1|1.14|1.1405">§ 1.1405</cite> (1), (2), or (7), and the costs of incarceration under <cite path="II|1|1.14|1.1405">§ 1.1405</cite> (6) to be paid from any funds held by the Tribe, or which may in the future be held by the Tribe, for the individual who is the subject of the order, and any such order for payment shall have priority over any other disbursement of such funds.</text>
       </section>
       <section>
         <num>1.1407</num>
@@ -1214,7 +1216,7 @@
       <section>
         <num>1.1601</num>
         <heading>Violation</heading>
-        <text>Any person who harasses, or threatens bodily harm to, any judge, magistrate or other court personnel, advocate, attorney, law enforcement, or social services personnel with the intent or effect of discouraging that person from discharging his or her duties under any ordinance of the tribe or rendering assistance to anyone seeking protection of rights under any ordinance of the Tribe may be prosecuted by the Tribe for violation of <cite path="§1.1601">this section</cite> and shall be subject to a civil forfeiture not to exceed $5,000 for each violation.</text>
+        <text>Any person who harasses, or threatens bodily harm to, any judge, magistrate or other court personnel, advocate, attorney, law enforcement, or social services personnel with the intent or effect of discouraging that person from discharging his or her duties under any ordinance of the tribe or rendering assistance to anyone seeking protection of rights under any ordinance of the Tribe may be prosecuted by the Tribe for violation of <cite path="II|1|1.16|1.1601">this section</cite> and shall be subject to a civil forfeiture not to exceed $5,000 for each violation.</text>
       </section>
       <section>
         <num>1.1602</num>
@@ -1237,7 +1239,7 @@
       <section>
         <num>1.1604</num>
         <heading>Prosecution</heading>
-        <text>Any person who believes that he or she has been the victim of a violation of § 1.1601 may report such alleged violation to the office of the tribal prosecutor for a determination of whether the alleged violation shall be prosecuted. All actions under <cite path="§1.1604">this section</cite> shall be brought by the Tribe in the name of the Tribe, and all forfeitures awarded shall be awarded to the Tribe.</text>
+        <text>Any person who believes that he or she has been the victim of a violation of <cite path="II|1|1.16|1.1601">§ 1.1601</cite> may report such alleged violation to the office of the tribal prosecutor for a determination of whether the alleged violation shall be prosecuted. All actions under <cite path="II|1|1.16|1.1604">this section</cite> shall be brought by the Tribe in the name of the Tribe, and all forfeitures awarded shall be awarded to the Tribe.</text>
       </section>
     </container>
   </container>
@@ -1245,7 +1247,9 @@
     <prefix>Chapter</prefix>
     <num>5</num>
     <heading>Sovereign Immunity Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text>Preamble</text>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to protect and preserve the sovereign immunity of the Tribe, to define the entities and individuals entitled to the protection of such immunity, and to specify the manner in which such immunity may be waived, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, § 1(s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "To promulgate and enforce ordinances…providing for the maintenance of law and order and the administration of justice…" Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby recognizes that Tribal sovereign immunity, as defined in numerous federal court decisions, is an inherent and indispensable aspect of Tribal sovereignty. The Lac Courte Oreilles Band of Lake Superior Chippewa Indians also recognizes that Tribal sovereign immunity affords necessary protection of Tribal resources, and necessary protection for Tribal officers, employees, and agents in both governmental and commercial settings.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -1316,7 +1320,7 @@
       <section>
         <num>5.201</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in <cite path="§5.201">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="II|5|5.2|5.201">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(1)</num>
           <text><strong>"Agent"</strong> shall mean a person who is authorized to act on behalf of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians with respect to a specific transaction or transactions. For the purposes of this ordinance, agent shall include all individuals elected or appointed to serve on a board, committee, or commission of the Tribe.</text>

@@ -7,7 +7,9 @@
     <prefix>Chapter</prefix>
     <num>1</num>
     <heading>Reservation / Tribal Land Conservation Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text>Preamble</text>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
     <text>Hunting, fishing and gathering has always been central to the Ojibwe way of life. As such, it is important that this ordinance fulfills two equally important goals. First, it must preserve <em>gidizhitwaawininaan</em> (our traditions and customs). Second, it must regulate the modern realities of hunting, fishing and gathering that our ancestors did not have to contemplate, such as ensuring Tribal members' safety from gunfire in residential areas. In order to ensure that this ordinance is interpreted in the spirit of <em>gidizhitwaawininaan</em>, statements of tradition and custom are placed throughout this ordinance. It is hoped that these statements will help to both preserve our past and provide guidance and education for our future.</text>
     <text class="center">
       <strong>Gidizhitwaawininaan</strong>
@@ -125,7 +127,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>No member shall fail to comply with the terms and conditions of a permit issued pursuant to <cite path="§1.109">this section</cite>. Permits may be issued for funerals, feasts, weddings, and any other occasion deemed appropriate by the Tribal Governing Board. The requesting member may use the services of another member to hunt an animal for them, in which case both the requesting member and the assisting person must be named on the permit.</text>
+          <text>No member shall fail to comply with the terms and conditions of a permit issued pursuant to <cite path="VI|1|1.1|1.109">this section</cite>. Permits may be issued for funerals, feasts, weddings, and any other occasion deemed appropriate by the Tribal Governing Board. The requesting member may use the services of another member to hunt an animal for them, in which case both the requesting member and the assisting person must be named on the permit.</text>
         </para>
       </section>
       <section>
@@ -151,7 +153,7 @@
       <section>
         <num>1.201</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in <cite path="§1.201">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="VI|1|1.2|1.201">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(1)</num>
           <text><strong>"Adequate Backstop"</strong> means a condition upon which a hunter should know that their discharged bullets will fall harmless.</text>
@@ -190,7 +192,7 @@
         </para>
         <para>
           <num>(10)</num>
-          <text><strong>"Collect" </strong>means to acquire, or otherwise obtain or attempt to collect, acquire, or otherwise obtain possession by means other than "take" as defined in § 1.201 (74) of this ordinance, of any migratory bird, feathers, or parts thereof within the ceded territory for religious, ceremonial, and cultural purposes in accordance with the traditions and customs of the Tribe.</text>
+          <text><strong>"Collect" </strong>means to acquire, or otherwise obtain or attempt to collect, acquire, or otherwise obtain possession by means other than "take" as defined in <cite path="VI|1|1.2|1.201">§ 1.201</cite> (74) of this ordinance, of any migratory bird, feathers, or parts thereof within the ceded territory for religious, ceremonial, and cultural purposes in accordance with the traditions and customs of the Tribe.</text>
         </para>
         <para>
           <num>(11)</num>
@@ -230,7 +232,7 @@
         </para>
         <para>
           <num>(17)</num>
-          <text><strong>"Designated Sugarbush Area"</strong> means a specific site identified and established by the tribal conservation department according to § 1.1204 (10) of this ordinance, for which a site management plan has been developed and for which a sugarbush site permit has been issued.</text>
+          <text><strong>"Designated Sugarbush Area"</strong> means a specific site identified and established by the tribal conservation department according to <cite path="VI|1|1.2|1.1204">§ 1.1204</cite> (10) of this ordinance, for which a site management plan has been developed and for which a sugarbush site permit has been issued.</text>
         </para>
         <para>
           <num>(18)</num>
@@ -366,7 +368,7 @@
         </para>
         <para>
           <num>(44)</num>
-          <text><strong>"Miscellaneous Forest Products"</strong> means any undomesticated species, or part thereof, of the plant and fungi kingdoms occurring in both forested and non-forested natural ecosystems including: non-timber forest products as defined in § 1.201 (48) of this ordinance; wild plants as defined in § 1.201 (93) of this ordinance; gathering products as defined in § 1.201 (32) of this ordinance; and endangered or threatened plant species as defined in § 1.201 (23), but for the purposes of this ordinance excludes wild rice and timber.</text>
+          <text><strong>"Miscellaneous Forest Products"</strong> means any undomesticated species, or part thereof, of the plant and fungi kingdoms occurring in both forested and non-forested natural ecosystems including: non-timber forest products as defined in <cite path="VI|1|1.2|1.201">§ 1.201</cite> (48) of this ordinance; wild plants as defined in <cite path="VI|1|1.2|1.201">§ 1.201</cite> (93) of this ordinance; gathering products as defined in <cite path="VI|1|1.2|1.201">§ 1.201</cite> (32) of this ordinance; and endangered or threatened plant species as defined in <cite path="VI|1|1.2|1.201">§ 1.201</cite> (23), but for the purposes of this ordinance excludes wild rice and timber.</text>
         </para>
         <para>
           <num>(45)</num>
@@ -382,7 +384,7 @@
         </para>
         <para>
           <num>(48)</num>
-          <text><strong>"Non-Timber Forest Products"</strong> means any of the following miscellaneous forest products: bark, boughs, firewood, lodgepoles, and sap as further defined in <cite path="§1.201">this section</cite>.</text>
+          <text><strong>"Non-Timber Forest Products"</strong> means any of the following miscellaneous forest products: bark, boughs, firewood, lodgepoles, and sap as further defined in <cite path="VI|1|1.2|1.201">this section</cite>.</text>
         </para>
         <para>
           <num>(49)</num>
@@ -450,11 +452,11 @@
         </para>
         <para>
           <num>(63)</num>
-          <text><strong>"Set or Bank Pole"</strong> means a pole used for fishing from the banks of lakes or rivers in compliance with the provisions of § 1.909 of this ordinance [Setlines and Set or Bank Poles Regulated].</text>
+          <text><strong>"Set or Bank Pole"</strong> means a pole used for fishing from the banks of lakes or rivers in compliance with the provisions of <cite path="VI|1|1.2|1.909">§ 1.909</cite> of this ordinance [Setlines and Set or Bank Poles Regulated].</text>
         </para>
         <para>
           <num>(64)</num>
-          <text><strong>"Setline"</strong> means a line used for fishing in compliance with the provisions of § 1.909 of this ordinance [Setlines and Set or Bank Poles Regulated].</text>
+          <text><strong>"Setline"</strong> means a line used for fishing in compliance with the provisions of <cite path="VI|1|1.2|1.909">§ 1.909</cite> of this ordinance [Setlines and Set or Bank Poles Regulated].</text>
         </para>
         <para>
           <num>(65)</num>
@@ -482,7 +484,7 @@
         </para>
         <para>
           <num>(71)</num>
-          <text><strong>"Subsistence Uses"</strong> shall mean the use of natural resources for direct personal or family consumption by members as food, medicine, shelter, fuel, clothing, tools or transportation; for the making or selling of handicraft articles; or for barter.  For purposes of <cite path="§1.201">this section</cite>, the term:</text>
+          <text><strong>"Subsistence Uses"</strong> shall mean the use of natural resources for direct personal or family consumption by members as food, medicine, shelter, fuel, clothing, tools or transportation; for the making or selling of handicraft articles; or for barter.  For purposes of <cite path="VI|1|1.2|1.201">this section</cite>, the term:</text>
           <para>
             <num>(a)</num>
             <text><strong>"family"</strong> means all persons related by blood, wenh'enh, doodem, marriage, or adoption, or any person living within the household on a permanent basis;</text>
@@ -505,12 +507,12 @@
           <text><strong>"Steel Jawed Trap"</strong> means a trap, constructed of metal, designed to catch an animal by the foot, but does not include enclosed trigger traps or body gripping traps.</text>
           <para>
             <num>(74)</num>
-            <text><strong>"Take"</strong> means to pursue, hunt, shoot, wound, kill, trap, or capture, or attempt to pursue, hunt, shoot, wound, kill, trap, or capture, any migratory bird, but for the purposes of this ordinance excludes "collect" as defined in § 1.201 (10) of this ordinance.</text>
+            <text><strong>"Take"</strong> means to pursue, hunt, shoot, wound, kill, trap, or capture, or attempt to pursue, hunt, shoot, wound, kill, trap, or capture, any migratory bird, but for the purposes of this ordinance excludes "collect" as defined in <cite path="VI|1|1.2|1.201">§ 1.201</cite> (10) of this ordinance.</text>
           </para>
         </para>
         <para>
           <num>(75)</num>
-          <text><strong>"Timber"</strong> means any tree that is not a lodgepole, as defined in § 1.201 (40) of this ordinance.</text>
+          <text><strong>"Timber"</strong> means any tree that is not a lodgepole, as defined in <cite path="VI|1|1.2|1.201">§ 1.201</cite> (40) of this ordinance.</text>
         </para>
         <para>
           <num>(76)</num>
@@ -565,7 +567,7 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>All other unprotected species as defined in § 1.201 (85).</text>
+            <text>All other unprotected species as defined in <cite path="VI|1|1.2|1.201">§ 1.201</cite> (85).</text>
           </para>
         </para>
         <para>
@@ -636,7 +638,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>No member or duly authorized non-member shall engage in the exercise of hunting, fishing, trapping or gathering activities regulated by this ordinance without a validly issued tribal natural resources harvesting permit or such other permit as this ordinance may require validated for the particular type of activity to be engaged in for the particular season in question. Such a permit may be the member's tribal identification card required by subs. (3).</text>
+          <text>No member or duly authorized non-member shall engage in the exercise of hunting, fishing, trapping or gathering activities regulated by this ordinance without a validly issued tribal natural resources harvesting permit or such other permit as this ordinance may require validated for the particular type of activity to be engaged in for the particular season in question. Such a permit may be the member's tribal identification card required by <cite path="VI|1|1.3|1.303|(3)">subs. (3)</cite>.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -682,7 +684,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>No member or non-member shall use, set, lay or prepare in any reservation waters any lime, poison, fish berries, or any other substance deleterious to fish life; or use baits containing poison of any description in any reservation forests, fields or other places where such baits might destroy or cause the destruction of wild animals; and the possession of any such poison, poison baits or substances deleterious to wild animals by a member or non-member while harvesting any resource on the reservation is prima facie evidence of a violation of <cite path="§1.306">this section</cite>.</text>
+          <text>No member or non-member shall use, set, lay or prepare in any reservation waters any lime, poison, fish berries, or any other substance deleterious to fish life; or use baits containing poison of any description in any reservation forests, fields or other places where such baits might destroy or cause the destruction of wild animals; and the possession of any such poison, poison baits or substances deleterious to wild animals by a member or non-member while harvesting any resource on the reservation is prima facie evidence of a violation of <cite path="VI|1|1.3|1.306">this section</cite>.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -748,11 +750,11 @@
         <heading>Artificial Light Or Shining Wild Animals</heading>
         <para>
           <num>(1)</num>
-          <text>The use of artificial light for hunting is permitted, provided it is not within a safety zone as defined in § 1.201 (60) of this ordinance. Member and duly authorized non-member compliance with the use of a safe zone of fire as defined in § 1.201 (59) of this ordinance and an adequate backstop as defined in § 1.201 (1) of this ordinance shall be considered safe hunting, otherwise no member or duly authorized non-member shall hunt and shine wild animals in such a manner so as to put human lives in danger, and a member or duly authorized non-member must take reasonable precautions to refrain from hunting dangerously.</text>
+          <text>The use of artificial light for hunting is permitted, provided it is not within a safety zone as defined in <cite path="VI|1|1.3|1.201">§ 1.201</cite> (60) of this ordinance. Member and duly authorized non-member compliance with the use of a safe zone of fire as defined in <cite path="VI|1|1.3|1.201">§ 1.201</cite> (59) of this ordinance and an adequate backstop as defined in <cite path="VI|1|1.3|1.201">§ 1.201</cite> (1) of this ordinance shall be considered safe hunting, otherwise no member or duly authorized non-member shall hunt and shine wild animals in such a manner so as to put human lives in danger, and a member or duly authorized non-member must take reasonable precautions to refrain from hunting dangerously.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Except as provided in § 1.329 (3) of this ordinance, if an unpermitted non-member accompanies a member hunting, the unpermitted non-member may be an onlooker only and not physically participate in any aspect of hunting, such as driving the car, holding the light or shooting the animal. Notwithstanding the foregoing, an unpermitted non-Tribal member may assist in any way after the kill.</text>
+          <text>Except as provided in <cite path="VI|1|1.3|1.329">§ 1.329</cite> (3) of this ordinance, if an unpermitted non-member accompanies a member hunting, the unpermitted non-member may be an onlooker only and not physically participate in any aspect of hunting, such as driving the car, holding the light or shooting the animal. Notwithstanding the foregoing, an unpermitted non-Tribal member may assist in any way after the kill.</text>
         </para>
       </section>
       <section>
@@ -835,7 +837,7 @@
             <text><u>Firing a Weapon</u>.</text>
             <para>
               <num>(i)</num>
-              <text>No member or non-member shall discharge or fire a weapon within a safety zone as defined in § 1.201 (60) of this ordinance.</text>
+              <text>No member or non-member shall discharge or fire a weapon within a safety zone as defined in <cite path="VI|1|1.3|1.201">§ 1.201</cite> (60) of this ordinance.</text>
             </para>
             <para>
               <num>(ii)</num>
@@ -879,11 +881,11 @@
           </para>
           <para>
             <num>(d)</num>
-            <text><cite path="§1.321">This section</cite> shall not prohibit hunting over salt as bait.</text>
+            <text><cite path="VI|1|1.3|1.321">This section</cite> shall not prohibit hunting over salt as bait.</text>
           </para>
           <para>
             <num>(e)</num>
-            <text><cite path="§1.321">This section</cite> shall not prohibit hunting over bait materials deposited by natural vegetation or found solely as a result of normal agricultural practices.</text>
+            <text><cite path="VI|1|1.3|1.321">This section</cite> shall not prohibit hunting over bait materials deposited by natural vegetation or found solely as a result of normal agricultural practices.</text>
           </para>
         </para>
       </section>
@@ -912,12 +914,12 @@
       <section>
         <num>1.325</num>
         <heading>Endangered And Threatened Species Protected</heading>
-        <text>Except as otherwise permitted by law, no member or non-member shall take, kill, hunt, pursue, shoot at, disturb, destroy, transport, possess, process, purchase or sell any endangered and threatened species as defined in § 1.201 (23) of this ordinance.</text>
+        <text>Except as otherwise permitted by law, no member or non-member shall take, kill, hunt, pursue, shoot at, disturb, destroy, transport, possess, process, purchase or sell any endangered and threatened species as defined in <cite path="VI|1|1.3|1.201">§ 1.201</cite> (23) of this ordinance.</text>
       </section>
       <section>
         <num>1.326</num>
         <heading>Commercial Harvest Restricted</heading>
-        <text>No member or duly authorized non-member shall sell meat from wild animals harvested pursuant to this ordinance except for subsistence uses as defined in § 1.201 (71) of this ordinance.</text>
+        <text>No member or duly authorized non-member shall sell meat from wild animals harvested pursuant to this ordinance except for subsistence uses as defined in <cite path="VI|1|1.3|1.201">§ 1.201</cite> (71) of this ordinance.</text>
       </section>
       <section>
         <num>1.327</num>
@@ -928,7 +930,9 @@
         <num>1.201</num>
         <heading>(86)</heading>
         <text>
-          <strong>§ 1.328</strong>
+          <strong>
+            <cite path="VI|1|1.3|1.328">§ 1.328</cite>
+          </strong>
           <strong>
             <u>Protected Species</u>
           </strong>
@@ -945,14 +949,14 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Except as provided in subs. (3) or as otherwise provided herein, nothing in this ordinance shall be construed to prohibit a member from hunting, fishing, trapping or gathering with any non-member, provided that such non-member possesses a duly authorized permit issued by the Tribal Governing Board and complies with the provisions of this ordinance governing such activity.</text>
+          <text>Except as provided in <cite path="VI|1|1.3|1.329|(3) or">subs. (3)</cite> or as otherwise provided herein, nothing in this ordinance shall be construed to prohibit a member from hunting, fishing, trapping or gathering with any non-member, provided that such non-member possesses a duly authorized permit issued by the Tribal Governing Board and complies with the provisions of this ordinance governing such activity.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>(a)  No member shall allow any non-member to assist, and no such non-member shall assist, in the activities authorized by this ordinance except in accordance with the provisions of this subsection, or the provisions as provided in subs. (2), above.</text>
+          <text>(a)  No member shall allow any non-member to assist, and no such non-member shall assist, in the activities authorized by this ordinance except in accordance with the provisions of this subsection, or the provisions as provided in <cite path="VI|1|1.3|1.329|(2)">subs. (2)</cite>, above.</text>
           <para>
             <num>(b)</num>
-            <text>Except as provided in subs. (2), those persons who may assist a member shall be limited to the member's spouse, forebears, children, grandchildren, siblings, niiyawenh'enh (tribal namesake), nindoodem (tribal clan member), and bami'aagan (tribal customary adoption relative).</text>
+            <text>Except as provided in <cite path="VI|1|1.3|1.329|(2)">subs. (2)</cite>, those persons who may assist a member shall be limited to the member's spouse, forebears, children, grandchildren, siblings, niiyawenh'enh (tribal namesake), nindoodem (tribal clan member), and bami'aagan (tribal customary adoption relative).</text>
           </para>
           <para>
             <num>(c)</num>
@@ -1017,7 +1021,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>No member or non-member shall violate the terms, conditions, or restrictions of an emergency closure order issued pursuant to <cite path="§1.330">this section</cite>.</text>
+          <text>No member or non-member shall violate the terms, conditions, or restrictions of an emergency closure order issued pursuant to <cite path="VI|1|1.3|1.330">this section</cite>.</text>
         </para>
       </section>
       <section>
@@ -1050,7 +1054,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>Any stand which is untagged shall be immediately seized and confiscated, and the owner shall be subject to citation for a violation of the provisions of subs. (2).</text>
+          <text>Any stand which is untagged shall be immediately seized and confiscated, and the owner shall be subject to citation for a violation of the provisions of <cite path="VI|1|1.3|1.331|(2)">subs. (2)</cite>.</text>
         </para>
       </section>
     </container>
@@ -1087,7 +1091,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>With the authority and within the scope of a right of lawful inspection as provided in § 1.405;</text>
+          <text>With the authority and within the scope of a right of lawful inspection as provided in <cite path="VI|1|1.4|1.405">§ 1.405</cite>;</text>
         </para>
         <para>
           <num>(4)</num>
@@ -1110,7 +1114,7 @@
           </para>
           <para>
             <num>(b)</num>
-            <text>Subject to subsection (2), conduct routine inspections of a tribal natural resources harvesting permit or a member's tribal identification card required by § 1.303 (3) of this ordinance;</text>
+            <text>Subject to sub<cite path="VI|1|1.4|1.405|(2)">section (2)</cite>, conduct routine inspections of a tribal natural resources harvesting permit or a member's tribal identification card required by <cite path="VI|1|1.4|1.303">§ 1.303</cite> (3) of this ordinance;</text>
           </para>
           <para>
             <num>(c)</num>
@@ -1139,7 +1143,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The inspections authorized by subsection (1)(b) shall be conducted in a manner and at such times and locations as are reasonable and appropriate in the ordinary course of routine enforcement activities.</text>
+          <text>The inspections authorized by sub<cite path="VI|1|1.4|1.405|(1)|(b)">section (1)(b)</cite> shall be conducted in a manner and at such times and locations as are reasonable and appropriate in the ordinary course of routine enforcement activities.</text>
         </para>
       </section>
       <section>
@@ -1216,7 +1220,7 @@
       <section>
         <num>1.410</num>
         <heading>Civil Damages</heading>
-        <text>In addition to any other penalty allowed by this ordinance, the tribal court may award to the Tribe or, in addition to an action to impose penalties, the Tribe may bring a civil action for recovery of, damages against any person unlawfully killing, wounding, catching, taking, trapping, or having unlawfully in possession any of the following named protected miscellaneous forest products, wild rice, wild animals, or any part thereof, and the sum assessed for damages for each miscellaneous forest product, wild rice, or wild animal, shall not be less than the amount stated in <cite path="§1.410">this section</cite>:</text>
+        <text>In addition to any other penalty allowed by this ordinance, the tribal court may award to the Tribe or, in addition to an action to impose penalties, the Tribe may bring a civil action for recovery of, damages against any person unlawfully killing, wounding, catching, taking, trapping, or having unlawfully in possession any of the following named protected miscellaneous forest products, wild rice, wild animals, or any part thereof, and the sum assessed for damages for each miscellaneous forest product, wild rice, or wild animal, shall not be less than the amount stated in <cite path="VI|1|1.4|1.410">this section</cite>:</text>
         <para>
           <num>(1)</num>
           <text>Any endangered and threatened species protected under this ordinance, $875.00.</text>
@@ -1312,7 +1316,7 @@
       <section>
         <num>1.415</num>
         <heading>Harvesting After Revocation Or Suspension</heading>
-        <text>No member or duly authorized non-member whose hunting, fishing, trapping or gathering privileges have been revoked or suspended pursuant to § 1.408 (1)(c) of this ordinance, shall assist, hunt, fish, trap or gather any miscellaneous forest product, wild rice, or wild animal, the harvest of which is regulated by this ordinance, during such revocation or suspension.</text>
+        <text>No member or duly authorized non-member whose hunting, fishing, trapping or gathering privileges have been revoked or suspended pursuant to <cite path="VI|1|1.4|1.408">§ 1.408</cite> (1)(c) of this ordinance, shall assist, hunt, fish, trap or gather any miscellaneous forest product, wild rice, or wild animal, the harvest of which is regulated by this ordinance, during such revocation or suspension.</text>
       </section>
       <section>
         <num>1.416</num>
@@ -1337,11 +1341,11 @@
         <heading>Tribal Wild Rice Authority</heading>
         <para>
           <num>(1)</num>
-          <text><u>Recognition</u>.  There hereby is created a Tribal Wild Rice Authority which shall have the powers and duties enumerated in this subchapter.</text>
+          <text><u>Recognition</u>.  There hereby is created a Tribal Wild Rice Authority which shall have the powers and duties enumerated in <cite path="VI|1|1.5">this subchapter</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text><u>Definition</u>.  As used in this subchapter, "Tribal Wild Rice Authority" shall mean the individuals named by the Tribal Governing Board to act in the manner of the traditional Rice Chiefs for the purposes of implementing the provisions of this subchapter and of regulating the harvest and conservation of wild rice.</text>
+          <text><u>Definition</u>.  As used in <cite path="VI|1|1.5">this subchapter</cite>, "Tribal Wild Rice Authority" shall mean the individuals named by the Tribal Governing Board to act in the manner of the traditional Rice Chiefs for the purposes of implementing the provisions of <cite path="VI|1|1.5">this subchapter</cite> and of regulating the harvest and conservation of wild rice.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -1357,17 +1361,17 @@
         </para>
         <para>
           <num>(4)</num>
-          <text><u>Sufficient Notice of Opening Dates</u>.  If the Tribal Wild Rice Authority designates the open and closed dates for harvesting of wild rice growing within the exterior boundaries of the Lac Courte Oreilles Reservation and off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe, the posting of an open date for harvesting wild rice pursuant to subs. (3) shall be deemed sufficient notice of such opening date and no other publication thereof is required.</text>
+          <text><u>Sufficient Notice of Opening Dates</u>.  If the Tribal Wild Rice Authority designates the open and closed dates for harvesting of wild rice growing within the exterior boundaries of the Lac Courte Oreilles Reservation and off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe, the posting of an open date for harvesting wild rice pursuant to <cite path="VI|1|1.5|1.502|(3)">subs. (3)</cite> shall be deemed sufficient notice of such opening date and no other publication thereof is required.</text>
         </para>
         <para>
           <num>(5)</num>
-          <text><u>Consultation Required</u>.  In exercising its powers and duties under subs. (3), the Tribal Wild Rice Authority shall consult with and obtain the advice and recommendations of the Tribal Governing Board and the tribal conservation department..</text>
+          <text><u>Consultation Required</u>.  In exercising its powers and duties under <cite path="VI|1|1.5|1.502|(3)">subs. (3)</cite>, the Tribal Wild Rice Authority shall consult with and obtain the advice and recommendations of the Tribal Governing Board and the tribal conservation department..</text>
         </para>
       </section>
       <section>
         <num>1.503</num>
         <heading>Permit Required</heading>
-        <text>No member or duly authorized non-member shall harvest or gather wild rice pursuant to this subchapter without possessing a valid wild rice harvesting permit approved by the Tribal Governing Board which may incorporate such other terms and conditions as the tribal conservation department deems necessary or appropriate. Such a permit may be the member's tribal identification card required by § 1.303 (3) of this ordinance. No wild rice harvest permit is required of helpers of a permittee who participate only in shore operations.</text>
+        <text>No member or duly authorized non-member shall harvest or gather wild rice pursuant to <cite path="VI|1|1.5">this subchapter</cite> without possessing a valid wild rice harvesting permit approved by the Tribal Governing Board which may incorporate such other terms and conditions as the tribal conservation department deems necessary or appropriate. Such a permit may be the member's tribal identification card required by <cite path="VI|1|1.5|1.303">§ 1.303</cite> (3) of this ordinance. No wild rice harvest permit is required of helpers of a permittee who participate only in shore operations.</text>
       </section>
       <section>
         <num>1.504</num>
@@ -1399,21 +1403,21 @@
         <heading>Open Season</heading>
         <para>
           <num>(1)</num>
-          <text>There is no closed season for the harvest of wild rice on any body of water on the reservation as defined in § 1.201 (56) of this ordinance except for the following:</text>
+          <text>There is no closed season for the harvest of wild rice on any body of water on the reservation as defined in <cite path="VI|1|1.5|1.201">§ 1.201</cite> (56) of this ordinance except for the following:</text>
           <para>
             <num>(a)</num>
-            <text>Any other body of water for which the Tribal Wild Rice Authority has established a closed season pursuant to § 1.502 (3) of this ordinance.</text>
+            <text>Any other body of water for which the Tribal Wild Rice Authority has established a closed season pursuant to <cite path="VI|1|1.5|1.502">§ 1.502</cite> (3) of this ordinance.</text>
           </para>
         </para>
         <para>
           <num>(2)</num>
-          <text>No member shall harvest or gather wild rice in any body of water for which there is a closed season pursuant to subs. (1), except during the time(s) as such body of water is posted open by the Tribal Wild Rice Authority pursuant to § 1.502 (3)(a) of this ordinance.</text>
+          <text>No member shall harvest or gather wild rice in any body of water for which there is a closed season pursuant to <cite path="VI|1|1.5|1.507|(1)">subs. (1)</cite>, except during the time(s) as such body of water is posted open by the Tribal Wild Rice Authority pursuant to <cite path="VI|1|1.5|1.502">§ 1.502</cite> (3)(a) of this ordinance.</text>
         </para>
       </section>
       <section>
         <num>1.508</num>
         <heading>Hours</heading>
-        <text>No member shall harvest or gather wild rice on any body of water on the reservation as defined in § 1.201 (56) of this ordinance between sunset and the following 9:00 a.m., Central Time.</text>
+        <text>No member shall harvest or gather wild rice on any body of water on the reservation as defined in <cite path="VI|1|1.5|1.201">§ 1.201</cite> (56) of this ordinance between sunset and the following 9:00 a.m., Central Time.</text>
       </section>
       <section>
         <num>1.509</num>
@@ -1423,12 +1427,12 @@
       <section>
         <num>1.510</num>
         <heading>Harvest By Authorized Officials</heading>
-        <text>Nothing in this subchapter shall prohibit or preclude the tribal conservation department or their designees from harvesting or gathering wild rice for scientific purposes or otherwise within the performance of their duties.</text>
+        <text>Nothing in <cite path="VI|1|1.5">this subchapter</cite> shall prohibit or preclude the tribal conservation department or their designees from harvesting or gathering wild rice for scientific purposes or otherwise within the performance of their duties.</text>
       </section>
       <section>
         <num>1.511</num>
         <heading>Assistance By Non-Members</heading>
-        <text>No person who is not a member or a duly authorized non-member shall assist a member in the gathering of wild rice pursuant to this ordinance except as provided § 1.329 of this ordinance.</text>
+        <text>No person who is not a member or a duly authorized non-member shall assist a member in the gathering of wild rice pursuant to this ordinance except as provided <cite path="VI|1|1.5|1.329">§ 1.329</cite> of this ordinance.</text>
       </section>
     </container>
     <container>
@@ -1452,7 +1456,7 @@
         <heading>Open And Closed Season</heading>
         <para>
           <num>(1)</num>
-          <text>A closed season is hereby established for the hunting of deer except for the open season specified in § 1.606 of this ordinance.</text>
+          <text>A closed season is hereby established for the hunting of deer except for the open season specified in <cite path="VI|1|1.6|1.606">§ 1.606</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1467,7 +1471,7 @@
       <section>
         <num>1.604</num>
         <heading>Deer Hunting Permits</heading>
-        <text>No member or duly authorized non-member shall hunt deer pursuant to this subchapter without possessing a valid deer hunting permit approved by the Tribal Governing Board which may incorporate such other terms and conditions as the tribal conservation department deems necessary or appropriate.  Such a permit may be the member's tribal identification card required by § 1.303 (3) of this ordinance.</text>
+        <text>No member or duly authorized non-member shall hunt deer pursuant to <cite path="VI|1|1.6">this subchapter</cite> without possessing a valid deer hunting permit approved by the Tribal Governing Board which may incorporate such other terms and conditions as the tribal conservation department deems necessary or appropriate.  Such a permit may be the member's tribal identification card required by <cite path="VI|1|1.6|1.303">§ 1.303</cite> (3) of this ordinance.</text>
       </section>
       <section>
         <num>1.605</num>
@@ -1484,10 +1488,10 @@
       <section>
         <num>1.606</num>
         <heading>Deer Seasons; Specific Regulations</heading>
-        <text>Upon the determination of the tribal conservation department and the corresponding approval of the Tribal Governing Board, the deer hunting season may be changed if it is in the best interest of the Tribe to do so. All dates given in <cite path="§1.606">this section</cite> are inclusive:</text>
+        <text>Upon the determination of the tribal conservation department and the corresponding approval of the Tribal Governing Board, the deer hunting season may be changed if it is in the best interest of the Tribe to do so. All dates given in <cite path="VI|1|1.6|1.606">this section</cite> are inclusive:</text>
         <para>
           <num>(1)</num>
-          <text><u>Closed Season for Deer Hunting</u>. Except as provided in subs. (3), no member or duly authorized non-member shall hunt deer from the first Monday following New Year's Day to the first Sunday following July 4th.</text>
+          <text><u>Closed Season for Deer Hunting</u>. Except as provided in <cite path="VI|1|1.6|1.606|(3)">subs. (3)</cite>, no member or duly authorized non-member shall hunt deer from the first Monday following New Year's Day to the first Sunday following July 4th.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1495,15 +1499,15 @@
         </para>
         <para>
           <num>(3)</num>
-          <text><u>Permit Only Season</u>. No member or duly authorized non-member shall hunt deer from June 1<sup>st</sup> through the first Sunday following July 4th without a permit. Permits will only be issued for yearlings and bucks upon a showing of extreme need pursuant to § 1.110 of this ordinance.</text>
+          <text><u>Permit Only Season</u>. No member or duly authorized non-member shall hunt deer from June 1<sup>st</sup> through the first Sunday following July 4th without a permit. Permits will only be issued for yearlings and bucks upon a showing of extreme need pursuant to <cite path="VI|1|1.6|1.110">§ 1.110</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text><u>Tradition and Custom</u>. Notwithstanding any other provision of <cite path="§1.606">this section</cite>, nothing in <cite path="§1.606">this section</cite> shall be construed to infringe upon the issuance of a permit according to the traditions and custom of the Tribe pursuant to § 1.109 of this ordinance.</text>
+          <text><u>Tradition and Custom</u>. Notwithstanding any other provision of <cite path="VI|1|1.6|1.606">this section</cite>, nothing in <cite path="VI|1|1.6|1.606">this section</cite> shall be construed to infringe upon the issuance of a permit according to the traditions and custom of the Tribe pursuant to <cite path="VI|1|1.6|1.109">§ 1.109</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(5)</num>
-          <text><u>Emergency Closure</u>.  Notwithstanding any other provision of <cite path="§1.606">this section</cite>, nothing in <cite path="§1.606">this section</cite> shall be construed to authorize deer hunting or the opening of a deer hunting season contrary to an Emergency Closure Order issued pursuant to § 1.330 of this ordinance.</text>
+          <text><u>Emergency Closure</u>.  Notwithstanding any other provision of <cite path="VI|1|1.6|1.606">this section</cite>, nothing in <cite path="VI|1|1.6|1.606">this section</cite> shall be construed to authorize deer hunting or the opening of a deer hunting season contrary to an Emergency Closure Order issued pursuant to <cite path="VI|1|1.6|1.330">§ 1.330</cite> of this ordinance.</text>
         </para>
       </section>
       <section>
@@ -1514,17 +1518,17 @@
       <section>
         <num>1.608</num>
         <heading>Firearms Restrictions</heading>
-        <text>No member or duly authorized non-member shall hunt deer by the use of any firearm, except as authorized pursuant to § 1.321 (3)(a) of this ordinance.</text>
+        <text>No member or duly authorized non-member shall hunt deer by the use of any firearm, except as authorized pursuant to <cite path="VI|1|1.6|1.321">§ 1.321</cite> (3)(a) of this ordinance.</text>
       </section>
       <section>
         <num>1.609</num>
         <heading>Bow/Crossbow Restrictions</heading>
-        <text>No member or duly authorized non-member shall hunt deer by the use of any bow or crossbow, except as authorized pursuant to § 1.321 (3)(b) of this ordinance.</text>
+        <text>No member or duly authorized non-member shall hunt deer by the use of any bow or crossbow, except as authorized pursuant to <cite path="VI|1|1.6|1.321">§ 1.321</cite> (3)(b) of this ordinance.</text>
       </section>
       <section>
         <num>1.610</num>
         <heading>Group Deer Hunting</heading>
-        <text>Pursuant to § 1.329 of this ordinance, no member or duly authorized non-member shall hunt deer as a member of a group deer hunting when a member of the party is an unauthorized non-member.</text>
+        <text>Pursuant to <cite path="VI|1|1.6|1.329">§ 1.329</cite> of this ordinance, no member or duly authorized non-member shall hunt deer as a member of a group deer hunting when a member of the party is an unauthorized non-member.</text>
       </section>
       <section>
         <num>1.611</num>
@@ -1534,17 +1538,17 @@
       <section>
         <num>1.612</num>
         <heading>Transportation</heading>
-        <text>Except when a deer is being transported between the exterior boundaries of the Lac Courte Oreilles Reservation and off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe, no member or duly authorized non-member shall transport deer off-reservation without a transportation tag pursuant to § 1.312 of this ordinance.</text>
+        <text>Except when a deer is being transported between the exterior boundaries of the Lac Courte Oreilles Reservation and off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe, no member or duly authorized non-member shall transport deer off-reservation without a transportation tag pursuant to <cite path="VI|1|1.6|1.312">§ 1.312</cite> of this ordinance.</text>
       </section>
       <section>
         <num>1.613</num>
         <heading>Hunting Within Restricted Tribal Areas Prohibited</heading>
-        <text>Pursuant to § 1.321 (1) of this ordinance, no member or duly authorized non-member shall hunt deer within restricted areas.</text>
+        <text>Pursuant to <cite path="VI|1|1.6|1.321">§ 1.321</cite> (1) of this ordinance, no member or duly authorized non-member shall hunt deer within restricted areas.</text>
       </section>
       <section>
         <num>1.614</num>
         <heading>Hunting On Non-Member Fee Lands Prohibited</heading>
-        <text>Pursuant to § 1.302 of this ordinance, no member or duly authorized non-member shall hunt deer on any non-member fee land except where the non-member land owner has consented to tribal hunting.</text>
+        <text>Pursuant to <cite path="VI|1|1.6|1.302">§ 1.302</cite> of this ordinance, no member or duly authorized non-member shall hunt deer on any non-member fee land except where the non-member land owner has consented to tribal hunting.</text>
       </section>
       <section>
         <num>1.615</num>
@@ -1555,23 +1559,23 @@
         </para>
         <para>
           <num>(2)</num>
-          <text><u>Meat</u>.  Pursuant to § 1.326 of this ordinance, no member or duly authorized non-member shall sell meat from deer harvested pursuant to this ordinance except for subsistence uses as defined in § 1.201 (71) of this ordinance.</text>
+          <text><u>Meat</u>.  Pursuant to <cite path="VI|1|1.6|1.326">§ 1.326</cite> of this ordinance, no member or duly authorized non-member shall sell meat from deer harvested pursuant to this ordinance except for subsistence uses as defined in <cite path="VI|1|1.6|1.201">§ 1.201</cite> (71) of this ordinance.</text>
         </para>
       </section>
       <section>
         <num>1.616</num>
         <heading>Deer Shining / Night Hunting</heading>
-        <text>Pursuant to § 1.315 of this ordinance, the use of artificial light for deer hunting is permitted, provided it is not within a safety zone as defined in § 1.201 (60) of this ordinance. Member and duly authorized non-member compliance with the use of a safe zone of fire as defined in § 1.201 (59) of this ordinance and an adequate backstop as defined in § 1.201 (1) of this ordinance shall be considered safe hunting, otherwise no member or duly authorized non-member shall hunt and shine deer in such a manner so as to put human lives in danger, and a member or duly authorized non-member must take reasonable precautions to refrain from hunting dangerously.</text>
+        <text>Pursuant to <cite path="VI|1|1.6|1.315">§ 1.315</cite> of this ordinance, the use of artificial light for deer hunting is permitted, provided it is not within a safety zone as defined in <cite path="VI|1|1.6|1.201">§ 1.201</cite> (60) of this ordinance. Member and duly authorized non-member compliance with the use of a safe zone of fire as defined in <cite path="VI|1|1.6|1.201">§ 1.201</cite> (59) of this ordinance and an adequate backstop as defined in <cite path="VI|1|1.6|1.201">§ 1.201</cite> (1) of this ordinance shall be considered safe hunting, otherwise no member or duly authorized non-member shall hunt and shine deer in such a manner so as to put human lives in danger, and a member or duly authorized non-member must take reasonable precautions to refrain from hunting dangerously.</text>
       </section>
       <section>
         <num>1.617</num>
         <heading>Authorization For Closure</heading>
-        <text>Pursuant to § 1.330 of this ordinance, the Director of the tribal conservation department is thereby delegated the authority to close any area to deer hunting prior to the season's closing date, generally or with respect to a particular location, whenever in his or her professional opinion and judgment the continuation of the harvest is likely to result in a harvest exceeding the Tribe's harvest goals or may otherwise cause biological harm to the tribal deer population.</text>
+        <text>Pursuant to <cite path="VI|1|1.6|1.330">§ 1.330</cite> of this ordinance, the Director of the tribal conservation department is thereby delegated the authority to close any area to deer hunting prior to the season's closing date, generally or with respect to a particular location, whenever in his or her professional opinion and judgment the continuation of the harvest is likely to result in a harvest exceeding the Tribe's harvest goals or may otherwise cause biological harm to the tribal deer population.</text>
       </section>
       <section>
         <num>1.618</num>
         <heading>Prohibited Animals</heading>
-        <text>No member or non-member shall hunt elk, moose, or cougars within the exterior boundaries of the Lac Courte Oreilles Reservation or the off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe. Pursuant to § 1.702 of this ordinance, there shall be no general hunting of bears.</text>
+        <text>No member or non-member shall hunt elk, moose, or cougars within the exterior boundaries of the Lac Courte Oreilles Reservation or the off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe. Pursuant to <cite path="VI|1|1.6|1.702">§ 1.702</cite> of this ordinance, there shall be no general hunting of bears.</text>
       </section>
       <section>
         <num>1.619</num>
@@ -1597,7 +1601,7 @@
       <section>
         <num>1.621</num>
         <heading>Assistance By Non-Members</heading>
-        <text>No person who is not a member or a duly authorized non-member shall assist a member in the hunting of deer pursuant to this ordinance except as provided § 1.329 of this ordinance.</text>
+        <text>No person who is not a member or a duly authorized non-member shall assist a member in the hunting of deer pursuant to this ordinance except as provided <cite path="VI|1|1.6|1.329">§ 1.329</cite> of this ordinance.</text>
       </section>
     </container>
     <container>
@@ -1617,11 +1621,11 @@
         <heading>General Bear Hunting Prohibited</heading>
         <para>
           <num>(1)</num>
-          <text>No member or duly authorized non-member shall hunt bears within the exterior boundaries of the Lac Courte Oreilles Reservation or the off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe, except upon a showing of extreme need pursuant to § 1.110 of this ordinance.</text>
+          <text>No member or duly authorized non-member shall hunt bears within the exterior boundaries of the Lac Courte Oreilles Reservation or the off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe, except upon a showing of extreme need pursuant to <cite path="VI|1|1.7|1.110">§ 1.110</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Notwithstanding any other provision of <cite path="§1.702">this section</cite>, nothing in <cite path="§1.702">this section</cite> shall be construed to infringe upon the issuance of permit according to the traditions and custom of the Tribe pursuant to § 1.109 of this ordinance.</text>
+          <text>Notwithstanding any other provision of <cite path="VI|1|1.7|1.702">this section</cite>, nothing in <cite path="VI|1|1.7|1.702">this section</cite> shall be construed to infringe upon the issuance of permit according to the traditions and custom of the Tribe pursuant to <cite path="VI|1|1.7|1.109">§ 1.109</cite> of this ordinance.</text>
         </para>
       </section>
     </container>
@@ -1639,7 +1643,7 @@
       <section>
         <num>1.802</num>
         <heading>Open And Closed Season</heading>
-        <text>A closed season is hereby established for the hunting and trapping of small game except for the open season specified in § 1.807 of this ordinance.</text>
+        <text>A closed season is hereby established for the hunting and trapping of small game except for the open season specified in <cite path="VI|1|1.8|1.807">§ 1.807</cite> of this ordinance.</text>
       </section>
       <section>
         <num>1.803</num>
@@ -1654,7 +1658,7 @@
       <section>
         <num>1.805</num>
         <heading>Small Game Harvest Permits</heading>
-        <text>No member or duly authorized non-member shall hunt or trap small game pursuant to this subchapter without possessing a valid small game harvest permit approved by the Tribal Governing Board which may incorporate such other terms and conditions as the tribal conservation department deems necessary or appropriate. Such a permit may be the member's tribal identification card required by § 1.303 (3) of this ordinance.</text>
+        <text>No member or duly authorized non-member shall hunt or trap small game pursuant to <cite path="VI|1|1.8">this subchapter</cite> without possessing a valid small game harvest permit approved by the Tribal Governing Board which may incorporate such other terms and conditions as the tribal conservation department deems necessary or appropriate. Such a permit may be the member's tribal identification card required by <cite path="VI|1|1.8|1.303">§ 1.303</cite> (3) of this ordinance.</text>
       </section>
       <section>
         <num>1.806</num>
@@ -1671,10 +1675,10 @@
       <section>
         <num>1.807</num>
         <heading>Small Game Seasons; Specific Regulations</heading>
-        <text>Upon the determination of the tribal conservation department and the corresponding approval of the Tribal Governing Board, the small game harvest season may be changed if it is in the best interest of the Tribe to do so. All dates given in <cite path="§1.807">this section</cite> are inclusive:</text>
+        <text>Upon the determination of the tribal conservation department and the corresponding approval of the Tribal Governing Board, the small game harvest season may be changed if it is in the best interest of the Tribe to do so. All dates given in <cite path="VI|1|1.8|1.807">this section</cite> are inclusive:</text>
         <para>
           <num>(1)</num>
-          <text>Annual small game trapping seasons for the time period provided in subs. (2), and annual small game hunting seasons for the time period provided in subs. (3), are hereby established.</text>
+          <text>Annual small game trapping seasons for the time period provided in <cite path="VI|1|1.8|1.807|(2) and">subs. (2)</cite>, and annual small game hunting seasons for the time period provided in <cite path="VI|1|1.8|1.807|(3)">subs. (3)</cite>, are hereby established.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1690,11 +1694,11 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Notwithstanding any other provision of <cite path="§1.807">this section</cite>, nothing in <cite path="§1.807">this section</cite> shall be construed to infringe upon the issuance of a permit according to the traditions and custom of the Tribe pursuant to § 1.109 of this ordinance.</text>
+          <text>Notwithstanding any other provision of <cite path="VI|1|1.8|1.807">this section</cite>, nothing in <cite path="VI|1|1.8|1.807">this section</cite> shall be construed to infringe upon the issuance of a permit according to the traditions and custom of the Tribe pursuant to <cite path="VI|1|1.8|1.109">§ 1.109</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>Notwithstanding any other provision of <cite path="§1.807">this section</cite>, nothing in <cite path="§1.807">this section</cite> shall be construed to authorize small game harvest or the opening of a small game harvest season contrary to an Emergency Closure Order issued pursuant to § 1.330 of this ordinance.</text>
+          <text>Notwithstanding any other provision of <cite path="VI|1|1.8|1.807">this section</cite>, nothing in <cite path="VI|1|1.8|1.807">this section</cite> shall be construed to authorize small game harvest or the opening of a small game harvest season contrary to an Emergency Closure Order issued pursuant to <cite path="VI|1|1.8|1.330">§ 1.330</cite> of this ordinance.</text>
         </para>
       </section>
       <section>
@@ -1705,12 +1709,12 @@
       <section>
         <num>1.809</num>
         <heading>Small Game Harvest Within Restricted Tribal Areas Prohibited</heading>
-        <text>Pursuant to § 1.321 (1) of this ordinance, no member or duly authorized non-member shall hunt or trap small game within restricted areas.</text>
+        <text>Pursuant to <cite path="VI|1|1.8|1.321">§ 1.321</cite> (1) of this ordinance, no member or duly authorized non-member shall hunt or trap small game within restricted areas.</text>
       </section>
       <section>
         <num>1.810</num>
         <heading>Hunting And Trapping On Non-Member Fee Lands Prohibited</heading>
-        <text>Pursuant to § 1.302 of this ordinance, no member or duly authorized non-member shall hunt or trap small game on any non-member fee land except where the non-member land owner has consented to tribal hunting.</text>
+        <text>Pursuant to <cite path="VI|1|1.8|1.302">§ 1.302</cite> of this ordinance, no member or duly authorized non-member shall hunt or trap small game on any non-member fee land except where the non-member land owner has consented to tribal hunting.</text>
       </section>
       <section>
         <num>1.811</num>
@@ -1725,17 +1729,17 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>No member or non-member shall harvest pine martens or wolves within the exterior boundaries of the Lac Courte Oreilles Reservation or the off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe, except upon a showing of extreme need pursuant to § 1.110 of this ordinance.</text>
+          <text>No member or non-member shall harvest pine martens or wolves within the exterior boundaries of the Lac Courte Oreilles Reservation or the off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe, except upon a showing of extreme need pursuant to <cite path="VI|1|1.8|1.110">§ 1.110</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>Notwithstanding any other provision of <cite path="§1.811">this section</cite>, nothing in <cite path="§1.811">this section</cite> shall be construed to infringe upon the issuance of permit according to the traditions and custom of the Tribe pursuant to § 1.109 of this ordinance.</text>
+          <text>Notwithstanding any other provision of <cite path="VI|1|1.8|1.811">this section</cite>, nothing in <cite path="VI|1|1.8|1.811">this section</cite> shall be construed to infringe upon the issuance of permit according to the traditions and custom of the Tribe pursuant to <cite path="VI|1|1.8|1.109">§ 1.109</cite> of this ordinance.</text>
         </para>
       </section>
       <section>
         <num>1.812</num>
         <heading>Artificial Light Or Shining Small Game</heading>
-        <text>Pursuant to § 1.315 of this ordinance, the use of artificial light for small game hunting is permitted, provided it is not within a safety zone as defined in § 1.201 (60) of this ordinance. Member and duly authorized non-member compliance with the use of a safe zone of fire as defined in § 1.201 (59) of this ordinance and an adequate backstop as defined in § 1.201 (1) of this ordinance shall be considered safe hunting, otherwise no member or duly authorized non-member shall hunt and shine small game in such a manner so as to put human lives in danger, and a member or duly authorized non-member must take reasonable precautions to refrain from hunting dangerously.</text>
+        <text>Pursuant to <cite path="VI|1|1.8|1.315">§ 1.315</cite> of this ordinance, the use of artificial light for small game hunting is permitted, provided it is not within a safety zone as defined in <cite path="VI|1|1.8|1.201">§ 1.201</cite> (60) of this ordinance. Member and duly authorized non-member compliance with the use of a safe zone of fire as defined in <cite path="VI|1|1.8|1.201">§ 1.201</cite> (59) of this ordinance and an adequate backstop as defined in <cite path="VI|1|1.8|1.201">§ 1.201</cite> (1) of this ordinance shall be considered safe hunting, otherwise no member or duly authorized non-member shall hunt and shine small game in such a manner so as to put human lives in danger, and a member or duly authorized non-member must take reasonable precautions to refrain from hunting dangerously.</text>
       </section>
       <section>
         <num>1.813</num>
@@ -1746,7 +1750,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Any trap or snare which is un-affixed with the user's tribal identification number or tribal trapping identification number, except snares set in accordance with § 1.818 (1)(m) of this ordinance, shall be immediately seized and confiscated, and the owner or member using or attending the un-affixed trap shall be subject to citation for a violation of the provisions of subs. (1).</text>
+          <text>Any trap or snare which is un-affixed with the user's tribal identification number or tribal trapping identification number, except snares set in accordance with <cite path="VI|1|1.8|1.818">§ 1.818</cite> (1)(m) of this ordinance, shall be immediately seized and confiscated, and the owner or member using or attending the un-affixed trap shall be subject to citation for a violation of the provisions of <cite path="VI|1|1.8|1.813|(1)">subs. (1)</cite>.</text>
         </para>
       </section>
       <section>
@@ -1773,7 +1777,7 @@
       <section>
         <num>1.816</num>
         <heading>Transportation</heading>
-        <text>Except when small game is being transported between the exterior boundaries of the Lac Courte Oreilles Reservation and off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe, no member or duly authorized non-member shall transport small game off-reservation without a transportation tag pursuant to § 1.312 of this ordinance.</text>
+        <text>Except when small game is being transported between the exterior boundaries of the Lac Courte Oreilles Reservation and off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe, no member or duly authorized non-member shall transport small game off-reservation without a transportation tag pursuant to <cite path="VI|1|1.8|1.312">§ 1.312</cite> of this ordinance.</text>
       </section>
       <section>
         <num>1.817</num>
@@ -1856,7 +1860,7 @@
           </para>
           <para>
             <num>(b)</num>
-            <text>Any snare must be tagged as in in accordance with § 1.813 (1) of this 	ordinance.</text>
+            <text>Any snare must be tagged as in in accordance with <cite path="VI|1|1.8|1.813">§ 1.813</cite> (1) of this 	ordinance.</text>
           </para>
           <para>
             <num>(c)</num>
@@ -1876,15 +1880,15 @@
           </para>
           <para>
             <num>(g)</num>
-            <text>Except as provided in subs. (m), any snare must have either a mechanical stop device which will prevent the snare loop size from becoming smaller than 2 ½ inches or a break-away mechanical lock.</text>
+            <text>Except as provided in <cite path="VI|1|1.8|1.818|(m)">subs. (m)</cite>, any snare must have either a mechanical stop device which will prevent the snare loop size from becoming smaller than 2 ½ inches or a break-away mechanical lock.</text>
           </para>
           <para>
             <num>(h)</num>
-            <text>Except as provided in subs. (m), any snare must have a swivel device on the anchor end.</text>
+            <text>Except as provided in <cite path="VI|1|1.8|1.818|(m)">subs. (m)</cite>, any snare must have a swivel device on the anchor end.</text>
           </para>
           <para>
             <num>(i)</num>
-            <text>Except as provided in subs. (m), any snare or cable wire may not have a diameter exceeding 1/8 inch.</text>
+            <text>Except as provided in <cite path="VI|1|1.8|1.818|(m)">subs. (m)</cite>, any snare or cable wire may not have a diameter exceeding 1/8 inch.</text>
           </para>
           <para>
             <num>(j)</num>
@@ -1961,7 +1965,7 @@
         <heading>Possession And Sale Of Live Small Game Animals</heading>
         <para>
           <num>(1)</num>
-          <text>As used in <cite path="§1.819">this section</cite>, the following terms shall be construed to apply as follows:</text>
+          <text>As used in <cite path="VI|1|1.8|1.819">this section</cite>, the following terms shall be construed to apply as follows:</text>
           <para>
             <num>(a)</num>
             <text>"Control temporarily" means to possess a small game animal for a limited period of time for one of the following purposes:</text>
@@ -1985,17 +1989,17 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Except as otherwise authorized by law or as provided in subs. (3) and (4), no member or duly authorized non-member shall possess, or sell or otherwise transfer to any person, any live small game animal and any member or duly authorized non-member who takes any small game animal shall kill the animal when it is taken or shall immediately release the animal.</text>
+          <text>Except as otherwise authorized by law or as provided in <cite path="VI|1|1.8|1.819|(3) and |(4)">subs. (3) and (4)</cite>, no member or duly authorized non-member shall possess, or sell or otherwise transfer to any person, any live small game animal and any member or duly authorized non-member who takes any small game animal shall kill the animal when it is taken or shall immediately release the animal.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>A member or duly authorized non-member may control temporarily a live small game animal for one of the purposes described in subs. (1)(a), but not for the purpose of selling the live animal.</text>
+          <text>A member or duly authorized non-member may control temporarily a live small game animal for one of the purposes described in <cite path="VI|1|1.8|1.819|(1)|(a)">subs. (1)(a)</cite>, but not for the purpose of selling the live animal.</text>
         </para>
       </section>
       <section>
         <num>1.820</num>
         <heading>Shipment Of Furs</heading>
-        <text>No member or duly authorized non-member shall send or ship any fur from an animal harvested pursuant to this subchapter unless all fur shipments are marked on the outside of the package showing the number and kinds of hides in the shipment and the name and address of the shipper.</text>
+        <text>No member or duly authorized non-member shall send or ship any fur from an animal harvested pursuant to <cite path="VI|1|1.8">this subchapter</cite> unless all fur shipments are marked on the outside of the package showing the number and kinds of hides in the shipment and the name and address of the shipper.</text>
       </section>
       <section>
         <num>1.821</num>
@@ -2005,19 +2009,19 @@
       <section>
         <num>1.822</num>
         <heading>Authorization For Closure</heading>
-        <text>Pursuant to § 1.330 of this ordinance, the Director of the tribal conservation department is thereby delegated the authority to close any area to the harvesting of any small game species prior to the season's closing date, generally or with respect to a particular location, whenever in his or her professional opinion and judgment the continuation of the harvest is likely to result in a harvest exceeding the Tribe's harvest goals or may otherwise cause biological harm to the population of any small game species.</text>
+        <text>Pursuant to <cite path="VI|1|1.8|1.330">§ 1.330</cite> of this ordinance, the Director of the tribal conservation department is thereby delegated the authority to close any area to the harvesting of any small game species prior to the season's closing date, generally or with respect to a particular location, whenever in his or her professional opinion and judgment the continuation of the harvest is likely to result in a harvest exceeding the Tribe's harvest goals or may otherwise cause biological harm to the population of any small game species.</text>
       </section>
       <section>
         <num>1.823</num>
         <heading>Sharing Of Equipment/Assisting Tribal Member</heading>
-        <text>No member or duly authorized non-member shall share any small game hunting or trapping equipment with or otherwise be assisted while small game hunting or trapping by any person who is not a member except as provided in § 1.329 of this ordinance.</text>
+        <text>No member or duly authorized non-member shall share any small game hunting or trapping equipment with or otherwise be assisted while small game hunting or trapping by any person who is not a member except as provided in <cite path="VI|1|1.8|1.329">§ 1.329</cite> of this ordinance.</text>
       </section>
       <section>
         <num>1.824</num>
         <heading>Wild Turkey Hunting Regulations</heading>
         <para>
           <num>(1)</num>
-          <text><u>Permit Required</u>.  No member or duly authorized non-member shall hunt wild turkeys without possessing a valid small game harvest permit approved by the Tribal Governing Board issued pursuant to the provisions of this subchapter. Such a permit may be the member's tribal identification card required by § 1.303 (3) of this ordinance.</text>
+          <text><u>Permit Required</u>.  No member or duly authorized non-member shall hunt wild turkeys without possessing a valid small game harvest permit approved by the Tribal Governing Board issued pursuant to the provisions of <cite path="VI|1|1.8">this subchapter</cite>. Such a permit may be the member's tribal identification card required by <cite path="VI|1|1.8|1.303">§ 1.303</cite> (3) of this ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2065,11 +2069,11 @@
         </para>
         <para>
           <num>(7)</num>
-          <text><u>Other Restrictions Applicable</u>. While hunting wild turkeys, no member shall fail to comply with the other restrictions applicable to hunting generally or to small game hunting specifically, which are not modified or otherwise affected by the provisions of <cite path="§1.824">this section</cite>.</text>
+          <text><u>Other Restrictions Applicable</u>. While hunting wild turkeys, no member shall fail to comply with the other restrictions applicable to hunting generally or to small game hunting specifically, which are not modified or otherwise affected by the provisions of <cite path="VI|1|1.8|1.824">this section</cite>.</text>
         </para>
         <para>
           <num>(8)</num>
-          <text><u>Authorization for Closure</u>.  Pursuant to § 1.330 of this ordinance, the Director of the tribal conservation department is thereby delegated the authority to close any area to the harvesting of wild turkeys prior to the season's closing date, generally or with respect to a particular location, whenever in his or her professional opinion and judgment the continuation of the harvest is likely to result in a harvest exceeding the Tribe's harvest goals or may otherwise cause biological harm to the tribal wild turkey population.</text>
+          <text><u>Authorization for Closure</u>.  Pursuant to <cite path="VI|1|1.8|1.330">§ 1.330</cite> of this ordinance, the Director of the tribal conservation department is thereby delegated the authority to close any area to the harvesting of wild turkeys prior to the season's closing date, generally or with respect to a particular location, whenever in his or her professional opinion and judgment the continuation of the harvest is likely to result in a harvest exceeding the Tribe's harvest goals or may otherwise cause biological harm to the tribal wild turkey population.</text>
         </para>
       </section>
       <section>
@@ -2102,7 +2106,7 @@
       <section>
         <num>1.902</num>
         <heading>Open And Closed Season</heading>
-        <text>A closed season is hereby established for fishing except for the open seasons specified in § 1.905 of this ordinance.</text>
+        <text>A closed season is hereby established for fishing except for the open seasons specified in <cite path="VI|1|1.9|1.905">§ 1.905</cite> of this ordinance.</text>
       </section>
       <section>
         <num>1.903</num>
@@ -2112,15 +2116,15 @@
       <section>
         <num>1.904</num>
         <heading>Fishing Permits</heading>
-        <text>No member or duly authorized non-member shall fish pursuant to this subchapter without possessing a valid fishing permit approved by the Tribal Governing Board which may incorporate such other terms and conditions as the tribal conservation department deems necessary or appropriate. Such a permit may be the member's tribal identification card required by § 1.303 (3) of this ordinance.</text>
+        <text>No member or duly authorized non-member shall fish pursuant to <cite path="VI|1|1.9">this subchapter</cite> without possessing a valid fishing permit approved by the Tribal Governing Board which may incorporate such other terms and conditions as the tribal conservation department deems necessary or appropriate. Such a permit may be the member's tribal identification card required by <cite path="VI|1|1.9|1.303">§ 1.303</cite> (3) of this ordinance.</text>
       </section>
       <section>
         <num>1.905</num>
         <heading>Seasons, Methods, Bag Limits, And Size Limits; Specific Regulations</heading>
-        <text>Upon the determination of the tribal conservation department and the corresponding approval of the Tribal Governing Board, the fishing season may be changed if it is in the best interest of the Tribe to do so. All dates given in <cite path="§1.905">this section</cite> are inclusive:</text>
+        <text>Upon the determination of the tribal conservation department and the corresponding approval of the Tribal Governing Board, the fishing season may be changed if it is in the best interest of the Tribe to do so. All dates given in <cite path="VI|1|1.9|1.905">this section</cite> are inclusive:</text>
         <para>
           <num>(1)</num>
-          <text>Annual fishing seasons for the time period provided in subs. (2), are hereby established.</text>
+          <text>Annual fishing seasons for the time period provided in <cite path="VI|1|1.9|1.905|(2)">subs. (2)</cite>, are hereby established.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2132,11 +2136,11 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Notwithstanding any other provision of <cite path="§1.905">this section</cite>, nothing in <cite path="§1.905">this section</cite> shall be construed to infringe upon the issuance of a permit according to the traditions and custom of the Tribe pursuant to § 1.109 of this ordinance.</text>
+          <text>Notwithstanding any other provision of <cite path="VI|1|1.9|1.905">this section</cite>, nothing in <cite path="VI|1|1.9|1.905">this section</cite> shall be construed to infringe upon the issuance of a permit according to the traditions and custom of the Tribe pursuant to <cite path="VI|1|1.9|1.109">§ 1.109</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>Notwithstanding any other provision of <cite path="§1.905">this section</cite>, nothing in <cite path="§1.905">this section</cite> shall be construed to authorize small game harvest or the opening of a small game harvest season contrary to an Emergency Closure Order issued pursuant to § 1.330 of this ordinance.</text>
+          <text>Notwithstanding any other provision of <cite path="VI|1|1.9|1.905">this section</cite>, nothing in <cite path="VI|1|1.9|1.905">this section</cite> shall be construed to authorize small game harvest or the opening of a small game harvest season contrary to an Emergency Closure Order issued pursuant to <cite path="VI|1|1.9|1.330">§ 1.330</cite> of this ordinance.</text>
         </para>
       </section>
       <section>
@@ -2144,7 +2148,7 @@
         <heading>Spearing Regulated</heading>
         <para>
           <num>(1)</num>
-          <text>No member or duly authorized non-member shall use or possess any spear on any body of water unless the member possesses a valid permit authorizing the use of a spear on that body of water. Such a permit may be the member's tribal identification card required by § 1.303 (3) of this ordinance.</text>
+          <text>No member or duly authorized non-member shall use or possess any spear on any body of water unless the member possesses a valid permit authorizing the use of a spear on that body of water. Such a permit may be the member's tribal identification card required by <cite path="VI|1|1.9|1.303">§ 1.303</cite> (3) of this ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2172,11 +2176,11 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>No member or duly authorized non-member shall fish with the use of a spear which does not meet the requirements of required by § 1.201 (69) of this ordinance [Spear Defined], except that a member may spear panfish with the use of a spear with barbed tines that are smaller than otherwise required.</text>
+          <text>No member or duly authorized non-member shall fish with the use of a spear which does not meet the requirements of required by <cite path="VI|1|1.9|1.201">§ 1.201</cite> (69) of this ordinance [Spear Defined], except that a member may spear panfish with the use of a spear with barbed tines that are smaller than otherwise required.</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>No member or duly authorized non-member shall share spearing equipment with any person who is not a member as provided in § 1.329 of this ordinance [Permissible Conduct/Assistance by Non-Members].</text>
+          <text>No member or duly authorized non-member shall share spearing equipment with any person who is not a member as provided in <cite path="VI|1|1.9|1.329">§ 1.329</cite> of this ordinance [Permissible Conduct/Assistance by Non-Members].</text>
         </para>
       </section>
       <section>
@@ -2216,11 +2220,11 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>No member or duly authorized non-member shall fish with the use of a dip net, fyke net or seine which does not meet the requirements of § 1.201 (20) of this ordinance [Dip Net Defined], § 1.201 (28) of this ordinance [Fyke Net Defined], or § 1.201 (62) of this ordinance [Seine Defined].</text>
+          <text>No member or duly authorized non-member shall fish with the use of a dip net, fyke net or seine which does not meet the requirements of <cite path="VI|1|1.9|1.201">§ 1.201</cite> (20) of this ordinance [Dip Net Defined], <cite path="VI|1|1.9|1.201">§ 1.201</cite> (28) of this ordinance [Fyke Net Defined], or <cite path="VI|1|1.9|1.201">§ 1.201</cite> (62) of this ordinance [Seine Defined].</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>No member or duly authorized non-member shall share netting equipment with any person who is not a member as provided in § 1.329 of this ordinance [Permissible Conduct/Assistance by Non-Members].</text>
+          <text>No member or duly authorized non-member shall share netting equipment with any person who is not a member as provided in <cite path="VI|1|1.9|1.329">§ 1.329</cite> of this ordinance [Permissible Conduct/Assistance by Non-Members].</text>
         </para>
         <para>
           <num>(6)</num>
@@ -2232,7 +2236,7 @@
         <heading>Gillnets Regulated</heading>
         <para>
           <num>(1)</num>
-          <text>No member shall use or possess any gillnet on any body of water unless the member possesses a valid permit authorizing the use of a gillnet on that body of water. Such a permit may be the member's tribal identification card required by § 1.303 (3) of this ordinance.</text>
+          <text>No member shall use or possess any gillnet on any body of water unless the member possesses a valid permit authorizing the use of a gillnet on that body of water. Such a permit may be the member's tribal identification card required by <cite path="VI|1|1.9|1.303">§ 1.303</cite> (3) of this ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2268,11 +2272,11 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>No member or duly authorized non-member shall fish with the use of a gillnet which does not meet the requirements of § 1.201 (33) of this ordinance [Gillnet Defined].</text>
+          <text>No member or duly authorized non-member shall fish with the use of a gillnet which does not meet the requirements of <cite path="VI|1|1.9|1.201">§ 1.201</cite> (33) of this ordinance [Gillnet Defined].</text>
         </para>
         <para>
           <num>(6)</num>
-          <text>No member or duly authorized non-member shall share gillnetting equipment with any person who is not a member as provided in § 1.329 of this ordinance [Permissible Conduct/Assistance by Non-Members].</text>
+          <text>No member or duly authorized non-member shall share gillnetting equipment with any person who is not a member as provided in <cite path="VI|1|1.9|1.329">§ 1.329</cite> of this ordinance [Permissible Conduct/Assistance by Non-Members].</text>
         </para>
         <para>
           <num>(7)</num>
@@ -2308,7 +2312,7 @@
         <heading>Setlines And Set Or Bank Poles Regulated</heading>
         <para>
           <num>(1)</num>
-          <text>No member or duly authorized non-member shall use or possess any setline or set or bank pole on any body of water unless the member possesses a valid permit authorizing the use of a setline or set or bank pole on that body of water. Such a permit may be the member's tribal identification card required by § 1.303 (3) of this ordinance.</text>
+          <text>No member or duly authorized non-member shall use or possess any setline or set or bank pole on any body of water unless the member possesses a valid permit authorizing the use of a setline or set or bank pole on that body of water. Such a permit may be the member's tribal identification card required by <cite path="VI|1|1.9|1.303">§ 1.303</cite> (3) of this ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2348,11 +2352,11 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>No member or duly authorized non-member shall fish with the use of set or bank pole or setline which does not meet the requirements of § 1.201 (63) of this ordinance [Set or Bank Pole Defined], or § 1.201 (64) of this ordinance [Setline Defined].</text>
+          <text>No member or duly authorized non-member shall fish with the use of set or bank pole or setline which does not meet the requirements of <cite path="VI|1|1.9|1.201">§ 1.201</cite> (63) of this ordinance [Set or Bank Pole Defined], or <cite path="VI|1|1.9|1.201">§ 1.201</cite> (64) of this ordinance [Setline Defined].</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>No member or duly authorized non-member shall share any set or bank pole or setline with any person who is not a member as provided in § 1.329 of this ordinance [Permissible Conduct/Assistance by Non-Members].</text>
+          <text>No member or duly authorized non-member shall share any set or bank pole or setline with any person who is not a member as provided in <cite path="VI|1|1.9|1.329">§ 1.329</cite> of this ordinance [Permissible Conduct/Assistance by Non-Members].</text>
         </para>
       </section>
       <section>
@@ -2360,15 +2364,15 @@
         <heading>Designated Landings May Be Required</heading>
         <para>
           <num>(1)</num>
-          <text>In issuing spearing or netting permit pursuant to §§ 1.906, 1.907 or 1.908 of this ordinance, the tribal conservation department may require permittees to use only designated landings for entering upon and exiting from a body of water.</text>
+          <text>In issuing spearing or netting permit pursuant to §§ <cite path="VI|1|1.9|1.906">1.906</cite>, <cite path="VI|1|1.9|1.907">1.907</cite> or <cite path="VI|1|1.9|1.908">1.908</cite> of this ordinance, the tribal conservation department may require permittees to use only designated landings for entering upon and exiting from a body of water.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>When so required, no member or duly authorized non-member shall enter upon or exit from a body of water except at such landings designated by the tribal conservation department pursuant to subs. (1).</text>
+          <text>When so required, no member or duly authorized non-member shall enter upon or exit from a body of water except at such landings designated by the tribal conservation department pursuant to <cite path="VI|1|1.9|1.910|(1)">subs. (1)</cite>.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>Notwithstanding the provisions of subs. (1) and (2), a member or duly authorized non-member may exit from a body of water at a location other than a designated landing when necessitated by weather conditions, considerations of personal safety or other appropriate circumstances.</text>
+          <text>Notwithstanding the provisions of <cite path="VI|1|1.9|1.910|(1) and |(2)">subs. (1) and (2)</cite>, a member or duly authorized non-member may exit from a body of water at a location other than a designated landing when necessitated by weather conditions, considerations of personal safety or other appropriate circumstances.</text>
         </para>
       </section>
       <section>
@@ -2388,7 +2392,7 @@
         <heading>Open Water Hook &amp; Line Fishing Regulated</heading>
         <para>
           <num>(1)</num>
-          <text>Except as provided in § 1.909 of this ordinance [Setlines and Set or Bank Poles Regulated], no member or duly authorized non-member shall:</text>
+          <text>Except as provided in <cite path="VI|1|1.9|1.909">§ 1.909</cite> of this ordinance [Setlines and Set or Bank Poles Regulated], no member or duly authorized non-member shall:</text>
           <para>
             <num>(a)</num>
             <text>Engage in open water fishing by the use of hook and line with more than twelve (12) lines with a maximum of two hooks or lures per line; or</text>
@@ -2460,7 +2464,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>No member or duly authorized non-member shall share any ice fishing gear, including any spear, with any person who is not a member as provided in § 1.329 of this ordinance [Permissible Conduct/Assistance by Non-Members].</text>
+          <text>No member or duly authorized non-member shall share any ice fishing gear, including any spear, with any person who is not a member as provided in <cite path="VI|1|1.9|1.329">§ 1.329</cite> of this ordinance [Permissible Conduct/Assistance by Non-Members].</text>
         </para>
       </section>
       <section>
@@ -2484,7 +2488,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Any such fish transferred pursuant to subs. (1)(c) shall be disposed of by the tribe for charitable or governmental purposes.</text>
+          <text>Any such fish transferred pursuant to <cite path="VI|1|1.9|1.914|(1)|(c)">subs. (1)(c)</cite> shall be disposed of by the tribe for charitable or governmental purposes.</text>
         </para>
       </section>
       <section>
@@ -2501,7 +2505,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>No member or duly authorized non-member shall fail to comply with the closures and other restrictions as established pursuant to § 1.330 of this ordinance [Emergency Closures].</text>
+          <text>No member or duly authorized non-member shall fail to comply with the closures and other restrictions as established pursuant to <cite path="VI|1|1.9|1.330">§ 1.330</cite> of this ordinance [Emergency Closures].</text>
         </para>
       </section>
       <section>
@@ -2509,11 +2513,11 @@
         <heading>Bait Dealers Regulated</heading>
         <para>
           <num>(1)</num>
-          <text>No member shall set, use or operate any net, trap or other device for taking, catching or killing minnows on any body of water unless the member possesses a valid permit authorizing the use of a net, trap or other device for taking, catching or killing minnows on that body of water. Such a permit may be the member's tribal identification card required by § 1.303 (3) of this ordinance.</text>
+          <text>No member shall set, use or operate any net, trap or other device for taking, catching or killing minnows on any body of water unless the member possesses a valid permit authorizing the use of a net, trap or other device for taking, catching or killing minnows on that body of water. Such a permit may be the member's tribal identification card required by <cite path="VI|1|1.9|1.303">§ 1.303</cite> (3) of this ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>While netting for minnows by the use of any net authorized by § 1.907 of this ordinance [Dip Nets, Fyke Nets and Seines] or other device, except a trap pursuant to subs (3), no member or duly authorized non-member shall:</text>
+          <text>While netting for minnows by the use of any net authorized by <cite path="VI|1|1.9|1.907">§ 1.907</cite> of this ordinance [Dip Nets, Fyke Nets and Seines] or other device, except a trap pursuant to subs (3), no member or duly authorized non-member shall:</text>
           <para>
             <num>(a)</num>
             <text>Remove or destroy vegetation, logs or habitat features;</text>
@@ -2565,13 +2569,13 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>Nothing in this ordinance shall be construed to prohibit a member from selling to any person minnows lawfully taken pursuant to <cite path="§1.917">this section</cite>.</text>
+          <text>Nothing in this ordinance shall be construed to prohibit a member from selling to any person minnows lawfully taken pursuant to <cite path="VI|1|1.9|1.917">this section</cite>.</text>
         </para>
       </section>
       <section>
         <num>1.918</num>
         <heading>Sale Of Game Fish Regulated</heading>
-        <text>Pursuant to § 1.326 of this ordinance, no member or duly authorized non-member shall sell meat from any game fish harvested pursuant to this ordinance except for subsistence uses as defined in § 1.201 (71) of this ordinance.</text>
+        <text>Pursuant to <cite path="VI|1|1.9|1.326">§ 1.326</cite> of this ordinance, no member or duly authorized non-member shall sell meat from any game fish harvested pursuant to this ordinance except for subsistence uses as defined in <cite path="VI|1|1.9|1.201">§ 1.201</cite> (71) of this ordinance.</text>
       </section>
       <section>
         <num>1.919</num>
@@ -2582,25 +2586,25 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>(a) Except in accordance with the provisions of subs. (2)(b), no member shall harvest the spawn of any fish unless the carcass of the fish is legally harvested pursuant to this ordinance.</text>
+          <text>(a) Except in accordance with the provisions of <cite path="VI|1|1.9|1.919|(2)|(b)">subs. (2)(b)</cite>, no member shall harvest the spawn of any fish unless the carcass of the fish is legally harvested pursuant to this ordinance.</text>
           <para>
             <num>(b)</num>
             <text>(i) The tribal conservation department may issue a permit to a member or duly authorized non-member for harvesting only the spawn of any fish without harvesting the carcass of the fish upon such terms and conditions as it deems necessary or appropriate.</text>
             <para>
               <num>(ii)</num>
-              <text>No member shall fail to comply with the terms and conditions of any permit issued pursuant to <cite path="§1.919">this section</cite>.</text>
+              <text>No member shall fail to comply with the terms and conditions of any permit issued pursuant to <cite path="VI|1|1.9|1.919">this section</cite>.</text>
             </para>
           </para>
         </para>
         <para>
           <num>(3)</num>
-          <text>Nothing in <cite path="§1.919">this section</cite> shall preclude the Tribe, tribal conservation department or the Commission's Biological Services Division, or their employees or agents, from stocking fish in any body of water pursuant to a management plan.</text>
+          <text>Nothing in <cite path="VI|1|1.9|1.919">this section</cite> shall preclude the Tribe, tribal conservation department or the Commission's Biological Services Division, or their employees or agents, from stocking fish in any body of water pursuant to a management plan.</text>
         </para>
       </section>
       <section>
         <num>1.920</num>
         <heading>Authorization For Closure</heading>
-        <text>Pursuant to § 1.330 of this ordinance, the Director of the tribal conservation department is thereby delegated the authority to close any body of water to fishing for any species, generally or with respect to a particular location, whenever in his or her professional opinion and judgment the continuation of the harvest is likely to result in a harvest exceeding the Tribe's harvest goals or may otherwise cause biological harm to the tribal fish population.</text>
+        <text>Pursuant to <cite path="VI|1|1.9|1.330">§ 1.330</cite> of this ordinance, the Director of the tribal conservation department is thereby delegated the authority to close any body of water to fishing for any species, generally or with respect to a particular location, whenever in his or her professional opinion and judgment the continuation of the harvest is likely to result in a harvest exceeding the Tribe's harvest goals or may otherwise cause biological harm to the tribal fish population.</text>
       </section>
     </container>
     <container>
@@ -2653,13 +2657,13 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>For purposes of enforcing bag and possession limits under this subchapter, all migratory birds in a member's possession or custody within the exterior boundaries of the Lac Courte Oreilles Reservation and off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe will be considered to have been taken on those lands, unless tagged by a tribal, Commission or state conservation warden as taken off-reservation in the ceded territory.  No migratory bird falling on ceded territory lands will be counted as part of an on-reservation bag or possession limit.</text>
+          <text>For purposes of enforcing bag and possession limits under <cite path="VI|1|1.10">this subchapter</cite>, all migratory birds in a member's possession or custody within the exterior boundaries of the Lac Courte Oreilles Reservation and off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe will be considered to have been taken on those lands, unless tagged by a tribal, Commission or state conservation warden as taken off-reservation in the ceded territory.  No migratory bird falling on ceded territory lands will be counted as part of an on-reservation bag or possession limit.</text>
         </para>
       </section>
       <section>
         <num>1.1005</num>
         <heading>Migratory Bird Harvesting Permits</heading>
-        <text>No member or duly authorized non-member shall harvest migratory birds pursuant to this subchapter without possessing a valid migratory bird harvesting permit approved by the Tribal Governing Board which may incorporate such other terms and conditions as the tribal conservation department deems necessary or appropriate.  Such a permit may be the member's tribal identification card required by § 1.303 (3) of this ordinance.</text>
+        <text>No member or duly authorized non-member shall harvest migratory birds pursuant to <cite path="VI|1|1.10">this subchapter</cite> without possessing a valid migratory bird harvesting permit approved by the Tribal Governing Board which may incorporate such other terms and conditions as the tribal conservation department deems necessary or appropriate.  Such a permit may be the member's tribal identification card required by <cite path="VI|1|1.10|1.303">§ 1.303</cite> (3) of this ordinance.</text>
       </section>
       <section>
         <num>1.1006</num>
@@ -2697,7 +2701,7 @@
           </para>
           <para>
             <num>(e)</num>
-            <text>By the use or aid of live birds as decoys; although not limited to, it shall be a violation of <cite path="§1.1007">this section</cite> for any person to take migratory waterfowl in an area where tame or captive live ducks or geese are present unless such birds are and have been for a period of ten (10) consecutive days prior to such taking, confined within an enclosure which substantially reduces the audibility of their calls and totally conceals such birds from the sight of wild migratory waterfowl;</text>
+            <text>By the use or aid of live birds as decoys; although not limited to, it shall be a violation of <cite path="VI|1|1.10|1.1007">this section</cite> for any person to take migratory waterfowl in an area where tame or captive live ducks or geese are present unless such birds are and have been for a period of ten (10) consecutive days prior to such taking, confined within an enclosure which substantially reduces the audibility of their calls and totally conceals such birds from the sight of wild migratory waterfowl;</text>
           </para>
         </para>
       </section>
@@ -2709,22 +2713,22 @@
       <section>
         <num>1.1009</num>
         <heading>Migratory Bird Shining / Night Hunting</heading>
-        <text>Pursuant to § 1.315 of this ordinance, the use of artificial light for migratory bird hunting is permitted, provided it is not within a safety zone as defined in § 1.201 (60) of this ordinance. Member and duly authorized non-member compliance with the use of a safe zone of fire as defined in § 1.201 (59) of this ordinance and an adequate backstop as defined in § 1.201 (1) of this ordinance shall be considered safe hunting, otherwise no member or duly authorized non-member shall hunt and shine migratory birds in such a manner so as to put human lives in danger, and a member or duly authorized non-member must take reasonable precautions to refrain from hunting dangerously.</text>
+        <text>Pursuant to <cite path="VI|1|1.10|1.315">§ 1.315</cite> of this ordinance, the use of artificial light for migratory bird hunting is permitted, provided it is not within a safety zone as defined in <cite path="VI|1|1.10|1.201">§ 1.201</cite> (60) of this ordinance. Member and duly authorized non-member compliance with the use of a safe zone of fire as defined in <cite path="VI|1|1.10|1.201">§ 1.201</cite> (59) of this ordinance and an adequate backstop as defined in <cite path="VI|1|1.10|1.201">§ 1.201</cite> (1) of this ordinance shall be considered safe hunting, otherwise no member or duly authorized non-member shall hunt and shine migratory birds in such a manner so as to put human lives in danger, and a member or duly authorized non-member must take reasonable precautions to refrain from hunting dangerously.</text>
       </section>
       <section>
         <num>1.1010</num>
         <heading>Hunting Within Restricted Tribal Areas Prohibited</heading>
-        <text>Pursuant to § 1.321 (1) of this ordinance, no member or duly authorized non-member shall hunt migratory birds within restricted areas.</text>
+        <text>Pursuant to <cite path="VI|1|1.10|1.321">§ 1.321</cite> (1) of this ordinance, no member or duly authorized non-member shall hunt migratory birds within restricted areas.</text>
       </section>
       <section>
         <num>1.1011</num>
         <heading>Hunting On Non-Member Fee Lands Prohibited</heading>
-        <text>Pursuant to § 1.302 of this ordinance, no member or duly authorized non-member shall hunt migratory birds on any non-member fee land except where the non-member land owner has consented to tribal hunting.</text>
+        <text>Pursuant to <cite path="VI|1|1.10|1.302">§ 1.302</cite> of this ordinance, no member or duly authorized non-member shall hunt migratory birds on any non-member fee land except where the non-member land owner has consented to tribal hunting.</text>
       </section>
       <section>
         <num>1.1012</num>
         <heading>Wanton Waste Of Migratory Birds</heading>
-        <text>No member or duly authorized non-member shall kill or cripple any migratory bird pursuant to this subchapter without making a reasonable effort to retrieve the bird, and retain it in his or her actual custody, at the place where taken or between that place and any of the following places:</text>
+        <text>No member or duly authorized non-member shall kill or cripple any migratory bird pursuant to <cite path="VI|1|1.10">this subchapter</cite> without making a reasonable effort to retrieve the bird, and retain it in his or her actual custody, at the place where taken or between that place and any of the following places:</text>
         <para>
           <num>(1)</num>
           <text>The member or duly authorized non-member's automobile or principle means of land transportation;</text>
@@ -2735,7 +2739,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>A migratory bird preservation facility as defined § 1.201 (43) of this ordinance;</text>
+          <text>A migratory bird preservation facility as defined <cite path="VI|1|1.10|1.201">§ 1.201</cite> (43) of this ordinance;</text>
         </para>
         <para>
           <num>(4)</num>
@@ -2769,7 +2773,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Any unoccupied migratory bird blind which is untagged shall be immediately seized and confiscated, and the owner shall be subject to citation for a violation of the provisions of subs. (2).</text>
+          <text>Any unoccupied migratory bird blind which is untagged shall be immediately seized and confiscated, and the owner shall be subject to citation for a violation of the provisions of <cite path="VI|1|1.10|1.1014|(2)">subs. (2)</cite>.</text>
         </para>
       </section>
       <section>
@@ -2781,7 +2785,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>In issuing a permit pursuant to <cite path="§1.1015">this section</cite>, the Tribal Governing Board may impose such conditions and requirements as it deems appropriate or necessary.</text>
+          <text>In issuing a permit pursuant to <cite path="VI|1|1.10|1.1015">this section</cite>, the Tribal Governing Board may impose such conditions and requirements as it deems appropriate or necessary.</text>
         </para>
       </section>
       <section>
@@ -2789,7 +2793,7 @@
         <heading>Possession Regulated</heading>
         <para>
           <num>(1)</num>
-          <text><u>Prohibited if taken in violation of §§ 1.1007 - 1.1014</u>.  No member or duly authorized non-member shall at any time, by any means, or in any manner, possess or have in custody any migratory bird or part thereof, taken in violation of any portion of §§ 1.1007 - 1.1014 of this ordinance.</text>
+          <text><u>Prohibited if taken in violation of §§ <cite path="VI|1|1.10|1.1007">1.1007</cite> - <cite path="VI|1|1.10|1.1014">1.1014</cite></u>.  No member or duly authorized non-member shall at any time, by any means, or in any manner, possess or have in custody any migratory bird or part thereof, taken in violation of any portion of §§ <cite path="VI|1|1.10|1.1007">1.1007</cite> - <cite path="VI|1|1.10|1.1014">1.1014</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2797,7 +2801,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text><u>Possession limit</u>.  No member or duly authorized non-member shall possess more migratory birds taken within the exterior boundaries of the Lac Courte Oreilles Reservation and off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe than the possession limit or the aggregate possession limit, whenever established.  <cite path="§1.1016">This section</cite> applies only to transportation.  Possession limits for the purposes of this subsection do not include birds which are cleaned, dressed, and at the member or duly authorized non-member's primary residence.</text>
+          <text><u>Possession limit</u>.  No member or duly authorized non-member shall possess more migratory birds taken within the exterior boundaries of the Lac Courte Oreilles Reservation and off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe than the possession limit or the aggregate possession limit, whenever established.  <cite path="VI|1|1.10|1.1016">This section</cite> applies only to transportation.  Possession limits for the purposes of this subsection do not include birds which are cleaned, dressed, and at the member or duly authorized non-member's primary residence.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -2816,7 +2820,7 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>A migratory bird preservation facility as defined in § 1.201 (43) of this ordinance;</text>
+            <text>A migratory bird preservation facility as defined in <cite path="VI|1|1.10|1.201">§ 1.201</cite> (43) of this ordinance;</text>
           </para>
           <para>
             <num>(d)</num>
@@ -2829,11 +2833,11 @@
         </para>
         <para>
           <num>(6)</num>
-          <text><u>Tagging requirements</u>.  No member or duly authorized non-member shall put or leave any migratory bird at any place (other than his or her personal abode), or in the custody of another person for picking, cleaning, processing, shipping, transportation, or storage (including temporary storage), or for the purpose of having taxidermy services performed, unless such bird has a tag attached, signed by the member or duly authorized non-member, stating his or her address or tribal hunting identification number, the total number and species of birds, and the date such birds were killed, except in accordance with § 1.1023 [Traditional and Cultural Use Permits /Registration] of this ordinance.  Migratory birds being transported in any vehicle as the personal baggage of the processor shall not be considered as being in storage or temporary storage.</text>
+          <text><u>Tagging requirements</u>.  No member or duly authorized non-member shall put or leave any migratory bird at any place (other than his or her personal abode), or in the custody of another person for picking, cleaning, processing, shipping, transportation, or storage (including temporary storage), or for the purpose of having taxidermy services performed, unless such bird has a tag attached, signed by the member or duly authorized non-member, stating his or her address or tribal hunting identification number, the total number and species of birds, and the date such birds were killed, except in accordance with <cite path="VI|1|1.10|1.1023">§ 1.1023</cite> [Traditional and Cultural Use Permits /Registration] of this ordinance.  Migratory birds being transported in any vehicle as the personal baggage of the processor shall not be considered as being in storage or temporary storage.</text>
         </para>
         <para>
           <num>(7)</num>
-          <text><u>Custody of birds of another</u>.  No member or duly authorized non-member shall receive or have in custody any migratory bird belonging to another person unless such bird has been tagged as required by subs. (6).</text>
+          <text><u>Custody of birds of another</u>.  No member or duly authorized non-member shall receive or have in custody any migratory bird belonging to another person unless such bird has been tagged as required by <cite path="VI|1|1.10|1.1016|(6)">subs. (6)</cite>.</text>
         </para>
         <para>
           <num>(8)</num>
@@ -2841,7 +2845,7 @@
         </para>
         <para>
           <num>(9)</num>
-          <text><u>Termination of possession</u>.  Subject to all other requirements of this subchapter, the possession of any migratory bird taken by any member or duly authorized non-member shall be deemed to have ceased when such bird has been delivered by him or her to another person as a gift; or have been delivered by him or her to a post office, a common carrier, or a migratory bird preservation facility and consigned for transport by the Postal Service or a common carrier to some person other than the member or duly authorized non-member.</text>
+          <text><u>Termination of possession</u>.  Subject to all other requirements of <cite path="VI|1|1.10">this subchapter</cite>, the possession of any migratory bird taken by any member or duly authorized non-member shall be deemed to have ceased when such bird has been delivered by him or her to another person as a gift; or have been delivered by him or her to a post office, a common carrier, or a migratory bird preservation facility and consigned for transport by the Postal Service or a common carrier to some person other than the member or duly authorized non-member.</text>
         </para>
         <para>
           <num>(10)</num>
@@ -2853,15 +2857,15 @@
         <heading>Transportation Regulated</heading>
         <para>
           <num>(1)</num>
-          <text><u>Prohibited if taken in violation of §§ 1.1007 - 1.1014</u>.  No member or duly authorized non-member shall at any time, by any means, or in any manner, transport any migratory bird of part thereof, taken in violation of any provision of §§ 1.1007 - 1.1014 of this ordinance.</text>
+          <text><u>Prohibited if taken in violation of §§ <cite path="VI|1|1.10|1.1007">1.1007</cite> - <cite path="VI|1|1.10|1.1014">1.1014</cite></u>.  No member or duly authorized non-member shall at any time, by any means, or in any manner, transport any migratory bird of part thereof, taken in violation of any provision of §§ <cite path="VI|1|1.10|1.1007">1.1007</cite> - <cite path="VI|1|1.10|1.1014">1.1014</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text><u>Transportation of birds of another</u>.  No member or duly authorized non-member shall transport any migratory bird belonging to another person unless such bird is tagged as required by § 1.1015 (6) of this ordinance.</text>
+          <text><u>Transportation of birds of another</u>.  No member or duly authorized non-member shall transport any migratory bird belonging to another person unless such bird is tagged as required by <cite path="VI|1|1.10|1.1015">§ 1.1015</cite> (6) of this ordinance.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text><u>Species identification requirement</u>.  No member or duly authorized non-member shall transport within the United States any migratory birds, except doves and band-tailed pigeons (Columba fasciata) or in accordance with § 1.1023 [Traditional and Cultural Use Permits/Registration] of this ordinance, unless the head or one fully feathered wing remains attached to each such bird at all times while being transported from the place where taken until they have arrived at the personal abode of the possessor or at a migratory bird preservation facility as defined in § 1.201 (43) of this ordinance.</text>
+          <text><u>Species identification requirement</u>.  No member or duly authorized non-member shall transport within the United States any migratory birds, except doves and band-tailed pigeons (Columba fasciata) or in accordance with <cite path="VI|1|1.10|1.1023">§ 1.1023</cite> [Traditional and Cultural Use Permits/Registration] of this ordinance, unless the head or one fully feathered wing remains attached to each such bird at all times while being transported from the place where taken until they have arrived at the personal abode of the possessor or at a migratory bird preservation facility as defined in <cite path="VI|1|1.10|1.201">§ 1.201</cite> (43) of this ordinance.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -2869,7 +2873,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>Except when a migratory bird is being transported between the exterior boundaries of the Lac Courte Oreilles Reservation and off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe, no member or duly authorized non-member shall transport migratory birds off-reservation without a transportation tag pursuant to § 1.312 of this ordinance.</text>
+          <text>Except when a migratory bird is being transported between the exterior boundaries of the Lac Courte Oreilles Reservation and off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe, no member or duly authorized non-member shall transport migratory birds off-reservation without a transportation tag pursuant to <cite path="VI|1|1.10|1.312">§ 1.312</cite> of this ordinance.</text>
         </para>
       </section>
       <section>
@@ -2877,7 +2881,7 @@
         <heading>Exportation Regulated</heading>
         <para>
           <num>(1)</num>
-          <text><u>Prohibited if taken in violation of §§ 1.1007 - 1.1014</u>.  No member or duly authorized non-member shall at any time, by any means, or in any manner, export or cause to be exported, any migratory bird or part thereof, taken in violation of any provision of §§ 1.1007 - 1.1014 of this ordinance.</text>
+          <text><u>Prohibited if taken in violation of §§ <cite path="VI|1|1.10|1.1007">1.1007</cite> - <cite path="VI|1|1.10|1.1014">1.1014</cite></u>.  No member or duly authorized non-member shall at any time, by any means, or in any manner, export or cause to be exported, any migratory bird or part thereof, taken in violation of any provision of §§ <cite path="VI|1|1.10|1.1007">1.1007</cite> - <cite path="VI|1|1.10|1.1014">1.1014</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2891,23 +2895,23 @@
       <section>
         <num>1.1019</num>
         <heading>Authorization For Closure</heading>
-        <text>Pursuant to § 1.330 of this ordinance, the Director of the tribal conservation department is thereby delegated the authority to close any area to migratory bird harvesting prior to the season's closing date, generally or with respect to a particular location, whenever in his or her professional opinion and judgment the continuation of the harvest is likely to result in a harvest exceeding the Tribe's harvest goals or may otherwise cause biological harm to the tribal migratory bird population.</text>
+        <text>Pursuant to <cite path="VI|1|1.10|1.330">§ 1.330</cite> of this ordinance, the Director of the tribal conservation department is thereby delegated the authority to close any area to migratory bird harvesting prior to the season's closing date, generally or with respect to a particular location, whenever in his or her professional opinion and judgment the continuation of the harvest is likely to result in a harvest exceeding the Tribe's harvest goals or may otherwise cause biological harm to the tribal migratory bird population.</text>
       </section>
       <section>
         <num>1.1020</num>
         <heading>Assistance By Non-Members</heading>
-        <text>No person who is not a member or a duly authorized non-member shall assist a member in the harvesting of migratory birds pursuant to this ordinance except as provided § 1.329 of this ordinance.</text>
+        <text>No person who is not a member or a duly authorized non-member shall assist a member in the harvesting of migratory birds pursuant to this ordinance except as provided <cite path="VI|1|1.10|1.329">§ 1.329</cite> of this ordinance.</text>
       </section>
       <section>
         <num>1.1021</num>
         <heading>Sale Of Migratory Birds Parts Regulated</heading>
         <para>
           <num>(1)</num>
-          <text>Pursuant to § 1.326 of this ordinance, no member or duly authorized non-member shall sell meat from any migratory bird harvested pursuant to this ordinance except for subsistence uses as defined in § 1.201 (71) of this ordinance.</text>
+          <text>Pursuant to <cite path="VI|1|1.10|1.326">§ 1.326</cite> of this ordinance, no member or duly authorized non-member shall sell meat from any migratory bird harvested pursuant to this ordinance except for subsistence uses as defined in <cite path="VI|1|1.10|1.201">§ 1.201</cite> (71) of this ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>A member or duly authorized non-member may use the feathers of migratory birds (except eagles) lawfully harvested or collected under this ordinance for subsistence uses, including the making and selling of handicraft articles as defined § 1.201 (71)(b) of this ordinance subject to the following:</text>
+          <text>A member or duly authorized non-member may use the feathers of migratory birds (except eagles) lawfully harvested or collected under this ordinance for subsistence uses, including the making and selling of handicraft articles as defined <cite path="VI|1|1.10|1.201">§ 1.201</cite> (71)(b) of this ordinance subject to the following:</text>
           <para>
             <num>(a)</num>
             <text>No member or duly authorized non-member shall transfer the feathers of migratory birds lawfully harvested or gathered under this ordinance for subsistence uses, unless a copy of the permit authorizing possession of the migratory bird, feathers or parts thereof is transferred with the migratory bird with the following signed statement written on the permit:</text>
@@ -2922,7 +2926,7 @@
           <text>Nothing in this ordinance shall be construed to prohibit a member or duly authorized non-member from selling the feathers of migratory waterfowl (ducks, geese, brant and swans) lawfully harvested pursuant to this ordinance for the making of fishing flies, bed pillows, and mattresses, and for similar commercial uses except that:</text>
           <para>
             <num>(a)</num>
-            <text>No member or duly authorized non-member shall purchase or sell, or offer to purchase or sell, for millinery or ornamental use the feathers of migratory birds taken within the exterior boundaries of the Lac Courte Oreilles Reservation and off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe (except as provided in subs. (2)); and</text>
+            <text>No member or duly authorized non-member shall purchase or sell, or offer to purchase or sell, for millinery or ornamental use the feathers of migratory birds taken within the exterior boundaries of the Lac Courte Oreilles Reservation and off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe (except as provided in <cite path="VI|1|1.10|1.1021|(2)">subs. (2)</cite>); and</text>
           </para>
           <para>
             <num>(b)</num>
@@ -2933,14 +2937,14 @@
       <section>
         <num>1.1022</num>
         <heading>Prohibited Take Of Raptors, Eagles, Or Other Protected Species</heading>
-        <text>No member or non-member shall take, as defined § 1.201 (74) of this ordinance, any raptor, golden or bald eagle, owl, falcon or other protected migratory birds species, as defined § 1.328 of this ordinance<strong>, </strong>or its nest or eggs thereof within the exterior boundaries of the Lac Courte Oreilles Reservation or the off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe.</text>
+        <text>No member or non-member shall take, as defined <cite path="VI|1|1.10|1.201">§ 1.201</cite> (74) of this ordinance, any raptor, golden or bald eagle, owl, falcon or other protected migratory birds species, as defined <cite path="VI|1|1.10|1.328">§ 1.328</cite> of this ordinance<strong>, </strong>or its nest or eggs thereof within the exterior boundaries of the Lac Courte Oreilles Reservation or the off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe.</text>
       </section>
       <section>
         <num>1.1023</num>
         <heading>Traditional And Cultural Use Permits/Registration</heading>
         <para>
           <num>(1)</num>
-          <text><u>Tribal Identification Card as Migratory Bird Gathering Permit Authorized</u>. No member or duly authorized non-member shall collect, as defined § 1.201 (10) of this ordinance, any migratory bird without possessing a valid migratory bird collecting permit approved by the Tribe. Such a permit may be the member's tribal identification card required by § 1.303 (3) of this ordinance.</text>
+          <text><u>Tribal Identification Card as Migratory Bird Gathering Permit Authorized</u>. No member or duly authorized non-member shall collect, as defined <cite path="VI|1|1.10|1.201">§ 1.201</cite> (10) of this ordinance, any migratory bird without possessing a valid migratory bird collecting permit approved by the Tribe. Such a permit may be the member's tribal identification card required by <cite path="VI|1|1.10|1.303">§ 1.303</cite> (3) of this ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2960,7 +2964,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text><u>Registration by Tribal Conservation Warden or Officers Authorized</u>. Any wardens of the tribal conservation department or officers of the tribal law enforcement department authorized pursuant to § 1.402 of this ordinance to enforce the provisions of this ordinance are authorized to register collected migratory birds in the field provided such warden or officer transmits all registering information to a tribal registration station no later than the registration deadline established by subs. (2), above.</text>
+          <text><u>Registration by Tribal Conservation Warden or Officers Authorized</u>. Any wardens of the tribal conservation department or officers of the tribal law enforcement department authorized pursuant to <cite path="VI|1|1.10|1.402">§ 1.402</cite> of this ordinance to enforce the provisions of this ordinance are authorized to register collected migratory birds in the field provided such warden or officer transmits all registering information to a tribal registration station no later than the registration deadline established by subs. (2), above.</text>
         </para>
         <para>
           <num>(6)</num>
@@ -2988,7 +2992,7 @@
         </para>
         <para>
           <num>(10)</num>
-          <text><u>Failure to Comply with Permit Terms and Conditions</u>. No member or duly authorized non-member shall fail to comply with the terms and conditions of a permit issued pursuant to <cite path="§1.1023">this section</cite>.</text>
+          <text><u>Failure to Comply with Permit Terms and Conditions</u>. No member or duly authorized non-member shall fail to comply with the terms and conditions of a permit issued pursuant to <cite path="VI|1|1.10|1.1023">this section</cite>.</text>
         </para>
       </section>
     </container>
@@ -3131,14 +3135,14 @@
         <heading>Miscellaneous Forest Product Harvesting Permits</heading>
         <para>
           <num>(1)</num>
-          <text><u>Wild Plant and Gathering Product Gathering Permits</u>.  No member or duly authorized non-member shall gather any wild plant as defined in § 1.201 (93) of this ordinance, or gathering product as defined in § 1.201 (32) of this ordinance on reservation land as defined in § 1.201 (56) of this ordinance pursuant to this subchapter without possessing a valid gathering permit approved by the Tribal Governing Board which may incorporate such other terms and conditions as the tribal conservation department deems necessary or appropriate.  Such a permit may be the member's tribal identification card required by § 1.303 (3) of this ordinance.</text>
+          <text><u>Wild Plant and Gathering Product Gathering Permits</u>.  No member or duly authorized non-member shall gather any wild plant as defined in <cite path="VI|1|1.12|1.201">§ 1.201</cite> (93) of this ordinance, or gathering product as defined in <cite path="VI|1|1.12|1.201">§ 1.201</cite> (32) of this ordinance on reservation land as defined in <cite path="VI|1|1.12|1.201">§ 1.201</cite> (56) of this ordinance pursuant to this subchapter without possessing a valid gathering permit approved by the Tribal Governing Board which may incorporate such other terms and conditions as the tribal conservation department deems necessary or appropriate.  Such a permit may be the member's tribal identification card required by <cite path="VI|1|1.12|1.303">§ 1.303</cite> (3) of this ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
           <text><u>Non-Timber Forest Product and Ginseng Gathering Permits</u>.</text>
           <para>
             <num>(a)</num>
-            <text>No member or duly authorized non-member shall harvest or gather non-timber forest products as defined in § 1.201 (48) of this ordinance, and ginseng as defined in      § 1.201 (34) of this ordinance, pursuant to this ordinance without possessing a valid gathering permit issued by the tribal conservation department, such a permit may be the member's tribal identification card required by § 1.303 (3) of this ordinance, as follows:</text>
+            <text>No member or duly authorized non-member shall harvest or gather non-timber forest products as defined in <cite path="VI|1|1.12|1.201">§ 1.201</cite> (48) of this ordinance, and ginseng as defined in      <cite path="VI|1|1.12|1.201">§ 1.201</cite> (34) of this ordinance, pursuant to this ordinance without possessing a valid gathering permit issued by the tribal conservation department, such a permit may be the member's tribal identification card required by <cite path="VI|1|1.12|1.303">§ 1.303</cite> (3) of this ordinance, as follows:</text>
             <para>
               <num>(i)</num>
               <text><u>Small Scale Harvest Activity</u>. For small scale activity, a member or duly authorized non-member may harvest non-timber forest products while possessing a valid gathering permit up to the following limits:</text>
@@ -3162,7 +3166,7 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>The tribal conservation department may impose such other terms and conditions as it deems necessary or appropriate, including biological monitoring requirements in addition to those contained in § 1.1207 of this ordinance.</text>
+            <text>The tribal conservation department may impose such other terms and conditions as it deems necessary or appropriate, including biological monitoring requirements in addition to those contained in <cite path="VI|1|1.12|1.1207">§ 1.1207</cite> of this ordinance.</text>
           </para>
         </para>
       </section>
@@ -3171,7 +3175,7 @@
         <heading>Miscellaneous Forest Product Harvesting Restrictions</heading>
         <para>
           <num>(1)</num>
-          <text><u>Conifer Boughs</u><strong>.</strong> No member or duly authorized non-member shall harvest conifer boughs on reservations lands as defined in § 1.201 (56) of this ordinance except as follows:</text>
+          <text><u>Conifer Boughs</u><strong>.</strong> No member or duly authorized non-member shall harvest conifer boughs on reservations lands as defined in <cite path="VI|1|1.12|1.201">§ 1.201</cite> (56) of this ordinance except as follows:</text>
           <para>
             <num>(a)</num>
             <text>Cut down or kill a tree for the purpose of gathering conifer boughs;</text>
@@ -3187,34 +3191,34 @@
         </para>
         <para>
           <num>(2)</num>
-          <text><u>Princess Pine</u><strong>.</strong> No member or duly authorized non-member shall gather any <em>Lycopodium</em> species on reservations lands as defined in § 1.201 (56) of this ordinance except by cutting the vertical above ground stems.</text>
+          <text><u>Princess Pine</u><strong>.</strong> No member or duly authorized non-member shall gather any <em>Lycopodium</em> species on reservations lands as defined in <cite path="VI|1|1.12|1.201">§ 1.201</cite> (56) of this ordinance except by cutting the vertical above ground stems.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text><u>Sheet Moss</u>. No member or duly authorized non-member shall harvest sheet moss on reservations lands as defined in § 1.201 (56) of this ordinance except by harvesting no more than fifty percent (50%) of a species in any particular harvest area, including leaving the edges of the patch.</text>
+          <text><u>Sheet Moss</u>. No member or duly authorized non-member shall harvest sheet moss on reservations lands as defined in <cite path="VI|1|1.12|1.201">§ 1.201</cite> (56) of this ordinance except by harvesting no more than fifty percent (50%) of a species in any particular harvest area, including leaving the edges of the patch.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text><u>Lodgepoles</u>. No member or duly authorized non-member shall harvest lodgepoles on reservations lands as defined in § 1.201 (56) of this ordinance except by harvesting no more than fifty percent (50%) of a species in any particular harvest area, unless the location is a designated area as defined in § 1.1203 (2)(a)(ii)(2) of this ordinance.</text>
+          <text><u>Lodgepoles</u>. No member or duly authorized non-member shall harvest lodgepoles on reservations lands as defined in <cite path="VI|1|1.12|1.201">§ 1.201</cite> (56) of this ordinance except by harvesting no more than fifty percent (50%) of a species in any particular harvest area, unless the location is a designated area as defined in <cite path="VI|1|1.12|1.1203">§ 1.1203</cite> (2)(a)(ii)(2) of this ordinance.</text>
         </para>
         <para>
           <num>(5)</num>
-          <text><u>Red Willow or Redosier Dogwood</u>. No member or duly authorized non-member shall harvest red willow or redosier dogwood (cornus stolonifera) on reservations lands as defined in § 1.201 (56) of this ordinance except by harvesting no more than fifty percent (50%) of a species in any particular harvest area, unless the location is a designated area as defined in § 1.1203 (2)(a)(ii)(2) of this ordinance.</text>
+          <text><u>Red Willow or Redosier Dogwood</u>. No member or duly authorized non-member shall harvest red willow or redosier dogwood (cornus stolonifera) on reservations lands as defined in <cite path="VI|1|1.12|1.201">§ 1.201</cite> (56) of this ordinance except by harvesting no more than fifty percent (50%) of a species in any particular harvest area, unless the location is a designated area as defined in <cite path="VI|1|1.12|1.1203">§ 1.1203</cite> (2)(a)(ii)(2) of this ordinance.</text>
         </para>
         <para>
           <num>(6)</num>
-          <text><u>Birch Branches</u><strong>.</strong>  No member or duly authorized non-member shall harvest any birch branches, branchlets or stems four (4) inches and less in diameter on reservations lands as defined in § 1.201 (56) of this ordinance.</text>
+          <text><u>Birch Branches</u><strong>.</strong>  No member or duly authorized non-member shall harvest any birch branches, branchlets or stems four (4) inches and less in diameter on reservations lands as defined in <cite path="VI|1|1.12|1.201">§ 1.201</cite> (56) of this ordinance.</text>
         </para>
         <para>
           <num>(7)</num>
-          <text><u>Birch Tree</u><strong>.</strong>  No member or duly authorized non-member shall harvest any birch tree <u>(betula papyrifera)</u> or sapling five (5) inches in diameter or less on reservations lands as defined in § 1.201 (56) of this ordinance.</text>
+          <text><u>Birch Tree</u><strong>.</strong>  No member or duly authorized non-member shall harvest any birch tree <u>(betula papyrifera)</u> or sapling five (5) inches in diameter or less on reservations lands as defined in <cite path="VI|1|1.12|1.201">§ 1.201</cite> (56) of this ordinance.</text>
         </para>
         <para>
           <num>(8)</num>
-          <text><u>Firewood / Fuelwood</u>. No member or duly authorized non-member shall harvest (cut) any fuelwood on reservations lands as defined in § 1.201 (56) of this ordinance except as follows:</text>
+          <text><u>Firewood / Fuelwood</u>. No member or duly authorized non-member shall harvest (cut) any fuelwood on reservations lands as defined in <cite path="VI|1|1.12|1.201">§ 1.201</cite> (56) of this ordinance except as follows:</text>
           <para>
             <num>(a)</num>
-            <text>Harvest fuelwood within a woodlot area as defined in § 1.201 (16) of this ordinance, which means an area of reservation land which has been designated, marked, posted and approved by the Tribal Governing Board for fuelwood harvesting, pursuant to § 1.1214 of this ordinance.</text>
+            <text>Harvest fuelwood within a woodlot area as defined in <cite path="VI|1|1.12|1.201">§ 1.201</cite> (16) of this ordinance, which means an area of reservation land which has been designated, marked, posted and approved by the Tribal Governing Board for fuelwood harvesting, pursuant to <cite path="VI|1|1.12|1.1214">§ 1.1214</cite> of this ordinance.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -3251,7 +3255,7 @@
         </para>
         <para>
           <num>(9)</num>
-          <text><u>Ginseng</u>.  No member or duly authorized non-member shall harvest ginseng on reservations lands as defined in § 1.201 (56) of this ordinance except as follows:</text>
+          <text><u>Ginseng</u>.  No member or duly authorized non-member shall harvest ginseng on reservations lands as defined in <cite path="VI|1|1.12|1.201">§ 1.201</cite> (56) of this ordinance except as follows:</text>
           <para>
             <num>(a)</num>
             <text>Gather ginseng from November 1 through August 31;</text>
@@ -3262,7 +3266,7 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>Harvest wild ginseng unless the plant possess three (3) or more true leaves and flowering/fruit stalks. The entire stalk, minus the mature fruits, shall be kept with the plant until they are taken to the member's personal abode as defined in § 1.201 (50) of this ordinance.</text>
+            <text>Harvest wild ginseng unless the plant possess three (3) or more true leaves and flowering/fruit stalks. The entire stalk, minus the mature fruits, shall be kept with the plant until they are taken to the member's personal abode as defined in <cite path="VI|1|1.12|1.201">§ 1.201</cite> (50) of this ordinance.</text>
           </para>
           <para>
             <num>(d)</num>
@@ -3278,7 +3282,7 @@
           </para>
           <para>
             <num>(b)</num>
-            <text>"Designated Sugarbush Area" as defined in § 1.201 (17) of this ordinance means a specific site identified and established by the tribal conservation department for which a site management plan has been developed and for which a sugarbush site permit has been issued.</text>
+            <text>"Designated Sugarbush Area" as defined in <cite path="VI|1|1.12|1.201">§ 1.201</cite> (17) of this ordinance means a specific site identified and established by the tribal conservation department for which a site management plan has been developed and for which a sugarbush site permit has been issued.</text>
           </para>
           <para>
             <num>(c)</num>
@@ -3311,7 +3315,7 @@
         <heading>Harvest Of Certain Miscellaneous Forest Products Prohibited</heading>
         <para>
           <num>(1)</num>
-          <text><u>Endangered or Threatened Plant Species</u>. No member or duly authorized non-member shall gather any endangered or threatened plant species, as defined in Section 1.201(23), of this ordinance.</text>
+          <text><u>Endangered or Threatened Plant Species</u>. No member or duly authorized non-member shall gather any endangered or threatened plant species, as defined in Section <cite path="VI|1|1.12|1.201">1.201</cite>(23), of this ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -3333,14 +3337,14 @@
       <section>
         <num>1.1208</num>
         <heading>Emergency Closures</heading>
-        <text>Pursuant to § 1.330 of this ordinance, the Director of the tribal conservation department is thereby delegated the authority to close any area to gathering generally or with respect to a particular location, whenever in his or her professional opinion and judgment the continuation of the harvest is likely to result in a harvest exceeding the Tribe's harvest goals or may otherwise cause biological harm to the species involved.</text>
+        <text>Pursuant to <cite path="VI|1|1.12|1.330">§ 1.330</cite> of this ordinance, the Director of the tribal conservation department is thereby delegated the authority to close any area to gathering generally or with respect to a particular location, whenever in his or her professional opinion and judgment the continuation of the harvest is likely to result in a harvest exceeding the Tribe's harvest goals or may otherwise cause biological harm to the species involved.</text>
       </section>
       <section>
         <num>1.1209</num>
         <heading>Harvest Location Restrictions</heading>
         <para>
           <num>(1)</num>
-          <text><u>Public Safety</u>. No member or duly authorized non-member engaged in the gathering of miscellaneous forest products pursuant to this subchapter shall impair or obstruct developed recreational trails or designated use areas and any miscellaneous forest product subject to the gathering which may impede or impair the use of those trails or areas shall be removed immediately.</text>
+          <text><u>Public Safety</u>. No member or duly authorized non-member engaged in the gathering of miscellaneous forest products pursuant to <cite path="VI|1|1.12">this subchapter</cite> shall impair or obstruct developed recreational trails or designated use areas and any miscellaneous forest product subject to the gathering which may impede or impair the use of those trails or areas shall be removed immediately.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -3424,7 +3428,7 @@
         </para>
         <para>
           <num>(9)</num>
-          <text><u>Lands Open to Tribal Gathering</u>.  No member or duly authorized non-member shall gather miscellaneous forest products under authority of this ordinance except on reservations lands as defined in § 1.201 (56) of this ordinance.</text>
+          <text><u>Lands Open to Tribal Gathering</u>.  No member or duly authorized non-member shall gather miscellaneous forest products under authority of this ordinance except on reservations lands as defined in <cite path="VI|1|1.12|1.201">§ 1.201</cite> (56) of this ordinance.</text>
         </para>
       </section>
       <section>
@@ -3432,7 +3436,7 @@
         <heading>Harvest Of Miscellaneous Forest Products Subject To A Timber Contract Or Located Within A Timber Contract Area</heading>
         <para>
           <num>(1)</num>
-          <text>No member or duly authorized non-member shall gather any miscellaneous forest product under authority of this ordinance without a permit issued pursuant to subs. (3) that is subject to the harvest rights of another in a valid timber contract.  Sometimes these trees are marked with paint.  However, it is the member's or duly authorized non-member's responsibility to be certain about trees that are subject to a valid timber contract.  Any uncertainty should be resolved by contacting the tribal forestry department, the BIA forestry office, or the tribal conservation department.</text>
+          <text>No member or duly authorized non-member shall gather any miscellaneous forest product under authority of this ordinance without a permit issued pursuant to <cite path="VI|1|1.12|1.1210|(3)">subs. (3)</cite> that is subject to the harvest rights of another in a valid timber contract.  Sometimes these trees are marked with paint.  However, it is the member's or duly authorized non-member's responsibility to be certain about trees that are subject to a valid timber contract.  Any uncertainty should be resolved by contacting the tribal forestry department, the BIA forestry office, or the tribal conservation department.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -3440,10 +3444,10 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>(a)  The tribal conservation department, after consultation with the tribal forestry department or BIA forestry office, is authorized to issue permits under <cite path="§1.1210">this section</cite> on such terms and conditions as it deems necessary and appropriate.</text>
+          <text>(a)  The tribal conservation department, after consultation with the tribal forestry department or BIA forestry office, is authorized to issue permits under <cite path="VI|1|1.12|1.1210">this section</cite> on such terms and conditions as it deems necessary and appropriate.</text>
           <para>
             <num>(b)</num>
-            <text>No member shall fail to comply with the terms and conditions of a permit issued pursuant to <cite path="§1.1210">this section</cite>.</text>
+            <text>No member shall fail to comply with the terms and conditions of a permit issued pursuant to <cite path="VI|1|1.12|1.1210">this section</cite>.</text>
           </para>
         </para>
       </section>
@@ -3452,25 +3456,25 @@
         <heading>Harvest Of Certain Marked Trees Or Lodgepoles Prohibited</heading>
         <para>
           <num>(1)</num>
-          <text><u>Paint Markings</u>. No member shall cut down any tree that has been designated with any paint markings including but not limited to: paint marking that designates the boundaries of a Designated Timber Contract Area, as defined in § 1.201 (18) of this ordinance; paint marking that indicates boundaries between tribal land and other ownerships, or may designate a witness tree at a legal corner; or paint markings that may indicate a tree being used to collect cones or seeds for nursery stock.</text>
+          <text><u>Paint Markings</u>. No member shall cut down any tree that has been designated with any paint markings including but not limited to: paint marking that designates the boundaries of a Designated Timber Contract Area, as defined in <cite path="VI|1|1.12|1.201">§ 1.201</cite> (18) of this ordinance; paint marking that indicates boundaries between tribal land and other ownerships, or may designate a witness tree at a legal corner; or paint markings that may indicate a tree being used to collect cones or seeds for nursery stock.</text>
         </para>
       </section>
       <section>
         <num>1.1212</num>
         <heading>Sale Of Miscellaneous Forest Products Authorized</heading>
-        <text>Nothing contained in this ordinance shall be construed to prohibit members from selling any miscellaneous forest product, or any part thereof, lawfully harvested pursuant to this subchapter.</text>
+        <text>Nothing contained in this ordinance shall be construed to prohibit members from selling any miscellaneous forest product, or any part thereof, lawfully harvested pursuant to <cite path="VI|1|1.12">this subchapter</cite>.</text>
       </section>
       <section>
         <num>1.1213</num>
         <heading>Assistance By Non-Tribal Member</heading>
-        <text>No person who is not a member or a duly authorized non-member shall assist a member in the gathering of any miscellaneous forest product, or part thereof, pursuant to this ordinance except as provided § 1.329 of this ordinance.</text>
+        <text>No person who is not a member or a duly authorized non-member shall assist a member in the gathering of any miscellaneous forest product, or part thereof, pursuant to this ordinance except as provided <cite path="VI|1|1.12|1.329">§ 1.329</cite> of this ordinance.</text>
       </section>
       <section>
         <num>1.1214</num>
         <heading>Firewood Subsistence Program Restrictions</heading>
         <para>
           <num>(1)</num>
-          <text><u>Woodlot Areas</u>. Woodlot areas are intended for members and their families living on reservation lands that use firewood as the primary fuel source for their household. A member that resides outside of reservation lands and non-members may be issued permits upon a written request to the Tribal Governing Board. Such written request shall indicate who will be engaged in the cutting, whom will benefit from the cutting, and the timeframe that such cutting is requested. No members that reside outside of outside of reservation lands and non-members shall harvest within a woodlot area until a permit has been issued. Such a permit must be in the possession of the permittee while he/she is cutting fuelwood. No member or duly authorized non-member shall harvest (cut) fuelwood within a woodlot area, which means an area of reservation land which has been designated, marked, posted and approved by the Tribal Governing Board for fuelwood harvesting, as defined in § 1.201 (16) of this ordinance, except as follows:</text>
+          <text><u>Woodlot Areas</u>. Woodlot areas are intended for members and their families living on reservation lands that use firewood as the primary fuel source for their household. A member that resides outside of reservation lands and non-members may be issued permits upon a written request to the Tribal Governing Board. Such written request shall indicate who will be engaged in the cutting, whom will benefit from the cutting, and the timeframe that such cutting is requested. No members that reside outside of outside of reservation lands and non-members shall harvest within a woodlot area until a permit has been issued. Such a permit must be in the possession of the permittee while he/she is cutting fuelwood. No member or duly authorized non-member shall harvest (cut) fuelwood within a woodlot area, which means an area of reservation land which has been designated, marked, posted and approved by the Tribal Governing Board for fuelwood harvesting, as defined in <cite path="VI|1|1.12|1.201">§ 1.201</cite> (16) of this ordinance, except as follows:</text>
           <para>
             <num>(a)</num>
             <text><u>Woodlot Area Posting</u>. Before harvesting commences in a woodlot area, the area shall be posted and the boundaries clearly marked. The posting of an approved harvesting area may include, but is not limited to:</text>
@@ -3480,7 +3484,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>Posting a copy of § 1.1214 of this ordinance.</text>
+              <text>Posting a copy of <cite path="VI|1|1.12|1.1214">§ 1.1214</cite> of this ordinance.</text>
             </para>
             <para>
               <num>(iii)</num>
@@ -3501,7 +3505,7 @@
           </para>
           <para>
             <num>(c)</num>
-            <text><u>Firewood Punch Card Required</u>. No member or duly authorized non-member shall harvest (cut) fuelwood within a woodlot area, except for their personal use with a firewood punch card issued by the tribal conservation department. Firewood punch cards shall be numbered in sequence for tracking purposes, along with the member's identification number and current address. Firewood punch cards shall have the date of issuance, a signature of the member named on the punch card, and a signature of a tribal conservation department representative. Any firewood punch card possessed without a tribal conservation department representative signature shall be invalid. Firewood punch cards shall have no more than 20 punches on each card and only one punch card shall be issued per household per season, except emergency loads can be requested based on need for reasons such as funerals, ceremonies, or extreme cold weather conditions. An emergency load shall be considered and approved at the discretion of the tribal conservation department or the Tribal Governing Board. The Tribal Governing Board has the authority to adjust and make changes to this program due to shortage of wood, road conditions, and/or weather conditions. Elders and disabled members may obtain a punch card and have another member cut wood for them. The member who will be cutting wood for them will be required to give their contact information to the woodlot area monitor and the tribal conservation department will follow up to ensure that the wood is going to the residence of the punch card holder. Any violations of <cite path="§1.1214">this section</cite>, or misuse of the elder/disabled punch card shall result in penalties for that member, including being banned from all woodlot areas for the remainder of the firewood subsistence program season.</text>
+            <text><u>Firewood Punch Card Required</u>. No member or duly authorized non-member shall harvest (cut) fuelwood within a woodlot area, except for their personal use with a firewood punch card issued by the tribal conservation department. Firewood punch cards shall be numbered in sequence for tracking purposes, along with the member's identification number and current address. Firewood punch cards shall have the date of issuance, a signature of the member named on the punch card, and a signature of a tribal conservation department representative. Any firewood punch card possessed without a tribal conservation department representative signature shall be invalid. Firewood punch cards shall have no more than 20 punches on each card and only one punch card shall be issued per household per season, except emergency loads can be requested based on need for reasons such as funerals, ceremonies, or extreme cold weather conditions. An emergency load shall be considered and approved at the discretion of the tribal conservation department or the Tribal Governing Board. The Tribal Governing Board has the authority to adjust and make changes to this program due to shortage of wood, road conditions, and/or weather conditions. Elders and disabled members may obtain a punch card and have another member cut wood for them. The member who will be cutting wood for them will be required to give their contact information to the woodlot area monitor and the tribal conservation department will follow up to ensure that the wood is going to the residence of the punch card holder. Any violations of <cite path="VI|1|1.12|1.1214">this section</cite>, or misuse of the elder/disabled punch card shall result in penalties for that member, including being banned from all woodlot areas for the remainder of the firewood subsistence program season.</text>
             <para>
               <num>(i)</num>
               <text>A member living on reservation lands that uses firewood as the primary fuel source for their household shall apply for a firewood punch card at the tribal conservation department.</text>
@@ -3524,7 +3528,7 @@
             </para>
             <para>
               <num>(vi)</num>
-              <text>Except as otherwise authorized by the Tribal Governing Board pursuant to § 1.1214 (1) of this ordinance, a member's spouse that is not a member may utilize the woodlot area as long as the non-member spouse resides in the same household.</text>
+              <text>Except as otherwise authorized by the Tribal Governing Board pursuant to <cite path="VI|1|1.12|1.1214">§ 1.1214</cite> (1) of this ordinance, a member's spouse that is not a member may utilize the woodlot area as long as the non-member spouse resides in the same household.</text>
             </para>
           </para>
           <para>
@@ -3569,7 +3573,7 @@
           </para>
           <para>
             <num>(e)</num>
-            <text><u>Firewood Punch Card Revocation Reserved</u>. The tribal conservation department and the Tribal Governing Board hereby reserves the right to revoke any firewood punch card if the regulations established in <cite path="§1.1214">this section</cite> are violated.</text>
+            <text><u>Firewood Punch Card Revocation Reserved</u>. The tribal conservation department and the Tribal Governing Board hereby reserves the right to revoke any firewood punch card if the regulations established in <cite path="VI|1|1.12|1.1214">this section</cite> are violated.</text>
           </para>
         </para>
         <para>
@@ -3609,7 +3613,9 @@
     <prefix>Chapter</prefix>
     <num>7</num>
     <heading>Shoreland Protection Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text>Preamble</text>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, to promote the health, safety, and welfare of Lac Courte Oreilles citizens (members) and protect the environment of the Lac Courte Oreilles Reservation, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, §§ 1(s) and (f) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "To promulgate and enforce ordinances…providing for the maintenance of law and order and the administration of justice…" Article V, § 1 (s) and "to manage, lease, permit or otherwise deal with tribal lands, interests in lands or other assets, and to purchase lands, or interests in lands, within or without the reservation" Article V, § 1 (f). Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby recognizes that uncontrolled use of the shorelands and pollution of the navigable waters of the Lac Courte Oreilles Reservation would adversely affect the public health, safety and general welfare of Lac Courte Oreilles citizens (members). The Lac Courte Oreilles Tribal Governing Board has the responsibility to promote the health, safety, and welfare, of Lac Courte Oreilles citizens (members); to further the maintenance of safe and healthful conditions; prevent and control water pollution; protect spawning grounds, fish and aquatic life; control building sites, placement of structures; and to preserve shore cover and natural beauty. This ordinance has been adopted for the purpose of protecting the environment of the Lac Courte Oreilles Reservation.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -3736,7 +3742,7 @@
       <section>
         <num>7.201</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in <cite path="§7.201">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="VI|7|7.2|7.201">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(1)</num>
           <text><strong>"Citizen"</strong> means an enrolled member of the Lac Courte Oreilles Lake Superior Band of Chippewa Indians.</text>
@@ -3981,7 +3987,7 @@
           <text>There shall be a shoreline vegetation protection area on each lot extending 50 feet landward from the ordinary high-water mark.  For lots abutting the Chippewa Flowage, the shoreline vegetation protection area shall extend 100 feet landward from the ordinary high-water mark of 1,313 Mean Sea Level. Within this area the removal of trees, shrubs and ground cover, mowing and filling, grading and other land disturbing activities are prohibited with the following exceptions:</text>
           <para>
             <num>(a)</num>
-            <text>Such activities are in conjunction with a project approved by the Lac Courte Oreilles Conservation Department or as listed in § 7.504 of this ordinance.</text>
+            <text>Such activities are in conjunction with a project approved by the Lac Courte Oreilles Conservation Department or as listed in <cite path="VI|7|7.5|7.504">§ 7.504</cite> of this ordinance.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -4080,7 +4086,7 @@
       <section>
         <num>7.504</num>
         <heading>Resource Management And Agricultural Exemptions</heading>
-        <text>The following activities are exempted from the provisions of in § 7.502 of this ordinance:</text>
+        <text>The following activities are exempted from the provisions of in <cite path="VI|7|7.5|7.502">§ 7.502</cite> of this ordinance:</text>
         <para>
           <num>(1)</num>
           <text>Fish and wildlife habitat management activities if approved by the Lac Courte Oreilles Conservation Department.</text>
@@ -4196,7 +4202,9 @@
     <prefix>Chapter</prefix>
     <num>8</num>
     <heading>Industrial Hemp Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text>Preamble</text>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, Article V, § 1 (h) and (n) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "To engage in any business that will further the social or economic well-being of members of the Band or undertake any programs or projects designed for the economic advancement of the people," Article V, § 1 (h); and "To regulate, by enactment of ordinances, the conduct of business within the territory of the Band, including the power to impose taxes or license fees upon members and non-members doing business within the reservation" Article V, § 1 (n). Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby establishes the Agricultural Division of the Lac Courte Oreilles Conservation Department as a governmental instrumentality of the Tribe, and enacts this ordinance which shall establish the purposes, powers and duties of the same. The Agricultural Division shall carry out the requirements of the 2018 Farm Bill as adopted and implemented by the Tribe pursuant to the provisions of this ordinance. A copy of this ordinance duly certified by the Secretary/Treasurer of the Tribal Governing Board shall be admissible in evidence in any suit, action or proceedings.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -4579,11 +4587,11 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>As established pursuant to 2 LCOTCL § 5.302, the Agricultural Division shall have no authority to waive the sovereign immunity of the Tribe, or any other Tribal entity.</text>
+          <text>As established pursuant to 2 LCOTCL <cite path="VI|8|8.3|5.302">§ 5.302</cite>, the Agricultural Division shall have no authority to waive the sovereign immunity of the Tribe, or any other Tribal entity.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>Nothing in this ordinance shall be deemed or construed to be a waiver of the Agricultural Division 's sovereign immunity from suit, aside from Section 8.303(6), which pertains only to actions initiated by the Tribal Governing Board against the Agricultural Division.</text>
+          <text>Nothing in this ordinance shall be deemed or construed to be a waiver of the Agricultural Division 's sovereign immunity from suit, aside from Section <cite path="VI|8|8.3|8.303">8.303</cite>(6), which pertains only to actions initiated by the Tribal Governing Board against the Agricultural Division.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -4637,7 +4645,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The Director of the Agricultural Division shall carry out the day-to-day operations of the Agricultural Division, including the powers and duties of the Director as set forth in § 8.403 of this ordinance, and such other duties and powers that the Tribal Governing Board delegates to the Director in writing.</text>
+          <text>The Director of the Agricultural Division shall carry out the day-to-day operations of the Agricultural Division, including the powers and duties of the Director as set forth in <cite path="VI|8|8.4|8.403">§ 8.403</cite> of this ordinance, and such other duties and powers that the Tribal Governing Board delegates to the Director in writing.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -5087,7 +5095,7 @@
         </para>
         <para>
           <num>(8)</num>
-          <text>The Agricultural Division shall prepare a hemp disposal report for the U.S. Department of Agriculture pursuant to the requirements of § 8.1101 (4) of this ordinance</text>
+          <text>The Agricultural Division shall prepare a hemp disposal report for the U.S. Department of Agriculture pursuant to the requirements of <cite path="VI|8|8.5|8.1101">§ 8.1101</cite> (4) of this ordinance</text>
         </para>
         <para>
           <num>(9)</num>
@@ -5117,7 +5125,7 @@
         <text>The following procedures shall apply to sampling and testing of Cannabis sativa L. within the jurisdiction of the Tribe:</text>
         <para>
           <num>(1)</num>
-          <text>All sampling and testing of Cannabis sativa L. shall comply with <cite path="§8.601">this section</cite>.</text>
+          <text>All sampling and testing of Cannabis sativa L. shall comply with <cite path="VI|8|8.5|8.601">this section</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -5125,7 +5133,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>All Licensed Cultivators or Licensed Processors are subject to sampling and testing of all Hemp cultivated, in accordance with § 8.601 (5) to verify that the Delta-9-THC concentration of the Cannabis sativa L. plant within a Registered Land Area does not exceed .3% on a dry weight basis.</text>
+          <text>All Licensed Cultivators or Licensed Processors are subject to sampling and testing of all Hemp cultivated, in accordance with <cite path="VI|8|8.5|8.601">§ 8.601</cite> (5) to verify that the Delta-9-THC concentration of the Cannabis sativa L. plant within a Registered Land Area does not exceed .3% on a dry weight basis.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -5213,7 +5221,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>Any test of a representative sample of Cannabis sativa L. under this subchapter that fails to meet the definition of Hemp shall be evidence that the Registered Land Area represented by the sample is not in compliance with this ordinance and shall be disposed of in accordance with the provisions of Subchapter 8.7 of this ordinance.</text>
+          <text>Any test of a representative sample of Cannabis sativa L. under <cite path="VI|8|8.5">this subchapter</cite> that fails to meet the definition of Hemp shall be evidence that the Registered Land Area represented by the sample is not in compliance with this ordinance and shall be disposed of in accordance with the provisions of Subchapter 8.7 of this ordinance.</text>
         </para>
         <para>
           <num>(8)</num>
@@ -5221,7 +5229,7 @@
         </para>
         <para>
           <num>(9)</num>
-          <text>Nothing in <cite path="§8.601">this Section</cite> shall prevent a Licensee from voluntarily collecting samples and testing Hemp for quality assurance and research and development purposes.</text>
+          <text>Nothing in <cite path="VI|8|8.5|8.601">this Section</cite> shall prevent a Licensee from voluntarily collecting samples and testing Hemp for quality assurance and research and development purposes.</text>
         </para>
         <para>
           <num>(10)</num>
@@ -5334,7 +5342,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>The Agricultural Division will prepare a hemp disposal report for the U.S. Department of Agriculture pursuant to the requirements of § 8.1101 (4) of this ordinance.</text>
+          <text>The Agricultural Division will prepare a hemp disposal report for the U.S. Department of Agriculture pursuant to the requirements of <cite path="VI|8|8.7|8.1101">§ 8.1101</cite> (4) of this ordinance.</text>
         </para>
       </section>
     </container>
@@ -5388,11 +5396,11 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>No criminal penalties shall be authorized for violation of any provision of this ordinance, except as established in § 8.803 (6) of this ordinance. This ordinance shall not impact any other provision of applicable Tribal law.</text>
+          <text>No criminal penalties shall be authorized for violation of any provision of this ordinance, except as established in <cite path="VI|8|8.8|8.803">§ 8.803</cite> (6) of this ordinance. This ordinance shall not impact any other provision of applicable Tribal law.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>The Agricultural Division shall not impose any penalty against a person alleged to have violated this ordinance until the Agricultural Division has notified the person of the charge in writing and has given the person an opportunity to seek review of the Agricultural Division's decision pursuant to § 8.413 of this ordinance.</text>
+          <text>The Agricultural Division shall not impose any penalty against a person alleged to have violated this ordinance until the Agricultural Division has notified the person of the charge in writing and has given the person an opportunity to seek review of the Agricultural Division's decision pursuant to <cite path="VI|8|8.8|8.413">§ 8.413</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(5)</num>

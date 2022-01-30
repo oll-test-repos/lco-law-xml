@@ -7,7 +7,9 @@
     <prefix>Chapter</prefix>
     <num>5</num>
     <heading>School Attendance (Truancy) Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text>Preamble</text>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to require the regular attendance at school of all school age children which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, § 1(s) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and providing for the maintenance of law and order and the administration of justice …"</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -72,7 +74,7 @@
       <section>
         <num>5.201</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in <cite path="§5.201">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="VIII|5|5.2|5.201">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(1)</num>
           <text><strong>"Truant"</strong> is understood by this ordinance to mean any enrolled pupil who is absent from school without an acceptable excuse for part or all of any day on which school is held during a school semester.  Acceptable excuses are the following:</text>
@@ -95,7 +97,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text><strong>"Dropout"</strong> means a person under the age of 18 who ceased to attend school, does not attend a public or private school, technical college or home-based private educational program on a full-time basis, has not graduated from high school and does not have an acceptable excuse under § 5.303 (1) of this ordinance.</text>
+          <text><strong>"Dropout"</strong> means a person under the age of 18 who ceased to attend school, does not attend a public or private school, technical college or home-based private educational program on a full-time basis, has not graduated from high school and does not have an acceptable excuse under <cite path="VIII|5|5.2|5.303">§ 5.303</cite> (1) of this ordinance.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -188,14 +190,14 @@
         <heading>Failure To Cause A Child To Attend School Regularly</heading>
         <para>
           <num>(1)</num>
-          <text>Unless the school age child is excepted or excused under § 5.201 (1) of this ordinance, or has graduated from high school, any person having under his or her control a school age child, shall cause the school age child to attend school regularly during the full period and hours, religious and traditional holidays excepted, that the tribal, public, or private school in which the school age child should be enrolled, is in session until the end of the school term, quarter or semester of the school year in which the school age child becomes 18 years of age.</text>
+          <text>Unless the school age child is excepted or excused under <cite path="VIII|5|5.3|5.201">§ 5.201</cite> (1) of this ordinance, or has graduated from high school, any person having under his or her control a school age child, shall cause the school age child to attend school regularly during the full period and hours, religious and traditional holidays excepted, that the tribal, public, or private school in which the school age child should be enrolled, is in session until the end of the school term, quarter or semester of the school year in which the school age child becomes 18 years of age.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text><cite path="§5.304">This section</cite> does not apply:</text>
+          <text><cite path="VIII|5|5.3|5.304">This section</cite> does not apply:</text>
           <para>
             <num>(a)</num>
-            <text>To a person who proves that or she is unable to comply with the requirements of <cite path="§5.304">this section</cite> because of the disobedience of the school age child, in which case the action shall be dismissed and the Tribal Court may appoint a guardian ad litem relative to such school age child or make such reference to the Indian Child Welfare Department, Law Enforcement or other authority as deemed appropriate.</text>
+            <text>To a person who proves that or she is unable to comply with the requirements of <cite path="VIII|5|5.3|5.304">this section</cite> because of the disobedience of the school age child, in which case the action shall be dismissed and the Tribal Court may appoint a guardian ad litem relative to such school age child or make such reference to the Indian Child Welfare Department, Law Enforcement or other authority as deemed appropriate.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -203,7 +205,7 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>To any person who violates <cite path="§5.304">this section</cite> and pursuant to § 5.302 (2) (f) of this ordinance has been subject to a previous forfeiture of $500.00.</text>
+            <text>To any person who violates <cite path="VIII|5|5.3|5.304">this section</cite> and pursuant to <cite path="VIII|5|5.3|5.302">§ 5.302</cite> (2) (f) of this ordinance has been subject to a previous forfeiture of $500.00.</text>
           </para>
         </para>
       </section>

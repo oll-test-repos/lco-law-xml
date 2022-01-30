@@ -7,7 +7,9 @@
     <prefix>Chapter</prefix>
     <num>1</num>
     <heading>Citizenship Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text>Preamble</text>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to determine its Tribal citizenship which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article II, §§ 2, 3 and 4 of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the tribal governing board to "enact the ordinance subject to approval of the Secretary of the Interior stating the criteria for future membership and adoption of the new members…," establish that "Any person who has been rejected for enrollment as a member of the Band shall have the right of appeal to the Secretary of the Interior, whose decision shall be final" and "enact ordinances governing loss of membership..." It is the purpose of this ordinance to: (1) define and regulate membership in the Lac Courte Oreilles Tribe in accordance with the Constitution and By-Laws of the Lac Courte Oreilles Tribe; and (2) establish an orderly enrollment procedure which affords due process of Tribal law to all persons.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -192,7 +194,7 @@
       <section>
         <num>1.303</num>
         <heading>Appointment By Tribal Governing Board And Terms</heading>
-        <text>Except as provided in § 1.302 of this ordinance, within fourteen (14) days of Inauguration or appointment a Tribal Governing Board member shall appoint one person to the Citizenship (Enrollment) Committee who shall serve for a term concurrent with the term of the appointing Tribal Governing Board member.</text>
+        <text>Except as provided in <cite path="IV|1|1.3|1.302">§ 1.302</cite> of this ordinance, within fourteen (14) days of Inauguration or appointment a Tribal Governing Board member shall appoint one person to the Citizenship (Enrollment) Committee who shall serve for a term concurrent with the term of the appointing Tribal Governing Board member.</text>
       </section>
       <section>
         <num>1.304</num>
@@ -202,7 +204,7 @@
       <section>
         <num>1.305</num>
         <heading>Failure To Appoint</heading>
-        <text>Should any Tribal Governing Board member fail to appoint an individual to the Citizenship (Enrollment) Committee in accordance with § 1.302, § 1.303, or § 1.304 of this ordinance, the Tribal Governing Board shall make such appointment by majority vote.</text>
+        <text>Should any Tribal Governing Board member fail to appoint an individual to the Citizenship (Enrollment) Committee in accordance with <cite path="IV|1|1.3|1.302">§ 1.302</cite>, <cite path="IV|1|1.3|1.303">§ 1.303</cite>, or <cite path="IV|1|1.3|1.304">§ 1.304</cite> of this ordinance, the Tribal Governing Board shall make such appointment by majority vote.</text>
       </section>
       <section>
         <num>1.306</num>
@@ -285,7 +287,7 @@
       <section>
         <num>1.601</num>
         <heading>Written Application To Be Filed With The Citizenship (Enrollment) 				Committee</heading>
-        <text>All person seeking Citizenship (Membership) in the Tribe pursuant to § 1.402 and           § 1.403 of this ordinance shall file with the Citizenship (Enrollment) Committee a separate written application on a form approved by the Tribal Governing Board.</text>
+        <text>All person seeking Citizenship (Membership) in the Tribe pursuant to <cite path="IV|1|1.6|1.402">§ 1.402</cite> and           <cite path="IV|1|1.6|1.403">§ 1.403</cite> of this ordinance shall file with the Citizenship (Enrollment) Committee a separate written application on a form approved by the Tribal Governing Board.</text>
       </section>
       <section>
         <num>1.602</num>
@@ -300,7 +302,7 @@
       <section>
         <num>1.604</num>
         <heading>Citizenship (Enrollment) Committee To Review Applications</heading>
-        <text>The Citizenship (Enrollment) Committee shall review all enrollment applications. It shall consider the information provided in such applications and all other relevant evidence as defined in § 1.606 of this ordinance concerning the applicant's eligibility for Citizenship (Membership).  The Citizenship (Enrollment) Committee shall then make a written recommendation to the Tribal Governing Board as to whether the application should be approved or rejected. Where the Citizenship (Enrollment) Committee needs additional information from an applicant, the Committee shall send the applicant or sponsor as applicable, a notice specifying that additional information is necessary to make a recommendation on the application. In doing so, the Committee shall explain that the applicant has six (6) months to provide the requested information otherwise the Committee shall make a recommendation to the Tribal Governing Board to deny membership for lack of a complete application.   A sponsor may be the applicant's parents, legal guardian, next of kin, or other persons authorized to file Citizenship documents on behalf of the applicant as established in § 1.606 of this ordinance.</text>
+        <text>The Citizenship (Enrollment) Committee shall review all enrollment applications. It shall consider the information provided in such applications and all other relevant evidence as defined in <cite path="IV|1|1.6|1.606">§ 1.606</cite> of this ordinance concerning the applicant's eligibility for Citizenship (Membership).  The Citizenship (Enrollment) Committee shall then make a written recommendation to the Tribal Governing Board as to whether the application should be approved or rejected. Where the Citizenship (Enrollment) Committee needs additional information from an applicant, the Committee shall send the applicant or sponsor as applicable, a notice specifying that additional information is necessary to make a recommendation on the application. In doing so, the Committee shall explain that the applicant has six (6) months to provide the requested information otherwise the Committee shall make a recommendation to the Tribal Governing Board to deny membership for lack of a complete application.   A sponsor may be the applicant's parents, legal guardian, next of kin, or other persons authorized to file Citizenship documents on behalf of the applicant as established in <cite path="IV|1|1.6|1.606">§ 1.606</cite> of this ordinance.</text>
       </section>
       <section>
         <num>1.605</num>
@@ -331,7 +333,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The evidence, which an applicant may submit in support of an application, shall be limited. All documentary evidence shall be certified documentary evidence as defined in § 1.201 (5), and be limited to: birth certificates as defined in § 1.201 (3); genealogical records as defined in § 1.201 (12) and as further explained in § 1.201 (11), § 1.201 (13), § 1.201 (14); sworn affidavits as defined in § 1.201 (22) from persons having personal knowledge of the facts at issue; and the records of the Bureau of Indian Affairs as defined in § 1.201 (4).</text>
+          <text>The evidence, which an applicant may submit in support of an application, shall be limited. All documentary evidence shall be certified documentary evidence as defined in <cite path="IV|1|1.6|1.201">§ 1.201</cite> (5), and be limited to: birth certificates as defined in <cite path="IV|1|1.6|1.201">§ 1.201</cite> (3); genealogical records as defined in <cite path="IV|1|1.6|1.201">§ 1.201</cite> (12) and as further explained in <cite path="IV|1|1.6|1.201">§ 1.201</cite> (11), <cite path="IV|1|1.6|1.201">§ 1.201</cite> (13), <cite path="IV|1|1.6|1.201">§ 1.201</cite> (14); sworn affidavits as defined in <cite path="IV|1|1.6|1.201">§ 1.201</cite> (22) from persons having personal knowledge of the facts at issue; and the records of the Bureau of Indian Affairs as defined in <cite path="IV|1|1.6|1.201">§ 1.201</cite> (4).</text>
         </para>
         <para>
           <num>(3)</num>
@@ -343,10 +345,10 @@
         <heading>Notice Of Citizenship (Membership) Determination</heading>
         <para>
           <num>(1)</num>
-          <text><u>Manner of Notice of Citizenship (Membership) Determination</u>. Upon a final determination of approval or rejection of a Citizenship (Membership) application by the Tribal Governing Board pursuant to § 1.605 of this ordinance, the Citizenship Services Department shall mail a written notice by certified mail, postage fully prepaid and return receipt requested, to the address provided by the applicant, or as provided in Tribal files, or at such different address as may have subsequently been provided to the Department in writing.</text>
+          <text><u>Manner of Notice of Citizenship (Membership) Determination</u>. Upon a final determination of approval or rejection of a Citizenship (Membership) application by the Tribal Governing Board pursuant to <cite path="IV|1|1.6|1.605">§ 1.605</cite> of this ordinance, the Citizenship Services Department shall mail a written notice by certified mail, postage fully prepaid and return receipt requested, to the address provided by the applicant, or as provided in Tribal files, or at such different address as may have subsequently been provided to the Department in writing.</text>
           <para>
             <num>(a)</num>
-            <text>Upon a final determination of approval of a Citizenship application by Tribal 	Governing Board, the names of the new tribal Citizens shall be posted in the Lac Courte 	Oreilles Tribal Administration Office pursuant to § 1.503 of this ordinance.</text>
+            <text>Upon a final determination of approval of a Citizenship application by Tribal 	Governing Board, the names of the new tribal Citizens shall be posted in the Lac Courte 	Oreilles Tribal Administration Office pursuant to <cite path="IV|1|1.6|1.503">§ 1.503</cite> of this ordinance.</text>
           </para>
         </para>
         <para>
@@ -366,7 +368,7 @@
       <section>
         <num>1.701</num>
         <heading>Relinquishment</heading>
-        <text>Any Citizen (Member) may voluntarily relinquish his or her Citizenship (Membership) in the Tribe by filing a written notice of such relinquishment with the Citizenship Services Department. Upon receipt of a filing of a written notice of relinquishment, the Citizenship Services Department shall assign a number to, and record the date the written notice was received and then provide the written notice of such relinquishment to the Citizenship (Enrollment) Committee. A relinquishment shall be effective upon receipt by the Citizenship (Enrollment) Committee unless subject to § 1.702 of this ordinance.</text>
+        <text>Any Citizen (Member) may voluntarily relinquish his or her Citizenship (Membership) in the Tribe by filing a written notice of such relinquishment with the Citizenship Services Department. Upon receipt of a filing of a written notice of relinquishment, the Citizenship Services Department shall assign a number to, and record the date the written notice was received and then provide the written notice of such relinquishment to the Citizenship (Enrollment) Committee. A relinquishment shall be effective upon receipt by the Citizenship (Enrollment) Committee unless subject to <cite path="IV|1|1.7|1.702">§ 1.702</cite> of this ordinance.</text>
       </section>
       <section>
         <num>1.702</num>
@@ -398,7 +400,7 @@
       <section>
         <num>1.706</num>
         <heading>Enrollment Committee To Review Petitions And Initiate Renunciation Proceedings</heading>
-        <text>The Citizenship (Enrollment) Committee shall have the authority to initiate disenrollment proceedings upon its own petition or upon receipt of a renunciation petition filed by a Citizen (Member). The Citizenship (Enrollment) Committee shall accept all petitions for renunciation of citizenship filed by a member or may initiate renunciation proceedings upon its own petition. The Citizenship Committee shall review all renunciation petitions and shall consider the information provided in such petitions and all other relevant information pertaining to the citizen's evidence of eligibility pursuant § 1.606 of this ordinance concerning such petitions. Other relevant information may include certified documentary evidence as defined in § 1.201 (5), and be limited to: birth certificates as defined in § 1.201 (3); genealogical records as defined in § 1.201 (12) and as further explained in § 1.201 (11), § 1.201 (13), § 1.201 (14); sworn affidavits as defined in § 1.201 (22) from persons having personal knowledge of the facts at issue; and the records of the Bureau of Indian Affairs as defined in § 1.201 (4) of this ordinance. The Citizenship (Enrollment) Committee shall make a written recommendation to the Tribal Governing Board as to whether the petition should be approved or rejected. Where the Citizenship (Enrollment) Committee determines that additional information is needed, it may request such information from the petitioner or affected Citizen (Member).</text>
+        <text>The Citizenship (Enrollment) Committee shall have the authority to initiate disenrollment proceedings upon its own petition or upon receipt of a renunciation petition filed by a Citizen (Member). The Citizenship (Enrollment) Committee shall accept all petitions for renunciation of citizenship filed by a member or may initiate renunciation proceedings upon its own petition. The Citizenship Committee shall review all renunciation petitions and shall consider the information provided in such petitions and all other relevant information pertaining to the citizen's evidence of eligibility pursuant <cite path="IV|1|1.7|1.606">§ 1.606</cite> of this ordinance concerning such petitions. Other relevant information may include certified documentary evidence as defined in <cite path="IV|1|1.7|1.201">§ 1.201</cite> (5), and be limited to: birth certificates as defined in <cite path="IV|1|1.7|1.201">§ 1.201</cite> (3); genealogical records as defined in <cite path="IV|1|1.7|1.201">§ 1.201</cite> (12) and as further explained in <cite path="IV|1|1.7|1.201">§ 1.201</cite> (11), <cite path="IV|1|1.7|1.201">§ 1.201</cite> (13), <cite path="IV|1|1.7|1.201">§ 1.201</cite> (14); sworn affidavits as defined in <cite path="IV|1|1.7|1.201">§ 1.201</cite> (22) from persons having personal knowledge of the facts at issue; and the records of the Bureau of Indian Affairs as defined in <cite path="IV|1|1.7|1.201">§ 1.201</cite> (4) of this ordinance. The Citizenship (Enrollment) Committee shall make a written recommendation to the Tribal Governing Board as to whether the petition should be approved or rejected. Where the Citizenship (Enrollment) Committee determines that additional information is needed, it may request such information from the petitioner or affected Citizen (Member).</text>
       </section>
       <section>
         <num>1.707</num>
@@ -451,7 +453,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>The person is a descendant of a person whom renunciation of citizenship proceedings were previously granted pursuant to subs. (1), above and does not otherwise meet the Citizenship (Membership) criteria of the Tribe.</text>
+          <text>The person is a descendant of a person whom renunciation of citizenship proceedings were previously granted pursuant to <cite path="IV|1|1.7|1.709|(1)">subs. (1)</cite>, above and does not otherwise meet the Citizenship (Membership) criteria of the Tribe.</text>
         </para>
       </section>
       <section>
@@ -463,7 +465,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The evidence, which a petitioner may submit in support of a renunciation petition, shall be limited as provided in § 1.606 of this ordinance.</text>
+          <text>The evidence, which a petitioner may submit in support of a renunciation petition, shall be limited as provided in <cite path="IV|1|1.7|1.606">§ 1.606</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -473,14 +475,14 @@
       <section>
         <num>1.711</num>
         <heading>Notice Specifying The Grounds For Renunciation Prior To Final Decision</heading>
-        <text>The Citizenship (Enrollment) Committee initiates a renunciation proceeding or upon receipt of a renunciation petition filed by a Citizen (Member), the Committee shall send the tribal citizen a notice specifying the grounds for renunciation as established pursuant to § 1.709 of this ordinance. In doing so, the Committee shall explain that the tribal citizen has six (6) months to provide adequate evidence pursuant to § 1.606 of this ordinance, to rectify the error, mistake or other grounds for renunciation, otherwise the Committee shall make a recommendation to the Tribal Governing Board to approve the renunciation of the citizenship of the tribal citizen pursuant to § 1.708 of this ordinance.</text>
+        <text>The Citizenship (Enrollment) Committee initiates a renunciation proceeding or upon receipt of a renunciation petition filed by a Citizen (Member), the Committee shall send the tribal citizen a notice specifying the grounds for renunciation as established pursuant to <cite path="IV|1|1.7|1.709">§ 1.709</cite> of this ordinance. In doing so, the Committee shall explain that the tribal citizen has six (6) months to provide adequate evidence pursuant to <cite path="IV|1|1.7|1.606">§ 1.606</cite> of this ordinance, to rectify the error, mistake or other grounds for renunciation, otherwise the Committee shall make a recommendation to the Tribal Governing Board to approve the renunciation of the citizenship of the tribal citizen pursuant to <cite path="IV|1|1.7|1.708">§ 1.708</cite> of this ordinance.</text>
       </section>
       <section>
         <num>1.712</num>
         <heading>Notice Of Determination Of Applicant'S Continued Eligibility</heading>
         <para>
           <num>(1)</num>
-          <text><u>Notice Required</u>. Upon a final determination of approval or rejection of a renunciation petition by the Tribal Governing Board pursuant to § 1.708 of this ordinance, the Citizenship Services Department shall mail a written notice by certified mail, postage fully prepaid and return receipt requested, to the address provided by the applicant, or as provided in Tribal files, or at such different address as may have subsequently been provided to the Department in writing.</text>
+          <text><u>Notice Required</u>. Upon a final determination of approval or rejection of a renunciation petition by the Tribal Governing Board pursuant to <cite path="IV|1|1.7|1.708">§ 1.708</cite> of this ordinance, the Citizenship Services Department shall mail a written notice by certified mail, postage fully prepaid and return receipt requested, to the address provided by the applicant, or as provided in Tribal files, or at such different address as may have subsequently been provided to the Department in writing.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -510,11 +512,11 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Upon the timely receipt of a request for reconsideration, the Tribal Governing Board shall review the complete record together with all evidence concerning the eligibility for Citizenship (Membership) previously presented to the Tribal Governing Board. The reconsideration shall not include any evidence as defined in § 1.606 and § 1.705 of this ordinance not previously furnished unless the appellant establishes that such evidence was not previously available through no fault of the appellant or was not previously introduced because of mistake, inadvertence or excusable neglect. An appellant may be granted additional evidence within the discretion of the Tribal Governing Board.</text>
+          <text>Upon the timely receipt of a request for reconsideration, the Tribal Governing Board shall review the complete record together with all evidence concerning the eligibility for Citizenship (Membership) previously presented to the Tribal Governing Board. The reconsideration shall not include any evidence as defined in <cite path="IV|1|1.8|1.606">§ 1.606</cite> and <cite path="IV|1|1.8|1.705">§ 1.705</cite> of this ordinance not previously furnished unless the appellant establishes that such evidence was not previously available through no fault of the appellant or was not previously introduced because of mistake, inadvertence or excusable neglect. An appellant may be granted additional evidence within the discretion of the Tribal Governing Board.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>Upon reconsideration, the decision of the Tribal Governing Board shall be final and conclusive as to the Tribe and written notice of the decision shall be given to the appellant promptly, provided that the appellant shall have the right to appeal to the Secretary of Interior as provided § 1.803 of this ordinance.</text>
+          <text>Upon reconsideration, the decision of the Tribal Governing Board shall be final and conclusive as to the Tribe and written notice of the decision shall be given to the appellant promptly, provided that the appellant shall have the right to appeal to the Secretary of Interior as provided <cite path="IV|1|1.8|1.803">§ 1.803</cite> of this ordinance.</text>
         </para>
       </section>
       <section>
@@ -528,7 +530,9 @@
     <prefix>Chapter</prefix>
     <num>2</num>
     <heading>Citizenship Committee By-Laws Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text>Preamble</text>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to determine its Tribal citizenship which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article II, §§ 2, 3 and 4 of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to enact an ordinance pertaining to citizenship. A critical component of the implementation of the Citizenship Code is the establishment of the Citizenship Committee. The responsibility of the Citizenship Committee is to review applications for Tribal citizenship, accept relinquishment requests, accept requests to rescind relinquishment, and recommend the acceptance or rejection of Citizenship applications or renunciation petitions to the Tribal Governing Board.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -784,7 +788,7 @@
             </para>
             <para>
               <num>(iii)</num>
-              <text>If a member acts unethically, or fails to abide by the confidentiality requirement pursuant to § 2.108 of this ordinance; or</text>
+              <text>If a member acts unethically, or fails to abide by the confidentiality requirement pursuant to <cite path="IV|2|2.3|2.108">§ 2.108</cite> of this ordinance; or</text>
             </para>
           </para>
           <para>
@@ -833,7 +837,7 @@
           </para>
           <para>
             <num>(b)</num>
-            <text>The Vice-Chairperson shall perform such other duties and have such other power as periodically may be assigned to him or her by the Committee Chairperson, however no such assigned authority shall exceed that of the office of the Chairperson as established in subs. (2), above.</text>
+            <text>The Vice-Chairperson shall perform such other duties and have such other power as periodically may be assigned to him or her by the Committee Chairperson, however no such assigned authority shall exceed that of the office of the Chairperson as established in <cite path="IV|2|2.3|2.302|(2)">subs. (2)</cite>, above.</text>
           </para>
         </para>
         <para>
@@ -853,7 +857,7 @@
           <text><u>Committee Members</u>.</text>
           <para>
             <num>(a)</num>
-            <text>The Committee members, excluding the Chairperson and Vice-Chairperson shall perform duties as assigned to them by the Chairperson, however no such assigned authority shall exceed that of the office of the Chairperson as established in subs. (2), above.</text>
+            <text>The Committee members, excluding the Chairperson and Vice-Chairperson shall perform duties as assigned to them by the Chairperson, however no such assigned authority shall exceed that of the office of the Chairperson as established in <cite path="IV|2|2.3|2.302|(2)">subs. (2)</cite>, above.</text>
           </para>
         </para>
       </section>
@@ -877,7 +881,7 @@
           <text>All Citizenship Committee activity is highly confidential.  Committee members and employees of the Citizenship Services Department are to respect the confidentiality of all records, conversations, and other interactions.</text>
           <para>
             <num>(a)</num>
-            <text>Members of the Citizenship Committee shall sign a confidentiality agreement 	and shall be bound by the terms of such agreement. Violation of <cite path="§2.304">this section</cite> shall be 	reported to the Citizenship Committee who shall immediately investigate and issue a 	written finding to the Tribal Governing Board. Such finding may be the basis for 	removal from the Citizenship Committee.</text>
+            <text>Members of the Citizenship Committee shall sign a confidentiality agreement 	and shall be bound by the terms of such agreement. Violation of <cite path="IV|2|2.3|2.304">this section</cite> shall be 	reported to the Citizenship Committee who shall immediately investigate and issue a 	written finding to the Tribal Governing Board. Such finding may be the basis for 	removal from the Citizenship Committee.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -909,7 +913,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The Citizenship Committee shall review all Citizenship applications and consider the information provided in the application and all other relevant evidence concerning the applicant's eligibility for citizenship in accordance with 4 LCOTCL § 1.606.  The applicant may submit certified documentary evidence as defined in § 2.201 (3), in support of an application which shall be limited to: birth certificates as defined in § 2.201 (1); genealogical records as defined in § 2.201 (9) and as further explained in § 2.201 (8), § 2.201 (10), and § 2.201 (11); sworn affidavits as defined in § 2.201 (16) from persons having personal knowledge of the facts at issue; and the records of the Bureau of Indian Affairs as defined in § 2.201 (2).</text>
+          <text>The Citizenship Committee shall review all Citizenship applications and consider the information provided in the application and all other relevant evidence concerning the applicant's eligibility for citizenship in accordance with 4 LCOTCL <cite path="IV|2|2.4|1.606">§ 1.606</cite>.  The applicant may submit certified documentary evidence as defined in <cite path="IV|2|2.4|2.201">§ 2.201</cite> (3), in support of an application which shall be limited to: birth certificates as defined in <cite path="IV|2|2.4|2.201">§ 2.201</cite> (1); genealogical records as defined in <cite path="IV|2|2.4|2.201">§ 2.201</cite> (9) and as further explained in <cite path="IV|2|2.4|2.201">§ 2.201</cite> (8), <cite path="IV|2|2.4|2.201">§ 2.201</cite> (10), and <cite path="IV|2|2.4|2.201">§ 2.201</cite> (11); sworn affidavits as defined in <cite path="IV|2|2.4|2.201">§ 2.201</cite> (16) from persons having personal knowledge of the facts at issue; and the records of the Bureau of Indian Affairs as defined in <cite path="IV|2|2.4|2.201">§ 2.201</cite> (2).</text>
         </para>
         <para>
           <num>(3)</num>
@@ -921,7 +925,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>Upon a final determination of approval or rejection of a Citizenship application by the Tribal Governing Board pursuant to 4 LCOTCL § 1.605, the Citizenship Services Department shall mail a written notice by certified mail, postage fully prepaid and return receipt requested, to the address provided by the applicant, or as provided in Tribal files, or at such different address as may have subsequently been provided to the Department in writing.</text>
+          <text>Upon a final determination of approval or rejection of a Citizenship application by the Tribal Governing Board pursuant to 4 LCOTCL <cite path="IV|2|2.4|1.605">§ 1.605</cite>, the Citizenship Services Department shall mail a written notice by certified mail, postage fully prepaid and return receipt requested, to the address provided by the applicant, or as provided in Tribal files, or at such different address as may have subsequently been provided to the Department in writing.</text>
           <para>
             <num>(a)</num>
             <text>Upon a final determination of approval of a Citizenship application by Tribal 	Governing Board, the names of the new tribal Citizens shall be posted in the Lac Courte 	Oreilles Tribal Administration Office.</text>
@@ -933,7 +937,7 @@
         <heading>Relinquishment</heading>
         <para>
           <num>(1)</num>
-          <text>The Citizenship Committee shall accept all written notices of relinquishment. Relinquishment shall be effective upon the Committee's receipt of such written notice unless the request is a conditional relinquishment pursuant to 4 LCOTCL § 1.702.</text>
+          <text>The Citizenship Committee shall accept all written notices of relinquishment. Relinquishment shall be effective upon the Committee's receipt of such written notice unless the request is a conditional relinquishment pursuant to 4 LCOTCL <cite path="IV|2|2.4|1.702">§ 1.702</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -945,7 +949,7 @@
         <heading>Rescission Of Relinquishment</heading>
         <para>
           <num>(1)</num>
-          <text>The Citizenship Committee shall accept all written notices rescinding relinquishment.  Rescission of relinquishment shall be effective upon the Committee's receipt of such written notice and the person shall be granted citizenship with the Tribe provided that such person shall not be eligible for distribution of any claims judgment of any other Tribe, Band or group of Indians pursuant to 4 LCOTCL § 1.703 (2).</text>
+          <text>The Citizenship Committee shall accept all written notices rescinding relinquishment.  Rescission of relinquishment shall be effective upon the Committee's receipt of such written notice and the person shall be granted citizenship with the Tribe provided that such person shall not be eligible for distribution of any claims judgment of any other Tribe, Band or group of Indians pursuant to 4 LCOTCL <cite path="IV|2|2.4|1.703">§ 1.703</cite> (2).</text>
         </para>
         <para>
           <num>(2)</num>
@@ -957,15 +961,15 @@
         <heading>Renunciation Of Citizenship</heading>
         <para>
           <num>(1)</num>
-          <text>The Citizenship Committee shall accept all petitions for renunciation of citizenship filed by a member or may initiate renunciation proceedings upon its own petition. The Citizenship Committee shall review all renunciation petitions and shall consider the information provided in such petitions and all other relevant information pertaining to the citizen's evidence of eligibility pursuant to 4 LCOTCL § 1.606.</text>
+          <text>The Citizenship Committee shall accept all petitions for renunciation of citizenship filed by a member or may initiate renunciation proceedings upon its own petition. The Citizenship Committee shall review all renunciation petitions and shall consider the information provided in such petitions and all other relevant information pertaining to the citizen's evidence of eligibility pursuant to 4 LCOTCL <cite path="IV|2|2.4|1.606">§ 1.606</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>If the Citizenship Committee initiates a renunciation proceeding, the Committee shall send the tribal citizen a notice specifying the grounds for renunciation as established pursuant to 4 LCOTCL § 1.709. In doing so, the Committee shall explain that the tribal citizen has six (6) months to provide adequate evidence pursuant to 4 LCOTCL § 1.606, to rectify the error, mistake or other grounds for renunciation, otherwise the Committee shall make a recommendation to the Tribal Governing Board to approve the renunciation of the citizenship of the tribal citizen pursuant to 4 LCOTCL § 1.708.</text>
+          <text>If the Citizenship Committee initiates a renunciation proceeding, the Committee shall send the tribal citizen a notice specifying the grounds for renunciation as established pursuant to 4 LCOTCL <cite path="IV|2|2.4|1.709">§ 1.709</cite>. In doing so, the Committee shall explain that the tribal citizen has six (6) months to provide adequate evidence pursuant to 4 LCOTCL <cite path="IV|2|2.4|1.606">§ 1.606</cite>, to rectify the error, mistake or other grounds for renunciation, otherwise the Committee shall make a recommendation to the Tribal Governing Board to approve the renunciation of the citizenship of the tribal citizen pursuant to 4 LCOTCL <cite path="IV|2|2.4|1.708">§ 1.708</cite>.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>The grounds for renunciation of citizenship as set forth in 4 LCOTCL § 1.709 shall be strictly adhered to.  The grounds include:</text>
+          <text>The grounds for renunciation of citizenship as set forth in 4 LCOTCL <cite path="IV|2|2.4|1.709">§ 1.709</cite> shall be strictly adhered to.  The grounds include:</text>
           <para>
             <num>(a)</num>
             <text>The person obtained citizenship rights by error or mistake or by fraud, deceit 	or misrepresentation;</text>
@@ -976,7 +980,7 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>The person is a descendant of a person whom renunciation of citizenship 	proceedings were previously granted pursuant to subs. (a), above and does not otherwise 	meet the Citizenship (Membership) criteria of the Tribe.</text>
+            <text>The person is a descendant of a person whom renunciation of citizenship 	proceedings were previously granted pursuant to <cite path="IV|2|2.4|2.405|(a)">subs. (a)</cite>, above and does not otherwise 	meet the Citizenship (Membership) criteria of the Tribe.</text>
           </para>
         </para>
         <para>
@@ -985,7 +989,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>The Citizenship Committee shall review renunciation petitions and consider the information provided in such petitions and all other relevant information as defined in 4 LCOTCL § 1.606.  Other relevant information may include certified documentary evidence such as birth certificates as defined in § 2.201 (1); genealogical records as defined in § 2.201 (9) and as further explained in § 2.201 (8), § 2.201 (10), and § 2.201 (11); sworn affidavits as defined in § 2.201 (16) from persons having personal knowledge of the facts at issue; and the records of the Bureau of Indian Affairs as defined in § 2.201 (2).</text>
+          <text>The Citizenship Committee shall review renunciation petitions and consider the information provided in such petitions and all other relevant information as defined in 4 LCOTCL <cite path="IV|2|2.4|1.606">§ 1.606</cite>.  Other relevant information may include certified documentary evidence such as birth certificates as defined in <cite path="IV|2|2.4|2.201">§ 2.201</cite> (1); genealogical records as defined in <cite path="IV|2|2.4|2.201">§ 2.201</cite> (9) and as further explained in <cite path="IV|2|2.4|2.201">§ 2.201</cite> (8), <cite path="IV|2|2.4|2.201">§ 2.201</cite> (10), and <cite path="IV|2|2.4|2.201">§ 2.201</cite> (11); sworn affidavits as defined in <cite path="IV|2|2.4|2.201">§ 2.201</cite> (16) from persons having personal knowledge of the facts at issue; and the records of the Bureau of Indian Affairs as defined in <cite path="IV|2|2.4|2.201">§ 2.201</cite> (2).</text>
         </para>
         <para>
           <num>(6)</num>
@@ -1005,7 +1009,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>The failure of Citizenship Committee members to comply with <cite path="§2.406">this section</cite> shall result in a recommendation of removal from the Committee in accordance with § 2.105 (10)(b) of this ordinance.</text>
+          <text>The failure of Citizenship Committee members to comply with <cite path="IV|2|2.4|2.406">this section</cite> shall result in a recommendation of removal from the Committee in accordance with <cite path="IV|2|2.4|2.105">§ 2.105</cite> (10)(b) of this ordinance.</text>
         </para>
       </section>
     </container>

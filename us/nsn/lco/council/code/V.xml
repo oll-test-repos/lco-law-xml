@@ -7,7 +7,9 @@
     <prefix>Chapter</prefix>
     <num>1</num>
     <heading>Election Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text>Preamble</text>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to determine its Tribal leadership which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article IV, § 3 of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the tribal governing board to "prescribe rules and regulations conducting all subsequent elections." The Tribal Governing Board duly enacted the Election Code on April 29, 2005 pursuant to Tribal Governing Board Resolution No. 05-29; as amended on May 16, 2005 pursuant to Tribal Governing Board Resolution No. 05-50; as amended on May 29, 2007 pursuant to Tribal Governing Board Resolution No. 07-59; as amended on March 11, 2011 by the Tribal Governing Board at the Lac Courte Oreilles Tribal General Membership Meeting; and as amended on May 27, 2015 pursuant to Tribal Governing Board Resolution No. 15-53.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -79,7 +81,7 @@
         <text>The following terms, wherever used in this ordinance, shall be construed to apply as follows:</text>
         <para>
           <num>(1)</num>
-          <text><strong>"Candidate"</strong> means a nominee that has signed the "Acceptance Form" within the ten (10) working days allowed pursuant to § 1.311 of this ordinance and satisfied the perquisite requirements pursuant to § 1.312 of this ordinance.</text>
+          <text><strong>"Candidate"</strong> means a nominee that has signed the "Acceptance Form" within the ten (10) working days allowed pursuant to <cite path="V|1|1.2|1.311">§ 1.311</cite> of this ordinance and satisfied the perquisite requirements pursuant to <cite path="V|1|1.2|1.312">§ 1.312</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -95,7 +97,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text><strong>"Election Committee"</strong> means the Committee established on the day of the caucus as established pursuant to § 1.304 (3) of this ordinance.</text>
+          <text><strong>"Election Committee"</strong> means the Committee established on the day of the caucus as established pursuant to <cite path="V|1|1.2|1.304">§ 1.304</cite> (3) of this ordinance.</text>
         </para>
         <para>
           <num>(6)</num>
@@ -197,7 +199,7 @@
         </para>
         <para>
           <num>(8)</num>
-          <text><u>Ballot Controversies</u>. Any challenge to a voter's eligibility will be referred to, and settled by, the Election committee upon completion of the counting process pursuant to § 1.303 (3) of this ordinance. Those present shall be members of the Election Committee and observer(s).</text>
+          <text><u>Ballot Controversies</u>. Any challenge to a voter's eligibility will be referred to, and settled by, the Election committee upon completion of the counting process pursuant to <cite path="V|1|1.3|1.303">§ 1.303</cite> (3) of this ordinance. Those present shall be members of the Election Committee and observer(s).</text>
         </para>
         <para>
           <num>(9)</num>
@@ -385,7 +387,7 @@
         <heading>Election Committee</heading>
         <para>
           <num>(1)</num>
-          <text>The Election Committee shall be established on the day of the caucus as established pursuant to § 1.304 (3) of this ordinance, by virtue of nominations by the general membership, and shall be composed of six (6) nominated and elected band members along with one designated member from the Citizenship Services Department (Enrollment Clerk).</text>
+          <text>The Election Committee shall be established on the day of the caucus as established pursuant to <cite path="V|1|1.3|1.304">§ 1.304</cite> (3) of this ordinance, by virtue of nominations by the general membership, and shall be composed of six (6) nominated and elected band members along with one designated member from the Citizenship Services Department (Enrollment Clerk).</text>
         </para>
         <para>
           <num>(2)</num>
@@ -401,7 +403,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>Election Committee members are required to sign the Code of Ethics within the same ten (10) day period as Tribal Governing Board nominees are given to sign the acceptance form pursuant to § 1.311 of this ordinance.</text>
+          <text>Election Committee members are required to sign the Code of Ethics within the same ten (10) day period as Tribal Governing Board nominees are given to sign the acceptance form pursuant to <cite path="V|1|1.3|1.311">§ 1.311</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(6)</num>
@@ -420,7 +422,7 @@
           <text><u>Election Committee Members Pay</u>.</text>
           <para>
             <num>(a)</num>
-            <text>Election Committee members shall be paid a stipend for each meeting of the election committee as well as a daily stipend for each election day (including primary, general, or recount). The Election Committee member's stipend amount(s) shall be established by the Tribal Governing Board. Any member of the Election Committee who is an employee of the Tribe or an employee of a tribal entity shall be allowed to receive release time pursuant to 14 LCOTCL § 1.707 (4); 14 LCOTCL § 4.707 (4); 14 LCOTCL § 5.707 (4); 14 LCOTCL § 7.707 (4); or 14 LCOTCL § 9.708 (4) to attend Election Committee meeting held during normal working hours.</text>
+            <text>Election Committee members shall be paid a stipend for each meeting of the election committee as well as a daily stipend for each election day (including primary, general, or recount). The Election Committee member's stipend amount(s) shall be established by the Tribal Governing Board. Any member of the Election Committee who is an employee of the Tribe or an employee of a tribal entity shall be allowed to receive release time pursuant to 14 LCOTCL <cite path="V|1|1.3|1.707">§ 1.707</cite> (4); 14 LCOTCL <cite path="V|1|1.3|4.707">§ 4.707</cite> (4); 14 LCOTCL <cite path="V|1|1.3|5.707">§ 5.707</cite> (4); 14 LCOTCL <cite path="V|1|1.3|7.707">§ 7.707</cite> (4); or 14 LCOTCL <cite path="V|1|1.3|9.708">§ 9.708</cite> (4) to attend Election Committee meeting held during normal working hours.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -461,11 +463,11 @@
         <heading>Placement Of Election Committee Members</heading>
         <para>
           <num>(1)</num>
-          <text><u>Election Committee Chairperson</u>. The Chairperson of the Election Committee shall not be assigned a Teller position but must be available for travel to and from the polling sites to take care of the needs of the Committee Members on duty. The Chairperson shall be responsible for delivering all printed materials to election sites, as well as collecting lunch and dinner orders pursuant to § 1.305 (8) (c) of this ordinance.</text>
+          <text><u>Election Committee Chairperson</u>. The Chairperson of the Election Committee shall not be assigned a Teller position but must be available for travel to and from the polling sites to take care of the needs of the Committee Members on duty. The Chairperson shall be responsible for delivering all printed materials to election sites, as well as collecting lunch and dinner orders pursuant to <cite path="V|1|1.3|1.305">§ 1.305</cite> (8) (c) of this ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text><u>Citizenship Services Department</u>. The designated member of the Election Committee from the Citizenship Services Department (Enrollment Clerk) pursuant to §1.302 (2) and §1.305 (1) of this ordinance, shall be present in the Citizenship Services Department during the whole process of the voting procedure, in the event any citizenship (membership) is questioned.</text>
+          <text><u>Citizenship Services Department</u>. The designated member of the Election Committee from the Citizenship Services Department (Enrollment Clerk) pursuant to <cite path="V|1|1.3|1.302">§1.302</cite> (2) and <cite path="V|1|1.3|1.305">§1.305</cite> (1) of this ordinance, shall be present in the Citizenship Services Department during the whole process of the voting procedure, in the event any citizenship (membership) is questioned.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -483,7 +485,7 @@
       <section>
         <num>1.307</num>
         <heading>Tribal Governing Board Liaison</heading>
-        <text>The Tribal Governing Board shall appoint a Tribal Governing Board Liaison to the Election Committee. The liaison shall be a member of the Tribal Governing Board or their authorized representative. However, he/she cannot be a nominee for that particular election.  The purpose of the liaison is to serve as a communications link between the Tribal Governing Board and the Election Committee and serve as part of the Executive Committee pursuant to § 1.308 of this ordinance.</text>
+        <text>The Tribal Governing Board shall appoint a Tribal Governing Board Liaison to the Election Committee. The liaison shall be a member of the Tribal Governing Board or their authorized representative. However, he/she cannot be a nominee for that particular election.  The purpose of the liaison is to serve as a communications link between the Tribal Governing Board and the Election Committee and serve as part of the Executive Committee pursuant to <cite path="V|1|1.3|1.308">§ 1.308</cite> of this ordinance.</text>
       </section>
       <section>
         <num>1.308</num>
@@ -524,7 +526,7 @@
         <heading>Nominees Acceptance Or Rejection</heading>
         <para>
           <num>(1)</num>
-          <text>All persons nominated as candidates for the election to the Tribal Governing Board at the time of the caucus, whether or not personally present, shall notify the Election Committee, in writing, within ten (10) working days of the day of caucus, of their acceptance or rejection of their nomination to stand for election (Attachment "C") and verification that they have satisfied the prerequisites pursuant to § 1.312 of this ordinance (Attachment "I").</text>
+          <text>All persons nominated as candidates for the election to the Tribal Governing Board at the time of the caucus, whether or not personally present, shall notify the Election Committee, in writing, within ten (10) working days of the day of caucus, of their acceptance or rejection of their nomination to stand for election (Attachment "C") and verification that they have satisfied the prerequisites pursuant to <cite path="V|1|1.3|1.312">§ 1.312</cite> of this ordinance (Attachment "I").</text>
         </para>
         <para>
           <num>(2)</num>
@@ -550,7 +552,7 @@
             <text>The prospective candidate shall provide consent for the completion of a comprehensive background check within seven (7) working days of the day of caucus. If a comprehensive background check establishes that a prospective candidate has plead guilty, no contest or been found guilty in any tribal, county, district, state, or federal court of any felony or other serious offense including: bribery, embezzlement, extortion, fraud, perjury, theft, deceit, dishonesty, or misappropriation of funds, the Election Committee shall establish that the prospective candidate thereby fails to pass the background check. A prospective candidate that fails to pass the background check shall be prohibited from being placed on the ballot for election, unless:</text>
             <para>
               <num>(i)</num>
-              <text>The Election Committee shall provide the prospective candidate with an Election Background Waiver when the prospective candidate establishes that fifteen years or more has passed since the disposition and punishment (including sentencing and probation) of the felony or other serious offense charge as established in subs. (c), above, that has caused the prospective candidate to fail the background check. Any prospective candidate requesting an Election Background Waiver must complete an "Election Background Waiver Petition" which is attached and incorporated as an Exhibit to this ordinance.</text>
+              <text>The Election Committee shall provide the prospective candidate with an Election Background Waiver when the prospective candidate establishes that fifteen years or more has passed since the disposition and punishment (including sentencing and probation) of the felony or other serious offense charge as established in <cite path="V|1|1.3|1.312|(c)">subs. (c)</cite>, above, that has caused the prospective candidate to fail the background check. Any prospective candidate requesting an Election Background Waiver must complete an "Election Background Waiver Petition" which is attached and incorporated as an Exhibit to this ordinance.</text>
             </para>
           </para>
           <para>
@@ -562,7 +564,7 @@
             <text>The prospective candidate shall undergo testing at the LCO-CHC at the times established for candidate testing for illegal drugs and prescribed medication for which they do not have a valid prescription as a prerequisite requirement for being placed on the ballot for election. The laboratory evaluation of the sample will be carried out by a laboratory that is contracted with the LCO-CHC and is certified by either the College of American Pathologists or the National Institute on Drug Abuse. Such drug tests require laboratory testing as provided by the Mandatory guidelines for Federal Workplace Drug Testing Programs pursuant to 94 FR 28101, May 15, 2015 as amended, as minimum standards for the following five classes of drug and correlative cutoff concentrations: Marijuana; Cocaine; Opiates including opium and codeine derivatives such as Oxycodone, Oxymorphone, Hydrocodone, Hydromorphone; Amphetamines and Methamphetamines including Methylenedioxyamphetamine (MDA) and Methylenedioxyethylamphetamine (MDEA); Phencyclidine (PCP). The cost for this testing will be deducted from the ballot fee of the prospective candidate.</text>
             <para>
               <num>(i)</num>
-              <text>In the event of a positive test result, a confirmation test will be performed by a laboratory specified in subs. (5) above, using the original sample (not a new sample). The confirmation test will be based on a different analytical method of higher analytical certainty.</text>
+              <text>In the event of a positive test result, a confirmation test will be performed by a laboratory specified in <cite path="V|1|1.3|1.312|(5)">subs. (5)</cite> above, using the original sample (not a new sample). The confirmation test will be based on a different analytical method of higher analytical certainty.</text>
             </para>
             <para>
               <num>(ii)</num>
@@ -576,11 +578,11 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Upon the Election Committee's review of the prerequisites established in subs. (1) above and receipt of the results of the comprehensive background check and drug test for each candidate, the Election Committee shall notify each candidate in writing whether they have satisfied or failed to meet the prerequisites established in subs. (1) above. which shall be within seventy-two (72) hours from the close of the ten (10) working days period allowed pursuant to § 1.311 of this ordinance.</text>
+          <text>Upon the Election Committee's review of the prerequisites established in <cite path="V|1|1.3|1.312|(1)">subs. (1)</cite> above and receipt of the results of the comprehensive background check and drug test for each candidate, the Election Committee shall notify each candidate in writing whether they have satisfied or failed to meet the prerequisites established in <cite path="V|1|1.3|1.312|(1)">subs. (1)</cite> above. which shall be within seventy-two (72) hours from the close of the ten (10) working days period allowed pursuant to <cite path="V|1|1.3|1.311">§ 1.311</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>Upon the Election Committee's determination that a prospective candidate has failed to meet the prerequisites established in subs. (1) above, the prospective candidate may file an appeal of the Election Committee's determination in Tribal Court by filing a typed or written statement setting forth the grounds for and evidence supporting the challenge(s) along with the established court filing fee. Any such challenge shall be filed no later than twenty-four (24) hours following the prospective candidate's notification of the Election Committee's determination. Upon receipt of the filing of the appeal of the Election Committee's determination, the Tribal Court shall provide for a hearing and render a decision within twenty-four (24) hours of the appeal. The decision of the tribal court shall be final and not subject to further appeal.</text>
+          <text>Upon the Election Committee's determination that a prospective candidate has failed to meet the prerequisites established in <cite path="V|1|1.3|1.312|(1)">subs. (1)</cite> above, the prospective candidate may file an appeal of the Election Committee's determination in Tribal Court by filing a typed or written statement setting forth the grounds for and evidence supporting the challenge(s) along with the established court filing fee. Any such challenge shall be filed no later than twenty-four (24) hours following the prospective candidate's notification of the Election Committee's determination. Upon receipt of the filing of the appeal of the Election Committee's determination, the Tribal Court shall provide for a hearing and render a decision within twenty-four (24) hours of the appeal. The decision of the tribal court shall be final and not subject to further appeal.</text>
         </para>
       </section>
       <section>
@@ -591,15 +593,15 @@
           <text>The names of all nominees shall be drawn from a "hat" and placed in that order on the official ballot, provided:</text>
           <para>
             <num>(a)</num>
-            <text>The Nominee has signed the "Acceptance Form" within the ten (10) working days allowed pursuant to § 1.311 of this ordinance;</text>
+            <text>The Nominee has signed the "Acceptance Form" within the ten (10) working days allowed pursuant to <cite path="V|1|1.3|1.311">§ 1.311</cite> of this ordinance;</text>
           </para>
           <para>
             <num>(b)</num>
-            <text>The Nominee has completed the "Prerequisite Certification" within the ten (10) working days allowed pursuant to § 1.311 of this ordinance; and</text>
+            <text>The Nominee has completed the "Prerequisite Certification" within the ten (10) working days allowed pursuant to <cite path="V|1|1.3|1.311">§ 1.311</cite> of this ordinance; and</text>
           </para>
           <para>
             <num>(c)</num>
-            <text>The Nominee has received written notification from the Election Committee that the s/he has satisfied the prerequisites established in § 1.312 of this ordinance; <u>or</u> received an order from the Tribal Court overturning the Election Committee's determination that s/he has failed to meet the prerequisites established in § 1.312 of this ordinance.</text>
+            <text>The Nominee has received written notification from the Election Committee that the s/he has satisfied the prerequisites established in <cite path="V|1|1.3|1.312">§ 1.312</cite> of this ordinance; <u>or</u> received an order from the Tribal Court overturning the Election Committee's determination that s/he has failed to meet the prerequisites established in <cite path="V|1|1.3|1.312">§ 1.312</cite> of this ordinance.</text>
           </para>
         </para>
         <para>
@@ -615,7 +617,7 @@
       <section>
         <num>1.315</num>
         <heading>Polling Site Workers</heading>
-        <text>Polling site workers do not necessarily have to be members of the Election Committee.  They can be hired by the Tribal Governing Board to work at the polling sites on Election Day only, and shall be paid the same rate as Election Committee Members as established pursuant to § 1.305 (8) (b) of this ordinance.</text>
+        <text>Polling site workers do not necessarily have to be members of the Election Committee.  They can be hired by the Tribal Governing Board to work at the polling sites on Election Day only, and shall be paid the same rate as Election Committee Members as established pursuant to <cite path="V|1|1.3|1.305">§ 1.305</cite> (8) (b) of this ordinance.</text>
       </section>
       <section>
         <num>1.316</num>
@@ -637,13 +639,13 @@
         </para>
         <para>
           <num>(2)</num>
-          <text><u>Designated Locations</u>. The following business establishments have been designated as the locations to hang posters pursuant to subs. (1) above:  Tribal Administration Building, Housing Authority, LCO Commercial Center, LCO Quick Stop, Gaming Enterprises, LCO Convenience Store, LCO-CHC, LCOOS-Waadookodaading, LCO Ojibwe Community College, LCO Head Start – Early Head Start, Reserve Elderly Center, New Post Elderly Center, and WOJB.</text>
+          <text><u>Designated Locations</u>. The following business establishments have been designated as the locations to hang posters pursuant to <cite path="V|1|1.3|1.318|(1)">subs. (1)</cite> above:  Tribal Administration Building, Housing Authority, LCO Commercial Center, LCO Quick Stop, Gaming Enterprises, LCO Convenience Store, LCO-CHC, LCOOS-Waadookodaading, LCO Ojibwe Community College, LCO Head Start – Early Head Start, Reserve Elderly Center, New Post Elderly Center, and WOJB.</text>
         </para>
       </section>
       <section>
         <num>1.319</num>
         <heading>Challenges</heading>
-        <text>Challenges to the eligibility of any nominee to be placed on the ballot must be made to the Election Committee within three (3) working days after the date of the ballot order being established pursuant to § 1.313 of this ordinance. All election irregularity challenges must be made within three (3) working days from the date of the election.  Challenges must indicate with specificity, the grounds for the challenge. Within three (3) working days of receipt of the challenge, the Election Committee Chairperson shall then convene the Election Committee.  At that time, the Election Committee shall then consider the challenge, including the grounds and supporting documentation.  The Election Committee shall then, by absolute majority vote:</text>
+        <text>Challenges to the eligibility of any nominee to be placed on the ballot must be made to the Election Committee within three (3) working days after the date of the ballot order being established pursuant to <cite path="V|1|1.3|1.313">§ 1.313</cite> of this ordinance. All election irregularity challenges must be made within three (3) working days from the date of the election.  Challenges must indicate with specificity, the grounds for the challenge. Within three (3) working days of receipt of the challenge, the Election Committee Chairperson shall then convene the Election Committee.  At that time, the Election Committee shall then consider the challenge, including the grounds and supporting documentation.  The Election Committee shall then, by absolute majority vote:</text>
         <para>
           <num>(1)</num>
           <text>Issue a decision to stand by original certification of election results;</text>
@@ -690,7 +692,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>All campaigning materials shall be removed by the prospective candidate associated with the campaigning material within thirty (30) days following Election Day. All prospective candidates that fail to adhere to this subs, shall be subject to a citation pursuant to 10 LCOTCL § 2.305.</text>
+          <text>All campaigning materials shall be removed by the prospective candidate associated with the campaigning material within thirty (30) days following Election Day. All prospective candidates that fail to adhere to this subs, shall be subject to a citation pursuant to 10 LCOTCL <cite path="V|1|1.3|2.305">§ 2.305</cite>.</text>
         </para>
       </section>
       <section>
@@ -805,7 +807,9 @@
     <prefix>Chapter</prefix>
     <num>2</num>
     <heading>Referendum Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text>Preamble</text>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to ascertain the will of the people which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article VI of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to "enact an ordinance to implement the provisions of this Article [Referendum]."</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -912,7 +916,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text><strong>"Election Committee"</strong> means the Committee established on the day of the caucus as established pursuant to 5 LCOTCL § 1.304 (3).</text>
+          <text><strong>"Election Committee"</strong> means the Committee established on the day of the caucus as established pursuant to 5 LCOTCL <cite path="V|2|2.2|1.304">§ 1.304</cite> (3).</text>
         </para>
         <para>
           <num>(4)</num>
@@ -991,7 +995,7 @@
         <heading>Submission By Petition Of Qualified Voters</heading>
         <para>
           <num>(1)</num>
-          <text>A legislative enactment or proposed enactment of the Tribal Governing Board shall be submitted to a popular referendum upon petition of at least one hundred (100) qualified voters of the Tribe presented to the Tribal Governing Board at a regular meeting of the Tribal Governing Board in accordance with <cite path="§2.303">this section</cite>.</text>
+          <text>A legislative enactment or proposed enactment of the Tribal Governing Board shall be submitted to a popular referendum upon petition of at least one hundred (100) qualified voters of the Tribe presented to the Tribal Governing Board at a regular meeting of the Tribal Governing Board in accordance with <cite path="V|2|2.3|2.303">this section</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1009,11 +1013,11 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>As soon as practicable after receipt of a petition, the Secretary shall consult with the Citizen Services Department whom shall review Tribal voter registration records to determine whether the petition contains the requisite number of signatures. Upon completion of the review by the Citizen Services Department, the Secretary shall report to the Tribal Governing Board on the matter at its next regular meeting or a special meeting called for that purpose. Such review must be complete within a sufficient time to allow the Tribal Governing Board to determine the validity of the petition within the sixty (60) day timeframes specified in subsection (5) below.</text>
+          <text>As soon as practicable after receipt of a petition, the Secretary shall consult with the Citizen Services Department whom shall review Tribal voter registration records to determine whether the petition contains the requisite number of signatures. Upon completion of the review by the Citizen Services Department, the Secretary shall report to the Tribal Governing Board on the matter at its next regular meeting or a special meeting called for that purpose. Such review must be complete within a sufficient time to allow the Tribal Governing Board to determine the validity of the petition within the sixty (60) day timeframes specified in sub<cite path="V|2|2.3|2.303|(5)">section (5)</cite> below.</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>The Tribal Governing Board shall determine whether the petition is valid no later than sixty (60) days after receipt of the petition. If the petition is determined to be valid, the Election Committee as established pursuant to 5 LCOTCL § 1.304 (3) shall hold such referendum within ninety (90) days of the regular Tribal Governing Board meeting where the petition was received. Regardless of whether the petition is valid or not, the Secretary shall keep the original petition(s) on file at least until the time for contesting the validity of the referendum has expired. The Secretary shall allow interested citizens with the opportunity to examine the original referendum.</text>
+          <text>The Tribal Governing Board shall determine whether the petition is valid no later than sixty (60) days after receipt of the petition. If the petition is determined to be valid, the Election Committee as established pursuant to 5 LCOTCL <cite path="V|2|2.3|1.304">§ 1.304</cite> (3) shall hold such referendum within ninety (90) days of the regular Tribal Governing Board meeting where the petition was received. Regardless of whether the petition is valid or not, the Secretary shall keep the original petition(s) on file at least until the time for contesting the validity of the referendum has expired. The Secretary shall allow interested citizens with the opportunity to examine the original referendum.</text>
         </para>
         <para>
           <num>(6)</num>
@@ -1057,7 +1061,7 @@
         <heading>Conduct Of Referendum Election</heading>
         <para>
           <num>(1)</num>
-          <text>The referendum election on a valid petition shall be conducted, within ninety (90) days from the date of the regular Tribal Governing Board meeting where the petition was received, by the Election Committee as established pursuant to 5 LCOTCL § 1.304 (3), in accordance with the procedures established in Subchapter 2.4 of this ordinance.</text>
+          <text>The referendum election on a valid petition shall be conducted, within ninety (90) days from the date of the regular Tribal Governing Board meeting where the petition was received, by the Election Committee as established pursuant to 5 LCOTCL <cite path="V|2|2.3|1.304">§ 1.304</cite> (3), in accordance with the procedures established in Subchapter 2.4 of this ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1135,7 +1139,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text><u>Tellers</u>. Members of the Election Committee, other than the Election Committee Chairperson, shall preside at the polling sites as tellers, along with security officer(s) and observer(s). In the event that any member of the Election Committee cannot fulfill their duty, the Alternate with the next highest number of votes as established pursuant to 5 LCOTCL § 1.304 (3), shall be asked to fill the position.</text>
+          <text><u>Tellers</u>. Members of the Election Committee, other than the Election Committee Chairperson, shall preside at the polling sites as tellers, along with security officer(s) and observer(s). In the event that any member of the Election Committee cannot fulfill their duty, the Alternate with the next highest number of votes as established pursuant to 5 LCOTCL <cite path="V|2|2.4|1.304">§ 1.304</cite> (3), shall be asked to fill the position.</text>
         </para>
         <para>
           <num>(6)</num>
@@ -1151,7 +1155,7 @@
         </para>
         <para>
           <num>(8)</num>
-          <text><u>Ballot Controversies</u>. Any challenge to a voter's eligibility will be referred to, and settled by, the Election committee upon completion of the counting process pursuant to § 2.402 (3) of this ordinance. Those present shall be members of the Election Committee and observer(s).</text>
+          <text><u>Ballot Controversies</u>. Any challenge to a voter's eligibility will be referred to, and settled by, the Election committee upon completion of the counting process pursuant to <cite path="V|2|2.4|2.402">§ 2.402</cite> (3) of this ordinance. Those present shall be members of the Election Committee and observer(s).</text>
         </para>
         <para>
           <num>(9)</num>
@@ -1251,7 +1255,7 @@
         <heading>Election Committee</heading>
         <para>
           <num>(1)</num>
-          <text>The Election Committee shall be established on the day of the caucus as established pursuant to 5 LCOTCL § 1.304 (3), by virtue of nominations by the general membership, and shall be composed of six (6) nominated and elected band members along with one designated member from the Citizenship Services Department (Enrollment Clerk).</text>
+          <text>The Election Committee shall be established on the day of the caucus as established pursuant to 5 LCOTCL <cite path="V|2|2.4|1.304">§ 1.304</cite> (3), by virtue of nominations by the general membership, and shall be composed of six (6) nominated and elected band members along with one designated member from the Citizenship Services Department (Enrollment Clerk).</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1267,18 +1271,18 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>Election Committee members are required to sign the Code of Ethics pursuant to § 2.409 of this ordinance.</text>
+          <text>Election Committee members are required to sign the Code of Ethics pursuant to <cite path="V|2|2.4|2.409">§ 2.409</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(6)</num>
-          <text>If a member of the Election Committee resigns from serving on the Election Committee, then that member shall be removed from the Election Committee and the alternate (the next highest vote getter at the Caucus) will be asked to fill that position. In the event additional Alternates are required to oversee a referendum election beyond those nominated pursuant to 5 LCOTCL § 1.304 (3), the Tribal Governing Board shall appoint additional Alternate candidates. Such additional Alternate candidates shall sign an acceptance form pursuant to 5 LCOTCL § 1.305 (6). In the event that the Election Chairperson resigns, then the Election Committee shall select a new chairperson.</text>
+          <text>If a member of the Election Committee resigns from serving on the Election Committee, then that member shall be removed from the Election Committee and the alternate (the next highest vote getter at the Caucus) will be asked to fill that position. In the event additional Alternates are required to oversee a referendum election beyond those nominated pursuant to 5 LCOTCL <cite path="V|2|2.4|1.304">§ 1.304</cite> (3), the Tribal Governing Board shall appoint additional Alternate candidates. Such additional Alternate candidates shall sign an acceptance form pursuant to 5 LCOTCL <cite path="V|2|2.4|1.305">§ 1.305</cite> (6). In the event that the Election Chairperson resigns, then the Election Committee shall select a new chairperson.</text>
         </para>
         <para>
           <num>(7)</num>
           <text><u>Election Committee Members Pay</u>.</text>
           <para>
             <num>(a)</num>
-            <text>Election Committee members shall be paid an hourly rate for attending an Election Committee meeting in preparation for a referendum election. Any member of the Election Committee who is an employee of the Tribe or an employee of a tribal entity shall be allowed to receive release time pursuant to 14 LCOTCL § 1.707 (4), 14 LCOTCL § 4.707 (4), 14 LCOTCL § 5.707 (4), 14 LCOTCL § 7.707 (4), or 14 LCOTCL § 9.708 (4) to attend Election Committee meetings held during normal working hours.</text>
+            <text>Election Committee members shall be paid an hourly rate for attending an Election Committee meeting in preparation for a referendum election. Any member of the Election Committee who is an employee of the Tribe or an employee of a tribal entity shall be allowed to receive release time pursuant to 14 LCOTCL <cite path="V|2|2.4|1.707">§ 1.707</cite> (4), 14 LCOTCL <cite path="V|2|2.4|4.707">§ 4.707</cite> (4), 14 LCOTCL <cite path="V|2|2.4|5.707">§ 5.707</cite> (4), 14 LCOTCL <cite path="V|2|2.4|7.707">§ 7.707</cite> (4), or 14 LCOTCL <cite path="V|2|2.4|9.708">§ 9.708</cite> (4) to attend Election Committee meetings held during normal working hours.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -1303,11 +1307,11 @@
         <heading>Placement Of Election Committee Members</heading>
         <para>
           <num>(1)</num>
-          <text><u>Election Committee Chairperson</u>. The Chairperson of the Election Committee shall not be assigned a Teller position, but must be available for travel to and from the polling sites to take care of the needs of the Committee Members on duty. The Chairperson shall be responsible for delivering all printed materials to election sites, as well as collecting lunch and dinner orders pursuant to § 2.403 (7) (c) of this ordinance.</text>
+          <text><u>Election Committee Chairperson</u>. The Chairperson of the Election Committee shall not be assigned a Teller position, but must be available for travel to and from the polling sites to take care of the needs of the Committee Members on duty. The Chairperson shall be responsible for delivering all printed materials to election sites, as well as collecting lunch and dinner orders pursuant to <cite path="V|2|2.4|2.403">§ 2.403</cite> (7) (c) of this ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text><u>Citizenship Services Department</u>. The designated member of the Election Committee from the Citizenship Services Department (Enrollment Clerk) pursuant to §2.401 (2) and §2.403 (1) of this ordinance, shall be present in the Citizenship Services Department during the whole process of the voting procedure, in the event any citizenship (membership) is questioned.</text>
+          <text><u>Citizenship Services Department</u>. The designated member of the Election Committee from the Citizenship Services Department (Enrollment Clerk) pursuant to <cite path="V|2|2.4|2.401">§2.401</cite> (2) and <cite path="V|2|2.4|2.403">§2.403</cite> (1) of this ordinance, shall be present in the Citizenship Services Department during the whole process of the voting procedure, in the event any citizenship (membership) is questioned.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -1325,7 +1329,7 @@
       <section>
         <num>2.405</num>
         <heading>Tribal Governing Board Liaison</heading>
-        <text>The Tribal Governing Board shall appoint a Tribal Governing Board Liaison to the Election Committee. The liaison shall be a member of the Tribal Governing Board or their authorized representative. The purpose of the liaison is to serve as a communications link between the Tribal Governing Board and the Election Committee, and serve as part of the Executive Committee pursuant to § 4.406 of this ordinance.</text>
+        <text>The Tribal Governing Board shall appoint a Tribal Governing Board Liaison to the Election Committee. The liaison shall be a member of the Tribal Governing Board or their authorized representative. The purpose of the liaison is to serve as a communications link between the Tribal Governing Board and the Election Committee, and serve as part of the Executive Committee pursuant to <cite path="V|2|2.4|4.406">§ 4.406</cite> of this ordinance.</text>
       </section>
       <section>
         <num>2.406</num>
@@ -1364,12 +1368,12 @@
       <section>
         <num>2.409</num>
         <heading>Code Of Ethics</heading>
-        <text>The Tribal Governing Board has adopted a "Code of Ethics" (Attachment "D" of Title V, Chapter 1 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Election Ordinance) which governs the conduct of the members of the Election Committee. Each member of the Election Committee shall receive a copy of the "Code of Ethics" and shall be required to sign a copy of such, stating that they have read the "Code of Ethics" and agree to abide by its provisions during their tenure on the committee. In the event that a member of the Election Committee does not sign the Code of Ethics, they shall be removed from the Election Committee and the Election Committee Alternate shall be asked to fill the position. In the event additional Alternates are required to oversee a referendum election beyond those nominated pursuant to 5 LCOTCL § 1.304 (3), the Tribal Governing Board shall appoint additional Alternate candidates.</text>
+        <text>The Tribal Governing Board has adopted a "Code of Ethics" (Attachment "D" of Title V, Chapter 1 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Election Ordinance) which governs the conduct of the members of the Election Committee. Each member of the Election Committee shall receive a copy of the "Code of Ethics" and shall be required to sign a copy of such, stating that they have read the "Code of Ethics" and agree to abide by its provisions during their tenure on the committee. In the event that a member of the Election Committee does not sign the Code of Ethics, they shall be removed from the Election Committee and the Election Committee Alternate shall be asked to fill the position. In the event additional Alternates are required to oversee a referendum election beyond those nominated pursuant to 5 LCOTCL <cite path="V|2|2.4|1.304">§ 1.304</cite> (3), the Tribal Governing Board shall appoint additional Alternate candidates.</text>
       </section>
       <section>
         <num>2.410</num>
         <heading>Polling Site Workers</heading>
-        <text>Polling site workers do not necessarily have to be members of the Election Committee.  They can be hired by the Tribal Governing Board to work at the polling sites on Referendum Election Day only, and shall be paid the same rate as Election Committee Members as established pursuant to § 2.403 (7) (b) of this ordinance.</text>
+        <text>Polling site workers do not necessarily have to be members of the Election Committee.  They can be hired by the Tribal Governing Board to work at the polling sites on Referendum Election Day only, and shall be paid the same rate as Election Committee Members as established pursuant to <cite path="V|2|2.4|2.403">§ 2.403</cite> (7) (b) of this ordinance.</text>
       </section>
       <section>
         <num>2.411</num>
@@ -1391,7 +1395,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text><u>Designated Locations</u>. The following business establishments have been designated as the locations to hang posters pursuant to subs. (1) above:  Tribal Administration Building, Housing Authority, LCO Commercial Center, LCO Quick Stop, Gaming Enterprises, LCO Convenience Store, LCO-CHC, LCOOS-Waadookodaading, LCO Ojibwe Community College, LCO Head Start – Early Head Start, Reserve Elderly Center, New Post Elderly Center, and WOJB.</text>
+          <text><u>Designated Locations</u>. The following business establishments have been designated as the locations to hang posters pursuant to <cite path="V|2|2.4|2.413|(1)">subs. (1)</cite> above:  Tribal Administration Building, Housing Authority, LCO Commercial Center, LCO Quick Stop, Gaming Enterprises, LCO Convenience Store, LCO-CHC, LCOOS-Waadookodaading, LCO Ojibwe Community College, LCO Head Start – Early Head Start, Reserve Elderly Center, New Post Elderly Center, and WOJB.</text>
         </para>
       </section>
       <section>
@@ -1403,7 +1407,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>All campaigning materials shall be removed by the person associated with the campaigning material within thirty (30) days following Referendum Election Day. Failure to adhere to this subs, shall be subject to a citation pursuant to 10 LCOTCL § 2.305.</text>
+          <text>All campaigning materials shall be removed by the person associated with the campaigning material within thirty (30) days following Referendum Election Day. Failure to adhere to this subs, shall be subject to a citation pursuant to 10 LCOTCL <cite path="V|2|2.4|2.305">§ 2.305</cite>.</text>
         </para>
       </section>
       <section>
