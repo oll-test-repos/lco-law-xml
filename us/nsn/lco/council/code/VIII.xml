@@ -6,8 +6,10 @@
   <container>
     <prefix>Chapter</prefix>
     <num>5</num>
-    <heading>School Attendance (Truancy) Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text>Preamble</text>
+    <heading>School Attendance (Truancy) Code of The Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to require the regular attendance at school of all school age children which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, § 1(s) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and providing for the maintenance of law and order and the administration of justice …"</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -56,12 +58,12 @@
       </section>
       <section>
         <num>5.106</num>
-        <heading>Severability And Non-Liability</heading>
+        <heading>Severability and Non-Liability</heading>
         <text>If any section, provision or portion of this ordinance is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this ordinance.</text>
       </section>
       <section>
         <num>5.107</num>
-        <heading>Repeal Of Inconsistent Tribal Ordinances</heading>
+        <heading>Repeal of Inconsistent Tribal Ordinances</heading>
         <text>All ordinances and resolutions inconsistent with this ordinance are hereby repealed. To the extent that this ordinance imposes greater restrictions than those contained in any other tribal law, code, ordinance or regulation, the provisions of this ordinance shall govern.</text>
       </section>
     </container>
@@ -95,7 +97,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text><strong>"Dropout"</strong> means a person under the age of 18 who ceased to attend school, does not attend a public or private school, technical college or home-based private educational program on a full-time basis, has not graduated from high school and does not have an acceptable excuse under <cite path="VIII|5|5.3|5.303">§ 5.303</cite> (1) of this ordinance.</text>
+          <text><strong>"Dropout"</strong> means a person under the age of 18 who ceased to attend school, does not attend a public or private school, technical college or home-based private educational program on a full-time basis, has not graduated from high school and does not have an acceptable excuse under <cite path="VIII|5|5.3|5.303|(1)">§ 5.303 (1)</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -155,7 +157,7 @@
           </para>
           <para>
             <num>(e)</num>
-            <text>An order placing the person under formal or informal supervision of a tribal agency, program, department or a suitable adult, including a friend of the juvenile, under conditions prescribed by the Tribal Court and subject to the limitations of placement, if necessary, as prescribed in VII LCOTCL, Chapter 1 – Children's Code.</text>
+            <text>An order placing the person under formal or informal supervision of a tribal agency, program, department or a suitable adult, including a friend of the juvenile, under conditions prescribed by the Tribal Court and subject to the limitations of placement, if necessary, as prescribed in VII LCOTCL, <cite path="VIII|1">Chapter 1</cite> – Children's Code.</text>
           </para>
           <para>
             <num>(f)</num>
@@ -185,10 +187,10 @@
       </section>
       <section>
         <num>5.304</num>
-        <heading>Failure To Cause A Child To Attend School Regularly</heading>
+        <heading>Failure to Cause A Child to Attend School Regularly</heading>
         <para>
           <num>(1)</num>
-          <text>Unless the school age child is excepted or excused under <cite path="VIII|5|5.2|5.201">§ 5.201</cite> (1) of this ordinance, or has graduated from high school, any person having under his or her control a school age child, shall cause the school age child to attend school regularly during the full period and hours, religious and traditional holidays excepted, that the tribal, public, or private school in which the school age child should be enrolled, is in session until the end of the school term, quarter or semester of the school year in which the school age child becomes 18 years of age.</text>
+          <text>Unless the school age child is excepted or excused under <cite path="VIII|5|5.2|5.201|(1)">§ 5.201 (1)</cite> of this ordinance, or has graduated from high school, any person having under his or her control a school age child, shall cause the school age child to attend school regularly during the full period and hours, religious and traditional holidays excepted, that the tribal, public, or private school in which the school age child should be enrolled, is in session until the end of the school term, quarter or semester of the school year in which the school age child becomes 18 years of age.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -203,7 +205,7 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>To any person who violates <cite path="VIII|5|5.3|5.304">this section</cite> and pursuant to <cite path="VIII|5|5.3|5.302">§ 5.302</cite> (2) (f) of this ordinance has been subject to a previous forfeiture of $500.00.</text>
+            <text>To any person who violates <cite path="VIII|5|5.3|5.304">this section</cite> and pursuant to <cite path="VIII|5|5.3|5.302|(2)">§ 5.302 (2)</cite> (f) of this ordinance has been subject to a previous forfeiture of $500.00.</text>
           </para>
         </para>
       </section>

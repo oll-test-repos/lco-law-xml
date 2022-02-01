@@ -6,8 +6,10 @@
   <container>
     <prefix>Chapter</prefix>
     <num>1</num>
-    <heading>Rules Of Civil Procedure Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text>Preamble</text>
+    <heading>Rules of Civil Procedure Code of The Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, § 1 (q) and (s) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to: "establish a tribal court for the purpose of enforcing tribal ordinance…" Article V, § 1 (q); "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and provide for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers" Article V, § 1 (s). The following rules are adopted to govern civil proceedings initiated in the Lac Courte Oreilles Tribal Court.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -61,12 +63,12 @@
       </section>
       <section>
         <num>1.107</num>
-        <heading>Severability And Non-Liability</heading>
+        <heading>Severability and Non-Liability</heading>
         <text>If any section, provision or portion of this ordinance is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this ordinance.</text>
       </section>
       <section>
         <num>1.108</num>
-        <heading>Repeal Of Inconsistent Tribal Ordinances</heading>
+        <heading>Repeal of Inconsistent Tribal Ordinances</heading>
         <text>All ordinances and resolutions inconsistent with this ordinance are hereby repealed. To the extent that this ordinance imposes greater restrictions than those contained in any other tribal law, code, ordinance or regulation, the provisions of this ordinance shall govern.</text>
       </section>
     </container>
@@ -135,15 +137,15 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>1.3</num>
-      <heading>Establishment And Duties Of The Court</heading>
+      <heading>Establishment and Duties of The Court</heading>
       <section>
         <num>1.301</num>
-        <heading>Creation Of The Court</heading>
+        <heading>Creation of The Court</heading>
         <text>There is hereby established the Lac Courte Oreilles Tribal Court.</text>
       </section>
       <section>
         <num>1.302</num>
-        <heading>Jurisdiction Of The Tribal Court</heading>
+        <heading>Jurisdiction of The Tribal Court</heading>
         <text>The Tribal Court shall have jurisdiction over:</text>
         <para>
           <num>(1)</num>
@@ -176,22 +178,22 @@
       </section>
       <section>
         <num>1.303</num>
-        <heading>Consent To Jurisdiction</heading>
+        <heading>Consent to Jurisdiction</heading>
         <text>Anyone entering the Lac Courte Oreilles Reservation consents to the civil jurisdiction of the Lac Courte Oreilles Tribal Court and such criminal jurisdiction as is not prohibited by federal law, and the application of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law regulating conduct while upon the reservation.</text>
       </section>
       <section>
         <num>1.304</num>
-        <heading>Composition Of The Lac Courte Oreilles Tribal Court</heading>
+        <heading>Composition of The Lac Courte Oreilles Tribal Court</heading>
         <text>All judicial authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians shall be vested in the Lac Courte Oreilles Tribal Court. The Tribal Court shall be composed of the Justices, Judges, and Magistrates of the Tribal Court, Court Administrator, the Clerk of Court, Deputy Clerks and other judicial employees.</text>
       </section>
       <section>
         <num>1.305</num>
-        <heading>Location Of Lac Courte Oreilles Court</heading>
+        <heading>Location of Lac Courte Oreilles Court</heading>
         <text>The seat of the Lac Courte Oreilles Tribal Court shall be the Lac Courte Oreilles Reservation. The Court may convene in any location designated by the Tribal Governing Board or a judge or magistrate of the Court.</text>
       </section>
       <section>
         <num>1.306</num>
-        <heading>Law Applicable To Civil Actions</heading>
+        <heading>Law Applicable to Civil Actions</heading>
         <text>In all civil actions, the Lac Courte Oreilles Tribal Court shall apply any ordinance of the Tribe, the applicable laws of the United States, and any federal regulations which may be applicable. For any matter not determined by the law of the Tribe, the American Law Institute's Concise Restatement of Torts, Concise Restatement of Property, Restatement (2d) Contracts, and the Uniform Commercial Code shall be used as authority to the extent applicable, subject to modification by the Court to reflect the customs, traditions, values and policies of the Tribe. The Court shall make such modification only upon a finding, made after notice and hearing, that modification is necessary to conform to the law to the customs, traditions, values, or policies of the Tribe. The Court may of its own motion or that of a party, adopt any other source of law as persuasive authority and may apply any such source with or without modification. Any action that may be brought under federal law or the law of the State of Wisconsin may be brought in tribal court.</text>
       </section>
       <section>
@@ -201,12 +203,12 @@
       </section>
       <section>
         <num>1.308</num>
-        <heading>Application Of Tribal Code Of Law</heading>
+        <heading>Application of Tribal Code of Law</heading>
         <text><cite path="II|1">This Chapter</cite> applies in all actions of the Lac Courte Oreilles Tribal Court, except where specific Titles of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) provides for specific procedures in particular actions.</text>
       </section>
       <section>
         <num>1.309</num>
-        <heading>Penalties And Forfeitures</heading>
+        <heading>Penalties and Forfeitures</heading>
         <para>
           <num>(1)</num>
           <text>All penalties and forfeitures assessed shall be in accordance with the provisions set forth in Tribal Ordinances. No criminal penalty shall exceed the limitations contained in applicable federal law.</text>
@@ -225,10 +227,10 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>1.4</num>
-      <heading>Judges And Magistrates</heading>
+      <heading>Judges and Magistrates</heading>
       <section>
         <num>1.401</num>
-        <heading>Selection Of Judges And Magistrates</heading>
+        <heading>Selection of Judges and Magistrates</heading>
         <para>
           <num>(1)</num>
           <text>The Tribal Governing Board shall appoint a Chief Judge, and may appoint such Associate Judges and Magistrates, upon such terms and conditions as are determined by the Tribal Governing Board. The judges and magistrates of the Lac Courte Oreilles Tribal Court shall be selected by a majority vote of the Tribal Governing Board at a meeting in which a quorum is present.</text>
@@ -272,7 +274,7 @@
       </section>
       <section>
         <num>1.402</num>
-        <heading>Terms Of Office</heading>
+        <heading>Terms of Office</heading>
         <para>
           <num>(1)</num>
           <text>Each judge and magistrate shall hold office for a period of four (4) years, unless sooner removed for cause, or by reason of resignation, death or incapacity. A judge or magistrate shall be eligible for reappointment.</text>
@@ -280,7 +282,7 @@
       </section>
       <section>
         <num>1.403</num>
-        <heading>Duties Of Judge</heading>
+        <heading>Duties of Judge</heading>
         <para>
           <num>(1)</num>
           <text>A duly appointed Judge shall have the authority to act in all matters within the jurisdiction of the Lac Courte Oreilles Tribal Court or under the Lac Courte Oreilles Tribal Code of Law. A Tribal Court Judge shall have the authority to:</text>
@@ -300,7 +302,7 @@
       </section>
       <section>
         <num>1.404</num>
-        <heading>Duties Of Magistrate</heading>
+        <heading>Duties of Magistrate</heading>
         <para>
           <num>(1)</num>
           <text>Subject to the right of any party to seek a new ruling from the Lac Courte Oreilles Tribal Court on any decision of a magistrate, a magistrate shall have the authority to:</text>
@@ -344,7 +346,7 @@
       </section>
       <section>
         <num>1.405</num>
-        <heading>Disqualification, Recusal, And Removal Of Judges Or Magistrates</heading>
+        <heading>Disqualification, Recusal, and Removal of Judges or Magistrates</heading>
         <para>
           <num>(1)</num>
           <text><u>Disqualification</u>.</text>
@@ -384,7 +386,7 @@
       </section>
       <section>
         <num>1.406</num>
-        <heading>Immunity Of Judges And Magistrates</heading>
+        <heading>Immunity of Judges and Magistrates</heading>
         <text>Judges and magistrates shall be immune from civil liability arising from the true and faithful performance of his/her lawful acts and deeds while serving in the capacity of a judge or magistrate for the Tribal Court or for any other court of competent jurisdiction.</text>
       </section>
       <section>
@@ -396,15 +398,15 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>1.5</num>
-      <heading>Clerk Of Court</heading>
+      <heading>Clerk of Court</heading>
       <section>
         <num>1.501</num>
-        <heading>Appointment Of Clerk Of Court</heading>
+        <heading>Appointment of Clerk of Court</heading>
         <text>The Tribal Governing shall appoint a Clerk of Court, and may appoint such deputy or assistant Clerks of Court, upon such terms and conditions as are determined by the Tribal Governing Board.</text>
       </section>
       <section>
         <num>1.502</num>
-        <heading>Duties Of Clerk Of Court</heading>
+        <heading>Duties of Clerk of Court</heading>
         <text>The Clerk shall render assistance to the Tribal Court, to tribal law enforcement personnel, and to all other persons having business with the Court. The Clerk shall serve as the Clerk of the Court of Appeals. The Clerk shall attend and keep written records of all proceedings of the Tribal Court, and is authorized to administer oaths and to collect fees, fines, forfeitures, costs and other monies. The Clerk and any deputy or assistant clerks shall be bonded in an amount fixed by the Tribal Governing Board, and shall transmit any and all monies received to the Tribal Secretary-Treasurer. The Clerk shall assure that a verbatim stenographic or electronic record is made of all proceedings of the Tribal Court. The Clerk may delegate any of the foregoing duties to the assistant clerk, while maintaining supervision and responsibility for the duty so delegated. The Clerk shall make periodic accountings to the Tribal Governing Board and to the Tribal Court of all funds received and disbursed by the Clerk. Such accounting shall be made at least annually, and upon request of either the Tribal Governing Board or Tribal Court.</text>
       </section>
     </container>
@@ -414,12 +416,12 @@
       <heading>Attorney General / Prosecutor</heading>
       <section>
         <num>1.601</num>
-        <heading>Appointment Of Attorney General / Prosecutor</heading>
+        <heading>Appointment of Attorney General / Prosecutor</heading>
         <text>An Attorney General / Tribal Prosecutor shall be appointed by the Tribal Governing Board, for such term and upon such conditions as are determined by the Tribal Governing Board. The Tribal Governing Board may also appoint such deputy, assistant, special, or pro tempore Attorney General(s) / prosecutors as it deems advisable to perform any of the duties of the Tribal Prosecutor. The Attorney General / Tribal Prosecutor may also appoint such special or pro tempore prosecutors when advisable to perform any of the duties of the Tribal Prosecutor.</text>
       </section>
       <section>
         <num>1.602</num>
-        <heading>Duties Of Attorney General / Prosecutor</heading>
+        <heading>Duties of Attorney General / Prosecutor</heading>
         <text>The Attorney General / Tribal Prosecutor, or such designated deputy, assistant, special, or pro tempore Attorney General(s) / prosecutors as deemed advisable by the Attorney General to perform any of the duties of the Tribal Prosecutor, shall represent the Tribe before the Tribal Court in all appropriate proceedings and may bring any action to enforce the Tribal Code of Law and any other tribal ordinance, which shall be brought in the name of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians or in the name of any of the Tribe's entities</text>
       </section>
     </container>
@@ -429,7 +431,7 @@
       <heading>Court Files</heading>
       <section>
         <num>1.701</num>
-        <heading>Court Files To Be Open</heading>
+        <heading>Court Files to Be Open</heading>
         <text>Except as specified herein, all records and files of the Tribal Court shall be available for public inspection during the regular business hours of the Tribal Court.</text>
       </section>
       <section>
@@ -439,7 +441,7 @@
       </section>
       <section>
         <num>1.703</num>
-        <heading>Control Of Court Files</heading>
+        <heading>Control of Court Files</heading>
         <text>No court files may be removed from the custody, control, and physical possession of the Tribal Court. Individuals securing copies of documents from Tribal Court files or transcripts of Tribal Court proceedings, shall, unless otherwise authorized by law or ordered by the Tribal Court, pay the actual costs of reproduction of such material.</text>
       </section>
     </container>
@@ -449,7 +451,7 @@
       <heading>Practice Before The Court</heading>
       <section>
         <num>1.801</num>
-        <heading>Right To Counsel</heading>
+        <heading>Right to Counsel</heading>
         <para>
           <num>(1)</num>
           <text>Any party appearing before the Tribal Court has the right to be represented by an attorney or lay advocate at the party's expense.</text>
@@ -461,12 +463,12 @@
       </section>
       <section>
         <num>1.802</num>
-        <heading>Admission To Practice Required</heading>
+        <heading>Admission to Practice Required</heading>
         <text>No attorney or lay advocate shall represent any person in an action before the Tribal Court unless such attorney or lay advocate is duly admitted to practice before the Lac Courte Oreilles Tribal Court. The Tribal Court may grant leave to appear in a single case to any individual who is a member in good standing of another state or tribal bar.</text>
       </section>
       <section>
         <num>1.803</num>
-        <heading>Procedure For Admission</heading>
+        <heading>Procedure for Admission</heading>
         <para>
           <num>(1)</num>
           <text>An attorney for the purposes of <cite path="II|1|1.8">this subchapter</cite> shall be a person who has graduated from an American Bar Association accredited institution and has been admitted to a court or jurisdiction. A Lay Advocate is a person who has completed certified training in the practice of law in tribal courts.  A Lay advocate cannot be an attorney who is inactive or is not in current standing in another jurisdiction. Any person wishing to practice before the Tribal Court shall file a written request for admission with the Clerk of Court, accompanied by a Certificate of Good Standing from the State Bar or Supreme Court of the State in which such attorney is duly licensed to practice law. Such request shall be accompanied by an admission fee as determined by the Court rule pursuant to <cite path="II|1|1.8|1.803|(2)|(a)">subs. (2)(a)</cite>, below.</text>
@@ -480,7 +482,7 @@
           </para>
           <para>
             <num>(b)</num>
-            <text>Filing with the Clerk of Court an affidavit that the applicant has studied and is familiar with the Constitution and By-Laws of the Tribe, this Code, the Lac Courte Oreilles Tribal Code of Law (LCOTCL), Title 25 of the United States Code and Title 25 of the Code of Federal Regulations; and</text>
+            <text>Filing with the Clerk of Court an affidavit that the applicant has studied and is familiar with the Constitution and By-Laws of the Tribe, this Code, the Lac Courte Oreilles Tribal Code of Law (LCOTCL), <cite path="25">Title 25</cite> of the United States Code and <cite path="25">Title 25</cite> of the Code of Federal Regulations; and</text>
           </para>
           <para>
             <num>(c)</num>
@@ -502,7 +504,7 @@
           <text>Any lay advocate wishing to practice before the Tribal Court shall file a written request for admission with the Clerk of Court, accompanied by an affidavit reciting the qualification of such spokesman to represent another before the Court.</text>
           <para>
             <num>(a)</num>
-            <text>Filing an affidavit with the Clerk of Court which states that the applicant has studied and is familiar with Constitution and By-Laws of the Tribe, this Code, the Lac Courte Oreilles Tribal Code of Law (LCOTCL), Title 25 of the United States Code and Title 25 of the Code of Federal Regulations; and</text>
+            <text>Filing an affidavit with the Clerk of Court which states that the applicant has studied and is familiar with Constitution and By-Laws of the Tribe, this Code, the Lac Courte Oreilles Tribal Code of Law (LCOTCL), <cite path="25">Title 25</cite> of the United States Code and <cite path="25">Title 25</cite> of the Code of Federal Regulations; and</text>
           </para>
           <para>
             <num>(b)</num>
@@ -536,7 +538,7 @@
       </section>
       <section>
         <num>1.804</num>
-        <heading>Revocation Of License To Practice Before The Court</heading>
+        <heading>Revocation of License to Practice Before The Court</heading>
         <para>
           <num>(1)</num>
           <text>Any license issued pursuant to <cite path="II|1|1.8|1.802">§1.802</cite> and <cite path="II|1|1.8|1.803">§1.803</cite> of <cite path="II|1">this Chapter</cite> may be revoked or suspended by the Tribal Court.  Such action may be taken on its own motion or upon sworn complaint by a citizen of the Tribe.</text>
@@ -552,7 +554,7 @@
       </section>
       <section>
         <num>1.805</num>
-        <heading>Procedure For Revocation Of License To Practice Before The Court</heading>
+        <heading>Procedure for Revocation of License to Practice Before The Court</heading>
         <para>
           <num>(1)</num>
           <text>The Court shall provide a written notice of revocation or suspension to the licensee of the motion or complaint and a right to a hearing before a judge of the Tribal Court. The Licensee shall have ten (10) days to respond to the notice.</text>
@@ -568,7 +570,7 @@
       </section>
       <section>
         <num>1.806</num>
-        <heading>Admissions And Continuation Rules</heading>
+        <heading>Admissions and Continuation Rules</heading>
         <text>The chief judge may, by rule, impose requirements in addition to those listed in <cite path="II|1|1.8|1.803">§ 1.803</cite> for admission to the bar and for continuation of membership in the bar, which may include education requirements, examination requirements, renewal fees, or any combination thereof.</text>
       </section>
     </container>
@@ -578,7 +580,7 @@
       <heading>Starting An Action</heading>
       <section>
         <num>1.901</num>
-        <heading>Summons And Complaint</heading>
+        <heading>Summons and Complaint</heading>
         <para>
           <num>(1)</num>
           <text>An action in Tribal Court is commenced by the filing of a summons and complaint as prescribed by <cite path="II|1|1.9|1.901">this section</cite>.</text>
@@ -625,12 +627,12 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>The Clerk of Court shall not accept for filing any summons and complaint that does not bear the dated signature of the plaintiff or plaintiff's attorney, or that is not accompanied by the filing fee as required by <cite path="II|1|1.15|1.1501">§ 1.1501</cite> (1) and, if applicable, the mailing fee as required by <cite path="II|1|1.15|1.1501">§ 1.1501</cite> (2).</text>
+          <text>The Clerk of Court shall not accept for filing any summons and complaint that does not bear the dated signature of the plaintiff or plaintiff's attorney, or that is not accompanied by the filing fee as required by <cite path="II|1|1.15|1.1501|(1)">§ 1.1501 (1)</cite> and, if applicable, the mailing fee as required by <cite path="II|1|1.15|1.1501|(2)">§ 1.1501 (2)</cite>.</text>
         </para>
       </section>
       <section>
         <num>1.902</num>
-        <heading>Service Of The Summons And Complaint</heading>
+        <heading>Service of The Summons and Complaint</heading>
         <text>Service of the summons and complaint may be by the following methods:</text>
         <para>
           <num>(1)</num>
@@ -654,7 +656,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text><u>Service by Certified Mail</u>. A plaintiff may request the Clerk of Court to make service by certified mail, in which case the Clerk of Court shall mail a copy of the summons and complaint to each defendant, other individual, or agents as designated according to defendant's status under <cite path="II|1|1.9|1.902|(1)">subs. (1) - (5)</cite>, and above. Mail shall be certified, return receipt requested, return requested if not claimed within five days. The Clerk shall charge the plaintiff the fees as required by <cite path="II|1|1.15|1.1501">§ 1.1501</cite> of this ordinance for service by certified mail, receipt requested, return postage guaranteed. Service by mail shall be complete upon mailing unless the envelope enclosing the summons and complaint is returned unopened by the post office to the Clerk of Court prior to the date of the first appearance.</text>
+          <text><u>Service by Certified Mail</u>. A plaintiff may request the Clerk of Court to make service by certified mail, in which case the Clerk of Court shall mail a copy of the summons and complaint to each defendant, other individual, or agents as designated according to defendant's status under <cite path="II|1|1.9|1.902|(1)">subs. (1) - (5)</cite>, above. Mail shall be certified, return receipt requested, return requested if not claimed within five days. The Clerk shall charge the plaintiff the fees as required by <cite path="II|1|1.15|1.1501">§ 1.1501</cite> of this ordinance for service by certified mail, receipt requested, return postage guaranteed. Service by mail shall be complete upon mailing unless the envelope enclosing the summons and complaint is returned unopened by the post office to the Clerk of Court prior to the date of the first appearance.</text>
         </para>
         <para>
           <num>(7)</num>
@@ -667,7 +669,7 @@
       </section>
       <section>
         <num>1.903</num>
-        <heading>Answers, Counterclaims, Cross-Complaints, And Third-Party Complaints</heading>
+        <heading>Answers, Counterclaims, Cross-Complaints, and Third-Party Complaints</heading>
         <para>
           <num>(1)</num>
           <text>All parties shall appear on the first appearance date specified in the summons and complaint. All answers, counterclaims and cross complaints may be made orally or in writing. If made in writing, any such pleadings shall be filed with the Clerk of Court with copies served on all parties. A third-party complaint must be made in writing and shall be filed with the Clerk of Court and served on the third-party defendant on or before the return date or at such later date as the Court allows.</text>
@@ -691,7 +693,7 @@
       </section>
       <section>
         <num>1.904</num>
-        <heading>Filing And Service Of Papers After Summons And Complaint</heading>
+        <heading>Filing and Service of Papers After Summons and Complaint</heading>
         <para>
           <num>(1)</num>
           <text>The service of any papers in an action subsequent to the summons and complaint may be made by first-class mail or facsimile transmission, or electronic mail to the party and to the party's attorney or lay advocate who has filed a notice of appearance in the action, or by delivery to such person, the person's home, or the person's office. No filing may be made by electronic facsimile (fax) unless permitted by specific order of a judge or magistrate.</text>
@@ -769,7 +771,7 @@
       </section>
       <section>
         <num>1.908</num>
-        <heading>Telephone And Audiovisual Proceedings</heading>
+        <heading>Telephone and Audiovisual Proceedings</heading>
         <para>
           <num>(1)</num>
           <text>On its own motion or motion of any party the Court may conduct any proceeding by telephone or audiovisual means. Any party seeking to appear in person or by counsel by telephone or audiovisual means shall secure the consent of the Court. Any party may object to such appearance, and the Court shall then determine if such appearance shall be allowed. Any party wishing to present evidence by telephone or audiovisual means shall either secure the consent of the other party or provide notice to the other party that unless objection is received within the time set by the court the court may receive such evidence by telephone or audiovisual means.</text>
@@ -865,7 +867,7 @@
       </section>
       <section>
         <num>1.911</num>
-        <heading>Statute Of Limitations</heading>
+        <heading>Statute of Limitations</heading>
         <text>Unless a specific limitation on an action is provided by tribal ordinance, and contract claim may be presented within six years of the accrual of the claim, and tort claim other than a professional malpractice may be presented within three years of the accrual of the claim, and any professional malpractice claim may be presented within three years of the discovery of the claim. The filing in federal or state court or any action which should properly be brought in Tribal Court tolls the limitation.</text>
       </section>
     </container>
@@ -875,7 +877,7 @@
       <heading>Trial</heading>
       <section>
         <num>1.1001</num>
-        <heading>Trial To Court</heading>
+        <heading>Trial to Court</heading>
         <text>All trials in Tribal Court shall be to the Court without a jury.</text>
       </section>
       <section>
@@ -902,7 +904,7 @@
       </section>
       <section>
         <num>1.1005</num>
-        <heading>Burden Of Proof</heading>
+        <heading>Burden of Proof</heading>
         <text>Where none is otherwise stated, the burden of proof shall be on the party asserting a claim or affirmative defense to prove each element of the claim or affirmative defense by a preponderance of the evidence.</text>
       </section>
     </container>
@@ -912,12 +914,12 @@
       <heading>Judgment</heading>
       <section>
         <num>1.1101</num>
-        <heading>Failure Of Plaintiff To Appear</heading>
+        <heading>Failure of Plaintiff to Appear</heading>
         <text>If the plaintiff fails to appear at the first appearance or for trial, the court may dismiss the complaint. Dismissal shall be without prejudice unless a complaint filed by the plaintiff arising from the same transaction or occurrence has been dismissed on the same grounds once before.</text>
       </section>
       <section>
         <num>1.1102</num>
-        <heading>Failure Of Defendant To Appear</heading>
+        <heading>Failure of Defendant to Appear</heading>
         <text>If the defendant fails to appear at the first appearance or at trial, the court may enter judgment for plaintiff upon due proof of facts which show the plaintiff is entitled to judgment.</text>
       </section>
       <section>
@@ -949,12 +951,12 @@
       </section>
       <section>
         <num>1.1107</num>
-        <heading>Disclosure Of Assets</heading>
+        <heading>Disclosure of Assets</heading>
         <text>When a judgment for money damages is entered under <cite path="II|1">this chapter</cite>, the court shall order that the judgment debtor execute, under penalty of contempt, within 15 days of the entry of judgment unless the judgment is satisfied sooner, a statement, on forms provided by the Clerk of Court, disclosing, as of the date of judgment, the debtor's name, residence address, employers and their addresses, frequency of pay periods and gross and net pay per period, any non-USA trust real property interests, cash on hand, financial institutions in which the debtor has any funds and the amount of funds in each institution, the names and addresses of all persons who hold any property belonging to the debtor or who owe any money or property to the debtor, and all items and property worth more than $100.00.</text>
       </section>
       <section>
         <num>1.1108</num>
-        <heading>Effect Of Judgment</heading>
+        <heading>Effect of Judgment</heading>
         <text>Entry of a judgment entitles the prevailing party to enforcement by the Tribal Court on its terms. A judgment for a sum certain may be enforced by writ of execution against property of the losing party which is located on the Lac Courte Oreilles Reservation.</text>
       </section>
       <section>
@@ -964,17 +966,17 @@
       </section>
       <section>
         <num>1.1110</num>
-        <heading>Effect Of Appeal On Judgment</heading>
+        <heading>Effect of Appeal on Judgment</heading>
         <text>The filing of an appeal with the Lac Courte Oreilles Court of Appeals, pursuant to the requirements of <cite path="II|4">2 LCOTCL Chapter 4</cite> – Appellate Code, shall not prevent the enforcement of the judgment of the trial court, unless the trial court on its own motion or that of a party orders a stay of enforcement pending the appeal.</text>
       </section>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>1.12</num>
-      <heading>Enforcement Of Judgment</heading>
+      <heading>Enforcement of Judgment</heading>
       <section>
         <num>1.1201</num>
-        <heading>Power Of The Court</heading>
+        <heading>Power of The Court</heading>
         <text>Upon entry of judgment the Tribal Court may upon application of the prevailing party:</text>
         <para>
           <num>(1)</num>
@@ -991,7 +993,7 @@
       </section>
       <section>
         <num>1.1202</num>
-        <heading>Writ Of Execution</heading>
+        <heading>Writ of Execution</heading>
         <para>
           <num>(1)</num>
           <text>Upon receipt of the writ of execution, tribal law enforcement personnel shall serve the writ upon the losing party and take possession of any non-exempt property as ordered by the Tribal Court. Within 30 days, the tribal law enforcement personnel shall cause a sale of such property. The proceeds of the sale shall be returned to the Tribal Court within 30 days above prescribed. The net proceeds of such sale, after deducting sale expenses and amounts due any secured party under <cite path="II|1|1.12|1.1202|(2)">subs. (2)</cite>, below shall be remitted to the prevailing party.</text>
@@ -1003,12 +1005,12 @@
       </section>
       <section>
         <num>1.1203</num>
-        <heading>Stay Of Writ</heading>
+        <heading>Stay of Writ</heading>
         <text>The losing party may prevent the issuance of a writ of execution or judicial sale, by presenting to the Tribal Court sufficient proof that said party has made payment of the judgment to the prevailing party, or is willing to commence payment of the judgment to the prevailing party, upon terms acceptable to the prevailing party and the Court. Upon such proof, the Tribal Court shall not issue a writ of execution, and, if one has been issued, shall rescind the order.</text>
       </section>
       <section>
         <num>1.1204</num>
-        <heading>Property Exempt From Execution</heading>
+        <heading>Property Exempt from Execution</heading>
         <text>The following property shall be exempt from levy and sale under any execution:</text>
         <para>
           <num>(1)</num>
@@ -1037,7 +1039,7 @@
       </section>
       <section>
         <num>1.1205</num>
-        <heading>Interest On Judgments</heading>
+        <heading>Interest on Judgments</heading>
         <text>Any judgment not paid within the time prescribed by the court, or if no time is prescribed, within 30 days of the date of judgment, shall accrue simple interest on the balance not paid at the rate of 1.5% per month. The filing of an appeal shall not stop the accrual of interest.</text>
       </section>
     </container>
@@ -1052,12 +1054,12 @@
       </section>
       <section>
         <num>1.1302</num>
-        <heading>Filing And Status Of Foreign Judgments</heading>
+        <heading>Filing and Status of Foreign Judgments</heading>
         <text>A certified copy of any foreign judgment may be filed with the clerk of court. The clerk of court shall treat the foreign judgment in the same manner as the judgment of the tribal court. A judgment so filed has the same effect and is subject to the same procedures and status as a judgment of tribal court, and may be enforced or satisfied in like manner, except that the Tribal Court shall, after notice and hearing upon its own motion or motion of a party, have the right to review and modify any foreign order for the enforcement of a judgment, including but not limited to garnishment orders.</text>
       </section>
       <section>
         <num>1.1303</num>
-        <heading>Notice Of Filing</heading>
+        <heading>Notice of Filing</heading>
         <para>
           <num>(1)</num>
           <text>At the time of filing of the foreign judgment, the judgment creditor or lawyer shall make and file with the clerk of court an affidavit setting forth the name and last-known post office address of the judgment debtor, the judgment debtor's lawyer, if any, the judgment creditor, and the judgment creditor's lawyer, if any.</text>
@@ -1080,7 +1082,7 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>1.14</num>
-      <heading>Contempt Of Court</heading>
+      <heading>Contempt of Court</heading>
       <section>
         <num>1.1401</num>
         <heading>Definition</heading>
@@ -1108,13 +1110,13 @@
       </section>
       <section>
         <num>1.1402</num>
-        <heading>Power Of Court To Punish Contempt Of Court</heading>
+        <heading>Power of Court to Punish Contempt of Court</heading>
         <text>The Tribal Court may impose a sanction for contempt of court.</text>
       </section>
       <section>
         <num>1.1403</num>
         <heading>Summary Procedure</heading>
-        <text>The judge presiding in an action or proceeding may impose a sanction upon a person who commits a contempt of court in the actual presence of the court. The judge shall impose the sanction immediately after the contempt of court and only for the purpose of preserving order in the court and preserving the authority and dignity of the court. A violation of <cite path="II|1|1.14|1.1401">§ 1.1401</cite> (3) or (5) may be considered under <cite path="II|1|1.14|1.1403">this section</cite> even though the contemnor does not appear in court.</text>
+        <text>The judge presiding in an action or proceeding may impose a sanction upon a person who commits a contempt of court in the actual presence of the court. The judge shall impose the sanction immediately after the contempt of court and only for the purpose of preserving order in the court and preserving the authority and dignity of the court. A violation of <cite path="II|1|1.14|1.1401">§ 1.1401</cite> <cite path="II|1|1.14|1.1401|(3)">(3)</cite> or <cite path="II|1|1.14|1.1401|(5)">(5)</cite> may be considered under <cite path="II|1|1.14|1.1403">this section</cite> even though the contemnor does not appear in court.</text>
       </section>
       <section>
         <num>1.1404</num>
@@ -1160,8 +1162,8 @@
       </section>
       <section>
         <num>1.1406</num>
-        <heading>Enforcement Of Monetary Sanctions</heading>
-        <text>Any sanction imposed under <cite path="II|1|1.14|1.1405">§ 1.1405</cite> (1), (2), or (7) may be enforced by the court or aggrieved party by any procedure provided in <cite path="II|1|1.12|1.1201">§ 1.1201</cite> - <cite path="II|1|1.12|1.1205">§ 1.1205</cite>. As part of the contempt proceeding the court may of its own motion or on motion of any party order any monetary sanction under <cite path="II|1|1.14|1.1405">§ 1.1405</cite> (1), (2), or (7), and the costs of incarceration under <cite path="II|1|1.14|1.1405">§ 1.1405</cite> (6) to be paid from any funds held by the Tribe, or which may in the future be held by the Tribe, for the individual who is the subject of the order, and any such order for payment shall have priority over any other disbursement of such funds.</text>
+        <heading>Enforcement of Monetary Sanctions</heading>
+        <text>Any sanction imposed under <cite path="II|1|1.14|1.1405">§ 1.1405</cite> <cite path="II|1|1.14|1.1405|(1)">(1)</cite>, <cite path="II|1|1.14|1.1405|(2)">(2)</cite>, or <cite path="II|1|1.14|1.1405|(7)">(7)</cite> may be enforced by the court or aggrieved party by any procedure provided in <cite path="II|1|1.12|1.1201">§ 1.1201</cite> - <cite path="II|1|1.12|1.1205">§ 1.1205</cite>. As part of the contempt proceeding the court may of its own motion or on motion of any party order any monetary sanction under <cite path="II|1|1.14|1.1405">§ 1.1405</cite> <cite path="II|1|1.14|1.1405|(1)">(1)</cite>, <cite path="II|1|1.14|1.1405|(2)">(2)</cite>, or <cite path="II|1|1.14|1.1405|(7)">(7)</cite>, and the costs of incarceration under <cite path="II|1|1.14|1.1405|(6)">§ 1.1405 (6)</cite> to be paid from any funds held by the Tribe, or which may in the future be held by the Tribe, for the individual who is the subject of the order, and any such order for payment shall have priority over any other disbursement of such funds.</text>
       </section>
       <section>
         <num>1.1407</num>
@@ -1172,10 +1174,10 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>1.15</num>
-      <heading>Fees And Costs</heading>
+      <heading>Fees and Costs</heading>
       <section>
         <num>1.1501</num>
-        <heading>Collection Of Fees</heading>
+        <heading>Collection of Fees</heading>
         <text>The Court shall set, and the Clerk of Court shall collect fees for the services of the Court, including but not limited to the following:</text>
         <para>
           <num>(1)</num>
@@ -1210,7 +1212,7 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>1.16</num>
-      <heading>Protection Of Court, Law Enforcement And Social Services Personnel</heading>
+      <heading>Protection of Court, Law Enforcement and Social Services Personnel</heading>
       <section>
         <num>1.1601</num>
         <heading>Violation</heading>
@@ -1244,8 +1246,10 @@
   <container>
     <prefix>Chapter</prefix>
     <num>5</num>
-    <heading>Sovereign Immunity Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text>Preamble</text>
+    <heading>Sovereign Immunity Code of The Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to protect and preserve the sovereign immunity of the Tribe, to define the entities and individuals entitled to the protection of such immunity, and to specify the manner in which such immunity may be waived, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, § 1(s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "To promulgate and enforce ordinances…providing for the maintenance of law and order and the administration of justice…" Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby recognizes that Tribal sovereign immunity, as defined in numerous federal court decisions, is an inherent and indispensable aspect of Tribal sovereignty. The Lac Courte Oreilles Band of Lake Superior Chippewa Indians also recognizes that Tribal sovereign immunity affords necessary protection of Tribal resources, and necessary protection for Tribal officers, employees, and agents in both governmental and commercial settings.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -1263,7 +1267,7 @@
       </section>
       <section>
         <num>5.103</num>
-        <heading>Declaration Of Policy</heading>
+        <heading>Declaration of Policy</heading>
         <text>It is the policy of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to exercise its sovereign immunity, and to grant limited waivers of such immunity, as dictated by the best interests of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and its citizens. The Lac Courte Oreilles Band of Lake Superior Chippewa Indians recognizes that Tribal sovereign immunity, as defined in numerous federal court decisions, is an inherent and indispensable aspect of Tribal sovereignty. The Lac Courte Oreilles Band of Lake Superior Chippewa Indians also recognizes that Tribal sovereign immunity affords necessary protection of Tribal resources, and necessary protection for Tribal officers, employees, and agents in both governmental and commercial settings.</text>
       </section>
       <section>
@@ -1300,12 +1304,12 @@
       </section>
       <section>
         <num>5.108</num>
-        <heading>Severability And Non-Liability</heading>
+        <heading>Severability and Non-Liability</heading>
         <text>If any section, provision or portion of this ordinance is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this ordinance.</text>
       </section>
       <section>
         <num>5.109</num>
-        <heading>Repeal Of Inconsistent Tribal Ordinances</heading>
+        <heading>Repeal of Inconsistent Tribal Ordinances</heading>
         <text>All ordinances and resolutions inconsistent with this ordinance are hereby repealed. To the extent that this ordinance imposes greater restrictions than those contained in any other tribal law, code, ordinance or regulation, the provisions of this ordinance shall govern.</text>
       </section>
     </container>
@@ -1357,17 +1361,17 @@
       <heading>General</heading>
       <section>
         <num>5.301</num>
-        <heading>Sovereign Immunity Of The Tribe</heading>
+        <heading>Sovereign Immunity of The Tribe</heading>
         <text>The sovereign immunity of the Tribe, including sovereign immunity from suit in any state, federal or Tribal court, is hereby expressly reaffirmed. No suit or other proceeding, including any Tribal proceeding, may be instituted or maintained against the Tribe unless the Tribe has specifically waived sovereign immunity for purposes of such suit or proceeding. No suit or other proceeding, including any Tribal proceeding, may be instituted or maintained against officers, employees or agents of the Tribe for actions within the scope of their authority, unless the Tribe has specifically waived sovereign immunity for purposes of such suit or proceeding.</text>
       </section>
       <section>
         <num>5.302</num>
-        <heading>Sovereign Immunity Of Tribal Entities</heading>
+        <heading>Sovereign Immunity of Tribal Entities</heading>
         <text>The sovereign immunity of Tribal Entities, including sovereign immunity from suit in any state, federal or Tribal court, is hereby expressly reaffirmed. No suit or other proceeding, including any Tribal proceeding, may be instituted or maintained against a Tribal Entity unless the Tribe has specifically waived sovereign immunity for purposes of such suit or proceeding. No suit or other proceeding, including any Tribal proceeding, may be instituted or maintained against officers, employees or agents of a Tribal Entity for actions within the scope of their authority, unless the Tribe has specifically waived sovereign immunity for purposes of such suit or proceeding.</text>
       </section>
       <section>
         <num>5.303</num>
-        <heading>Waiver Of Sovereign Immunity</heading>
+        <heading>Waiver of Sovereign Immunity</heading>
         <para>
           <num>(1)</num>
           <text>All waivers of sovereign immunity shall be made in accordance with this ordinance.</text>

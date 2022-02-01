@@ -6,8 +6,10 @@
   <container>
     <prefix>Chapter</prefix>
     <num>1</num>
-    <heading>Children'S Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text>Preamble</text>
+    <heading>Children'S Code of The Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to promote the traditional value that children are the most important asset of the Tribe, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, § 1 (q), (s), (t), and (u) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to: "establish a tribal court for the purpose of enforcing tribal ordinance..." Article V, § 1 (q); "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and providing for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers" Article V, § 1 (s); "provide for the regulation of child custody and domestic relations matters by ordinances or resolution" Article V, § 1 (t); "provide for the appointment of guardians for minors, aged persons, and mental incompetents by ordinance or resolution" Article V, § 1 (u). It is the purpose of this ordinance to protect the health, safety, and welfare of all children within the jurisdiction of the Lac Courte Oreilles Tribe.  In the children lie the Tribe's future, and in their retention of Ojibwe traditions and culture lies the preservation of the Tribe's past. It is the policy of the Tribe to strengthen family structures, to prevent family breakups, and to foster conditions favorable to the growth, spirit, culture, and individuality of each child. A child without knowledge of the past is directionless in the path forward; a child without a nurturing present is denied the strengths that lead to the future. It is the Tribe's policy to favor preventive action over belated reaction, meditation over confrontation, counseling over lecturing, conciliation over punishment, - but in all decisions made under this ordinance the welfare of the child shall be the ultimate touchstone.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -89,12 +91,12 @@
       </section>
       <section>
         <num>1.107</num>
-        <heading>Severability And Non-Liability</heading>
+        <heading>Severability and Non-Liability</heading>
         <text>If any section, provision or portion of this ordinance is adjudged unconstitutional or invalid by a Court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this ordinance.</text>
       </section>
       <section>
         <num>1.108</num>
-        <heading>Repeal Of Inconsistent Tribal Ordinances</heading>
+        <heading>Repeal of Inconsistent Tribal Ordinances</heading>
         <text>All ordinances and resolutions inconsistent with this ordinance are hereby repealed. To the extent that this ordinance imposes greater restrictions than those contained in any other tribal law, code, ordinance or regulation, the provisions of this ordinance shall govern.</text>
       </section>
     </container>
@@ -232,7 +234,7 @@
         </para>
         <para>
           <num>(22)</num>
-          <text><strong>"Person with an Interest in a Child"</strong> means the child if fourteen (14) years of age or over, the child's parents, guardian, custodian, a member of the child's Extended Family, a law enforcement or conservation officer when jurisdiction under <cite path="VII|1|1.5|1.501">§ 1.501</cite> (8) of this ordinance is alleged, the Child Welfare Director, and the Assistant Child Welfare Director.</text>
+          <text><strong>"Person with an Interest in a Child"</strong> means the child if fourteen (14) years of age or over, the child's parents, guardian, custodian, a member of the child's Extended Family, a law enforcement or conservation officer when jurisdiction under <cite path="VII|1|1.5|1.501|(8)">§ 1.501 (8)</cite> of this ordinance is alleged, the Child Welfare Director, and the Assistant Child Welfare Director.</text>
         </para>
         <para>
           <num>(23)</num>
@@ -258,7 +260,7 @@
           <num>(28)</num>
           <text><strong>"Tribe"</strong> means the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
           <text>
-            <u>SUBCHAPTER 1.3 – CHILDREN'S COURT</u>
+            <u><cite path="VII|1|1.3">SUBCHAPTER 1.3</cite> – CHILDREN'S COURT</u>
           </text>
           <text/>
         </para>
@@ -293,12 +295,12 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>Except as provided in <cite path="VII|1|1.5|1.506">§ 1.506</cite> (7) of this ordinance, all records of the Children's Court shall be confidential and only affected persons shall have access.</text>
+          <text>Except as provided in <cite path="VII|1|1.5|1.506|(7)">§ 1.506 (7)</cite> of this ordinance, all records of the Children's Court shall be confidential and only affected persons shall have access.</text>
         </para>
       </section>
       <section>
         <num>1.302</num>
-        <heading>Full Faith And Credit</heading>
+        <heading>Full Faith and Credit</heading>
         <para>
           <num>(1)</num>
           <text>The Children's Court, Child Welfare Director, Assistant Child Welfare Director and other officials of the tribal government shall grant the public acts, records and judicial proceedings of other entities, applicable to child welfare proceedings, full faith and credit to the same extent such entities give full faith and credit to the public acts, records and judicial proceedings of the Tribe.</text>
@@ -318,7 +320,7 @@
       </section>
       <section>
         <num>1.303</num>
-        <heading>Jurisdiction Over Parents And Their Children In Need Of Care</heading>
+        <heading>Jurisdiction over Parents and Their Children in Need of Care</heading>
         <para>
           <num>(1)</num>
           <text>The Children's Court shall have jurisdiction over a minor upon a petition filed by the Child Welfare Director or Assistant Child Welfare Director alleging that the minor is a minor in need of care because of the existence of any of the conditions enumerated in <cite path="VII|1|1.4|1.401">§ 1.401</cite> and <cite path="VII|1|1.5|1.501">§ 1.501</cite> of this ordinance.</text>
@@ -338,27 +340,27 @@
         <text>In addition to jurisdiction granted by other sections of this ordinance, the Children's Court shall have jurisdiction to:</text>
         <para>
           <num>(1)</num>
-          <text>Order a law enforcement officer, the Child Welfare Director, or the Assistant Child Welfare Director to take a child into custody pursuant to <cite path="VII|1|1.1|1.104">§ 1.104</cite> of this ordinance and conduct other emergency custody proceedings as provided for in Subchapter 1.4 of this ordinance.</text>
+          <text>Order a law enforcement officer, the Child Welfare Director, or the Assistant Child Welfare Director to take a child into custody pursuant to <cite path="VII|1|1.1|1.104">§ 1.104</cite> of this ordinance and conduct other emergency custody proceedings as provided for in <cite path="VII|1|1.4">Subchapter 1.4</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Terminate the parental rights of a parent of a child pursuant to Subchapter 1.6 of this ordinance.</text>
+          <text>Terminate the parental rights of a parent of a child pursuant to <cite path="VII|1|1.6">Subchapter 1.6</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>Appoint a guardian for a child pursuant to child pursuant to Subchapter 1.7 of this ordinance.</text>
+          <text>Appoint a guardian for a child pursuant to child pursuant to <cite path="VII|1|1.7">Subchapter 1.7</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>Enter an order of adoption resetting the parental relations of a child pursuant to Subchapter 1.8 of this ordinance.</text>
+          <text>Enter an order of adoption resetting the parental relations of a child pursuant to <cite path="VII|1|1.8">Subchapter 1.8</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>Suspend the parental rights of a parent pursuant to Subchapter 1.6 of this ordinance.</text>
+          <text>Suspend the parental rights of a parent pursuant to <cite path="VII|1|1.6">Subchapter 1.6</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(6)</num>
-          <text>Enter an order of Customary Adoption resetting the parental relations of a child pursuant to Subchapter 1.8 of this ordinance.</text>
+          <text>Enter an order of Customary Adoption resetting the parental relations of a child pursuant to <cite path="VII|1|1.8">Subchapter 1.8</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(7)</num>
@@ -367,7 +369,7 @@
       </section>
       <section>
         <num>1.305</num>
-        <heading>Jurisdiction Over Contributing Adults</heading>
+        <heading>Jurisdiction over Contributing Adults</heading>
         <text>In addition to jurisdiction granted by other sections of this ordinance, the Children's Court shall have jurisdiction over persons eighteen (18) years or older alleged to have contributed to, encouraged, or tended to cause, by act or omission, a condition of a child as described in <cite path="VII|1|1.5|1.501">§ 1.501</cite> of this ordinance as follows:</text>
         <para>
           <num>(1)</num>
@@ -381,11 +383,11 @@
       <section>
         <num>1.306</num>
         <heading>Continuing Jurisdiction</heading>
-        <text>The Children's Court shall have continuing jurisdiction, subject to <cite path="VII|1|1.4|1.404">§ 1.404</cite> and <cite path="VII|1|1.5|1.506">§ 1.506</cite> (8) of this ordinance, over a child who is determined to be subject to this ordinance and shall have the power to modify, extend, or dismiss previous orders, expunge the child's records, or consider petitions based on new evidence concerning the child.</text>
+        <text>The Children's Court shall have continuing jurisdiction, subject to <cite path="VII|1|1.4|1.404">§ 1.404</cite> and <cite path="VII|1|1.5|1.506|(8)">§ 1.506 (8)</cite> of this ordinance, over a child who is determined to be subject to this ordinance and shall have the power to modify, extend, or dismiss previous orders, expunge the child's records, or consider petitions based on new evidence concerning the child.</text>
       </section>
       <section>
         <num>1.307</num>
-        <heading>Precedence Over Family Court Orders</heading>
+        <heading>Precedence over Family Court Orders</heading>
         <text>Whenever an order rendered under this ordinance conflicts with a custody, physical placement, or other family Court order rendered by any Court, the order under this ordinance shall take precedence. Nothing in this ordinance shall be construed to limit the power of the Tribal Court to have jurisdiction over a child under other sections of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law or other law.</text>
       </section>
       <section>
@@ -393,7 +395,7 @@
         <heading>Parties</heading>
         <para>
           <num>(1)</num>
-          <text>In the absence of a specific provision in this ordinance or a court order to the contrary, all Affected Persons, as defined in <cite path="VII|1|1.2|1.201">§ 1.201</cite> (1) of this ordinance, shall be parties to a Children's Court proceeding held in the interest of a child.  Out-of-home placements will receive notices of all proceedings, but their appearances are not required.  After termination of parental rights, no parent whose rights have been terminated shall be entitled to notice of any further proceedings regarding the child, except as the Children's Court may deem appropriate.</text>
+          <text>In the absence of a specific provision in this ordinance or a court order to the contrary, all Affected Persons, as defined in <cite path="VII|1|1.2|1.201|(1)">§ 1.201 (1)</cite> of this ordinance, shall be parties to a Children's Court proceeding held in the interest of a child.  Out-of-home placements will receive notices of all proceedings, but their appearances are not required.  After termination of parental rights, no parent whose rights have been terminated shall be entitled to notice of any further proceedings regarding the child, except as the Children's Court may deem appropriate.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -430,7 +432,7 @@
       </section>
       <section>
         <num>1.310</num>
-        <heading>Psychological And Other Examinations</heading>
+        <heading>Psychological and Other Examinations</heading>
         <text>The Children's Court may in any proceeding under this ordinance, order any child and the child's parents, guardians, or custodians, to submit to a psychological, mental, or developmental examination, or to a drug and alcohol abuse evaluation, if the Court reasonably believes that any condition that may be illuminated by such an examination would assist in the adjudication or disposition of the case.  The costs to any affected person of any such exam, if approved by the Children's Court, shall be paid by the Tribe, if the costs are not covered by a third-party payer.</text>
       </section>
       <section>
@@ -460,14 +462,14 @@
       <section>
         <num>1.313</num>
         <heading>Accelerated Proceedings</heading>
-        <text>Notwithstanding any other provision of this ordinance, the Children's Court may, upon proper notice or waiver of notice, accelerate and combine any of the hearings provided for in pursuant to Subchapter 1.4 [Emergency Custody Proceedings] or Subchapter 1.5 [Minor in Need of Care Proceedings] of this ordinance.  The Children's Court may require the accelerated preparation of any court reports required by either subchapter or may waive the reports, except that any report required as a prerequisite to an out-of-home placement may not be waived.</text>
+        <text>Notwithstanding any other provision of this ordinance, the Children's Court may, upon proper notice or waiver of notice, accelerate and combine any of the hearings provided for in pursuant to <cite path="VII|1|1.4">Subchapter 1.4</cite> [Emergency Custody Proceedings] or <cite path="VII|1|1.5">Subchapter 1.5</cite> [Minor in Need of Care Proceedings] of this ordinance.  The Children's Court may require the accelerated preparation of any court reports required by either subchapter or may waive the reports, except that any report required as a prerequisite to an out-of-home placement may not be waived.</text>
       </section>
       <section>
         <num>1.314</num>
         <heading>Ineligible Children</heading>
         <para>
           <num>(1)</num>
-          <text>Any child that does not fall within the definition of a "Child" pursuant to <cite path="VII|1|1.2|1.201">§ 1.201</cite> (8) of this ordinance, or whose tribe has objected to jurisdiction of the Children's Court prior to the entry of a final judgment in the case under <cite path="VII|1|1.3|1.303">§ 1.303</cite> of this ordinance, shall be subject to this ordinance only if the child is present on the Reservation and only for the following purposes:</text>
+          <text>Any child that does not fall within the definition of a "Child" pursuant to <cite path="VII|1|1.2|1.201|(8)">§ 1.201 (8)</cite> of this ordinance, or whose tribe has objected to jurisdiction of the Children's Court prior to the entry of a final judgment in the case under <cite path="VII|1|1.3|1.303">§ 1.303</cite> of this ordinance, shall be subject to this ordinance only if the child is present on the Reservation and only for the following purposes:</text>
           <para>
             <num>(a)</num>
             <text>Taking into custody for the purpose of protecting the ineligible child from imminent physical or emotional harm;</text>
@@ -488,7 +490,7 @@
       </section>
       <section>
         <num>1.315</num>
-        <heading>Right Of Access To Records</heading>
+        <heading>Right of Access to Records</heading>
         <text>Any party deemed appropriate by the Children's Court, and the child who has reached the age of eighteen (18) years and has been the subject of the termination of parental rights proceeding, the separation of parental rights proceedings, adoption proceeding or a customary adoption proceeding, has the right, to review all of the Court's files on these matters subject to the redaction of names or the rights of confidentially as required by Tribal or federal law.</text>
       </section>
     </container>
@@ -498,7 +500,7 @@
       <heading>Emergency Custody Proceeding</heading>
       <section>
         <num>1.401</num>
-        <heading>Taking A Child Into Emergency Custody</heading>
+        <heading>Taking A Child into Emergency Custody</heading>
         <para>
           <num>(1)</num>
           <text>Any law enforcement officer, the Child Welfare Director, Assistant Child Welfare Director, or a designated child welfare worker may take a child into emergency custody without a Children's Court order, under circumstances in which the officer, Director, or Assistant Director reasonably believes:</text>
@@ -581,7 +583,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>A person who takes a child into emergency custody without a Children's Court order, under the circumstances described in <cite path="VII|1|1.4|1.401">§ 1.401</cite> (1) of this ordinance, shall make reasonable efforts to provide immediate notice to the Children's Court which may be accomplished through submission of an emergency custody form, and/or provide immediate notice to the Child's Tribe if different from the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. Upon notification, the Children's Court shall schedule a hearing pursuant to <cite path="VII|1|1.4|1.404">§ 1.404</cite> of this ordinance, and the Child Welfare Director or Assistant Child Welfare Director shall file a petition with the Children's Court pursuant to Subchapter 1.5 of this ordinance before or at the hearing scheduled pursuant to <cite path="VII|1|1.4|1.404">§ 1.404</cite> of this ordinance.</text>
+          <text>A person who takes a child into emergency custody without a Children's Court order, under the circumstances described in <cite path="VII|1|1.4|1.401|(1)">§ 1.401 (1)</cite> of this ordinance, shall make reasonable efforts to provide immediate notice to the Children's Court which may be accomplished through submission of an emergency custody form, and/or provide immediate notice to the Child's Tribe if different from the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. Upon notification, the Children's Court shall schedule a hearing pursuant to <cite path="VII|1|1.4|1.404">§ 1.404</cite> of this ordinance, and the Child Welfare Director or Assistant Child Welfare Director shall file a petition with the Children's Court pursuant to Subchapter 1.5 of this ordinance before or at the hearing scheduled pursuant to <cite path="VII|1|1.4|1.404">§ 1.404</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -593,31 +595,31 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>The agency taking a child into emergency custody shall thereafter have the authority to make all decisions regarding the care and well-being of the child until the child is released from custody under <cite path="VII|1|1.4|1.402">§ 1.402</cite> of this ordinance, or by order of the court, unless custody is transferred to the Child Welfare Director or Assistant Child Welfare Director, in which case such authority shall transfer therewith. The agency taking a child into custody or the Child Welfare Director or Assistant Child Welfare Director retains custody during any placement made under <cite path="VII|1|1.4|1.403">§ 1.403</cite> (2) or (3) of this ordinance.</text>
+          <text>The agency taking a child into emergency custody shall thereafter have the authority to make all decisions regarding the care and well-being of the child until the child is released from custody under <cite path="VII|1|1.4|1.402">§ 1.402</cite> of this ordinance, or by order of the court, unless custody is transferred to the Child Welfare Director or Assistant Child Welfare Director, in which case such authority shall transfer therewith. The agency taking a child into custody or the Child Welfare Director or Assistant Child Welfare Director retains custody during any placement made under <cite path="VII|1|1.4|1.403">§ 1.403</cite> <cite path="VII|1|1.4|1.403|(2)">(2)</cite> or <cite path="VII|1|1.4|1.403|(3)">(3)</cite> of this ordinance.</text>
         </para>
       </section>
       <section>
         <num>1.402</num>
-        <heading>Release From Emergency Custody</heading>
+        <heading>Release from Emergency Custody</heading>
         <para>
           <num>(1)</num>
           <text>Any child taken into emergency custody shall be released as soon as it is possible to do so, while protecting the child from the conditions causing the taking into emergency custody. If the grounds for emergency custody are corrected, the child may be returned to the parent, guardian, or custodian by the person originally authorizing removal or by the Child Welfare Director or Assistant Child Welfare Director.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>The person taking a child into custody, or the Child Welfare Director or Assistant Child Welfare Director, shall attempt to immediately release the child to his or her parent, guardian, or custodian, unless such release is inconsistent with the child's best interests, or, if the parent, guardian, or custodian is unwilling or unable to receive such child, to a responsible adult, with suitable  counsel, advice, or warning, in which case the name and address of the person to whom the child has been released shall be immediately given to the parent, guardian, or custodian, unless there is reason to believe the release of such information will imminently endanger the child or the person to whom the child has been released.  If the procedure given in <cite path="VII|1|1.4|1.403">§ 1.403</cite>, <cite path="VII|1|1.4|1.404">§ 1.404</cite> and <cite path="VII|1|1.5|1.503">§ 1.503</cite> (a) of this ordinance are not followed, the child's parent, guardian or custodian shall have a right upon court order to exercise custody and supervision over the child.</text>
+          <text>The person taking a child into custody, or the Child Welfare Director or Assistant Child Welfare Director, shall attempt to immediately release the child to his or her parent, guardian, or custodian, unless such release is inconsistent with the child's best interests, or, if the parent, guardian, or custodian is unwilling or unable to receive such child, to a responsible adult, with suitable  counsel, advice, or warning, in which case the name and address of the person to whom the child has been released shall be immediately given to the parent, guardian, or custodian, unless there is reason to believe the release of such information will imminently endanger the child or the person to whom the child has been released.  If the procedure given in <cite path="VII|1|1.4|1.403">§ 1.403</cite>, <cite path="VII|1|1.4|1.404">§ 1.404</cite> and <cite path="VII|1|1.5|1.503|(a)">§ 1.503 (a)</cite> of this ordinance are not followed, the child's parent, guardian or custodian shall have a right upon court order to exercise custody and supervision over the child.</text>
         </para>
       </section>
       <section>
         <num>1.403</num>
-        <heading>Holding A Child In Emergency Custody</heading>
+        <heading>Holding A Child in Emergency Custody</heading>
         <para>
           <num>(1)</num>
-          <text>A child may be held in emergency custody if the Child Welfare Director or Assistant Child Welfare Director has probable cause to believe that any of the conditions enumerated in         <cite path="VII|1|1.4|1.401">§ 1.401</cite> (1) of this ordinance exists.</text>
+          <text>A child may be held in emergency custody if the Child Welfare Director or Assistant Child Welfare Director has probable cause to believe that any of the conditions enumerated in         <cite path="VII|1|1.4|1.401|(1)">§ 1.401 (1)</cite> of this ordinance exists.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>No child shall be held in secure custody, as defined in <cite path="VII|1|1.2|1.201">§ 1.201</cite> (25) of this ordinance, unless the child consents to secure custody in order to protect him or her from an imminent physical threat from another, or such secure custody is ordered by the Children's Court.</text>
+          <text>No child shall be held in secure custody, as defined in <cite path="VII|1|1.2|1.201|(25)">§ 1.201 (25)</cite> of this ordinance, unless the child consents to secure custody in order to protect him or her from an imminent physical threat from another, or such secure custody is ordered by the Children's Court.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -666,10 +668,10 @@
       </section>
       <section>
         <num>1.404</num>
-        <heading>Hearings For Child In Emergency Custody</heading>
+        <heading>Hearings for Child in Emergency Custody</heading>
         <para>
           <num>(1)</num>
-          <text>For any child who has been taken into custody and not released under <cite path="VII|1|1.4|1.402">§ 1.402</cite> of this ordinance, a hearing shall be held to determine whether the criteria exist under <cite path="VII|1|1.4|1.401">§ 1.401</cite> and <cite path="VII|1|1.4|1.403">§ 1.403</cite> of this ordinance to continue holding the child in custody.  The hearing shall be held as soon as practicable but no more than ten (10) days after the child is taken into custody. A petition under Subchapter 1.5 of this ordinance shall be filed before or at the hearing. All reasonable steps shall be taken to notify the child's parents, guardian, and custodian of the hearing. If the parent, guardian, or custodian does not receive actual notice, he or she may later request a rehearing by right if the child is still under the Court's jurisdiction or the issue is not otherwise moot.</text>
+          <text>For any child who has been taken into custody and not released under <cite path="VII|1|1.4|1.402">§ 1.402</cite> of this ordinance, a hearing shall be held to determine whether the criteria exist under <cite path="VII|1|1.4|1.401">§ 1.401</cite> and <cite path="VII|1|1.4|1.403">§ 1.403</cite> of this ordinance to continue holding the child in custody.  The hearing shall be held as soon as practicable but no more than ten (10) days after the child is taken into custody. A petition under <cite path="VII|1|1.5">Subchapter 1.5</cite> of this ordinance shall be filed before or at the hearing. All reasonable steps shall be taken to notify the child's parents, guardian, and custodian of the hearing. If the parent, guardian, or custodian does not receive actual notice, he or she may later request a rehearing by right if the child is still under the Court's jurisdiction or the issue is not otherwise moot.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -681,7 +683,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>A copy of the petition under <cite path="VII|1|1.4|1.404">this section</cite> and Subchapter 1.5 of this ordinance shall be given to the child's parent, guardian, or legal custodian, and to the child if twelve (12) or older, as soon as practicable, and in no case later than the commencement of the hearing.</text>
+          <text>A copy of the petition under <cite path="VII|1|1.4|1.404">this section</cite> and <cite path="VII|1|1.5">Subchapter 1.5</cite> of this ordinance shall be given to the child's parent, guardian, or legal custodian, and to the child if twelve (12) or older, as soon as practicable, and in no case later than the commencement of the hearing.</text>
         </para>
         <para>
           <num>(5)</num>
@@ -689,7 +691,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>If the Children's Court finds that one or more of the conditions enumerated in <cite path="VII|1|1.4|1.401">§ 1.401</cite> (1) of this ordinance exists, it may continue custody in any of the placements enumerated in <cite path="VII|1|1.4|1.403">§ 1.403</cite> (3) of this ordinance.  The Children's Court may also impose reasonable restrictions on the child's travel, association with other persons, or places of abode, and may assign the child to the supervision of the Indian Child Welfare Department.  Reasonable restrictions may be placed upon the conduct of the parents, guardians, custodians, or other responsible adults as necessary to secure the safety and well-being of the child.  Any order entered under <cite path="VII|1|1.4|1.404">this section</cite> shall be reduced to writing within ten (10) days thereof.</text>
+          <text>If the Children's Court finds that one or more of the conditions enumerated in <cite path="VII|1|1.4|1.401|(1)">§ 1.401 (1)</cite> of this ordinance exists, it may continue custody in any of the placements enumerated in <cite path="VII|1|1.4|1.403|(3)">§ 1.403 (3)</cite> of this ordinance.  The Children's Court may also impose reasonable restrictions on the child's travel, association with other persons, or places of abode, and may assign the child to the supervision of the Indian Child Welfare Department.  Reasonable restrictions may be placed upon the conduct of the parents, guardians, custodians, or other responsible adults as necessary to secure the safety and well-being of the child.  Any order entered under <cite path="VII|1|1.4|1.404">this section</cite> shall be reduced to writing within ten (10) days thereof.</text>
         </para>
         <para>
           <num>(7)</num>
@@ -716,7 +718,7 @@
           <num>(4)</num>
           <text>Obtaining all necessary and recommended prenatal care, including mental health services if recommended by her health care provider(s).</text>
           <text>
-            <u>SUBCHAPTER 1.5 – MINOR IN NEED OF CARE PROCEEDINGS</u>
+            <u><cite path="VII|1|1.5">SUBCHAPTER 1.5</cite> – MINOR IN NEED OF CARE PROCEEDINGS</u>
           </text>
         </para>
       </section>
@@ -815,7 +817,7 @@
       </section>
       <section>
         <num>1.502</num>
-        <heading>Petition And Notice Of Hearing</heading>
+        <heading>Petition and Notice of Hearing</heading>
         <para>
           <num>(1)</num>
           <text>Any petition under this ordinance shall be filed with the Children's Court, shall be made under oath, and shall include the following information if known: child's name, date of birth, parents' names, child's parents' last known addresses, and the names and addresses of all other affected persons.  Any petition filed under this ordinance shall be signed under oath by the Child Welfare Director or the Assistant Child Welfare Director.</text>
@@ -1030,7 +1032,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>When a child has been found to be in need of care under sections <cite path="VII|1|1.5|1.505">§ 1.505</cite> (14) [school truancy] or <cite path="VII|1|1.5|1.505">§ 1.505</cite> (16) and (17) [violation of state, federal, or tribal law] of this ordinance, the Children's Court may in its discretion order disclosure of such facts in the matter as it deems appropriate to the community or to the victim, and may order the child to perform such activities for, with, or on behalf of the community or victim, as appropriate, that may promote rehabilitation of the child or reconciliation of the child with the community or victim.</text>
+          <text>When a child has been found to be in need of care under sections <cite path="VII|1|1.5|1.505|(14)">§ 1.505 (14)</cite> [school truancy] or <cite path="VII|1|1.5|1.505">§ 1.505</cite> <cite path="VII|1|1.5|1.505|(16)">(16)</cite> and <cite path="VII|1|1.5|1.505|(17)">(17)</cite> [violation of state, federal, or tribal law] of this ordinance, the Children's Court may in its discretion order disclosure of such facts in the matter as it deems appropriate to the community or to the victim, and may order the child to perform such activities for, with, or on behalf of the community or victim, as appropriate, that may promote rehabilitation of the child or reconciliation of the child with the community or victim.</text>
         </para>
         <para>
           <num>(8)</num>
@@ -1050,7 +1052,7 @@
         </para>
         <para>
           <num>(12)</num>
-          <text>Whenever the Children's Court orders a child to be placed outside the home, the Court shall orally inform the parents who appear in Court, and shall include in the written order a statement, of any ground for termination or separation of parental rights under Subchapter 1.6 that may be applicable.</text>
+          <text>Whenever the Children's Court orders a child to be placed outside the home, the Court shall orally inform the parents who appear in Court, and shall include in the written order a statement, of any ground for termination or separation of parental rights under <cite path="VII|1|1.6">Subchapter 1.6</cite> that may be applicable.</text>
         </para>
         <para>
           <num>(13)</num>
@@ -1058,7 +1060,7 @@
         </para>
         <para>
           <num>(14)</num>
-          <text>Whenever the Children's Court orders a child to be placed outside the home, the Children's Court may make the referral described under <cite path="VII|1|1.3|1.312">§ 1.312</cite> (2) of this ordinance.</text>
+          <text>Whenever the Children's Court orders a child to be placed outside the home, the Children's Court may make the referral described under <cite path="VII|1|1.3|1.312|(2)">§ 1.312 (2)</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(15)</num>
@@ -1067,14 +1069,14 @@
       </section>
       <section>
         <num>1.507</num>
-        <heading>Reviews, Extensions, And Modifications</heading>
+        <heading>Reviews, Extensions, and Modifications</heading>
         <para>
           <num>(1)</num>
           <text>A dispositional order shall be reviewed at the Children's Court's discretion, with a goal of every three months but at least every six months.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>At any time in the last sixty (60) days of the period in which a dispositional order issued by the Children's Court or issued by another Court and subsequently transferred to the Children's Court is effective, the Child Welfare Director or the Assistant Child Welfare Director may move for an extension of the Court's dispositional order.  Such motion shall be filed with the Children's Court.  The Clerk of Court shall serve copies on all affected persons who were parties to the original proceedings, the Child Welfare Director or the Assistant Child Welfare Director, and the guardian ad litem, except that the Court may order additional parties served.  Service may be made by first class mail.  The motion shall be filed and served together with a notice of hearing on the motion no later than five (5) working days before the hearing.  Service may be made by first class mail.  The hearing so noticed will be on the merits of the motion unless the Court otherwise orders.  To assist the Court, parties and guardian ad litem, the petitioning party must prepare, file and serve a court report, similar to those called for in <cite path="VII|1|1.5|1.506">§ 1.506</cite> (2) of this ordinance, and under the same conditions as set forth in <cite path="VII|1|1.5|1.506">§ 1.506</cite> (2) of this ordinance, along with the petition and notice.</text>
+          <text>At any time in the last sixty (60) days of the period in which a dispositional order issued by the Children's Court or issued by another Court and subsequently transferred to the Children's Court is effective, the Child Welfare Director or the Assistant Child Welfare Director may move for an extension of the Court's dispositional order.  Such motion shall be filed with the Children's Court.  The Clerk of Court shall serve copies on all affected persons who were parties to the original proceedings, the Child Welfare Director or the Assistant Child Welfare Director, and the guardian ad litem, except that the Court may order additional parties served.  Service may be made by first class mail.  The motion shall be filed and served together with a notice of hearing on the motion no later than five (5) working days before the hearing.  Service may be made by first class mail.  The hearing so noticed will be on the merits of the motion unless the Court otherwise orders.  To assist the Court, parties and guardian ad litem, the petitioning party must prepare, file and serve a court report, similar to those called for in <cite path="VII|1|1.5|1.506|(2)">§ 1.506 (2)</cite> of this ordinance, and under the same conditions as set forth in <cite path="VII|1|1.5|1.506|(2)">§ 1.506 (2)</cite> of this ordinance, along with the petition and notice.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -1086,7 +1088,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>Upon motion by any person with an interest in the child who was a party to the original proceedings or the Child Welfare Director or the Assistant Child Welfare Director, the Children's Court may, for good cause shown, modify a dispositional order any time during the effective period of the order sought to be modified.  Such motion shall be filed with the Children's Court.  The Clerk of Court shall serve affected persons who were parties to the original proceedings, the Child Welfare Director or the Assistant Child Welfare Director, and any guardian ad litem, except that the Children's Court may order additional parties served.  Service may be made by first class mail.  The motion shall be filed and served together with a notice of hearing on the motion. The hearing so noticed will be on the merits of the motion unless the Court otherwise orders. To assist the Court, parties and guardian ad litem, the petitioning party must prepare, file and serve a court report, similar to those called for in <cite path="VII|1|1.5|1.506">§ 1.506</cite> (2) of this ordinance, and under the same conditions as set forth in sub<cite path="VII|1|1.4|1.507|(2)">section (2)</cite> above, along with the motion.</text>
+          <text>Upon motion by any person with an interest in the child who was a party to the original proceedings or the Child Welfare Director or the Assistant Child Welfare Director, the Children's Court may, for good cause shown, modify a dispositional order any time during the effective period of the order sought to be modified.  Such motion shall be filed with the Children's Court.  The Clerk of Court shall serve affected persons who were parties to the original proceedings, the Child Welfare Director or the Assistant Child Welfare Director, and any guardian ad litem, except that the Children's Court may order additional parties served.  Service may be made by first class mail.  The motion shall be filed and served together with a notice of hearing on the motion. The hearing so noticed will be on the merits of the motion unless the Court otherwise orders. To assist the Court, parties and guardian ad litem, the petitioning party must prepare, file and serve a court report, similar to those called for in <cite path="VII|1|1.5|1.506|(2)">§ 1.506 (2)</cite> of this ordinance, and under the same conditions as set forth in sub<cite path="VII|1|1.4|1.507|(2)">section (2)</cite> above, along with the motion.</text>
         </para>
         <para>
           <num>(6)</num>
@@ -1098,11 +1100,11 @@
         <heading>Permanency Planning</heading>
         <para>
           <num>(1)</num>
-          <text>The Child Welfare Director or the Assistant Child Welfare Director shall prepare a court report pursuant to <cite path="VII|1|1.5|1.506">§ 1.506</cite> (2) of this ordinance including the permanency planning requirements specified in sub<cite path="VII|1|1.4|1.508|(2)">section (2)</cite> below, in every case where an out-of-home placement is ordered.</text>
+          <text>The Child Welfare Director or the Assistant Child Welfare Director shall prepare a court report pursuant to <cite path="VII|1|1.5|1.506|(2)">§ 1.506 (2)</cite> of this ordinance including the permanency planning requirements specified in sub<cite path="VII|1|1.4|1.508|(2)">section (2)</cite> below, in every case where an out-of-home placement is ordered.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>The permanency planning requirements of the court report prepared pursuant to <cite path="VII|1|1.5|1.506">§ 1.506</cite> (2) of this ordinance shall describe the following:</text>
+          <text>The permanency planning requirements of the court report prepared pursuant to <cite path="VII|1|1.5|1.506|(2)">§ 1.506 (2)</cite> of this ordinance shall describe the following:</text>
           <para>
             <num>(a)</num>
             <text>The services offered to prevent out of home placement and to facilitate the child's return to home.</text>
@@ -1134,7 +1136,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>The Children's Court shall review the permanency planning requirements of the court report prepared pursuant to <cite path="VII|1|1.5|1.506">§ 1.506</cite> (b) of this ordinance with a goal of every three months but at least every six months from the first date on which the child was held in physical custody or was placed outside the home. No less than ten (10) days before the review, the Clerk of Court shall notify in writing the parents or guardians, the child if over twelve (12) years of age, the foster parents, the Child Welfare Director or the Assistant Child Welfare Director, the tribal attorney, and the guardian ad litem of the date, time, and place of the review, of the issues to be determined in the review, and that they may submit written comments no less than five (5) days before the review. Upon receipt, the Clerk of Court shall submit any comments submitted pursuant to this paragraph to the Child Welfare Director or the Assistant Child Welfare Director, the Tribe's attorney and any guardian ad litem.</text>
+          <text>The Children's Court shall review the permanency planning requirements of the court report prepared pursuant to <cite path="VII|1|1.5|1.506|(b)">§ 1.506 (b)</cite> of this ordinance with a goal of every three months but at least every six months from the first date on which the child was held in physical custody or was placed outside the home. No less than ten (10) days before the review, the Clerk of Court shall notify in writing the parents or guardians, the child if over twelve (12) years of age, the foster parents, the Child Welfare Director or the Assistant Child Welfare Director, the tribal attorney, and the guardian ad litem of the date, time, and place of the review, of the issues to be determined in the review, and that they may submit written comments no less than five (5) days before the review. Upon receipt, the Clerk of Court shall submit any comments submitted pursuant to this paragraph to the Child Welfare Director or the Assistant Child Welfare Director, the Tribe's attorney and any guardian ad litem.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -1169,7 +1171,7 @@
           </para>
           <para>
             <num>(g)</num>
-            <text>If the child has been placed out of home for two years or more, the appropriateness of the permanency planning requirements of the court report prepared pursuant to <cite path="VII|1|1.5|1.506">§ 1.506</cite> (b) of this ordinance and the circumstances which prevent the child from:</text>
+            <text>If the child has been placed out of home for two years or more, the appropriateness of the permanency planning requirements of the court report prepared pursuant to <cite path="VII|1|1.5|1.506|(b)">§ 1.506 (b)</cite> of this ordinance and the circumstances which prevent the child from:</text>
             <para>
               <num>(i)</num>
               <text>Being returned home.</text>
@@ -1190,11 +1192,11 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>Any party may move the Children's Court for any appropriate modifications in the dispositional order based on the permanency planning requirements of the court report prepared pursuant to <cite path="VII|1|1.5|1.506">§ 1.506</cite> (2) of this ordinance.</text>
+          <text>Any party may move the Children's Court for any appropriate modifications in the dispositional order based on the permanency planning requirements of the court report prepared pursuant to <cite path="VII|1|1.5|1.506|(2)">§ 1.506 (2)</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(7)</num>
-          <text>The permanency planning requirements of the court report prepared pursuant to <cite path="VII|1|1.5|1.506">§ 1.506</cite> (2) of this ordinance and reviews shall comply with all applicable provisions of federal law and of any applicable 161 Agreement.</text>
+          <text>The permanency planning requirements of the court report prepared pursuant to <cite path="VII|1|1.5|1.506|(2)">§ 1.506 (2)</cite> of this ordinance and reviews shall comply with all applicable provisions of federal law and of any applicable 161 Agreement.</text>
         </para>
         <para>
           <num>(8)</num>
@@ -1209,23 +1211,23 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>The Child Welfare Department or such other agency as is primarily responsible for providing services to the child and the family has not provided to the family of the child, consistent with the time period in the child's permanency plan, such services necessary for the safe return of the child to the child's home, if reasonable efforts are required by the court order or permanency planning requirements of the court report prepared pursuant to <cite path="VII|1|1.5|1.506">§ 1.506</cite> (b) of this ordinance.</text>
+            <text>The Child Welfare Department or such other agency as is primarily responsible for providing services to the child and the family has not provided to the family of the child, consistent with the time period in the child's permanency plan, such services necessary for the safe return of the child to the child's home, if reasonable efforts are required by the court order or permanency planning requirements of the court report prepared pursuant to <cite path="VII|1|1.5|1.506|(b)">§ 1.506 (b)</cite> of this ordinance.</text>
             <text>
-              <u>SUBCHAPTER 1.6 – Termination OR SUSPENSION of Parental Rights</u>
+              <u><cite path="VII|1|1.6">SUBCHAPTER 1.6</cite> – Termination OR SUSPENSION of Parental Rights</u>
             </text>
           </para>
         </para>
       </section>
       <section>
         <num>1.601</num>
-        <heading>Effect Of Termination; Petition And Hearing Required</heading>
+        <heading>Effect of Termination; Petition and Hearing Required</heading>
         <para>
           <num>(1)</num>
           <text>Termination of parental rights means that, pursuant to court order, the legal relationship of parent and child is permanently severed.  The effect of a decree of termination of parental rights is to permanently end the parent-child relationship, to remove the parent from all rights and responsibilities with respect to the child, and to sever all legal relationships, including all rights of intestate distribution and succession, custody, control, and financial responsibility, but shall not affect other familial, religious, or tribal relationships arising out of the natural parent-child relationship.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Termination of parental rights may be ordered only in a proceeding where the petition clearly states that the petitioner is seeking an order of termination of parental rights, and where the mother and father have been summoned to appear before the Children's Court.  The parental rights of an unadjudicated or unacknowledged father may be terminated after service of the summons and petition as provided in <cite path="VII|1|1.6|1.606">§ 1.606</cite> (1) and (2) of this ordinance on all persons named by the mother as the possible father or, in the case of an unknown father, after publication of the notice as provided in section <cite path="VII|1|1.6|1.606">§ 1.606</cite> (2) of this ordinance. If any individual appears claiming paternity and contesting the termination of rights, the Court shall establish paternity to its satisfaction before considering the termination of the individual's parental rights.  Where no individual appears claiming paternity and where paternal parental rights are terminated by default, no such termination will be considered conclusive with regard to the child's rights of membership in the Tribe.</text>
+          <text>Termination of parental rights may be ordered only in a proceeding where the petition clearly states that the petitioner is seeking an order of termination of parental rights, and where the mother and father have been summoned to appear before the Children's Court.  The parental rights of an unadjudicated or unacknowledged father may be terminated after service of the summons and petition as provided in <cite path="VII|1|1.6|1.606">§ 1.606</cite> <cite path="VII|1|1.6|1.606|(1)">(1)</cite> and <cite path="VII|1|1.6|1.606|(2)">(2)</cite> of this ordinance on all persons named by the mother as the possible father or, in the case of an unknown father, after publication of the notice as provided in section <cite path="VII|1|1.6|1.606|(2)">§ 1.606 (2)</cite> of this ordinance. If any individual appears claiming paternity and contesting the termination of rights, the Court shall establish paternity to its satisfaction before considering the termination of the individual's parental rights.  Where no individual appears claiming paternity and where paternal parental rights are terminated by default, no such termination will be considered conclusive with regard to the child's rights of membership in the Tribe.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -1234,7 +1236,7 @@
       </section>
       <section>
         <num>1.602</num>
-        <heading>Grounds For Involuntary Termination</heading>
+        <heading>Grounds for Involuntary Termination</heading>
         <text>Termination of parental rights may be ordered only in cases where the Children's Court finds beyond a reasonable doubt that one or more of the following grounds exists:</text>
         <para>
           <num>(1)</num>
@@ -1270,7 +1272,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text><u>Failure to assume parental responsibility</u>.  The child is a non-marital child whose non-custodial parent has not subsequently adopted the child or married the child's custodial parent and who has not established a substantial parental relationship with the child, as defined in <cite path="VII|1|1.2|1.201">§ 1.201</cite> (26) of this ordinance.</text>
+          <text><u>Failure to assume parental responsibility</u>.  The child is a non-marital child whose non-custodial parent has not subsequently adopted the child or married the child's custodial parent and who has not established a substantial parental relationship with the child, as defined in <cite path="VII|1|1.2|1.201|(26)">§ 1.201 (26)</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(6)</num>
@@ -1283,7 +1285,7 @@
       </section>
       <section>
         <num>1.603</num>
-        <heading>Method For Giving Consent To Voluntary Termination</heading>
+        <heading>Method for Giving Consent to Voluntary Termination</heading>
         <text>The Children's Court may terminate the parental rights of a parent who has given his or her informed, voluntary consent by one of the methods provided in <cite path="VII|1|1.4|1.603">this section</cite>.</text>
         <para>
           <num>(1)</num>
@@ -1304,7 +1306,7 @@
       </section>
       <section>
         <num>1.604</num>
-        <heading>Petition For Voluntary Or Involuntary Termination</heading>
+        <heading>Petition for Voluntary or Involuntary Termination</heading>
         <para>
           <num>(1)</num>
           <text>A termination of parental rights, whether voluntary or involuntary, may only be granted upon a petition as provided for in <cite path="VII|1|1.4|1.604">this section</cite>.</text>
@@ -1369,7 +1371,7 @@
       </section>
       <section>
         <num>1.606</num>
-        <heading>Service Of Summons And Petition</heading>
+        <heading>Service of Summons and Petition</heading>
         <para>
           <num>(1)</num>
           <text>The Clerk of Court shall cause the summons and petition to be served on the parent or parents of the child; any person who may, based on statements of the person or the mother, be the father of the child; the guardian, guardian ad litem, and custodian of the child, as applicable; and the child, if 12 years of age or older, except that no summons and petition need be served on any person who may be the father of a child conceived as a result of sexual assault.</text>
@@ -1460,13 +1462,13 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>If the petition is not contested, the Children's Court shall explain the effect of a termination of parental rights and shall question the parents consenting to termination in order to determine if such consent is informed and voluntary.  The Court shall make findings of fact on the record supporting its conclusions that consent is informed and voluntary before proceeding further with a voluntary termination.  The Court shall set a date for a dispositional hearing no later than 45 days from the date of the initial hearing, unless all parties consent to an immediate hearing and the report required by <cite path="VII|1|1.6|1.609">§ 1.609</cite> (1) of this ordinance has been filed, in which case the Court may immediately so proceed.</text>
+          <text>If the petition is not contested, the Children's Court shall explain the effect of a termination of parental rights and shall question the parents consenting to termination in order to determine if such consent is informed and voluntary.  The Court shall make findings of fact on the record supporting its conclusions that consent is informed and voluntary before proceeding further with a voluntary termination.  The Court shall set a date for a dispositional hearing no later than 45 days from the date of the initial hearing, unless all parties consent to an immediate hearing and the report required by <cite path="VII|1|1.6|1.609|(1)">§ 1.609 (1)</cite> of this ordinance has been filed, in which case the Court may immediately so proceed.</text>
         </para>
       </section>
       <section>
         <num>1.608</num>
         <heading>Fact Finding Hearing</heading>
-        <text>At the fact finding hearing the Children's Court shall determine whether the facts alleged in a petition that has been contested are true beyond a reasonable doubt.  If the Court so finds, it shall proceed immediately to a dispositional hearing unless all parties agree to a delay or unless the report required in <cite path="VII|1|1.6|1.609">§ 1.609</cite> (1) of this ordinance has not been completed, in which case the Court shall set a hearing date no later than 30 days after the fact-finding hearing.</text>
+        <text>At the fact finding hearing the Children's Court shall determine whether the facts alleged in a petition that has been contested are true beyond a reasonable doubt.  If the Court so finds, it shall proceed immediately to a dispositional hearing unless all parties agree to a delay or unless the report required in <cite path="VII|1|1.6|1.609|(1)">§ 1.609 (1)</cite> of this ordinance has not been completed, in which case the Court shall set a hearing date no later than 30 days after the fact-finding hearing.</text>
       </section>
       <section>
         <num>1.609</num>
@@ -1528,7 +1530,7 @@
           </para>
           <para>
             <num>(e)</num>
-            <text>The Children's Court shall inform any parent whose rights have been terminated of the provisions of Wis. Stats. §§ <cite path="VII|48|48.4|48.432">48.432</cite> and <cite path="VII|48|48.4|48.433">48.433</cite> and of <cite path="VII|1|1.8|1.807">§ 1.807</cite> (2) of this ordinance, relating to medical and identifying information.</text>
+            <text>The Children's Court shall inform any parent whose rights have been terminated of the provisions of Wis. Stats. §§ <cite path="VII|48|48.4|48.432">48.432</cite> and <cite path="VII|48|48.4|48.433">48.433</cite> and of <cite path="VII|1|1.8|1.807|(2)">§ 1.807 (2)</cite> of this ordinance, relating to medical and identifying information.</text>
           </para>
           <para>
             <num>(f)</num>
@@ -1542,12 +1544,12 @@
       </section>
       <section>
         <num>1.610</num>
-        <heading>Suspension Of Parental Rights</heading>
+        <heading>Suspension of Parental Rights</heading>
         <text>The Children's Court may suspend the parental rights of a parent who has given his and/or her informed, voluntary consent as provided in this subsection.</text>
       </section>
       <section>
         <num>1.611</num>
-        <heading>Petition For Suspension Of Parental Rights</heading>
+        <heading>Petition for Suspension of Parental Rights</heading>
         <para>
           <num>(1)</num>
           <text>Any adult or agency possessing custody of a minor child may file a petition with the Clerk of Court seeking an order for the suspension of the parental rights of child. The petition shall begin with the caption, "In re the Suspension of Parental Rights of (names of biological parents) to (name of child), born (birthdate of child)." The petition shall contain the following information:</text>
@@ -1591,12 +1593,12 @@
       </section>
       <section>
         <num>1.612</num>
-        <heading>Notice Of Hearing On Petition To Suspend Parental Rights</heading>
+        <heading>Notice of Hearing on Petition to Suspend Parental Rights</heading>
         <text>Upon the filing of a petition seeking an order for the suspension of parental rights, the Clerk of Court shall schedule a hearing to be held thereon and shall cause written notice of such hearing to be served upon the petitioner; the child's tribe; the child's parent(s); family members; caretaker, if any; and appropriate agencies of the Tribe which may either have an interest in the proceeding or be of assistance to the Children's Court in adjudicating this matter. Such notice shall be served in the manner provided for in <cite path="II|1">2 LCOTCL Chapter 1</cite>. A Guardian ad Litem may be appointed to assist the Court in determining the best interests of the child. The petitioner(s) biological parents and Guardian ad Litem enjoy automatic party status.</text>
       </section>
       <section>
         <num>1.613</num>
-        <heading>Hearing On Petition To Suspend Parental Rights</heading>
+        <heading>Hearing on Petition to Suspend Parental Rights</heading>
         <para>
           <num>(1)</num>
           <text><u>Attendance at Hearing</u>.</text>
@@ -1714,19 +1716,19 @@
           </para>
           <para>
             <num>(e)</num>
-            <text>Final orders for the suspension of parental rights may be reviewed by the Children's Court at the request of the biological parent, the agency or agencies possessing custody of the child only if one of the following occurs: if there is no final dispositional order based on the permanency planning requirements of the court report prepared pursuant to <cite path="VII|1|1.5|1.506">§ 1.506</cite> (2) of this ordinance, in effect after a period of one (1) year after the entry of the final order suspending parental rights; the adoption of the child fails; the adoptive parent is deceased; or if the adoptive parent(s) joins in the biological parents request for review. Notice of this review shall be provided to all parties to the hearing at which the final suspension of parental rights order was issued.</text>
+            <text>Final orders for the suspension of parental rights may be reviewed by the Children's Court at the request of the biological parent, the agency or agencies possessing custody of the child only if one of the following occurs: if there is no final dispositional order based on the permanency planning requirements of the court report prepared pursuant to <cite path="VII|1|1.5|1.506|(2)">§ 1.506 (2)</cite> of this ordinance, in effect after a period of one (1) year after the entry of the final order suspending parental rights; the adoption of the child fails; the adoptive parent is deceased; or if the adoptive parent(s) joins in the biological parents request for review. Notice of this review shall be provided to all parties to the hearing at which the final suspension of parental rights order was issued.</text>
             <text>
-              <u>SUBCHAPTER 1.7 – Guardianship</u>
+              <u><cite path="VII|1|1.7">SUBCHAPTER 1.7</cite> – Guardianship</u>
             </text>
           </para>
         </para>
       </section>
       <section>
         <num>1.701</num>
-        <heading>Petition For Guardianship</heading>
+        <heading>Petition for Guardianship</heading>
         <para>
           <num>(1)</num>
-          <text>Upon petition by any person with a legitimate interest in the welfare of the child, including persons with an interest in the child, including persons with an interest as defined in    <cite path="VII|1|1.2|1.201">§ 1.201</cite> (22) of this ordinance, the Children's Court may appoint a guardian for a child who is without both parents or whose parents are unable to care for the child. Except when the petitioner is a person with an interest in the child as defined in <cite path="VII|1|1.2|1.201">§ 1.201</cite> (22) of this ordinance, the decision to allow a person to petition for the appointment of a guardian shall be in the Court's discretion. The Court may impose any restriction or limitation on the powers of a guardian, or condition its appointment on the guardian's performance of specified duties, not inconsistent with <cite path="VII|1|1.4">this subchapter</cite>, it finds will help protect the child's interest.</text>
+          <text>Upon petition by any person with a legitimate interest in the welfare of the child, including persons with an interest in the child, including persons with an interest as defined in    <cite path="VII|1|1.2|1.201|(22)">§ 1.201 (22)</cite> of this ordinance, the Children's Court may appoint a guardian for a child who is without both parents or whose parents are unable to care for the child. Except when the petitioner is a person with an interest in the child as defined in <cite path="VII|1|1.2|1.201|(22)">§ 1.201 (22)</cite> of this ordinance, the decision to allow a person to petition for the appointment of a guardian shall be in the Court's discretion. The Court may impose any restriction or limitation on the powers of a guardian, or condition its appointment on the guardian's performance of specified duties, not inconsistent with <cite path="VII|1|1.4">this subchapter</cite>, it finds will help protect the child's interest.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1775,12 +1777,12 @@
       </section>
       <section>
         <num>1.702</num>
-        <heading>Notice Of Hearing</heading>
+        <heading>Notice of Hearing</heading>
         <text>The notice of hearing shall state the time, date, and place of hearing on the petition, the names of the proposed ward and guardian, and the name, address and telephone number of the petitioner and the petitioner's attorney, if any.</text>
       </section>
       <section>
         <num>1.703</num>
-        <heading>Service Of Notice Of Hearing And Petition</heading>
+        <heading>Service of Notice of Hearing and Petition</heading>
         <para>
           <num>(1)</num>
           <text>The notice of hearing and petition shall be served by the petitioner upon any parent of the proposed ward, any current guardian or custodian of the proposed ward, the Child Welfare Director or the Assistant Child Welfare Director, and the guardian ad litem, if any. The Clerk of Court may serve the summons and petition on behalf of the petitioner. The Child Welfare Director or the Assistant Child Welfare Director is not required to appear in a guardianship case under <cite path="VII|1|1.4">this subchapter</cite>, but at the director's discretion may appear and participate as a party.</text>
@@ -1836,7 +1838,7 @@
       </section>
       <section>
         <num>1.705</num>
-        <heading>Appointment Of Guardian</heading>
+        <heading>Appointment of Guardian</heading>
         <para>
           <num>(1)</num>
           <text>The Children's Court may appoint a guardian of the child, a guardian of the estate, or both, as requested in the petition. The guardianship so established may be temporary or permanent, as requested in the petition.</text>
@@ -1856,7 +1858,7 @@
       </section>
       <section>
         <num>1.706</num>
-        <heading>Termination Or Change Of Guardianship</heading>
+        <heading>Termination or Change of Guardianship</heading>
         <para>
           <num>(1)</num>
           <text>A guardianship may be altered or terminated, or a new guardian appointed, by the same procedures as established by <cite path="VII|1|1.4">this subchapter</cite> for the appointment of a guardian.</text>
@@ -1868,17 +1870,17 @@
       </section>
       <section>
         <num>1.707</num>
-        <heading>Voluntary Consent To Exercise Custodial Rights</heading>
+        <heading>Voluntary Consent to Exercise Custodial Rights</heading>
         <text>The parent or parents with legal custody of a child may enter into a voluntary agreement with an adult or adults transferring the rights of custody to the child to the designated adult or adults. The parties may present the agreement to the Children's Court for approval, and if approved the agreement may not be revoked by any party except with the consent of the other party or parties, or pursuant to the terms of the agreement, or with Court approval. Such an agreement, whether or not approved by the Children's Court, does not affect the rights of any person who is not a party to the agreement.</text>
       </section>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>1.8</num>
-      <heading>Adoption And Customary Adoption</heading>
+      <heading>Adoption and Customary Adoption</heading>
       <section>
         <num>1.801</num>
-        <heading>Effect Of Adoption And Customary Adoption; Who May Adopt And Be Adopted</heading>
+        <heading>Effect of Adoption and Customary Adoption; Who May Adopt and Be Adopted</heading>
         <para>
           <num>(1)</num>
           <text>Upon entry of the order of adoption (including customary adoption), the relation of parent and child together with all the rights, duties, and other legal consequences of the natural relation of parent and child exist between the adoptive parents and adopted child.</text>
@@ -1889,7 +1891,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Any child as defined <cite path="VII|1|1.2|1.201">§ 1.201</cite> (8) of this ordinance may be adopted (including customary adoption), provided that all parental rights have been severed by Court action or the death of the parent.</text>
+          <text>Any child as defined <cite path="VII|1|1.2|1.201|(8)">§ 1.201 (8)</cite> of this ordinance may be adopted (including customary adoption), provided that all parental rights have been severed by Court action or the death of the parent.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -1936,7 +1938,7 @@
           <text>A petition for adoption (including customary adoption) pursuant to <cite path="VII|1|1.8">this subchapter</cite> may be filed at any time if:</text>
           <para>
             <num>(a)</num>
-            <text>The child is the extended family as <cite path="VII|1|1.2|1.201">§ 1.201</cite> (16) of this ordinance, of one of the petitioners, or</text>
+            <text>The child is the extended family as <cite path="VII|1|1.2|1.201|(16)">§ 1.201 (16)</cite> of this ordinance, of one of the petitioners, or</text>
           </para>
           <para>
             <num>(b)</num>
@@ -1994,7 +1996,7 @@
       </section>
       <section>
         <num>1.803</num>
-        <heading>Service Of Petition And Notice Of Hearing</heading>
+        <heading>Service of Petition and Notice of Hearing</heading>
         <para>
           <num>(1)</num>
           <text>The petitioner shall cause the petition and notice of the hearing provided for in <cite path="VII|1|1.8|1.805">§ 1.805</cite> of this ordinance to be served on the Child Welfare Director or the Assistant Child Welfare Director and the child, if twelve (12) years of age or older.  The Clerk of Court may serve the parties on behalf of the petitioner.</text>
@@ -2006,7 +2008,7 @@
       </section>
       <section>
         <num>1.804</num>
-        <heading>Investigation And Report</heading>
+        <heading>Investigation and Report</heading>
         <para>
           <num>(1)</num>
           <text>Upon filing of the petition, the Child Welfare Director or the Assistant Child Welfare Director, or another child welfare agency as ordered by the Children's Court, shall perform an investigation as to the suitability of the petitioner as the child's adoptive parent. The report shall include a history of the child, including his or her mental and physical health and family background; the mental, physical, and financial condition of the petitioners, and any other factors useful in determining their fitness as parents and the suitability of their home as a home for the child; and any other circumstances and conditions which may have a bearing on the adoption and of which the Court should have knowledge. The report shall include the blood quantum's of both birth parents, if known. The enrollment office will cooperate with the Child Welfare Director or the Assistant Child Welfare Director in preparing this information for inclusion in the report. The Child Welfare Director or the Assistant Child Welfare Director shall complete the report and file it with the Court, providing a copy to the petitioner no less than ten days before the hearing provided for in <cite path="VII|1|1.8|1.805">§ 1.805</cite> of this ordinance. The report shall contain a definite recommendation for or against the adoption and shall state the reasons therefore. If the report is unfavorable or discloses a situation which in the Court's opinion raises a serious question as to the suitability of the proposed adoption, the Court may appoint a guardian ad litem for the child who shall make an independent recommendation. The Court may order the petitioner or adoptive parent to pay the costs of the investigation and report, and of the guardian ad litem.</text>
@@ -2018,7 +2020,7 @@
       </section>
       <section>
         <num>1.805</num>
-        <heading>Hearing On The Petition; Order</heading>
+        <heading>Hearing on The Petition; Order</heading>
         <para>
           <num>(1)</num>
           <text>Upon receipt of a petition, the Clerk of Court shall set a date for hearing no more than 120 days from the filing of the petition.</text>
@@ -2076,14 +2078,14 @@
           <text><u>Petition for Customary Adoption</u>.</text>
           <para>
             <num>(a)</num>
-            <text>A petition for customary adoption pursuant to <cite path="VII|1|1.8">this subchapter</cite> may be filed by any adult seeking the customary adoption of a minor child whose parents' parental rights have been terminated or suspended. The petition shall including the following information in addition to the adoption petition information required pursuant <cite path="VII|1|1.8|1.802">§ 1.802</cite> (3) of this ordinance:</text>
+            <text>A petition for customary adoption pursuant to <cite path="VII|1|1.8">this subchapter</cite> may be filed by any adult seeking the customary adoption of a minor child whose parents' parental rights have been terminated or suspended. The petition shall including the following information in addition to the adoption petition information required pursuant <cite path="VII|1|1.8|1.802|(3)">§ 1.802 (3)</cite> of this ordinance:</text>
             <para>
               <num>(i)</num>
               <text>A statement as to why a final order for customary adoption is in the best interests of the child and the best interests of the child's tribe.</text>
             </para>
             <para>
               <num>(ii)</num>
-              <text>A statement as to the basis for the customary adoption supported by a home study required pursuant <cite path="VII|1|1.8|1.804">§ 1.804</cite> (1) of this ordinance, ceremonial leader, traditional elder, medical doctor, psychiatric doctor, child protection worker, family member, and/or psychological reports or testimony.</text>
+              <text>A statement as to the basis for the customary adoption supported by a home study required pursuant <cite path="VII|1|1.8|1.804|(1)">§ 1.804 (1)</cite> of this ordinance, ceremonial leader, traditional elder, medical doctor, psychiatric doctor, child protection worker, family member, and/or psychological reports or testimony.</text>
             </para>
             <para>
               <num>(iii)</num>
@@ -2101,7 +2103,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text><u>Final Order for Customary Adoption</u>. If the Children's Court determines that it is in the best interests of the child and the child's Tribe, it shall issue a final order for a customary adoption in the manner required pursuant to <cite path="VII|1|1.8|1.805">§ 1.805</cite> (2) of this ordinance. Such an order may include, but is not limited, to the following:</text>
+          <text><u>Final Order for Customary Adoption</u>. If the Children's Court determines that it is in the best interests of the child and the child's Tribe, it shall issue a final order for a customary adoption in the manner required pursuant to <cite path="VII|1|1.8|1.805|(2)">§ 1.805 (2)</cite> of this ordinance. Such an order may include, but is not limited, to the following:</text>
           <para>
             <num>(a)</num>
             <text>A statement that the child has been adopted by the petitioner(s) and that the parent-child bond is hereby established and that all rights and responsibilities of that relationship shall exist upon the entry of such a final order.</text>
@@ -2141,7 +2143,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>A copy of the medical and genetic history report, as provided in <cite path="VII|1|1.6|1.609">§ 1.609</cite> (1) of this ordinance, with the names and other identifying data of the birth parents and of the birth parents' or child's' health care provider removed, shall be provided to the adoptive parents upon entry of the final judgment of adoption.  The Court may, in its discretion, disclose information as needed from the report, including the entire report, to the adoptive parents after entry of a temporary order and before entry of the final judgment.  Additional information supplied to the Court under <cite path="VII|1|1.6|1.609">§ 1.609</cite> (4) (e) of this ordinance shall be made available to the adoptive parents upon receipt or upon later request, provided the adoptive parents sign a statement requesting such information and acknowledging that the Court or tribe does not vouch for its accuracy. A copy of the report, and the information and of additional information received under <cite path="VII|1|1.6|1.609">§ 1.609</cite> (4) (e) of this ordinance shall also be made available, on request, to the child after the child's eighteenth birthday, provided the child signs a statement acknowledging that the Court or tribe does not vouch for the accuracy of the information contained therein. Releases of information under this subsection shall be without charge.</text>
+          <text>A copy of the medical and genetic history report, as provided in <cite path="VII|1|1.6|1.609|(1)">§ 1.609 (1)</cite> of this ordinance, with the names and other identifying data of the birth parents and of the birth parents' or child's' health care provider removed, shall be provided to the adoptive parents upon entry of the final judgment of adoption.  The Court may, in its discretion, disclose information as needed from the report, including the entire report, to the adoptive parents after entry of a temporary order and before entry of the final judgment.  Additional information supplied to the Court under <cite path="VII|1|1.6|1.609|(4)">§ 1.609 (4)</cite> (e) of this ordinance shall be made available to the adoptive parents upon receipt or upon later request, provided the adoptive parents sign a statement requesting such information and acknowledging that the Court or tribe does not vouch for its accuracy. A copy of the report, and the information and of additional information received under <cite path="VII|1|1.6|1.609|(4)">§ 1.609 (4)</cite> (e) of this ordinance shall also be made available, on request, to the child after the child's eighteenth birthday, provided the child signs a statement acknowledging that the Court or tribe does not vouch for the accuracy of the information contained therein. Releases of information under this subsection shall be without charge.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -2154,20 +2156,20 @@
       </section>
       <section>
         <num>1.809</num>
-        <heading>Agreements Between Birth Mothers And Adoptive Parents</heading>
+        <heading>Agreements Between Birth Mothers and Adoptive Parents</heading>
         <para>
           <num>(1)</num>
-          <text>Any agreement, to be enforceable between a birth mother and an adoptive parent, where either party is a member of the Tribe, for the payment of fees or expenses, including those expenses referred to in <cite path="VII|1|1.8|1.802">§ 1.802</cite> (3) (e) of this ordinance, relating to the adoption of any child as defined in sub<cite path="VII|1|1.8|1.809|(c)">section (c)</cite> below, shall be in writing.</text>
+          <text>Any agreement, to be enforceable between a birth mother and an adoptive parent, where either party is a member of the Tribe, for the payment of fees or expenses, including those expenses referred to in <cite path="VII|1|1.8|1.802|(3)">§ 1.802 (3)</cite> (e) of this ordinance, relating to the adoption of any child as defined in sub<cite path="VII|1|1.8|1.809|(1)|(c)">section (c)</cite> below, shall be in writing.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Any agreement between a birth mother and an adoptive parent or parents for the payment of fees or expenses, including those expenses referred to in <cite path="VII|1|1.8|1.802">§ 1.802</cite> (3) (e) of this ordinance, relating to the adoption of a child may be rescinded by the birth mother at any time up to the time that she gives consent to terminate her parental rights under <cite path="VII|1|1.6|1.603">§ 1.603</cite> of this ordinance.  If the birth mother rescinds her consent as provided in <cite path="VII|1|1.8|1.809">this section</cite>, the adoptive parent or parents shall be entitled to judgment against the birth mother for all fees and expenses paid to her pursuant to the agreement between them.</text>
+          <text>Any agreement between a birth mother and an adoptive parent or parents for the payment of fees or expenses, including those expenses referred to in <cite path="VII|1|1.8|1.802|(3)">§ 1.802 (3)</cite> (e) of this ordinance, relating to the adoption of a child may be rescinded by the birth mother at any time up to the time that she gives consent to terminate her parental rights under <cite path="VII|1|1.6|1.603">§ 1.603</cite> of this ordinance.  If the birth mother rescinds her consent as provided in this section, the adoptive parent or parents shall be entitled to judgment against the birth mother for all fees and expenses paid to her pursuant to the agreement between them.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>For purposes of <cite path="VII|1|1.8|1.809">this section</cite> "birth mother" means the individual who carries in utero any fetus, however fertilized or implanted.  For purposes of <cite path="VII|1|1.8|1.809">this section</cite> "child" means any child, regardless of <cite path="VII|1|1.2|1.201">§ 1.201</cite> (8) of this ordinance and of tribal membership or eligibility for membership, who, while in utero, was carried by a birth mother as herein defined.</text>
+          <text>For purposes of <cite path="VII|1|1.8|1.809">this section</cite> "birth mother" means the individual who carries in utero any fetus, however fertilized or implanted.  For purposes of <cite path="VII|1|1.8|1.809">this section</cite> "child" means any child, regardless of <cite path="VII|1|1.2|1.201|(8)">§ 1.201 (8)</cite> of this ordinance and of tribal membership or eligibility for membership, who, while in utero, was carried by a birth mother as herein defined.</text>
           <text>
-            <u>SUBCHAPTER 1.9 – Administration</u>
+            <u><cite path="VII|1|1.9">SUBCHAPTER 1.9</cite> – Administration</u>
           </text>
         </para>
       </section>
@@ -2184,7 +2186,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Upon a determination that the notice received concerns a Child as defined in <cite path="VII|1|1.2|1.201">§ 1.201</cite> (8) of this ordinance, the Child Welfare Director or the Assistant Child Welfare Director shall consult with the Legal Department, for the purpose of determining whether to intervene or seek transfer of jurisdiction of the case to the Children's Court.</text>
+          <text>Upon a determination that the notice received concerns a Child as defined in <cite path="VII|1|1.2|1.201|(8)">§ 1.201 (8)</cite> of this ordinance, the Child Welfare Director or the Assistant Child Welfare Director shall consult with the Legal Department, for the purpose of determining whether to intervene or seek transfer of jurisdiction of the case to the Children's Court.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -2197,7 +2199,7 @@
       </section>
       <section>
         <num>1.902</num>
-        <heading>Child Welfare Director And The Assistant Child Welfare Director</heading>
+        <heading>Child Welfare Director and The Assistant Child Welfare Director</heading>
         <para>
           <num>(1)</num>
           <text><u>General Duties</u>.  The Child Welfare Director and/or the Assistant Child Welfare Director shall have the primary responsibility for receiving, investigating, and referring information concerning children who are subject to this ordinance or children who are the subject of child welfare proceedings in other Courts.  The Child Welfare Director or the Assistant Child Welfare Director shall develop and monitor appropriate plans and goals to minimize disruption of a subject child's life, to reunify families when possible, and to encourage long-term stability in an environment that most approximates that of a family.  The Child Welfare Director or the Assistant Child Welfare Director shall have the primary responsibility to represent the Tribe in administrative and court proceedings, both in Children's Court and in other Courts, and shall secure the timely assistance of the tribal attorney in cases as necessary and appropriate.</text>
@@ -2223,7 +2225,7 @@
           </para>
           <para>
             <num>(e)</num>
-            <text>To represent the Tribe in proceedings concerning the welfare of any child as defined in <cite path="VII|1|1.2|1.201">§ 1.201</cite> (8) of this ordinance in any foreign Court or agency proceeding,</text>
+            <text>To represent the Tribe in proceedings concerning the welfare of any child as defined in <cite path="VII|1|1.2|1.201|(8)">§ 1.201 (8)</cite> of this ordinance in any foreign Court or agency proceeding,</text>
           </para>
           <para>
             <num>(f)</num>
@@ -2239,7 +2241,7 @@
           </para>
           <para>
             <num>(i)</num>
-            <text>To share information for statistical or service purposes in conformity with agreements entered into pursuant to sub<cite path="VII|1|1.8|1.902|(2) |(g)">section (2) (g)</cite> above</text>
+            <text>To share information for statistical or service purposes in conformity with agreements entered into pursuant to sub<cite path="VII|1|1.8|1.902|(2)|(g)">section (2) (g)</cite> above</text>
           </para>
           <para>
             <num>(j)</num>
@@ -2287,7 +2289,7 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>1.10</num>
-      <heading>Aoda Minor In Need Of Care Proceedings</heading>
+      <heading>Aoda Minor in Need of Care Proceedings</heading>
       <section>
         <num>1.1001</num>
         <heading>Purpose</heading>
@@ -2297,7 +2299,7 @@
       <section>
         <num>1.1002</num>
         <heading>Definitions</heading>
-        <text>For purposes of <cite path="VII|1|1.10">this subchapter</cite>, "Child" or "minor" shall have the meaning as defined in <cite path="VII|1|1.2|1.201">§ 1.201</cite> (8) of this ordinance.</text>
+        <text>For purposes of <cite path="VII|1|1.10">this subchapter</cite>, "Child" or "minor" shall have the meaning as defined in <cite path="VII|1|1.2|1.201|(8)">§ 1.201 (8)</cite> of this ordinance.</text>
       </section>
       <section>
         <num>1.1003</num>
@@ -2323,7 +2325,7 @@
       </section>
       <section>
         <num>1.1005</num>
-        <heading>Petition And Notice Of Hearing</heading>
+        <heading>Petition and Notice of Hearing</heading>
         <para>
           <num>(1)</num>
           <text>Any petition under <cite path="VII|1|1.10">this subchapter</cite> shall be filed with the Children's Court, shall be made under oath, and shall include the following information if known: child's name, date of birth, parents' names, child's parents' last known addresses, and the names and addresses of all other affected persons.  Any petition filed under <cite path="VII|1|1.10">this subchapter</cite> shall be signed under oath by the Director of the Behavioral Health Department or his or her designee.</text>
@@ -2394,7 +2396,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>At the plea hearing, the Children's Court shall obtain the official positions of the interested parties as to whether they contest the allegations of the petition. If any of the interested parties contest the petition, the matter shall be set for an adjudication hearing in accordance with <cite path="VII|1|1.10|1.1008">§ 1.1008</cite> (1) of this ordinance.</text>
+          <text>At the plea hearing, the Children's Court shall obtain the official positions of the interested parties as to whether they contest the allegations of the petition. If any of the interested parties contest the petition, the matter shall be set for an adjudication hearing in accordance with <cite path="VII|1|1.10|1.1008|(1)">§ 1.1008 (1)</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -2530,11 +2532,11 @@
         </para>
         <para>
           <num>(10)</num>
-          <text>Whenever the Children's Court orders a child to be placed outside the home, the Children's Court may make the referral described under <cite path="VII|1|1.3|1.312">§ 1.312</cite> (2) of this ordinance.</text>
+          <text>Whenever the Children's Court orders a child to be placed outside the home, the Children's Court may make the referral described under <cite path="VII|1|1.3|1.312|(2)">§ 1.312 (2)</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(11)</num>
-          <text>Whenever the Children's Court determines the child or the child's family needs Court ordered services beyond those stated in <cite path="VII|1|1.10">this subchapter</cite>, the Children's Court may make a referral to the Indian Child Welfare Department to initiate a Minor in Need of Care Petition under Subchapter 1.5 of this ordinance.</text>
+          <text>Whenever the Children's Court determines the child or the child's family needs Court ordered services beyond those stated in <cite path="VII|1|1.10">this subchapter</cite>, the Children's Court may make a referral to the Indian Child Welfare Department to initiate a Minor in Need of Care Petition under <cite path="VII|1|1.5">Subchapter 1.5</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(12)</num>
@@ -2543,7 +2545,7 @@
       </section>
       <section>
         <num>1.1010</num>
-        <heading>Reviews, Extensions, And Modifications</heading>
+        <heading>Reviews, Extensions, and Modifications</heading>
         <para>
           <num>(1)</num>
           <text><u>Review Hearings</u>. A dispositional order shall be reviewed at the Children's Court's discretion, but at least every six months.</text>
@@ -2557,7 +2559,7 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>To assist the Children's Court, parties and guardian ad litem, the petitioning party must prepare, file and serve a court report, similar to those called for in <cite path="VII|1|1.10|1.1009">§ 1.1009</cite> (1) of this ordinance, and under the same conditions as set forth in <cite path="VII|1|1.10|1.1009">§ 1.1009</cite> (1) of this ordinance.</text>
+            <text>To assist the Children's Court, parties and guardian ad litem, the petitioning party must prepare, file and serve a court report, similar to those called for in <cite path="VII|1|1.10|1.1009|(1)">§ 1.1009 (1)</cite> of this ordinance, and under the same conditions as set forth in <cite path="VII|1|1.10|1.1009|(1)">§ 1.1009 (1)</cite> of this ordinance.</text>
           </para>
         </para>
         <para>
@@ -2573,11 +2575,11 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>To assist the Children's Court, parties and guardian ad litem, the petitioning party must prepare, file and serve a court report, similar to those called for in <cite path="VII|1|1.10|1.1009">§ 1.1009</cite> (1) of this ordinance, and under the same conditions as set forth in <cite path="VII|1|1.5|1.507">§ 1.507</cite> (1) of this ordinance, along with the petition and notice.</text>
+            <text>To assist the Children's Court, parties and guardian ad litem, the petitioning party must prepare, file and serve a court report, similar to those called for in <cite path="VII|1|1.10|1.1009|(1)">§ 1.1009 (1)</cite> of this ordinance, and under the same conditions as set forth in <cite path="VII|1|1.5|1.507|(1)">§ 1.507 (1)</cite> of this ordinance, along with the petition and notice.</text>
           </para>
           <para>
             <num>(d)</num>
-            <text>In the event a motion for extension is filed within the time period specified in sub<cite path="VII|1|1.10|1.1010|(2) |(a)">section (2) (a)</cite> above, the Children's Court may make such temporary extension orders as are necessary to preserve its jurisdiction and to protect the interests of the child pending a full hearing on the extension motion.</text>
+            <text>In the event a motion for extension is filed within the time period specified in sub<cite path="VII|1|1.10|1.1010|(2)|(a)">section (2) (a)</cite> above, the Children's Court may make such temporary extension orders as are necessary to preserve its jurisdiction and to protect the interests of the child pending a full hearing on the extension motion.</text>
           </para>
           <para>
             <num>(e)</num>
@@ -2601,16 +2603,16 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>To assist the Children's Court, parties and guardian ad litem, the petitioning party must prepare, file and serve a court report, similar to those called for in <cite path="VII|1|1.10|1.1009">§ 1.1009</cite> (1) of this ordinance, and under the same conditions as set forth in <cite path="VII|1|1.5|1.507">§ 1.507</cite> (b) of this ordinance.</text>
+            <text>To assist the Children's Court, parties and guardian ad litem, the petitioning party must prepare, file and serve a court report, similar to those called for in <cite path="VII|1|1.10|1.1009|(1)">§ 1.1009 (1)</cite> of this ordinance, and under the same conditions as set forth in <cite path="VII|1|1.5|1.507|(b)">§ 1.507 (b)</cite> of this ordinance.</text>
           </para>
         </para>
       </section>
       <section>
         <num>1.1011</num>
-        <heading>Change Of Placement Hearings</heading>
+        <heading>Change of Placement Hearings</heading>
         <para>
           <num>(1)</num>
-          <text>The Behavioral Health Director or his or her designee may request a change in placement of the child, whether or not the change requested is authorized in the dispositional order, as provided in <cite path="VII|1|1.10|1.1008">§ 1.1008</cite> (2) of this ordinance.</text>
+          <text>The Behavioral Health Director or his or her designee may request a change in placement of the child, whether or not the change requested is authorized in the dispositional order, as provided in <cite path="VII|1|1.10|1.1008|(2)">§ 1.1008 (2)</cite> of this ordinance.</text>
           <para>
             <num>(a)</num>
             <text>If the proposed change in placement would change the placement of a child placed in the home to a placement outside the home, the Behavioral Health Director shall motion the Children's Court requesting a Change of Placement Hearing. The request shall contain the name and address of the new placement, the reasons for the change in placement, a statement describing why the new placement is preferable to the present placement, and a statement of how the new placement satisfies objectives of the treatment plan ordered by the Court. The request shall also contain specific information showing that continued placement of the child in his or her home would be contrary to the welfare of the child, that the Behavioral Health Department has made reasonable and active efforts to prevent the removal of the child from the home, while assuring that the child's health and safety are the paramount concerns. The Legal Department shall serve copies of the motion to all affected persons who were parties to the original proceedings, the Behavioral Health Director, and the guardian ad litem, except that the Court may order additional parties served. Such motion shall be filed with the Court.</text>
@@ -2630,8 +2632,10 @@
   <container>
     <prefix>Chapter</prefix>
     <num>3</num>
-    <heading>Guardianship Of Adults And Protective Placement Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text>Preamble</text>
+    <heading>Guardianship of Adults and Protective Placement Code of The Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, § 1 (s), (t), and (u) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and providing for the maintenance of law and order and the administration of justice …" Article V, § 1 (s); "provide for the regulation of … domestic relations matters by ordinances or resolution" Article V, § 1 (t); "provide for the appointment of guardians for … mental incompetents by ordinance or resolution" Article V, § 1 (u). The Lac Courte Oreilles Band of Lake Superior Chippewa Indians recognizes the need to promote the traditional value of respect for adults in need of protective placement or guardianship. The Tribe recognizes that adults that suffer from physical or mental disability, incapacity, other disability, or are substantially impaired whether from age, disease, alcohol, substance abuse, or psychological problems all deserve to lead a life of safety and respect. The dignity, self-reliance and rights of adults in need of protective placement or guardianship must be respected by family members, the Tribal community, employees of the Tribe and all people who are part of or inter-act with the Tribe and its adults in need of protective placement or guardianship. It is the purpose of this ordinance to protect the health, safety and welfare of all persons within the jurisdiction of the Lac Courte Oreilles Tribe and to codify a process and procedure governing the appointment of a Guardian for Adults who are incapable of managing their own affairs, require assistance in conducting business, or require assistance in obtaining necessary services. Thus, it is in the best interest of and serves the welfare of the Tribe to protect adults in need of protective placement or guardianship.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -2693,12 +2697,12 @@
       </section>
       <section>
         <num>3.107</num>
-        <heading>Severability And Non-Liability</heading>
+        <heading>Severability and Non-Liability</heading>
         <text>If any section, provision or portion of this ordinance is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this ordinance.</text>
       </section>
       <section>
         <num>3.108</num>
-        <heading>Repeal Of Inconsistent Tribal Ordinances</heading>
+        <heading>Repeal of Inconsistent Tribal Ordinances</heading>
         <text>All ordinances and resolutions inconsistent with this ordinance are hereby repealed. To the extent that this ordinance imposes greater restrictions than those contained in any other tribal law, code, ordinance or regulation, the provisions of this ordinance shall govern.</text>
       </section>
     </container>
@@ -2775,7 +2779,7 @@
       <heading>Adult Guardianships</heading>
       <section>
         <num>3.401</num>
-        <heading>Types Of Adult Guardianships</heading>
+        <heading>Types of Adult Guardianships</heading>
         <para>
           <num>(1)</num>
           <text>The Court may appoint a guardian on a temporary or permanent basis, under the procedures established by <cite path="VII|3|3.4">this subchapter</cite>. The Court may appoint a special guardian to perform a specific task or tasks.</text>
@@ -2791,7 +2795,7 @@
       </section>
       <section>
         <num>3.403</num>
-        <heading>Duties And Powers Of Guardians</heading>
+        <heading>Duties and Powers of Guardians</heading>
         <para>
           <num>(1)</num>
           <text>The Court may appoint a guardian of the person and a guardian of the estate of any person. An individual may serve as both guardian of the person and guardian of the estate, or different individuals may be appointed. Joint guardians may be appointed of either the person or the estate or both, provided that the joint guardians shall have joint and several liability for acts undertaken as guardian by either of them.</text>
@@ -2816,13 +2820,13 @@
           <num>(4)</num>
           <text>No guardian shall lend or give any funds or other property of the ward or ward's estate to himself or herself. No guardian shall purchase any property of the ward unless for fair market value and with specific approval of the Court.</text>
           <text>
-            <u>SUBCHAPTER 3.5 – Adult Guardianship PROCEDURES</u>
+            <u><cite path="VII|3|3.5">SUBCHAPTER 3.5</cite> – Adult Guardianship PROCEDURES</u>
           </text>
         </para>
       </section>
       <section>
         <num>3.501</num>
-        <heading>Who May Petition For Adult Guardianship</heading>
+        <heading>Who May Petition for Adult Guardianship</heading>
         <para>
           <num>(1)</num>
           <text>Any individual may petition for guardianship of a proposed ward.</text>
@@ -2860,7 +2864,7 @@
           </para>
           <para>
             <num>(g)</num>
-            <text>Whether the authority to consent or refuse consent to psychotropic medication under <cite path="VII|3|3.5|3.506">§ 3.506</cite> (4) is requested.</text>
+            <text>Whether the authority to consent or refuse consent to psychotropic medication under <cite path="VII|3|3.5|3.506|(4)">§ 3.506 (4)</cite> is requested.</text>
             <para>
               <num>(h)</num>
               <text>Whether protective placement under <cite path="VII|3|3.6|3.602">§ 3.602</cite> is sought.</text>
@@ -2877,16 +2881,16 @@
         <num>3.504</num>
         <heading>Notice</heading>
         <text>A copy of the petition and of a notice of hearing shall be provided to the proposed ward,</text>
-        <text>to any current guardian of the proposed ward, to the guardian ad litem of the proposed ward, and to any spouse, parent, or adult child of the proposed ward, unless the Court orders for a specific reason that notice need not to be given to any such person. Notice may be given by any means allowed under 2 LCOTCL <cite path="VII|1|1.9|1.902">§ 1.902</cite>, no less than ten days before the hearing under <cite path="VII|3|3.5|3.506">§ 3.506</cite>.</text>
+        <text>to any current guardian of the proposed ward, to the guardian ad litem of the proposed ward, and to any spouse, parent, or adult child of the proposed ward, unless the Court orders for a specific reason that notice need not to be given to any such person. Notice may be given by any means allowed under <cite path="II|1|1.9|1.902">2 LCOTCL § 1.902</cite>, no less than ten days before the hearing under <cite path="VII|3|3.5|3.506">§ 3.506</cite>.</text>
       </section>
       <section>
         <num>3.505</num>
-        <heading>Physician'S Or Psychologist'S Report</heading>
+        <heading>Physician'S or Psychologist'S Report</heading>
         <text>No guardian shall be appointed based on any alleged mental incapacity of the proposed ward to manage the proposed ward's own affairs without the testimony of a licensed physician or psychologist. Upon stipulation of all the parties, a written report of a licensed physician or psychologist may be introduced in lieu of testimony.</text>
       </section>
       <section>
         <num>3.506</num>
-        <heading>Guardianship Hearing And Order</heading>
+        <heading>Guardianship Hearing and Order</heading>
         <para>
           <num>(1)</num>
           <text>At the hearing on the petition, the Court shall hear the petitioner's evidence, the evidence offered by any other party, and the recommendations of the guardian ad litem. If the Court is satisfied by clear and convincing evidence that the proposed ward is incapable of managing his or her own affairs and that the appointment of a guardian is in the best interests of the proposed ward, the Court shall appoint a guardian or guardians who by a preponderance of the evidence, appears most suitable.</text>
@@ -2927,7 +2931,7 @@
       </section>
       <section>
         <num>3.508</num>
-        <heading>Standards For Determining Incapacity</heading>
+        <heading>Standards for Determining Incapacity</heading>
         <text>No finding that a ward is incapable of managing his or her own affairs may be based on physical incapacity alone. A finding that a ward is incapable of managing his or her own affairs may be based on development disabilities; degeneration of the brain associated with aging; or organic brain damage, defect, or injury. Such a finding may also be based on inability to care for oneself based on serious and sustained abuse of alcohol or other drugs. Such a finding may also be based on the proposed ward's inability to control income and assets such as to the subject the proposed ward to risk of exploitation by others, or to endanger the health, life, or property of the proposed ward.</text>
       </section>
       <section>
@@ -2942,7 +2946,7 @@
       </section>
       <section>
         <num>3.511</num>
-        <heading>Change Of Address</heading>
+        <heading>Change of Address</heading>
         <text>Any guardian of the person or the estate shall notify the Clerk of Court within ten (10) days of any change of address or the guardian of the ward.</text>
       </section>
     </container>
@@ -2953,14 +2957,14 @@
       <section>
         <num>3.601</num>
         <heading>Order</heading>
-        <text>Protective placement is a court order specifying the location and conditions of the ward's residence. No person may be found to be in need of protective placement unless subject to a guardianship ordered under Subchapter 3.5</text>
+        <text>Protective placement is a court order specifying the location and conditions of the ward's residence. No person may be found to be in need of protective placement unless subject to a guardianship ordered under <cite path="VII|3|3.5">Subchapter 3.5</cite></text>
       </section>
       <section>
         <num>3.602</num>
-        <heading>Request For Protective Placement</heading>
+        <heading>Request for Protective Placement</heading>
         <para>
           <num>(1)</num>
-          <text>A request for protective placement shall be combined with a guardianship petition under Subchapter 3.5, unless a guardianship has already been created, in which case, the petition shall so state.</text>
+          <text>A request for protective placement shall be combined with a guardianship petition under <cite path="VII|3|3.5">Subchapter 3.5</cite>, unless a guardianship has already been created, in which case, the petition shall so state.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -3003,13 +3007,13 @@
           <num>(3)</num>
           <text>If neither the ward, guardian, guardian ad litem, nor any other person requests a hearing, and if the guardian ad litem recommends continuation of the protective placement, then the Court may either hold a hearing on the continuation of the protective placement, or may order a twelve (12) month continuation of the protective placement based on the reports in the record.</text>
           <text>
-            <u>SUBCHAPTER 3.7 – termination or changes</u>
+            <u><cite path="VII|3|3.7">SUBCHAPTER 3.7</cite> – termination or changes</u>
           </text>
         </para>
       </section>
       <section>
         <num>3.701</num>
-        <heading>Termination Or Changes To An Order For Adult Guardianship</heading>
+        <heading>Termination or Changes to An Order for Adult Guardianship</heading>
         <para>
           <num>(1)</num>
           <text>Upon motion and hearing, with notice to the guardian and ward, and appointment of a guardian ad litem, the Court may remove the guardian and a successor guardian may be appointed:</text>
@@ -3037,7 +3041,7 @@
       </section>
       <section>
         <num>3.702</num>
-        <heading>Termination Or Changes To An Order For Adult Protective Placement</heading>
+        <heading>Termination or Changes to An Order for Adult Protective Placement</heading>
         <para>
           <num>(1)</num>
           <text>Upon motion and hearing, with notice to the guardian and ward, and appointment of a guardian ad litem, a protective placement may be changed or terminated if by clear and convincing evidence it is established that the conditions requiring the protective placement no longer exist.</text>
@@ -3048,8 +3052,10 @@
   <container>
     <prefix>Chapter</prefix>
     <num>4</num>
-    <heading>Elders And Vulnerable Adults Protection Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text>Preamble</text>
+    <heading>Elders and Vulnerable Adults Protection Code of The Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to promote the traditional value of respect for tribal elders and vulnerable adults which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, § 1(s) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and providing for the maintenance of law and order and the administration of justice …" It is the purpose of this ordinance to protect elders and vulnerable adults within the jurisdiction of the Lac Courte Oreilles Tribe from abuse and neglect as defined in this ordinance.  This ordinance provides for: (a) reporting abuse or neglect to the proper agency; (b) receiving reports of and investigating suspected abuse or neglect; and (c) delivering elder protection services.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -3115,12 +3121,12 @@
       </section>
       <section>
         <num>4.107</num>
-        <heading>Severability And Non-Liability</heading>
+        <heading>Severability and Non-Liability</heading>
         <text>If any section, provision or portion of this ordinance is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this ordinance.</text>
       </section>
       <section>
         <num>4.108</num>
-        <heading>Repeal Of Inconsistent Tribal Ordinances</heading>
+        <heading>Repeal of Inconsistent Tribal Ordinances</heading>
         <text>All ordinances and resolutions inconsistent with this ordinance are hereby repealed. To the extent that this ordinance imposes greater restrictions than those contained in any other tribal law, code, ordinance or regulation, the provisions of this ordinance shall govern.</text>
       </section>
     </container>
@@ -3185,7 +3191,7 @@
           </para>
           <para>
             <num>(d)</num>
-            <text>An employee of any institution or agency specified in <cite path="VII|4|4.2|4.201">§ 4.201</cite> (2) (c) of this ordinance.</text>
+            <text>An employee of any institution or agency specified in <cite path="VII|4|4.2|4.201|(2)">§ 4.201 (2)</cite> (c) of this ordinance.</text>
           </para>
         </para>
         <para>
@@ -3228,14 +3234,14 @@
           <num>(12)</num>
           <text><strong>"Retaliation"</strong> means threatening a reporter of abuse of an elder or vulnerable adult or the reporter's family in any way; causing bodily harm to the reporter or reporter's family; causing the reporter or any of the reporter's family to be terminated, suspended from employment or reprimanded by an employer, or damaging the reporter's or the reporter's family's real or personal property in any way.</text>
           <text>
-            <u>SUBCHAPTER 4.3 – REPORTING and Investigations</u>
+            <u><cite path="VII|4|4.3">SUBCHAPTER 4.3</cite> – REPORTING and Investigations</u>
           </text>
           <text/>
         </para>
       </section>
       <section>
         <num>4.301</num>
-        <heading>Duty To Report Abuse Or Neglect Of An Elder</heading>
+        <heading>Duty to Report Abuse or Neglect of An Elder</heading>
         <text>Suspected abuse or neglect of an elder or vulnerable adult shall be reported to Lac Courte Oreilles Elder Services (unless immediate intervention is required to protect that person's life, which should be reported to law enforcement immediately) by:</text>
         <para>
           <num>(1)</num>
@@ -3268,12 +3274,12 @@
       </section>
       <section>
         <num>4.302</num>
-        <heading>Immunity For Reporting</heading>
+        <heading>Immunity for Reporting</heading>
         <text>A person who in good faith reports suspected abuse or neglect of an elder or vulnerable adult is immune from any civil or criminal suit based on that person's report.</text>
       </section>
       <section>
         <num>4.303</num>
-        <heading>Failure To Report; Civil Penalty; Damages; Criminal Liability</heading>
+        <heading>Failure to Report; Civil Penalty; Damages; Criminal Liability</heading>
         <text>Any person who is required by this ordinance to report suspected abuse of an elder or vulnerable adult and fails to do so is subject to a civil penalty of up to $1,000.  The tribal court shall assess the penalty only after petition, notice, an opportunity for hearing, and a determination that the person had a mandated duty to report, had good reason to suspect abuse of an elder or vulnerable adult or neglect, and failed to report the abuse as required by this ordinance.  Further, the person failing to report is subject to any civil suit brought by or on behalf of the elder or vulnerable adult for damages suffered as a result of the failure to report and to any penalties set out in tribal, state, and/or federal law.</text>
       </section>
       <section>
@@ -3339,7 +3345,7 @@
       </section>
       <section>
         <num>4.306</num>
-        <heading>Sanctions Related To The Investigation And Retaliation</heading>
+        <heading>Sanctions Related to The Investigation and Retaliation</heading>
         <para>
           <num>(1)</num>
           <text>No person shall interfere intentionally with a lawful investigation of suspected elder or vulnerable adult abuse.</text>
@@ -3352,13 +3358,13 @@
           <num>(3)</num>
           <text>Any person who violates subsections (1) or (2) of <cite path="VII|4|4.2|4.306">this section</cite> shall be enjoined from such activity and shall be subject to a civil penalty of up to $500 per occurrence and may result in the loss of tribal privileges.  If a tribal employee violates subsections (1) or (2) of <cite path="VII|4|4.2|4.306">this section</cite>, he/she shall be subject to appropriate disciplinary action as allowed by the Tribe's personnel policies and procedures.  The penalty shall be assessed by the Tribal Court only after petition, notice, the opportunity to be heard, and a determination that either interference or retaliation as set out in <cite path="VII|4|4.2|4.306">this Section</cite> occurred.</text>
           <text>
-            <u>SUBCHAPTER 4.4 – Elder Protective Services and Placement</u>
+            <u><cite path="VII|4|4.4">SUBCHAPTER 4.4</cite> – Elder Protective Services and Placement</u>
           </text>
         </para>
       </section>
       <section>
         <num>4.401</num>
-        <heading>Elder Protective Services And Elder Protective Placement; Other Services; Evaluation Procedures; Duty To Pay</heading>
+        <heading>Elder Protective Services and Elder Protective Placement; Other Services; Evaluation Procedures; Duty to Pay</heading>
         <para>
           <num>(1)</num>
           <text>Protective services or protective placement are provided either on a voluntary or involuntary basis.  Such services or placement may be provided on a voluntary basis by LCO Elder Protective Services or Adult Protective Services of Sawyer County when requested by any abused or neglected elder or vulnerable adult and the person is found to be in need of such services or placement.  Such services or placement may be provided on an involuntary basis by LCO Elder Protective Services or Adult Protective Services, if mandated by the circumstances leading to charges of abuse. Such services or placement shall be provided on an involuntary basis only if the Tribal Court determines they are necessary. If an elder or vulnerable adult if placed in an involuntary protective placement, a petition must be filed in Tribal Court and that petition must be heard by the Court within ten (10) days. Such services or placement may be provided on an emergency basis, or, if necessary, on a permanent basis through a guardian appointed pursuant to tribal law, and shall be provided in a manner least restrictive to the liberty and rights of the elder or vulnerable adult consistent with their welfare and needs.  Based on the Tribal Court's determination of the degree of incapacity, if any, as well as whether elder or vulnerable adult abuse or neglect has occurred, LCO Elder Protective Services will develop an individual plan for the delivery of protection services.</text>
@@ -3379,7 +3385,7 @@
           <num>(5)</num>
           <text>Lac Courte Oreilles Elder Protective Services, in consultation with the Lac Courte Oreilles Community Health Center, will establish a process for conducting a comprehensive physical, mental and social assessment of an elder or vulnerable adult when a petition for a protection order has been filed.</text>
           <text>
-            <u>SUBCHAPTER 4.5 – Emergency Situations</u>
+            <u><cite path="VII|4|4.5">SUBCHAPTER 4.5</cite> – Emergency Situations</u>
           </text>
         </para>
       </section>
@@ -3450,13 +3456,13 @@
           <num>(8)</num>
           <text>Any person who acts in good faith pursuant to <cite path="VII|4|4.2|4.501">this section</cite> is immune from any civil or criminal suit based on that person's actions.</text>
           <text>
-            <u>SUBCHAPTER 4.6 – Rights and Privileges</u>
+            <u><cite path="VII|4|4.6">SUBCHAPTER 4.6</cite> – Rights and Privileges</u>
           </text>
         </para>
       </section>
       <section>
         <num>4.601</num>
-        <heading>Rights Of Elders, Their Families And Caretakers</heading>
+        <heading>Rights of Elders, Their Families and Caretakers</heading>
         <para>
           <num>(1)</num>
           <text>An elder or vulnerable adult may refuse to accept protection services, even if there is good cause to believe that the elder or vulnerable adult has been or is being abused, provided that s/he is able to care for him/herself, has the capacity to understand the nature of the services offered and it is determined that the abuse has stopped.</text>
@@ -3477,18 +3483,18 @@
           <num>(5)</num>
           <text>In any proceeding involving an elder or vulnerable adult, all interested parties, including family and caretakers, may petition the Tribal Court to obtain party status in the proceeding.</text>
           <text>
-            <u>SUBCHAPTER 4.7 – Procedures</u>
+            <u><cite path="VII|4|4.7">SUBCHAPTER 4.7</cite> – Procedures</u>
           </text>
         </para>
       </section>
       <section>
         <num>4.701</num>
-        <heading>Procedures For Determining Incapacity, Abuse, Neglect Or Self Neglect</heading>
+        <heading>Procedures for Determining Incapacity, Abuse, Neglect or Self Neglect</heading>
         <text>The Tribal Court shall determine whether an elder or vulnerable adult is incapacitated and the degree of incapacity, and, where necessary, whether abuse or neglect has occurred.  The determination shall be made only after petition, notice, hearing, and proof that is beyond a reasonable doubt.</text>
       </section>
       <section>
         <num>4.702</num>
-        <heading>Confidentiality Of Reporter, Records, Hearings; Penalty For Not Complying With Confidentiality</heading>
+        <heading>Confidentiality of Reporter, Records, Hearings; Penalty for Not Complying with Confidentiality</heading>
         <para>
           <num>(1)</num>
           <text>The name of the person who reports abuse or neglect as required by this ordinance is confidential and shall not be released to any person unless the reporter consents to the release or the release is ordered by the Tribal Court.  The Tribal Court may release the reporter's name only after notice to the reporter is given, a closed evidentiary hearing is held, and the need to protect the elder or vulnerable adult is found to be greater than the reporter's right to confidentiality.  The reporter's name shall be released only to the extent determined necessary to protect the elder or vulnerable adult.</text>
@@ -3565,7 +3571,7 @@
       </section>
       <section>
         <num>4.705</num>
-        <heading>Regulations And Criteria Required To Comply With This Ordinance</heading>
+        <heading>Regulations and Criteria Required to Comply with This Ordinance</heading>
         <text>Lac Courte Oreilles Elder Services shall adopt and issue regulations establishing criteria and procedures which comply with the policy and requirements of this ordinance.</text>
       </section>
     </container>
@@ -3573,8 +3579,10 @@
   <container>
     <prefix>Chapter</prefix>
     <num>5</num>
-    <heading>Aging Administration Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text>Preamble</text>
+    <heading>Aging Administration Code of The Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians relating to the delivery of elder services which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, §§ 1(l) and (m) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "organize, charter and regulate any association or group, including a housing authority, for the purpose of providing social or economic benefits to the members of the Band or residents of the reservation" Article V, § 1 (l);  and "delegate to subordinate boards, officers, committees or cooperative associations which are open to all members of the Band any of the foregoing powers, reserving the right to review any action taken by virtue of such delegated powers" Article V, § 1 (m). This ordinance promotes the well-being of older individuals by providing services and programs designed to help them live independently in their homes and communities. This ordinance also empowers the Tribal government to receive funds form the Federal and State governments for supportive services for individuals over the age of 55.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -3629,12 +3637,12 @@
       </section>
       <section>
         <num>5.108</num>
-        <heading>Severability And Non-Liability</heading>
+        <heading>Severability and Non-Liability</heading>
         <text>If any section, provision or portion of this ordinance is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this ordinance.</text>
       </section>
       <section>
         <num>5.109</num>
-        <heading>Repeal Of Inconsistent Tribal Ordinances</heading>
+        <heading>Repeal of Inconsistent Tribal Ordinances</heading>
         <text>All ordinances and resolutions inconsistent with this ordinance are hereby repealed. To the extent that this ordinance imposes greater restrictions than those contained in any other tribal law, code, ordinance or regulation, the provisions of this ordinance shall govern.</text>
       </section>
     </container>
@@ -3800,7 +3808,7 @@
       </section>
       <section>
         <num>5.303</num>
-        <heading>Elders Advisory Council On Aging</heading>
+        <heading>Elders Advisory Council on Aging</heading>
         <text>The Elders Advisory Council on Aging is hereby created to act in an advisory capacity to the Tribal Governing Board and the Aging Director and shall have those powers as stated in <cite path="VII|5|3.3|5.303">this section</cite>:</text>
         <para>
           <num>(1)</num>

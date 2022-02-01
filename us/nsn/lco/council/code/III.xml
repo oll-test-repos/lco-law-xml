@@ -2,12 +2,14 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Lac Courte Oreilles Tribal Code of Law">
   <prefix>Title</prefix>
   <num>III</num>
-  <heading>Meetings, Committees, And Commissions</heading>
+  <heading>Meetings, Committees, and Commissions</heading>
   <container>
     <prefix>Chapter</prefix>
     <num>1</num>
-    <heading>Tribal Government Code Of Conduct Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text>Preamble</text>
+    <heading>Tribal Government Code of Conduct of The Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians relating to the operation of the Tribal Government and the delivery of governmental services, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Articles III and V of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "determine its own procedures" Article III, § 6; and "to regulate, by enactment of ordinances, the conduct of business within the territory of the Band," Article V, § 1 (n). As leaders of the Odaawa-Zaaga'iganing Nation, the Tribal Governing Board will represent the citizens (members) by acknowledging the traditional and cultural values of Wisdom, Love, Respect, Bravery, Honesty, Humility, and Truth. The Tribal Governing Board shall exhibit the highest level of integrity and fairness while representing the needs of the entire Tribe. The Tribal Governing Board shall provide effective leadership while being held accountable to make fair and informed decisions. The Tribal Governing Board shall strengthen government-to-government by enacting legislation further protecting Tribal Sovereignty. This ordinance sets forth standards by which Elected Officials will conduct themselves in order to protect and promote Tribal integrity and to enhance the ability of the Tribe to achieve its objectives in a manner consistent with all applicable laws and regulations. This ordinance is also intended to guide and direct all Elected Officials in dealing with situations they may encounter while in office thereby assisting Elected Officials in making the right choices when confronted with difficult decisions.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -63,17 +65,17 @@
       </section>
       <section>
         <num>1.107</num>
-        <heading>Limited Waiver Of Individual Immunity</heading>
+        <heading>Limited Waiver of Individual Immunity</heading>
         <text>The absolute immunity of individual Tribal Governing Board members alleged to have violated this ordinance is waived to the extent that the Tribe can pursue action for sanctions or penalties in connection with, or as a result of, unethical or improper conduct as established in this ordinance. This provision in no way waives the sovereign immunity of the Tribe.</text>
       </section>
       <section>
         <num>1.108</num>
-        <heading>Severability And Non-Liability</heading>
+        <heading>Severability and Non-Liability</heading>
         <text>If any section, provision or portion of this ordinance is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this ordinance.</text>
       </section>
       <section>
         <num>1.109</num>
-        <heading>Repeal Of Inconsistent Tribal Ordinances</heading>
+        <heading>Repeal of Inconsistent Tribal Ordinances</heading>
         <text>All ordinances and resolutions inconsistent with this ordinance are hereby repealed. To the extent that this ordinance imposes greater restrictions than those contained in any other tribal law, code, ordinance or regulation, the provisions of this ordinance shall govern.</text>
       </section>
     </container>
@@ -147,7 +149,7 @@
         </para>
         <para>
           <num>(16)</num>
-          <text><strong>"Under the Influence of Alcohol</strong>, <strong>Illegal Drugs or Controlled Substances"</strong> means  a Blood Alcohol Concentration that indicates a positive test result as established in <cite path="III|1|1.6|1.625">§ 1.625</cite> (1); or results that confirm the presence of illegal substance; or results that confirm the presence of a controlled substances that an employee does not have a valid prescription for or the levels exceed the prescribed dosage.</text>
+          <text><strong>"Under the Influence of Alcohol</strong>, <strong>Illegal Drugs or Controlled Substances"</strong> means  a Blood Alcohol Concentration that indicates a positive test result as established in <cite path="III|1|1.6|1.625|(1)">§ 1.625 (1)</cite>; or results that confirm the presence of illegal substance; or results that confirm the presence of a controlled substances that an employee does not have a valid prescription for or the levels exceed the prescribed dosage.</text>
         </para>
         <para>
           <num>(17)</num>
@@ -161,7 +163,7 @@
       <heading>Principles</heading>
       <section>
         <num>1.301</num>
-        <heading>Conduct In Conformity With Applicable Rules And Laws</heading>
+        <heading>Conduct in Conformity with Applicable Rules and Laws</heading>
         <para>
           <num>(1)</num>
           <text>The actions of Elected Officials reflect their commitment to conduct all of the Tribe's activities in an honest, ethical and professional manner in compliance with all applicable laws and regulations and with Tribal policies.</text>
@@ -203,7 +205,7 @@
       <section>
         <num>1.304</num>
         <heading>Confidentiality</heading>
-        <text>To respect the privacy of Tribal members, employees, and clients, Elected Officials, as established in Subchapter 1.7 of this ordinance, shall not use or disclose confidential information gained in the course of or by reason of their official position or activities, to further their own economic and personal interest or that of anyone else. Elected Officials shall in any event maintain strict confidentiality over such information received, regardless of economic or personal gain.</text>
+        <text>To respect the privacy of Tribal members, employees, and clients, Elected Officials, as established in <cite path="III|1|1.7">Subchapter 1.7</cite> of this ordinance, shall not use or disclose confidential information gained in the course of or by reason of their official position or activities, to further their own economic and personal interest or that of anyone else. Elected Officials shall in any event maintain strict confidentiality over such information received, regardless of economic or personal gain.</text>
       </section>
       <section>
         <num>1.305</num>
@@ -233,7 +235,7 @@
           </para>
           <para>
             <num>(e)</num>
-            <text>Follow Tribal/Indian preference in employment as allowed by law in accordance with 14 LCOTCL <cite path="III|1|1.4|1.402">§ 1.402</cite>, 14 LCOTCL <cite path="III|4|4.4|4.402">§ 4.402</cite>, 14 LCOTCL <cite path="III|5|5.4|5.402">§ 5.402</cite>, 14 LCOTCL <cite path="III|7|7.4|7.402">§ 7.402</cite>, 14 LCOTCL <cite path="III|9|9.4|9.403">§ 9.403</cite>.</text>
+            <text>Follow Tribal/Indian preference in employment as allowed by law in accordance with <cite path="XIV|1|1.4|1.402">14 LCOTCL § 1.402</cite>, <cite path="XIV|4|4.4|4.402">14 LCOTCL § 4.402</cite>, <cite path="XIV|5|5.4|5.402">14 LCOTCL § 5.402</cite>, <cite path="XIV|7|7.4|7.402">14 LCOTCL § 7.402</cite>, <cite path="XIV|9|9.4|9.403">14 LCOTCL § 9.403</cite>.</text>
           </para>
         </para>
       </section>
@@ -301,10 +303,10 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>1.4</num>
-      <heading>Conflict Of Interest</heading>
+      <heading>Conflict of Interest</heading>
       <section>
         <num>1.401</num>
-        <heading>Conflict Of Interest</heading>
+        <heading>Conflict of Interest</heading>
         <para>
           <num>(1)</num>
           <text>No Elected Official shall use, or attempt to use, any official or apparent authority of their office or duties which places, or could reasonably be perceived as placing their private economic gain or that of any special business interests with which they are associated, before those of the Tribal membership, whose paramount interests their office or employment is intended to serve.</text>
@@ -355,12 +357,12 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Assignment of such persons to duties, positions, governmental offices or other entities shall in all instances be made in strict compliance with the current provisions of this ordinance and the following provisions of the governmental and tribal entity personnel policies and procedures manuals: 14 LCOTCL <cite path="III|1|1.4|1.410">§ 1.410</cite>, 14 LCOTCL <cite path="III|4|4.4|4.410">§ 4.410</cite>, 14 LCOTCL <cite path="III|5|5.4|5.410">§ 5.410</cite>, 14 LCOTCL <cite path="III|7|7.4|7.410">§ 7.410</cite>, 14 LCOTCL §§ <cite path="III|9|9.4|9.408">9.408</cite> and <cite path="III|9|9.4|9.409">9.409</cite>.</text>
+          <text>Assignment of such persons to duties, positions, governmental offices or other entities shall in all instances be made in strict compliance with the current provisions of this ordinance and the following provisions of the governmental and tribal entity personnel policies and procedures manuals: <cite path="XIV|1|1.4|1.410">14 LCOTCL § 1.410</cite>, <cite path="XIV|4|4.4|4.410">14 LCOTCL § 4.410</cite>, <cite path="XIV|5|5.4|5.410">14 LCOTCL § 5.410</cite>, <cite path="XIV|7|7.4|7.410">14 LCOTCL § 7.410</cite>, 14 LCOTCL §§ <cite path="XIV|9|9.4|9.408">9.408</cite> and <cite path="XIV|9|9.4|9.409">9.409</cite>.</text>
         </para>
       </section>
       <section>
         <num>1.403</num>
-        <heading>Conflict Of Interest Statements And Official Action</heading>
+        <heading>Conflict of Interest Statements and Official Action</heading>
         <para>
           <num>(1)</num>
           <text><u>Disclosure</u>. It is the premise that all Elected Officials who have interests which might conflict with their duties should divulge those interests. Disclosure shall also extend to those interests held by his/her immediate family, when they are known by the Elected Official.</text>
@@ -445,7 +447,7 @@
       </section>
       <section>
         <num>1.502</num>
-        <heading>Tribal Government Contracts: Restrictions And Bid Requirements</heading>
+        <heading>Tribal Government Contracts: Restrictions and Bid Requirements</heading>
         <para>
           <num>(1)</num>
           <text>No Elected Official shall participate in the selection or in the award or administration of a contract or grant award of funds from any government agency, if a conflict of interest, real or apparent, shall be involved.</text>
@@ -455,7 +457,7 @@
           <text>No Elected Official or any member of such person's immediate family shall be a party to, nor have an interest in the profits or benefits of, any government contract of the Tribe or of any investment of funds of the Tribe, unless the contract or the investment meets the following requirements:</text>
           <para>
             <num>(a)</num>
-            <text>The contract is let by notice and competitive bid or procurement procedures as required pursuant to Title XIV, Chapter 2 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Property and Procurement Policies and Procedures, as well as all other applicable laws, rules, regulations and policies of the Tribe, for necessary materials or services for the governmental agency or entity involved; and</text>
+            <text>The contract is let by notice and competitive bid or procurement procedures as required pursuant to <cite path="XIV|2">Title XIV, Chapter 2</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Property and Procurement Policies and Procedures, as well as all other applicable laws, rules, regulations and policies of the Tribe, for necessary materials or services for the governmental agency or entity involved; and</text>
           </para>
           <para>
             <num>(b)</num>
@@ -472,12 +474,12 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>This provision shall not apply to such persons qualifying for housing benefits from the Tribe pursuant to Title XI, Chapter 7 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Housing Authority Code or for medical benefits from the Indian Health Service or other programs available to all Tribal members pursuant to Title III, Chapter 7 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Community Health Center Code.</text>
+          <text>This provision shall not apply to such persons qualifying for housing benefits from the Tribe pursuant to <cite path="XI|7">Title XI, Chapter 7</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Housing Authority Code or for medical benefits from the Indian Health Service or other programs available to all Tribal members pursuant to <cite path="III|7">Title III, Chapter 7</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Community Health Center Code.</text>
         </para>
       </section>
       <section>
         <num>1.503</num>
-        <heading>Gifts, Awards, Loans, Reimbursements And Campaign Contributions</heading>
+        <heading>Gifts, Awards, Loans, Reimbursements and Campaign Contributions</heading>
         <para>
           <num>(1)</num>
           <text>Except as otherwise provided herein or by applicable rule or regulation adopted hereunder by the Tribe, or by other applicable law, no Elected Official shall solicit or accept for themselves or another, any gift, including economic opportunity, favor, service, or loan (other than from a regular lending institution or Tribally sponsored lending program on generally available terms) or any other benefit from any person, organization or group which:</text>
@@ -496,7 +498,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The restrictions established in sub<cite path="III|1|1.5|1.503|(1) |(a)">section (1) (a)</cite> above shall not be construed to prohibit:</text>
+          <text>The restrictions established in sub<cite path="III|1|1.5|1.503|(1)|(a)">section (1) (a)</cite> above shall not be construed to prohibit:</text>
           <para>
             <num>(a)</num>
             <text>An occasional non-financial gift, insignificant in value (less than $200.00);</text>
@@ -546,18 +548,18 @@
       <section>
         <num>1.505</num>
         <heading>Purchase Policy</heading>
-        <text>All Elected Officials shall comply with the procurement law and policy of the Tribe as established in Title XIV, Chapter 2 of the LCOTCL – Property and Procurement Policies and Procedures and Title XIV, Chapter 10 of the LCOTCL – Governmental Fiscal Policies and Procedures.</text>
+        <text>All Elected Officials shall comply with the procurement law and policy of the Tribe as established in <cite path="XIV|2">Title XIV, Chapter 2</cite> of the LCOTCL – Property and Procurement Policies and Procedures and <cite path="XIV|10">Title XIV, Chapter 10</cite> of the LCOTCL – Governmental Fiscal Policies and Procedures.</text>
       </section>
       <section>
         <num>1.506</num>
         <heading>Travel Policy</heading>
-        <text>All Elected Officials shall comply with Travel law and policy of the Tribe as established in Title XIV, Chapter 3 of the LCOTCL – Travel Policies and Procedures. This Travel Policy establishes the rules governing travel by all Elected Officials in the performance of their official duties on behalf of the Tribe ("Business Travel") and the purchase or use of modes of transportation, such as personal automobiles, Tribal vehicles, rental vehicles, tolls, parking, accommodations, air fare, etc. (collectively "Travel Services").</text>
+        <text>All Elected Officials shall comply with Travel law and policy of the Tribe as established in <cite path="XIV|3">Title XIV, Chapter 3</cite> of the LCOTCL – Travel Policies and Procedures. This Travel Policy establishes the rules governing travel by all Elected Officials in the performance of their official duties on behalf of the Tribe ("Business Travel") and the purchase or use of modes of transportation, such as personal automobiles, Tribal vehicles, rental vehicles, tolls, parking, accommodations, air fare, etc. (collectively "Travel Services").</text>
       </section>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>1.6</num>
-      <heading>Employment, Compensation And Benefits</heading>
+      <heading>Employment, Compensation and Benefits</heading>
       <section>
         <num>1.601</num>
         <heading>Compensation</heading>
@@ -622,7 +624,7 @@
       </section>
       <section>
         <num>1.605</num>
-        <heading>Hours Of Work</heading>
+        <heading>Hours of Work</heading>
         <para>
           <num>(1)</num>
           <text>The standard work hours for the Tribal Government are from 8:00 a.m. to 4:30 p.m. Each Elected Official may establish his or her own work schedule as their official duties mandate. A written approval shall be maintained in an Elected Official's personnel file.</text>
@@ -654,13 +656,13 @@
       </section>
       <section>
         <num>1.610</num>
-        <heading>Bank Deposits Or Payroll Deductions</heading>
+        <heading>Bank Deposits or Payroll Deductions</heading>
         <text>The Tribe may automatically deposit an Elected Official's paychecks at financial institutions and may provide for payroll deductions, subject to applicable, charges, procedures and limitations. In addition, the Tribe may make deductions from an Elected Official's paychecks in accordance with orders issued by a court of competent jurisdiction. An Elected Official's should contact the Accounting Department with any questions.</text>
       </section>
       <section>
         <num>1.611</num>
         <heading>Workers' Compensation</heading>
-        <text>The Tribe carries insurance to cover the cost of work-incurred injury or illness.  Benefits help pay for an Elected Official's medical treatment and a portion of any income lost while recovering.  An Elected Official's must report any work-related injury or illness to the Tribal Governing Board by completing the "First Report of Injury or Illness Form," which must be completed within the timelines as stated in the Title XII, Chapter 6 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Worker's Compensation Code<strong>.</strong> Refer to the <cite path="XII|6">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code for additional guidelines.</text>
+        <text>The Tribe carries insurance to cover the cost of work-incurred injury or illness.  Benefits help pay for an Elected Official's medical treatment and a portion of any income lost while recovering.  An Elected Official's must report any work-related injury or illness to the Tribal Governing Board by completing the "First Report of Injury or Illness Form," which must be completed within the timelines as stated in the <cite path="XII|6">Title XII, Chapter 6</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Worker's Compensation Code<strong>.</strong> Refer to the <cite path="XII|6">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code for additional guidelines.</text>
       </section>
       <section>
         <num>1.612</num>
@@ -793,7 +795,7 @@
       </section>
       <section>
         <num>1.615</num>
-        <heading>Personal Time Off</heading>
+        <heading>Personal Time off</heading>
         <para>
           <num>(1)</num>
           <text>Elected Officials will accrue paid Personal Time Off (PTO) at the following rates:</text>
@@ -825,7 +827,7 @@
       </section>
       <section>
         <num>1.616</num>
-        <heading>Sharing Of Personal Time Off Prohibited</heading>
+        <heading>Sharing of Personal Time off Prohibited</heading>
         <text>Elected Officials are not permitted to share PTO under any circumstances.</text>
       </section>
       <section>
@@ -890,7 +892,7 @@
         <heading>Unpaid Leave</heading>
         <para>
           <num>(1)</num>
-          <text><u>Disciplinary Leave</u>. The Tribal Governing Board consistent with Subchapter 1.11 of this ordinance, may take disciplinary action, up to and including removal from office pursuant to Article III, § 7 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, without pay, against Elected Officials who violate the provisions of this Ordinance.</text>
+          <text><u>Disciplinary Leave</u>. The Tribal Governing Board consistent with <cite path="III|1|1.11">Subchapter 1.11</cite> of this ordinance, may take disciplinary action, up to and including removal from office pursuant to Article III, § 7 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, without pay, against Elected Officials who violate the provisions of this Ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -903,7 +905,7 @@
       </section>
       <section>
         <num>1.619</num>
-        <heading>Family And Medical Leave</heading>
+        <heading>Family and Medical Leave</heading>
         <text>Elected Officials may be eligible for up to twelve (12) weeks of family and medical leave during any twelve (12) month period. The leave may be paid, unpaid, or a combination of paid and unpaid, depending on the circumstances. This policy sets forth the Tribe's policies and procedures for requesting family and medical leave.</text>
         <para>
           <num>(1)</num>
@@ -926,11 +928,11 @@
           </para>
           <para>
             <num>(b)</num>
-            <text>To care for an immediate family member who has a serious health condition as defined in <cite path="III|1|1.2|1.201">§ 1.201</cite> (11) of this manual.</text>
+            <text>To care for an immediate family member who has a serious health condition as defined in <cite path="III|1|1.2|1.201|(11)">§ 1.201 (11)</cite> of this manual.</text>
           </para>
           <para>
             <num>(c)</num>
-            <text>Because the Elected Official has a serious health condition as defined in <cite path="III|1|1.2|1.201">§ 1.201</cite> (11) of this manual, which prevents the Elected Official from performing the functions of office.</text>
+            <text>Because the Elected Official has a serious health condition as defined in <cite path="III|1|1.2|1.201|(11)">§ 1.201 (11)</cite> of this manual, which prevents the Elected Official from performing the functions of office.</text>
           </para>
         </para>
         <para>
@@ -1024,7 +1026,7 @@
       </section>
       <section>
         <num>1.620</num>
-        <heading>Life Insurance, Disability Insurance And Retirement Plan</heading>
+        <heading>Life Insurance, Disability Insurance and Retirement Plan</heading>
         <text>If requested by an Elected Official, the Tribe provides Elected Officials Life and Disability insurances along with a Retirement Plan. An Elected Official wanting these types of benefits should consult with the Tribe's Benefit's Administrator for further information.</text>
       </section>
       <section>
@@ -1050,7 +1052,7 @@
             </para>
             <para>
               <num>(iii)</num>
-              <text>An Elected Official returning to duty following a leave of absence from self-disclosure will be required to undergo testing for illegal drugs and prescribed medication for which they do not have a valid prescription as a condition of returning to their elected office. If the Elected Official is suspected to be under the influence of alcohol at the time of return to drug screen, a PBT may be requested. Elected Officials who refuse to take a test are thereby considered to have produced a positive test result and shall be considered to having failed to carry out his or her official duties and may be removed from office pursuant to Article III, § 7 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. Upon receipt of a positive test result as defined in <cite path="III|1|1.2|1.201">§ 1.201</cite> (8), the Elected Official shall be considered to having failed to carry out his or her official duties and may be removed from office pursuant to Article III, § 7 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and the positive test sample will be sent for a confirmation test result pursuant to <cite path="III|1|1.6|1.625">§ 1.625</cite> (1) of this ordinance.</text>
+              <text>An Elected Official returning to duty following a leave of absence from self-disclosure will be required to undergo testing for illegal drugs and prescribed medication for which they do not have a valid prescription as a condition of returning to their elected office. If the Elected Official is suspected to be under the influence of alcohol at the time of return to drug screen, a PBT may be requested. Elected Officials who refuse to take a test are thereby considered to have produced a positive test result and shall be considered to having failed to carry out his or her official duties and may be removed from office pursuant to Article III, § 7 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. Upon receipt of a positive test result as defined in <cite path="III|1|1.2|1.201|(8)">§ 1.201 (8)</cite>, the Elected Official shall be considered to having failed to carry out his or her official duties and may be removed from office pursuant to Article III, § 7 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and the positive test sample will be sent for a confirmation test result pursuant to <cite path="III|1|1.6|1.625|(1)">§ 1.625 (1)</cite> of this ordinance.</text>
             </para>
           </para>
         </para>
@@ -1073,7 +1075,7 @@
             </para>
             <para>
               <num>(iii)</num>
-              <text>An Elected Official returning to duty following a leave of absence from a referral of the Tribal Governing Board will be required to undergo testing for illegal drugs and prescribed medication for which they do not have a valid prescription as a condition of returning to their elected office. If the Elected Official is suspected to be under the influence of alcohol at the time of return to drug screen, a PBT may be requested. Elected Officials who refuse to take a test are thereby considered to have produced a positive test result and shall be considered to having failed to carry out his or her official duties and may be removed from office pursuant to Article III, § 7 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. Upon receipt of a positive test result as defined in <cite path="III|1|1.2|1.201">§ 1.201</cite> (8), the Elected Official shall be considered to having failed to carry out his or her official duties and may be removed from office pursuant to Article III, § 7 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and the positive test sample will be sent for a confirmation test result pursuant to <cite path="III|1|1.6|1.625">§ 1.625</cite> (1) of this ordinance.</text>
+              <text>An Elected Official returning to duty following a leave of absence from a referral of the Tribal Governing Board will be required to undergo testing for illegal drugs and prescribed medication for which they do not have a valid prescription as a condition of returning to their elected office. If the Elected Official is suspected to be under the influence of alcohol at the time of return to drug screen, a PBT may be requested. Elected Officials who refuse to take a test are thereby considered to have produced a positive test result and shall be considered to having failed to carry out his or her official duties and may be removed from office pursuant to Article III, § 7 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. Upon receipt of a positive test result as defined in <cite path="III|1|1.2|1.201|(8)">§ 1.201 (8)</cite>, the Elected Official shall be considered to having failed to carry out his or her official duties and may be removed from office pursuant to Article III, § 7 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and the positive test sample will be sent for a confirmation test result pursuant to <cite path="III|1|1.6|1.625|(1)">§ 1.625 (1)</cite> of this ordinance.</text>
             </para>
           </para>
         </para>
@@ -1085,14 +1087,14 @@
       </section>
       <section>
         <num>1.623</num>
-        <heading>Alcohol And Drugs</heading>
+        <heading>Alcohol and Drugs</heading>
         <para>
           <num>(1)</num>
           <text>All Elected Officials of the Tribe are subject to the drug testing procedures as provided in <cite path="III|1|1.6|1.625">§ 1.625</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Elected Officials are expected to perform the duties associated with their office with a clear mind, unimpaired by drugs or alcohol. The Tribal Governing Board has determined in enacting <cite path="III|1|1.6|1.623">this section</cite> that it is important for the leadership of the Tribe to be at the forefront of protecting the Tribe and combating the "State of Emergencies" against the abuse of methamphetamine, heroin, prescription, synthetic and illegal drugs that are in effect. The Tribal Governing Board recognizes that drug problems associated with an Elected Official can tremendously affect his or her capacity and motivation to carry out their duties of protecting the sovereignty, safety, and economic well-being of the Tribe and its citizens and enforcing the laws on their behalf. Drug problems associated with an Elected Official can also cause shame, enormous pain and anguish to the citizens of this Tribe as well as hurt, confusion, and disappointment to the Tribe's young people who should be looking at their leaders as role models to be admired and followed. For the aforementioned reasons, no Elected Official under the influence of alcohol, illegal drugs or controlled substances as established in <cite path="III|1|1.2|1.201">§ 1.201</cite> (15) shall be permitted to perform the duties associated with their office.</text>
+          <text>Elected Officials are expected to perform the duties associated with their office with a clear mind, unimpaired by drugs or alcohol. The Tribal Governing Board has determined in enacting <cite path="III|1|1.6|1.623">this section</cite> that it is important for the leadership of the Tribe to be at the forefront of protecting the Tribe and combating the "State of Emergencies" against the abuse of methamphetamine, heroin, prescription, synthetic and illegal drugs that are in effect. The Tribal Governing Board recognizes that drug problems associated with an Elected Official can tremendously affect his or her capacity and motivation to carry out their duties of protecting the sovereignty, safety, and economic well-being of the Tribe and its citizens and enforcing the laws on their behalf. Drug problems associated with an Elected Official can also cause shame, enormous pain and anguish to the citizens of this Tribe as well as hurt, confusion, and disappointment to the Tribe's young people who should be looking at their leaders as role models to be admired and followed. For the aforementioned reasons, no Elected Official under the influence of alcohol, illegal drugs or controlled substances as established in <cite path="III|1|1.2|1.201|(15)">§ 1.201 (15)</cite> shall be permitted to perform the duties associated with their office.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -1137,7 +1139,7 @@
       </section>
       <section>
         <num>1.625</num>
-        <heading>Drug And Alcohol Testing Procedures</heading>
+        <heading>Drug and Alcohol Testing Procedures</heading>
         <text>All Elected Officials are subject to drug and alcohol testing, including reasonable suspicion, return-to-duty, and random drug testing. Drug tests require laboratory testing as provided by the Mandatory guidelines for Federal Workplace Drug Testing Programs pursuant to 94 FR 28101, May 15, 2015 as amended, as minimum standards for the following five classes of drug and correlative cutoff concentrations: Marijuana; Cocaine; Opiates including opium and codeine derivatives such as Oxycodone, Oxymorphone, Hydrocodone, Hydromorphone; Amphetamines and Methamphetamines including Methylenedioxyamphetamine (MDA) and Methylenedioxyethylamphetamine (MDEA); Phencyclidine (PCP). Elected Official are encouraged to contact the Human Resource Director, or designee, with any questions regarding drug and alcohol testing. Failure or refusal of an Elected Official to participate in an Tribal Governing Board-directed drug test shall be considered as having failed to carry out his or her official duties and the Elected Official may be removed from office pursuant to Article III, § 7 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
         <para>
           <num>(1)</num>
@@ -1152,7 +1154,7 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>In the event of a positive test result, a confirmation test will be performed by a laboratory specified in <cite path="III|1|1.6|1.625|(b)">subs. (b)</cite> above, using the original sample (not a new sample). The confirmation test will be based on a different analytical method of higher analytical certainty.</text>
+            <text>In the event of a positive test result, a confirmation test will be performed by a laboratory specified in <cite path="III|1|1.6|1.625|(1)|(b)">subs. (b)</cite> above, using the original sample (not a new sample). The confirmation test will be based on a different analytical method of higher analytical certainty.</text>
           </para>
           <para>
             <num>(d)</num>
@@ -1172,11 +1174,11 @@
           <text><u>Probable Cause Testing Procedures</u>.</text>
           <para>
             <num>(a)</num>
-            <text>Upon a finding by the Tribal Governing Board that there is probable cause that an Elected Official is either under the influence of alcohol (under the influence shall mean a blood alcohol concentration of 0.02 grams of alcohol per 100 milliliters of a person's blood or while the person has 0.02 grams of alcohol per 210 liters of a person's breath) or drug abuse that is impairing the employee's ability to carry out job-related activities, the Elected Official shall be required to be tested for the presence of drugs or alcohol pursuant to <cite path="III|1|1.6|1.625|(c)">subs. (c)</cite>, below. A finding of probable cause and directive requiring the Elected Official to submit to testing for drugs or alcohol must be in writing signed by the a member of the Tribal Governing Board. The probable cause finding must be supported by evidence of specific, personal observations concerning performance of official duties, appearance, behavior, speech, or bodily odors of the Elected Official. If hearsay information is received, such information must be corroborated by personal observations, or observations and evaluation by the Tribal Governing Board.</text>
+            <text>Upon a finding by the Tribal Governing Board that there is probable cause that an Elected Official is either under the influence of alcohol (under the influence shall mean a blood alcohol concentration of 0.02 grams of alcohol per 100 milliliters of a person's blood or while the person has 0.02 grams of alcohol per 210 liters of a person's breath) or drug abuse that is impairing the employee's ability to carry out job-related activities, the Elected Official shall be required to be tested for the presence of drugs or alcohol pursuant to <cite path="III|1|1.6|1.625|(2)|(c)">subs. (c)</cite>, below. A finding of probable cause and directive requiring the Elected Official to submit to testing for drugs or alcohol must be in writing signed by the a member of the Tribal Governing Board. The probable cause finding must be supported by evidence of specific, personal observations concerning performance of official duties, appearance, behavior, speech, or bodily odors of the Elected Official. If hearsay information is received, such information must be corroborated by personal observations, or observations and evaluation by the Tribal Governing Board.</text>
           </para>
           <para>
             <num>(b)</num>
-            <text>Once the Tribal Governing Board has determined that probable cause pursuant to <cite path="III|1|1.6|1.625|(a)">subs. (a)</cite>, above exists, the Tribal Governing Board shall immediately contact the Human Resource Director, or designee and convey that an Elected Official is under the influence of alcohol or a controlled substance and that such influence is impairing the Elected Official's ability to carry out his or her official duties.</text>
+            <text>Once the Tribal Governing Board has determined that probable cause pursuant to <cite path="III|1|1.6|1.625|(2)|(a)">subs. (a)</cite>, above exists, the Tribal Governing Board shall immediately contact the Human Resource Director, or designee and convey that an Elected Official is under the influence of alcohol or a controlled substance and that such influence is impairing the Elected Official's ability to carry out his or her official duties.</text>
           </para>
           <para>
             <num>(c)</num>
@@ -1184,7 +1186,7 @@
           </para>
           <para>
             <num>(d)</num>
-            <text>Upon receipt of a positive test result, the Elected Official shall be immediately relieved of their duty station and shall be considered to having failed to carry out his or her official duties and may be removed from office pursuant to Article III, § 7 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and the positive test sample will be sent for a confirmation test result pursuant to <cite path="III|1|1.6|1.625|(1)">subs. (1)</cite> above. Upon receipt of a positive confirmation test result pursuant to <cite path="III|1|1.6|1.625|(1)">subs. (1)</cite> above, the Elected Official shall be referred by the Human Resource Director, or designee to participate in the Employee Assistance Program pursuant to <cite path="III|1|1.6|1.621">§ 1.621</cite> (2) of this ordinance. Failure to comply and successfully complete an approved LCOCHC- Behavioral Health EAP treatment plan within the timeframe established in the treatment plan shall be construed as the Elected Official having failed to carry out his or her official duties and the Elected Official may be removed from office pursuant to Article III, § 7 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+            <text>Upon receipt of a positive test result, the Elected Official shall be immediately relieved of their duty station and shall be considered to having failed to carry out his or her official duties and may be removed from office pursuant to Article III, § 7 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and the positive test sample will be sent for a confirmation test result pursuant to <cite path="III|1|1.6|1.625|(1)">subs. (1)</cite> above. Upon receipt of a positive confirmation test result pursuant to <cite path="III|1|1.6|1.625|(1)">subs. (1)</cite> above, the Elected Official shall be referred by the Human Resource Director, or designee to participate in the Employee Assistance Program pursuant to <cite path="III|1|1.6|1.621|(2)">§ 1.621 (2)</cite> of this ordinance. Failure to comply and successfully complete an approved LCOCHC- Behavioral Health EAP treatment plan within the timeframe established in the treatment plan shall be construed as the Elected Official having failed to carry out his or her official duties and the Elected Official may be removed from office pursuant to Article III, § 7 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
           </para>
         </para>
         <para>
@@ -1212,7 +1214,7 @@
           </para>
           <para>
             <num>(d)</num>
-            <text>If an Elected Official that is selected for preventative testing is on travel, PTO, or other leave, the Elected Official shall be notified upon their return to their office to comply with the preventative testing procedure pursuant to <cite path="III|1|1.6|1.625|(c)">subs. (c)</cite>, above.</text>
+            <text>If an Elected Official that is selected for preventative testing is on travel, PTO, or other leave, the Elected Official shall be notified upon their return to their office to comply with the preventative testing procedure pursuant to <cite path="III|1|1.6|1.625|(3)|(c)">subs. (c)</cite>, above.</text>
           </para>
           <para>
             <num>(e)</num>
@@ -1242,7 +1244,7 @@
       </section>
       <section>
         <num>1.626</num>
-        <heading>Inspection And Search</heading>
+        <heading>Inspection and Search</heading>
         <para>
           <num>(1)</num>
           <text>The Tribe has the authority to inspect or search the entire work-place, including, but not limited to any office or desk when there are reasonable grounds for suspecting that the search will turn-up evidence that an Elected Official violated any provision of this ordinance or otherwise engaged in misconduct related to their elected office.</text>
@@ -1363,7 +1365,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>Violations of confidentiality, including the disclosure of confidential information (verbal, written or documents) as defined under <cite path="III|1|1.2|1.201">§ 1.201</cite> (2) of this ordinance shall be subject to removal from office pursuant to Article III, § 7 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.  The Tribe reserves the right to prosecute any violations to fullest extent allowed under tribal, state or federal law.</text>
+          <text>Violations of confidentiality, including the disclosure of confidential information (verbal, written or documents) as defined under <cite path="III|1|1.2|1.201|(2)">§ 1.201 (2)</cite> of this ordinance shall be subject to removal from office pursuant to Article III, § 7 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.  The Tribe reserves the right to prosecute any violations to fullest extent allowed under tribal, state or federal law.</text>
         </para>
         <para>
           <num>(8)</num>
@@ -1386,7 +1388,7 @@
       </section>
       <section>
         <num>1.704</num>
-        <heading>Internet And Telephones</heading>
+        <heading>Internet and Telephones</heading>
         <para>
           <num>(1)</num>
           <text>All electronic and telephonic communication systems and all communications and information transmitted by, received from, or stored in these systems are the property of the Tribe and as such are to be used solely for purposed related to an Elected Officials office. The use of any software and business equipment, including, but not limited to, e-mail, internet access, facsimile machines, computers, telephones (land lines and cellular phones) and copy machines for private purposes is prohibited.</text>
@@ -1434,7 +1436,7 @@
       </section>
       <section>
         <num>1.705</num>
-        <heading>Policy Regarding Use Of Social Media By Elected Officials</heading>
+        <heading>Policy Regarding Use of Social Media by Elected Officials</heading>
         <para>
           <num>(1)</num>
           <text>While the Tribe encourages its Elected Officials to enjoy and make good use of their off-duty time, certain activities on the part of Elected Officials may become a concern if they have the effect of impairing the work of the official duties of the government; harassing, demeaning, or creating a hostile working environment for any Elected Official or employee; disrupting the smooth and orderly flow of work within the office; or harming the goodwill and reputation of the Tribe. In the area of social media (print, broadcast, digital, and online services such as Facebook, LinkedIn, MySpace, Plaxo, and Twitter, among others), Elected Officials may use such media in any way they choose as long as such use does not produce the adverse consequences noted above. For this reason, the following provisions apply regarding an employee's use of social media, both on and off duty:</text>
@@ -1620,7 +1622,7 @@
       <heading>Miscellaneous</heading>
       <section>
         <num>1.1001</num>
-        <heading>Amendments To The Governmental Code Of Conduct</heading>
+        <heading>Amendments to The Governmental Code of Conduct</heading>
         <para>
           <num>(1)</num>
           <text>Any Elected Official who is subject to the provisions of this ordinance, is authorized to submit for approval and adoption by the Tribal Governing Board such supplemental rules, regulations and standards of conduct for Elected Officials, which are necessary and appropriate to the special conditions relating to their particular functions, purposes and duties and not in conflict with the purposes and other provisions of this ordinance.</text>
@@ -1634,10 +1636,10 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>1.11</num>
-      <heading>Implementation And Compliance</heading>
+      <heading>Implementation and Compliance</heading>
       <section>
         <num>1.1101</num>
-        <heading>Filing Of Complaints</heading>
+        <heading>Filing of Complaints</heading>
         <text>The Tribal Governing Board shall initiate and/or receive, review and/or investigate complaints filed. Each complaint shall contain a statement of the alleged misconduct, including any section of the Constitution or this ordinance alleged to have been violated, and the alleged facts upon which such charges are based.</text>
       </section>
       <section>
@@ -1647,7 +1649,7 @@
       </section>
       <section>
         <num>1.1103</num>
-        <heading>Determination To Proceed</heading>
+        <heading>Determination to Proceed</heading>
         <para>
           <num>(1)</num>
           <text>If the Tribal Governing Board finds sufficient cause to proceed, they shall conduct or cause an investigation to be conducted to determine violations or noncompliance with the Constitution or this ordinance. In any Tribal Governing Board determination regarding the matter under review, that Tribal Governing Board member must abstain from voting on the matter.</text>
@@ -1667,7 +1669,7 @@
       </section>
       <section>
         <num>1.1104</num>
-        <heading>Response To Notice</heading>
+        <heading>Response to Notice</heading>
         <text>Within five (5) business days after receipt of the complaint, the accused Elected Official shall file a written response setting forth any admission, denial, affirmative defense, or other matter upon which they intend to rely on at the hearing.</text>
       </section>
       <section>
@@ -1728,7 +1730,7 @@
       </section>
       <section>
         <num>1.1108</num>
-        <heading>Statute Of Limitations</heading>
+        <heading>Statute of Limitations</heading>
         <text>No action shall be brought under this ordinance more than two (2) years after cause of action has occurred.</text>
       </section>
       <section>
@@ -1751,7 +1753,7 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>1.12</num>
-      <heading>Sanctions And Penalties</heading>
+      <heading>Sanctions and Penalties</heading>
       <section>
         <num>1.1201</num>
         <heading>Administrative Sanctions</heading>
@@ -1801,8 +1803,10 @@
   <container>
     <prefix>Chapter</prefix>
     <num>4</num>
-    <heading>Lac Courte Oreilles Head Start/Early Head Start Policy Council By-Laws Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text>Preamble</text>
+    <heading>Lac Courte Oreilles Head Start/Early Head Start Policy Council By-Laws of The Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians relating to the delivery of educational services which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, §§ 1(l) and (m) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "organize, charter and regulate any association or group, including a housing authority, for the purpose of providing social or economic benefits to the members of the Band or residents of the reservation" Article V, § 1 (l);  and "delegate to subordinate boards, officers, committees or cooperative associations which are open to all members of the Band any of the foregoing powers, reserving the right to review any action taken by virtue of such delegated powers" Article V, § 1 (m). This ordinance establishes that the purpose of the Lac Courte Oreilles Ojibwe Early Head Start ("Early Head Start") program is to provide students a comprehensive, bilingual and multicultural community-based education that nurtures theirs intellectual, spiritual, physical, emotional, mental and social development.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -1852,12 +1856,12 @@
       </section>
       <section>
         <num>4.107</num>
-        <heading>Severability And Non-Liability</heading>
+        <heading>Severability and Non-Liability</heading>
         <text>If any section, provision or portion of this ordinance is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this ordinance.</text>
       </section>
       <section>
         <num>4.108</num>
-        <heading>Repeal Of Inconsistent Tribal Ordinances</heading>
+        <heading>Repeal of Inconsistent Tribal Ordinances</heading>
         <text>All ordinances and resolutions inconsistent with this ordinance are hereby repealed. To the extent that this ordinance imposes greater restrictions than those contained in any other tribal law, code, ordinance or regulation, the provisions of this ordinance shall govern.</text>
       </section>
     </container>
@@ -1893,7 +1897,7 @@
       <heading>General</heading>
       <section>
         <num>4.301</num>
-        <heading>Head Start And Early Head Start</heading>
+        <heading>Head Start and Early Head Start</heading>
         <text>The Head Start and Early Head Start is an important part of the ever-growing educational system of the Lac Courte Oreilles Ojibwe and supports the statement of philosophy of the Ojibwe Code for Long Life and Wisdom. Within the Head Start/Early Head Start program, the Tribe hereby commits itself to an early extended involvement in our children's educational and social development. The Tribal Governing Board hereby establishes and empowers the Lac Courte Oreilles Head Start and Early Head Start to carry out the intent of this ordinance as further defined herein:</text>
         <para>
           <num>(1)</num>
@@ -1975,7 +1979,7 @@
       </section>
       <section>
         <num>4.303</num>
-        <heading>Relationship To Tribe And Duration</heading>
+        <heading>Relationship to Tribe and Duration</heading>
         <para>
           <num>(1)</num>
           <text><u>Relationship</u>. The Policy Council is hereby delegated the authority to operate as a subordinate organization of the Tribal Governing Board pursuant to Article V, Section 1(m) of the Tribal Constitution.</text>
@@ -2099,7 +2103,7 @@
       </section>
       <section>
         <num>4.305</num>
-        <heading>Policy Council Operation And Compensation</heading>
+        <heading>Policy Council Operation and Compensation</heading>
         <para>
           <num>(1)</num>
           <text>The Policy Council shall operate pursuant to the provisions of this ordinance, which provide for the internal regulation and management of the affairs of the Policy Council in a manner not inconsistent with tribal or federal law.</text>
@@ -2155,7 +2159,7 @@
       </section>
       <section>
         <num>4.307</num>
-        <heading>Care, Loyalty, And Conflict</heading>
+        <heading>Care, Loyalty, and Conflict</heading>
         <para>
           <num>(1)</num>
           <text>Policy Council members shall perform the duties and responsibilities and all other obligations under this Charter in good faith and in a manner believed to be in the best interests of the Policy Council, with such care and as an ordinary prudent person would use under similar circumstances in a like position, and in a manner loyal to the Policy Council.</text>
@@ -2185,7 +2189,7 @@
       </section>
       <section>
         <num>4.402</num>
-        <heading>Officer Terms Of Office</heading>
+        <heading>Officer Terms of Office</heading>
         <para>
           <num>(1)</num>
           <text>Each officer shall be elected by quorum of the Policy Council once the full Council has been seated, and shall serve a term of one (1) year. All members may run for any officer position.</text>
@@ -2271,7 +2275,7 @@
       </section>
       <section>
         <num>4.603</num>
-        <heading>Notice Of Meetings</heading>
+        <heading>Notice of Meetings</heading>
         <text>Written notices shall be mailed, e-mailed, or each member called at least five (5) days prior to the date of each regular meeting. A copy of the agenda for the meeting will also be enclosed. Members of the Policy Council will be notified of special meetings by telephone.</text>
       </section>
       <section>
@@ -2283,10 +2287,10 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>4.7</num>
-      <heading>Order Of Business</heading>
+      <heading>Order of Business</heading>
       <section>
         <num>4.701</num>
-        <heading>Order Of Business</heading>
+        <heading>Order of Business</heading>
         <text>The regular meetings of the Committee shall follow said order of business:</text>
         <para>
           <num>(1)</num>

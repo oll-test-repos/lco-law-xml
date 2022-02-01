@@ -6,8 +6,10 @@
   <container>
     <prefix>Chapter</prefix>
     <num>7</num>
-    <heading>Housing Authority Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text>Preamble</text>
+    <heading>Housing Authority Code of The Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to provide for the decent, safe and sanitary dwellings for the members of the Tribe which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, §§ 1 (l) and (m) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "organize, charter and regulate any association or group, including a housing authority, for the purpose of providing social or economic benefits to the members of the Band or residents of the reservation" Article V, § 1 (l);  and "delegate to subordinate boards, officers, committees or cooperative associations which are open to all members of the Band any of the foregoing powers, reserving the right to review any action taken by virtue of such delegated powers" Article V, § 1 (m). Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby establishes a public body known as the Lac Courte Oreilles Housing Authority (hereinafter referred to as the Housing Authority), and enacts this ordinance which shall establish the purposes, powers and duties of the Housing Authority. In any suit, action or proceeding involving the validity or enforcement of or relating to any of its contracts, the Housing Authority shall be conclusively deemed to have become established and authorized to transact business and exercise its powers upon proof of the adoption of this ordinance. A copy of this ordinance duly certified by the Secretary/Treasurer of the Tribal Governing Board shall be admissible in evidence in any suit, action or proceedings.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -25,7 +27,7 @@
       </section>
       <section>
         <num>7.103</num>
-        <heading>Declaration Of Need</heading>
+        <heading>Declaration of Need</heading>
         <text>It is hereby declared;</text>
         <para>
           <num>(1)</num>
@@ -110,12 +112,12 @@
       </section>
       <section>
         <num>7.108</num>
-        <heading>Severability And Non-Liability</heading>
+        <heading>Severability and Non-Liability</heading>
         <text>If any section, provision or portion of this ordinance is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this ordinance.</text>
       </section>
       <section>
         <num>7.109</num>
-        <heading>Relation To Other Laws</heading>
+        <heading>Relation to Other Laws</heading>
         <para>
           <num>(1)</num>
           <text><u>Applicable Law</u>. Unless affected or displaced by this ordinance, principles of law and equity in the common law of the Tribe and tribal customs and traditions are applicable, and the general principles of law of any other Tribe or any other state may be used as a guide to supplement and interpret this ordinance.</text>
@@ -143,7 +145,7 @@
       </section>
       <section>
         <num>7.110</num>
-        <heading>Repeal Of Inconsistent Tribal Ordinances</heading>
+        <heading>Repeal of Inconsistent Tribal Ordinances</heading>
         <text>All ordinances and resolutions inconsistent with this ordinance are hereby repealed. To the extent that this ordinance imposes greater restrictions than those contained in any other tribal law, code, ordinance or regulation, the provisions of this ordinance shall govern.</text>
       </section>
     </container>
@@ -231,7 +233,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>Are anticipated to be received from a source outside the family during the 12-month period following admission or annual reexamination effective date; and which are not specifically excluded in <cite path="XI|7|7.2|7.201|(c)">subs. (c)</cite> below; or</text>
+              <text>Are anticipated to be received from a source outside the family during the 12-month period following admission or annual reexamination effective date; and which are not specifically excluded in <cite path="XI|7|7.2|7.201|(6)|(a)|(c)">subs. (c)</cite> below; or</text>
             </para>
             <para>
               <num>(iii)</num>
@@ -251,15 +253,15 @@
             </para>
             <para>
               <num>(iii)</num>
-              <text>Interest, dividends, and other net income of any kind from real or personal property.  Expenditures for amortization of capital indebtedness shall not be used as deductions in determining net income.  An allowance for depreciation is permitted only as authorized in <cite path="XI|7|7.2|7.201|(6) |(b) |(ii)">subs. (6) (b) (ii)</cite> above.  Any withdrawal of cash or assets from an investment will be included in income, except to the extent the withdrawal is reimbursement of cash or assets invested by the family. Where the family has net family assets in excess of $5,000, annual income shall include the greater of the actual income derived from all net family assets or a percentage of the value of such assets based on the current passbook savings rate, as determined by HUD;</text>
+              <text>Interest, dividends, and other net income of any kind from real or personal property.  Expenditures for amortization of capital indebtedness shall not be used as deductions in determining net income.  An allowance for depreciation is permitted only as authorized in <cite path="XI|7|7.2|7.201|(6)|(b)|(ii)">subs. (6) (b) (ii)</cite> above.  Any withdrawal of cash or assets from an investment will be included in income, except to the extent the withdrawal is reimbursement of cash or assets invested by the family. Where the family has net family assets in excess of $5,000, annual income shall include the greater of the actual income derived from all net family assets or a percentage of the value of such assets based on the current passbook savings rate, as determined by HUD;</text>
             </para>
             <para>
               <num>(iv)</num>
-              <text>The full amount of periodic amounts received from Social Security, annuities, insurance policies, retirement funds, pensions, disability or death benefits, and other similar types of periodic receipts, including a lump-sum amount or prospective monthly amounts for the delayed start of a periodic amount (except as provided in <cite path="XI|7|7.2|7.201|(6) |(c) |(xiv)">subs. (6) (c) (xiv)</cite>, below);</text>
+              <text>The full amount of periodic amounts received from Social Security, annuities, insurance policies, retirement funds, pensions, disability or death benefits, and other similar types of periodic receipts, including a lump-sum amount or prospective monthly amounts for the delayed start of a periodic amount (except as provided in <cite path="XI|7|7.2|7.201|(6)|(c)|(xiv)">subs. (6) (c) (xiv)</cite>, below);</text>
             </para>
             <para>
               <num>(v)</num>
-              <text>Payments in lieu of earnings, such as unemployment and disability compensation, worker's compensation and severance pay (except as provided in <cite path="XI|7|7.2|7.201|(6) |(c) |(iii)">subs. (6) (c) (iii)</cite>, below);</text>
+              <text>Payments in lieu of earnings, such as unemployment and disability compensation, worker's compensation and severance pay (except as provided in <cite path="XI|7|7.2|7.201|(6)|(c)|(iii)">subs. (6) (c) (iii)</cite>, below);</text>
             </para>
             <para>
               <num>(vi)</num>
@@ -273,7 +275,7 @@
                 </para>
                 <para>
                   <num>(a)</num>
-                  <text>Are not otherwise excluded under <cite path="XI|7|7.2|7.201|(6) |(c)">subs. (6) (c)</cite>, below.</text>
+                  <text>Are not otherwise excluded under <cite path="XI|7|7.2|7.201|(6)|(c)">subs. (6) (c)</cite>, below.</text>
                 </para>
               </para>
               <para>
@@ -295,7 +297,7 @@
             </para>
             <para>
               <num>(viii)</num>
-              <text>All regular pay, special pay and allowances of a member of the Armed Forces (except as provided in <cite path="XI|7|7.2|7.201|(6) |(c) |(vii)">subs. (6) (c) (vii)</cite>, below).</text>
+              <text>All regular pay, special pay and allowances of a member of the Armed Forces (except as provided in <cite path="XI|7|7.2|7.201|(6)|(c)|(vii)">subs. (6) (c) (vii)</cite>, below).</text>
             </para>
           </para>
           <para>
@@ -311,7 +313,7 @@
             </para>
             <para>
               <num>(iii)</num>
-              <text>Lump sum additions to family assets, such as inheritances, insurance payments (including payments under health and accident insurance and worker's compensation), capital gains and settlement for personal or property losses (except as provided in <cite path="XI|7|7.2|7.201|(6) |(b) |(v)">subs. (6) (b) (v)</cite>, above);</text>
+              <text>Lump sum additions to family assets, such as inheritances, insurance payments (including payments under health and accident insurance and worker's compensation), capital gains and settlement for personal or property losses (except as provided in <cite path="XI|7|7.2|7.201|(6)|(b)|(v)">subs. (6) (b) (v)</cite>, above);</text>
             </para>
             <para>
               <num>(iv)</num>
@@ -383,7 +385,7 @@
             </para>
             <para>
               <num>(xvii)</num>
-              <text>Amounts specifically excluded by any other Federal statute from consideration as income for purposes of determining eligibility or benefits under a category of assistance programs that includes assistance under any program to which the exclusions set forth in 24 CFR <cite path="XI|5|5.6|5.609">§ 5.609</cite> (c) apply. A notice will be published in the Federal Register and distributed to the Housing Authority identifying the benefits that qualify for this exclusion. Updates will be published and distributed when necessary.</text>
+              <text>Amounts specifically excluded by any other Federal statute from consideration as income for purposes of determining eligibility or benefits under a category of assistance programs that includes assistance under any program to which the exclusions set forth in 24 CFR <cite path="XI|5|5.6|5.609|(c)">§ 5.609 (c)</cite> apply. A notice will be published in the Federal Register and distributed to the Housing Authority identifying the benefits that qualify for this exclusion. Updates will be published and distributed when necessary.</text>
             </para>
           </para>
           <para>
@@ -505,7 +507,7 @@
         </para>
         <para>
           <num>(25)</num>
-          <text>"<strong>Excluded Income"</strong> means income not included as annual income as defined in <cite path="XI|7|7.2|7.201|(6) |(c)">subs. (6) (c)</cite>, above.</text>
+          <text>"<strong>Excluded Income"</strong> means income not included as annual income as defined in <cite path="XI|7|7.2|7.201|(6)|(c)">subs. (6) (c)</cite>, above.</text>
         </para>
         <para>
           <num>(26)</num>
@@ -987,7 +989,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The Tribal Governing Board may pursuant to 2 LCOTCL <cite path="XI|5|5.3|5.302">§ 5.302</cite> grant a limited waiver of sovereign immunity of the Housing Authority thereby allowing the Housing Authority to be sued in its corporate name, upon any contract, claim or obligation arising out of its activities under this ordinance and thereby authorizes the Housing Authority the option to agree to such a duly issued Tribal Governing Board Resolution to a limited waiver of immunity from suit which it may not otherwise have; but the Tribe expressly does not waive its immunity from suit and shall not be liable for the debts or obligations of the Housing Authority.</text>
+          <text>The Tribal Governing Board may pursuant to <cite path="II|5|5.3|5.302">2 LCOTCL § 5.302</cite> grant a limited waiver of sovereign immunity of the Housing Authority thereby allowing the Housing Authority to be sued in its corporate name, upon any contract, claim or obligation arising out of its activities under this ordinance and thereby authorizes the Housing Authority the option to agree to such a duly issued Tribal Governing Board Resolution to a limited waiver of immunity from suit which it may not otherwise have; but the Tribe expressly does not waive its immunity from suit and shall not be liable for the debts or obligations of the Housing Authority.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -1269,7 +1271,7 @@
       </section>
       <section>
         <num>7.303</num>
-        <heading>Board Of Commissioners And Tribal Governing Board Liaison</heading>
+        <heading>Board of Commissioners and Tribal Governing Board Liaison</heading>
         <text>The Board of Commissioners is hereby created to act in an advisory capacity to the Tribal Governing Board and the Housing Authority Executive Director and shall have those powers as stated in <cite path="XI|7|7.3|7.303">this section</cite>:</text>
         <para>
           <num>(1)</num>
@@ -1385,12 +1387,12 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>All property including funds acquired or held by the Housing Authority pursuant to this ordinance shall be exempt from levy and sale by virtue of an execution, and no execution or other judicial process shall issue against the same nor shall any judgment against the Housing Authority be a charge or lien upon such property. However, the provisions of <cite path="XI|7|7.3|7.304">this section</cite> shall not apply to or limit the right of obligee's to pursue any remedies for the enforcement of any pledge or lien given by the Housing Authority on its rents, fees or revenues or the right of the Federal government to pursue any remedies conferred upon it pursuant to the provision of this ordinance or the right of the Housing Authority to bring eviction actions in accordance with <cite path="XI|7|7.3|7.301">§ 7.301</cite> (4) (l) and Subchapter 7.6 of this ordinance.</text>
+          <text>All property including funds acquired or held by the Housing Authority pursuant to this ordinance shall be exempt from levy and sale by virtue of an execution, and no execution or other judicial process shall issue against the same nor shall any judgment against the Housing Authority be a charge or lien upon such property. However, the provisions of <cite path="XI|7|7.3|7.304">this section</cite> shall not apply to or limit the right of obligee's to pursue any remedies for the enforcement of any pledge or lien given by the Housing Authority on its rents, fees or revenues or the right of the Federal government to pursue any remedies conferred upon it pursuant to the provision of this ordinance or the right of the Housing Authority to bring eviction actions in accordance with <cite path="XI|7|7.3|7.301|(4)">§ 7.301 (4)</cite> (l) and <cite path="XI|7|7.6">Subchapter 7.6</cite> of this ordinance.</text>
         </para>
       </section>
       <section>
         <num>7.305</num>
-        <heading>Cooperation In Connection With Projects</heading>
+        <heading>Cooperation in Connection with Projects</heading>
         <para>
           <num>(1)</num>
           <text>For the purpose of aiding and cooperating in the planning, undertaking construction or operation of projects, the Tribe hereby agrees that:</text>
@@ -1442,7 +1444,7 @@
       </section>
       <section>
         <num>7.306</num>
-        <heading>Relation To Federal Law</heading>
+        <heading>Relation to Federal Law</heading>
         <text>The Authority's participation in Federal Indian housing programs may create additional rights and responsibilities between the Housing Authority and others. To the extent practicable, <cite path="XI|7">this chapter</cite> shall be read consistently with applicable Federal law. Where there is a conflict between <cite path="XI|7">this chapter</cite> and any statute or regulation of the United States, the Federal law shall apply if it has specific applicability and if it is clearly in conflict with the provisions of <cite path="XI|7">this chapter</cite>.</text>
       </section>
     </container>
@@ -1456,7 +1458,7 @@
         <text>There is hereby established a Housing Court Division of the Lac Courte Oreilles Tribal Court exercising jurisdiction pursuant to this ordinance as follows:</text>
         <para>
           <num>(1)</num>
-          <text>The chief judge and any associate judges of the Lac Courte Oreilles Tribal Court shall serve as judges of the Housing Court. Any magistrate of the Tribal Court shall serve as magistrate of the Housing Court with such powers as are provided in 2 LCOTCL - Chapter 1 and in this ordinance.</text>
+          <text>The chief judge and any associate judges of the Lac Courte Oreilles Tribal Court shall serve as judges of the Housing Court. Any magistrate of the Tribal Court shall serve as magistrate of the Housing Court with such powers as are provided in 2 LCOTCL - <cite path="XI|1">Chapter 1</cite> and in this ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1473,7 +1475,7 @@
       </section>
       <section>
         <num>7.402</num>
-        <heading>Full Faith And Credit</heading>
+        <heading>Full Faith and Credit</heading>
         <para>
           <num>(1)</num>
           <text>The Housing Court, Executive Director, and other officials of the tribal government shall grant the public acts, records and judicial proceedings of other entities, applicable to Housing proceedings, full faith and credit to the same extent such entities give full faith and credit to the public acts, records and judicial proceedings of the Tribe.</text>
@@ -1485,7 +1487,7 @@
       </section>
       <section>
         <num>7.403</num>
-        <heading>Jurisdiction Over Housing Matters</heading>
+        <heading>Jurisdiction over Housing Matters</heading>
         <text>To ensure the peace, harmony, safety, health and general welfare of Tribal members and those permitted to enter or reside on lands under the purview of the Housing Authority, and the efficient resolution of disputes thereon, the Housing Court shall have jurisdiction over the following:</text>
         <para>
           <num>(1)</num>
@@ -1513,7 +1515,7 @@
         <heading>Parties</heading>
         <para>
           <num>(1)</num>
-          <text>In the absence of a specific provision in this ordinance or a court order to the contrary, all Affected Persons, as defined in <cite path="XI|7|7.2|7.201">§ 7.201</cite> (5) of this ordinance, shall be parties to a Housing Court proceeding.</text>
+          <text>In the absence of a specific provision in this ordinance or a court order to the contrary, all Affected Persons, as defined in <cite path="XI|7|7.2|7.201|(5)">§ 7.201 (5)</cite> of this ordinance, shall be parties to a Housing Court proceeding.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -1552,17 +1554,17 @@
       </section>
       <section>
         <num>7.408</num>
-        <heading>Right Of Access To Records</heading>
+        <heading>Right of Access to Records</heading>
         <text>Any party deemed appropriate by the Housing Court, whom has been the subject of a hearing pursuant to this ordinance, has the right, to review all of the Court's files on these matters subject to redaction or the rights of confidentially as required by Tribal or federal law.</text>
       </section>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>7.5</num>
-      <heading>Admissions And Occupancy</heading>
+      <heading>Admissions and Occupancy</heading>
       <section>
         <num>7.501</num>
-        <heading>Rules And Regulations</heading>
+        <heading>Rules and Regulations</heading>
         <text>The Housing Authority may develop, promulgate, implement and enforce reasonable policies and rules and regulations regarding the use and occupancy of the premises in addition to those described in <cite path="XI|7|7.5">this Subchapter</cite>.</text>
       </section>
       <section>
@@ -1572,8 +1574,8 @@
       </section>
       <section>
         <num>7.503</num>
-        <heading>Special Rules Pertaining To The Lihtc</heading>
-        <text>Special rules may apply to resident's applying to reside or currently residing in Low Income Housing Tax Credit Program ("LIHTC"). These units are subject to the requirements of § 42 of the Internal Revenue Code (as amended) and Chapter 5 of the HUD Handbook § 4350.3 (as amended).</text>
+        <heading>Special Rules Pertaining to The Lihtc</heading>
+        <text>Special rules may apply to resident's applying to reside or currently residing in Low Income Housing Tax Credit Program ("LIHTC"). These units are subject to the requirements of § 42 of the Internal Revenue Code (as amended) and <cite path="XI|5">Chapter 5</cite> of the HUD Handbook § 4350.3 (as amended).</text>
       </section>
       <section>
         <num>7.504</num>
@@ -1582,11 +1584,11 @@
       </section>
       <section>
         <num>7.505</num>
-        <heading>Eligibility For Admission</heading>
+        <heading>Eligibility for Admission</heading>
         <text>Applicants of the Housing Authority for rental housing must meet the following requirements:</text>
         <para>
           <num>(1)</num>
-          <text>The family must be a Low-income Family or a Non-Low-income Family as further defined in <cite path="XI|7|7.2|7.201">§ 7.201</cite> (52) of this ordinance;</text>
+          <text>The family must be a Low-income Family or a Non-Low-income Family as further defined in <cite path="XI|7|7.2|7.201|(52)">§ 7.201 (52)</cite> of this ordinance;</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1599,7 +1601,7 @@
       </section>
       <section>
         <num>7.506</num>
-        <heading>Ineligibility For Admission</heading>
+        <heading>Ineligibility for Admission</heading>
         <text>The Housing Authority shall preclude admission of applicants whose activities, past and present, reasonably may be expected to have a detrimental effect on the Tenants or the environment of the Area of Operation. Such behavior would include, but not be limited to:</text>
         <para>
           <num>(1)</num>
@@ -1607,7 +1609,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>A history of activity, engaged in by the applicant or any member of the household of the applicant that threatens the health or safety of, or right to peaceful enjoyment of their premises by other residents of the Reservation or the employees of the Housing Authority, unless otherwise granted a waiver pursuant to Title III, Chapter 6 of the LCOTCL – Pardon and Forgiveness Code. A violation history as evidenced by a conviction of a crime, of a city or county ordinance adopting a state criminal statute, or of a tribal ordinance regulating public safety. Such a history also, as evidenced by an activity which violates this ordinance or the policies of the Housing Authority, and threatens health, safety, or Tenants' rights of peaceful enjoyment;</text>
+          <text>A history of activity, engaged in by the applicant or any member of the household of the applicant that threatens the health or safety of, or right to peaceful enjoyment of their premises by other residents of the Reservation or the employees of the Housing Authority, unless otherwise granted a waiver pursuant to <cite path="III|6">Title III, Chapter 6</cite> of the LCOTCL – Pardon and Forgiveness Code. A violation history as evidenced by a conviction of a crime, of a city or county ordinance adopting a state criminal statute, or of a tribal ordinance regulating public safety. Such a history also, as evidenced by an activity which violates this ordinance or the policies of the Housing Authority, and threatens health, safety, or Tenants' rights of peaceful enjoyment;</text>
         </para>
         <para>
           <num>(3)</num>
@@ -1635,11 +1637,11 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>No person shall be allowed admission to housing, either as head of household or other member of household, who has been convicted with use or possession of a controlled substance with intent to deliver, for a period of five-years after the date of the charge and a grant of a waiver pursuant to Title III, Chapter 6 of the LCOTCL – Pardon and Forgiveness Code;</text>
+          <text>No person shall be allowed admission to housing, either as head of household or other member of household, who has been convicted with use or possession of a controlled substance with intent to deliver, for a period of five-years after the date of the charge and a grant of a waiver pursuant to <cite path="III|6">Title III, Chapter 6</cite> of the LCOTCL – Pardon and Forgiveness Code;</text>
         </para>
         <para>
           <num>(7)</num>
-          <text>No person shall be allowed admission to housing, either as head of household or other member of household, who has been charged with use or possession of a controlled substance or drug paraphernalia, for a period of three years after the date of the charge and granted a waiver pursuant to Title III, Chapter 6 of the LCOTCL – Pardon and Forgiveness Code;</text>
+          <text>No person shall be allowed admission to housing, either as head of household or other member of household, who has been charged with use or possession of a controlled substance or drug paraphernalia, for a period of three years after the date of the charge and granted a waiver pursuant to <cite path="III|6">Title III, Chapter 6</cite> of the LCOTCL – Pardon and Forgiveness Code;</text>
         </para>
         <para>
           <num>(8)</num>
@@ -1651,7 +1653,7 @@
         </para>
         <para>
           <num>(10)</num>
-          <text>A person who has not yet established residency as defined in <cite path="XI|7|7.2|7.201">§ 7.201</cite> (75) of this ordinance. <cite path="XI|7|7.5|7.506">This section</cite> does not apply to elderly applicants, who are eligible to apply for housing regardless of residency;</text>
+          <text>A person who has not yet established residency as defined in <cite path="XI|7|7.2|7.201|(75)">§ 7.201 (75)</cite> of this ordinance. <cite path="XI|7|7.5|7.506">This section</cite> does not apply to elderly applicants, who are eligible to apply for housing regardless of residency;</text>
         </para>
         <para>
           <num>(11)</num>
@@ -1659,7 +1661,7 @@
         </para>
         <para>
           <num>(12)</num>
-          <text>Anyone subject to <cite path="XI|7|7.5|7.519">§ 7.519</cite> (9) (i) of this ordinance.</text>
+          <text>Anyone subject to <cite path="XI|7|7.5|7.519|(9)">§ 7.519 (9)</cite> (i) of this ordinance.</text>
         </para>
       </section>
       <section>
@@ -1717,7 +1719,7 @@
       </section>
       <section>
         <num>7.509</num>
-        <heading>Notice To Applicants</heading>
+        <heading>Notice to Applicants</heading>
         <para>
           <num>(1)</num>
           <text><u>Eligible Applicants</u>. When a determination has been made that an applicant is eligible and satisfies all requirements to be placed on the waiting list the Applicant shall be notified in writing of their placement on the waiting list.</text>
@@ -1857,7 +1859,7 @@
       </section>
       <section>
         <num>7.518</num>
-        <heading>Tenant Financial Obligations And Responsibilities</heading>
+        <heading>Tenant Financial Obligations and Responsibilities</heading>
         <para>
           <num>(1)</num>
           <text>
@@ -1936,7 +1938,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>The Housing Authority shall verify information provided at the time of recertification in accordance with <cite path="XI|7|7.5|7.508">§ 7.508</cite> (3) of this ordinance, Verification and Certification of Family Income and Composition.</text>
+              <text>The Housing Authority shall verify information provided at the time of recertification in accordance with <cite path="XI|7|7.5|7.508|(3)">§ 7.508 (3)</cite> of this ordinance, Verification and Certification of Family Income and Composition.</text>
             </para>
           </para>
         </para>
@@ -1971,7 +1973,7 @@
       </section>
       <section>
         <num>7.519</num>
-        <heading>Terms And Conditions Of Occupancy</heading>
+        <heading>Terms and Conditions of Occupancy</heading>
         <para>
           <num>(1)</num>
           <text><u>Authorized Residents</u>. Only those persons identified in the lease can reside in the unit.  Additional household members are not authorized without the prior written consent of the Housing Authority.</text>
@@ -1981,7 +1983,7 @@
           <text><u>Unauthorized Residents</u>. Under no circumstances will the following individuals be allowed to reside in a Housing Authority unit, temporarily or permanently;</text>
           <para>
             <num>(a)</num>
-            <text><u>Formerly Evicted Person</u>. A person who has been evicted from a unit of the Housing Authority, or who at the time of the eviction was a member of the household of a person who has been evicted from a unit of the Housing Authority, may not be given temporary or permanent housing in a unit of the Housing Authority unless otherwise granted a waiver pursuant to Title III, Chapter 6 of the LCOTCL – Pardon and Forgiveness Code.</text>
+            <text><u>Formerly Evicted Person</u>. A person who has been evicted from a unit of the Housing Authority, or who at the time of the eviction was a member of the household of a person who has been evicted from a unit of the Housing Authority, may not be given temporary or permanent housing in a unit of the Housing Authority unless otherwise granted a waiver pursuant to <cite path="III|6">Title III, Chapter 6</cite> of the LCOTCL – Pardon and Forgiveness Code.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -2132,7 +2134,7 @@
             <text><u>Animals or Pets</u>:</text>
             <para>
               <num>(i)</num>
-              <text>Tenants must abide by Title X, Chapter 4 of the LCOTCL – Animal Control Code.</text>
+              <text>Tenants must abide by <cite path="X|4">Title X, Chapter 4</cite> of the LCOTCL – Animal Control Code.</text>
             </para>
             <para>
               <num>(ii)</num>
@@ -2180,7 +2182,7 @@
             </para>
             <para>
               <num>(iv)</num>
-              <text>Is a presumptive gang member as defined in <cite path="XI|7|7.2|7.201">§ 7.201</cite> (71) of this ordinance.</text>
+              <text>Is a presumptive gang member as defined in <cite path="XI|7|7.2|7.201|(71)">§ 7.201 (71)</cite> of this ordinance.</text>
             </para>
             <para>
               <num>(v)</num>
@@ -2341,12 +2343,12 @@
       </section>
       <section>
         <num>7.602</num>
-        <heading>Rules And Regulations</heading>
+        <heading>Rules and Regulations</heading>
         <text>The Housing Authority may develop, promulgate, implement and enforce reasonable policies and rules and regulations regarding Eviction from Housing Authority property in addition to those described in <cite path="XI|7|7.6">this Subchapter</cite>. Title II of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) except when inconsistent with any provision of this ordinance, shall also apply to any proceeding initiated hereunder;</text>
       </section>
       <section>
         <num>7.603</num>
-        <heading>Grounds For Evictions</heading>
+        <heading>Grounds for Evictions</heading>
         <text>A tenant may be evicted for:</text>
         <para>
           <num>(1)</num>
@@ -2362,7 +2364,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Serious or repeated violations of the rental agreement, any reasonable rules or regulations adopted in accordance with Subchapter 7.5 of this ordinance, or any applicable building or housing codes pursuant to <cite path="XI|7|7.9|7.903">§ 7.903</cite> of this ordinance.</text>
+          <text>Serious or repeated violations of the rental agreement, any reasonable rules or regulations adopted in accordance with <cite path="XI|7|7.5">Subchapter 7.5</cite> of this ordinance, or any applicable building or housing codes pursuant to <cite path="XI|7|7.9|7.903">§ 7.903</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(5)</num>
@@ -2375,7 +2377,7 @@
       </section>
       <section>
         <num>7.604</num>
-        <heading>Notice To Quit Requirements</heading>
+        <heading>Notice to Quit Requirements</heading>
         <para>
           <num>(1)</num>
           <text><u>When Notice to Quit is Required</u>. When the Housing Authority desires to obtain possession of a dwelling unit, and when there exist one or more legally cognizable reasons to evict the tenant or tenants occupying the unit pursuant to <cite path="XI|7|7.6|7.603">§ 7.603</cite> of this ordinance, the Housing Authority shall give notice to the adult tenants to quit possession of such dwelling unit according to the provisions of this subs.</text>
@@ -2410,12 +2412,12 @@
         </para>
         <para>
           <num>(6)</num>
-          <text><u>Housing Authority Termination Notice</u>. The Housing Authority termination notice shall qualify as the notice to quit required under <cite path="XI|7|7.6|7.604">this section</cite> so long as the time requirements of the Housing Authority termination notice are at least as long as the time requirements set forth in subs. (5), above.</text>
+          <text><u>Housing Authority Termination Notice</u>. The Housing Authority termination notice shall qualify as the notice to quit required under <cite path="XI|7|7.6|7.604">this section</cite> so long as the time requirements of the Housing Authority termination notice are at least as long as the time requirements set forth in <cite path="XI|7|7.6|7.604|(5)">subs. (5)</cite>, above.</text>
         </para>
       </section>
       <section>
         <num>7.605</num>
-        <heading>Serving The Notice To Quit</heading>
+        <heading>Serving The Notice to Quit</heading>
         <text>Any notice to quit must be in writing, and must be delivered to a tenant in the following manner:</text>
         <para>
           <num>(1)</num>
@@ -2542,7 +2544,7 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>A defendant may, for good cause shown, and upon the payment of a reasonable sum for the fair rental value of the dwelling between the date on which the complaint was filed and the date of hearing, obtain an extension of time, beyond the fifteen (15) day period. The Court may refuse to extend the date of hearing where the complaint is based upon nuisance or injuries as provided in <cite path="XI|7|7.6|7.603">§ 7.603</cite> (3) of this ordinance and shall not extend the date of hearing where the complaint is based upon conduct which is alleged to constitute a serious danger to public health, safety, or peace.</text>
+            <text>A defendant may, for good cause shown, and upon the payment of a reasonable sum for the fair rental value of the dwelling between the date on which the complaint was filed and the date of hearing, obtain an extension of time, beyond the fifteen (15) day period. The Court may refuse to extend the date of hearing where the complaint is based upon nuisance or injuries as provided in <cite path="XI|7|7.6|7.603|(3)">§ 7.603 (3)</cite> of this ordinance and shall not extend the date of hearing where the complaint is based upon conduct which is alleged to constitute a serious danger to public health, safety, or peace.</text>
           </para>
           <para>
             <num>(d)</num>
@@ -2699,7 +2701,7 @@
         </para>
         <para>
           <num>(12)</num>
-          <text><u>Appeals</u>. Appeals under this ordinance shall be handled according to the general tribal appellate provisions as established at Title II, Chapter 4 of the LCOTCL – Appeals Code, with the exception that the party taking the appeal shall have only five (5) days from the entry of the order of judgment to file an appeal. All orders from the Court will remain in effect during the pendency of an appeal under this ordinance unless otherwise ordered by the Court.</text>
+          <text><u>Appeals</u>. Appeals under this ordinance shall be handled according to the general tribal appellate provisions as established at <cite path="II|4">Title II, Chapter 4</cite> of the LCOTCL – Appeals Code, with the exception that the party taking the appeal shall have only five (5) days from the entry of the order of judgment to file an appeal. All orders from the Court will remain in effect during the pendency of an appeal under this ordinance unless otherwise ordered by the Court.</text>
         </para>
         <para>
           <num>(13)</num>
@@ -2758,7 +2760,7 @@
           <text><u>Forcible Eviction</u>.</text>
           <para>
             <num>(a)</num>
-            <text>Where the Court orders an eviction, and the defendant or any other occupant of the dwelling refuses to vacate voluntarily by the effective date of that Order, the defendant or other occupants may be forcibly removed from the dwelling by a law enforcement officer. At the hearing where the eviction is ordered, the Court shall inform the defendant that if he does not vacate the dwelling voluntarily by the effective date, he and the other occupants will be subject to forcible eviction, and their property will be subject to storage, sale and disposal as set forth in <cite path="XI|7|7.6|7.607|(c)">subs. (c)</cite> below.</text>
+            <text>Where the Court orders an eviction, and the defendant or any other occupant of the dwelling refuses to vacate voluntarily by the effective date of that Order, the defendant or other occupants may be forcibly removed from the dwelling by a law enforcement officer. At the hearing where the eviction is ordered, the Court shall inform the defendant that if he does not vacate the dwelling voluntarily by the effective date, he and the other occupants will be subject to forcible eviction, and their property will be subject to storage, sale and disposal as set forth in <cite path="XI|7|7.6|7.607|(15)|(c)">subs. (c)</cite> below.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -2788,7 +2790,7 @@
       </section>
       <section>
         <num>7.608</num>
-        <heading>Computation Of Time</heading>
+        <heading>Computation of Time</heading>
         <text>In computing a period of time under <cite path="XI|7|7.6">this Subchapter</cite>, by rule, by court order, or by statute, the day of the act, event, or default after which the designated period of time begins to run is not included. The last day of the period is included, unless it is a Saturday, Sunday, legal holiday or a holiday which the court is closed. In that event, the period runs until the end of the next business day.</text>
       </section>
       <section>
@@ -2836,12 +2838,12 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>A tenant may be immediately evicted for criminal or nefarious activity when it falls under either of categories of concern noted above in <cite path="XI|7|7.6|7.609|(1) |(a) or |(b)">subs. (1) (a) or (b)</cite>, above. This can be done once the Housing Authority has determined that criminal or nefarious activity has been engaged in by any tenant, household member, or guest, and any such activity engaged in on the dwelling by any other person under the tenant's control, regardless of whether the person has been arrested or convicted for such activity and without satisfying a criminal conviction standard of proof of the activity. (<em>See 24 CFR <cite path="XI|5|5.8|5.861">§ 5.861</cite></em>)</text>
+          <text>A tenant may be immediately evicted for criminal or nefarious activity when it falls under either of categories of concern noted above in <cite path="XI|7|7.6|7.609|(1)|(a)">subs. (1) (a)</cite> or (b), above. This can be done once the Housing Authority has determined that criminal or nefarious activity has been engaged in by any tenant, household member, or guest, and any such activity engaged in on the dwelling by any other person under the tenant's control, regardless of whether the person has been arrested or convicted for such activity and without satisfying a criminal conviction standard of proof of the activity. (<em>See 24 CFR <cite path="XI|5|5.8|5.861">§ 5.861</cite></em>)</text>
         </para>
       </section>
       <section>
         <num>7.610</num>
-        <heading>Notice To Quit Requirements Pertaining To Immediate Evictions</heading>
+        <heading>Notice to Quit Requirements Pertaining to Immediate Evictions</heading>
         <para>
           <num>(1)</num>
           <text><u>When Required</u>. A Notice to Quit is required when the Housing Authority desires to obtain immediate possession of a dwelling unit, and when there exists one or more concerns to immediately evict the tenant or tenants occupying the unit pursuant to <cite path="XI|7|7.6|7.609">§ 7.609</cite> of this ordinance, the Housing Authority shall give notice to the adult tenants to quit possession of such dwelling unit according to the provisions of this section.</text>
@@ -2868,12 +2870,12 @@
         </para>
         <para>
           <num>(6)</num>
-          <text><u>Housing Authority Termination Notice</u>. The Housing Authority termination notice shall qualify as the notice to quit required under <cite path="XI|7|7.6">this subchapter</cite> so long as the time requirements of the housing authority termination notice are at least as long as the time requirements set forth in subs. (5), above.</text>
+          <text><u>Housing Authority Termination Notice</u>. The Housing Authority termination notice shall qualify as the notice to quit required under <cite path="XI|7|7.6">this subchapter</cite> so long as the time requirements of the housing authority termination notice are at least as long as the time requirements set forth in <cite path="XI|7|7.6|7.610|(5)">subs. (5)</cite>, above.</text>
         </para>
       </section>
       <section>
         <num>7.611</num>
-        <heading>Serving The Notice To Quit Pertaining To Immediate Evictions</heading>
+        <heading>Serving The Notice to Quit Pertaining to Immediate Evictions</heading>
         <text>Any notice to quit must be in writing, and must be delivered to a tenant in the following manner:</text>
         <para>
           <num>(1)</num>
@@ -2914,7 +2916,7 @@
       </section>
       <section>
         <num>7.612</num>
-        <heading>Removal Of Tenant(S) Pertaining To Immediate Evictions</heading>
+        <heading>Removal of Tenant(S) Pertaining to Immediate Evictions</heading>
         <text>The notice to quit under <cite path="XI|7|7.6">this Subchapter</cite> shall serve as required documentation that the Housing Authority shall deliver to the tribal police before any tribal officer is required to remove any tenant or person from a dwelling in which the Housing Authority has effectively provided notice for immediate eviction. Should any tenant or person be found on the dwelling after being removed, such actions shall be grounds for trespass on behalf of the Housing Authority against the tenant or any individual found on the dwelling, so long as the individual had notice or there was constructive notice due to the conspicuous placement of notice at the dwelling.</text>
         <para>
           <num>(1)</num>
@@ -2923,8 +2925,8 @@
       </section>
       <section>
         <num>7.613</num>
-        <heading>Removal Of Tenant Property Pertaining To Immediate Evictions</heading>
-        <text>The provisions under <cite path="XI|7|7.6|7.607">§ 7.607</cite> (15) shall apply unless the personal property of the tenant has been contaminated pursuant to <cite path="XI|7|7.10|7.1004">§ 7.1004</cite> of this ordinance. If the personal property is contaminated, the tenant will be required to sign a liability waiver prior to the removal of their property. The removal of property shall be supervised by the Housing Authority and shall occur within thirty (30) days of the eviction. In the event that the tenant is unwilling to sign the waiver or is unable to remove their personal property, the property shall be disposed of and the tenant shall bear liability for the cost of disposal.</text>
+        <heading>Removal of Tenant Property Pertaining to Immediate Evictions</heading>
+        <text>The provisions under <cite path="XI|7|7.6|7.607|(15)">§ 7.607 (15)</cite> shall apply unless the personal property of the tenant has been contaminated pursuant to <cite path="XI|7|7.10|7.1004">§ 7.1004</cite> of this ordinance. If the personal property is contaminated, the tenant will be required to sign a liability waiver prior to the removal of their property. The removal of property shall be supervised by the Housing Authority and shall occur within thirty (30) days of the eviction. In the event that the tenant is unwilling to sign the waiver or is unable to remove their personal property, the property shall be disposed of and the tenant shall bear liability for the cost of disposal.</text>
       </section>
       <section>
         <num>7.614</num>
@@ -2962,13 +2964,13 @@
       <heading>Administrative Procedures</heading>
       <section>
         <num>7.701</num>
-        <heading>Personnel Policy And Procedures</heading>
-        <text>The Housing Authority shall comply with the personnel law and policy of the Housing Authority as established in Title XIV, Chapter 4 of the LCOTCL – Housing Authority Personnel Policies and Procedures.</text>
+        <heading>Personnel Policy and Procedures</heading>
+        <text>The Housing Authority shall comply with the personnel law and policy of the Housing Authority as established in <cite path="XIV|4">Title XIV, Chapter 4</cite> of the LCOTCL – Housing Authority Personnel Policies and Procedures.</text>
       </section>
       <section>
         <num>7.702</num>
-        <heading>Property And Procurement Policy And Procedures</heading>
-        <text>The Housing Authority shall comply with the property and procurement law and policy of the Tribe as established in Title XIV, Chapter 2 of the LCOTCL – Property and Procurement Policies and Procedures as follows:</text>
+        <heading>Property and Procurement Policy and Procedures</heading>
+        <text>The Housing Authority shall comply with the property and procurement law and policy of the Tribe as established in <cite path="XIV|2">Title XIV, Chapter 2</cite> of the LCOTCL – Property and Procurement Policies and Procedures as follows:</text>
         <para>
           <num>(1)</num>
           <text>For the purpose of the implementation of this policy at the Housing Authority, the "Chief Procurement Officer" or "CPO" means the Housing Authority Procurement Officer whom is the official authorized by the Housing Authority to enter into and/or administer contracts and make related determination and findings on behalf of the Housing Authority as well as establish and maintain an inventory of all property and equipment. For the purpose of this ordinance, the term includes any Housing Authority employee designated and authorized to perform the duties of the CPO.</text>
@@ -2976,8 +2978,8 @@
       </section>
       <section>
         <num>7.703</num>
-        <heading>Travel Policy And Procedures</heading>
-        <text>The Housing Authority shall comply with the travel law and policy of the Tribe as established in Title XIV, Chapter 3 of the LCOTCL – Travel Policies and Procedures. This Travel Policy establishes the rules governing travel by all employees of the Tribe, including all employees and Commissioners of the Housing Authority in the performance of their official job duties on behalf of the Authority ("Business Travel") and the purchase or use of modes of transportation, such as Personal Automobiles, Housing Authority or Tribal vehicles, rental vehicles, tolls, parking, accommodations, air fare, etc. (collectively "Travel Services") as follows:</text>
+        <heading>Travel Policy and Procedures</heading>
+        <text>The Housing Authority shall comply with the travel law and policy of the Tribe as established in <cite path="XIV|3">Title XIV, Chapter 3</cite> of the LCOTCL – Travel Policies and Procedures. This Travel Policy establishes the rules governing travel by all employees of the Tribe, including all employees and Commissioners of the Housing Authority in the performance of their official job duties on behalf of the Authority ("Business Travel") and the purchase or use of modes of transportation, such as Personal Automobiles, Housing Authority or Tribal vehicles, rental vehicles, tolls, parking, accommodations, air fare, etc. (collectively "Travel Services") as follows:</text>
         <para>
           <num>(1)</num>
           <text>For the purpose of the implementation of this policy at the Housing Authority, the Housing Authority Executive Director and Housing Authority Program/Department Directors shall have the authority to approve or deny any business travel. Employees shall not approve the reimbursement or advance of their own travel related expenses.</text>
@@ -2989,8 +2991,8 @@
       </section>
       <section>
         <num>7.704</num>
-        <heading>Fiscal Policy And Procedures</heading>
-        <text>The Housing Authority shall comply with the fiscal law and policy of the Tribe as established in Title XIV, Chapter 10 of the LCOTCL – Fiscal Policies and Procedures as follows:</text>
+        <heading>Fiscal Policy and Procedures</heading>
+        <text>The Housing Authority shall comply with the fiscal law and policy of the Tribe as established in <cite path="XIV|10">Title XIV, Chapter 10</cite> of the LCOTCL – Fiscal Policies and Procedures as follows:</text>
         <para>
           <num>(1)</num>
           <text>For the purpose of the implementation of this policy at the Housing Authority, the Housing Authority Finance Manager is the official authorized by the Housing Authority to oversee and implement the provisions of this policy. For the purpose of this ordinance, the term includes any Housing Authority employee designated and authorized to perform the duties of the Finance Manager.</text>
@@ -3001,7 +3003,7 @@
         <heading>Investment Policy</heading>
         <para>
           <num>(1)</num>
-          <text><u>Authority</u>. Pursuant to § 204 of the Native American Housing Assistance and Self-Determination Act of 1996 (NAHASDA), tribally designated housing entities may, for the purpose of carrying out affordable housing activities, invest Indian Housing Block Grant (IHBG) funds as approved by the Secretary of the Department of Housing and Urban Development.  The Secretary has established limitations on the investment of IHBG funds in 24 C.F.R. § 1000.58.  The Secretary has further prescribed administrative requirements for investing IHBG funds in program guidance notices. The Housing Authority is authorized to invests funds not needed for immediate disbursement pursuant to <cite path="XI|7|7.3|7.301">§ 7.301</cite> (4) (p) of this ordinance.</text>
+          <text><u>Authority</u>. Pursuant to § 204 of the Native American Housing Assistance and Self-Determination Act of 1996 (NAHASDA), tribally designated housing entities may, for the purpose of carrying out affordable housing activities, invest Indian Housing Block Grant (IHBG) funds as approved by the Secretary of the Department of Housing and Urban Development.  The Secretary has established limitations on the investment of IHBG funds in 24 C.F.R. § 1000.58.  The Secretary has further prescribed administrative requirements for investing IHBG funds in program guidance notices. The Housing Authority is authorized to invests funds not needed for immediate disbursement pursuant to <cite path="XI|7|7.3|7.301|(4)">§ 7.301 (4)</cite> (p) of this ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -3106,7 +3108,7 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>7.9</num>
-      <heading>Housing Rehabilitation And Construction Standards</heading>
+      <heading>Housing Rehabilitation and Construction Standards</heading>
       <section>
         <num>7.901</num>
         <heading>Purpose</heading>
@@ -3120,7 +3122,7 @@
       <section>
         <num>7.903</num>
         <heading>Uniform Dwelling Code</heading>
-        <text>The Housing Authority shall comply with the Uniform Dwelling (Building) law and policy of the Tribe as established in Title XI, Chapter 8 of the LCOTCL – Uniform Dwelling (Building) Code. Except as preempted by tribal law, the Wisconsin Uniform Dwelling Code, Chs. 20-25 of the Wisconsin Administrative Code, and all amendments thereto, as adopted and incorporated by reference, shall also apply to all buildings within the scope of <cite path="XI|7|7.9">this Subchapter</cite>.</text>
+        <text>The Housing Authority shall comply with the Uniform Dwelling (Building) law and policy of the Tribe as established in <cite path="XI|8">Title XI, Chapter 8</cite> of the LCOTCL – Uniform Dwelling (Building) Code. Except as preempted by tribal law, the Wisconsin Uniform Dwelling Code, Chs. 20-25 of the Wisconsin Administrative Code, and all amendments thereto, as adopted and incorporated by reference, shall also apply to all buildings within the scope of <cite path="XI|7|7.9">this Subchapter</cite>.</text>
       </section>
       <section>
         <num>7.904</num>
@@ -3131,7 +3133,7 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>7.10</num>
-      <heading>Maintenance Policies And Procedures</heading>
+      <heading>Maintenance Policies and Procedures</heading>
       <section>
         <num>7.1001</num>
         <heading>Purpose</heading>
@@ -3163,7 +3165,7 @@
       </section>
       <section>
         <num>7.1003</num>
-        <heading>Maintenance Requests And Priorities</heading>
+        <heading>Maintenance Requests and Priorities</heading>
         <para>
           <num>(1)</num>
           <text><u>Requests for Maintenance</u>. All requests for maintenance, whether made by telephone, in person or by staff of the Housing Authority, shall be processed by completion of a work order which contains the following information:</text>
@@ -3230,7 +3232,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text><u>Contract Work Items</u>. Subject to budget limitations, the Supervisor may contract work orders relating to electrical work, trash removal, welding, septic pumping, etc. pursuant to Title XIV, Chapter 2 of the LCOTCL – Property and Procurement Policies and Procedures.</text>
+          <text><u>Contract Work Items</u>. Subject to budget limitations, the Supervisor may contract work orders relating to electrical work, trash removal, welding, septic pumping, etc. pursuant to <cite path="XIV|2">Title XIV, Chapter 2</cite> of the LCOTCL – Property and Procurement Policies and Procedures.</text>
         </para>
         <para>
           <num>(7)</num>
@@ -3287,7 +3289,7 @@
       </section>
       <section>
         <num>7.1004</num>
-        <heading>Methamphetamine (Meth) Use In Units</heading>
+        <heading>Methamphetamine (Meth) Use in Units</heading>
         <para>
           <num>(1)</num>
           <text><u>Methamphetamine Testing Standard</u>. The Housing Authority, in an effort to protect the public health, safety and welfare of our communities is hereby adopting specific cleanup standards for units contaminated by methamphetamine (meth) use in properties owned and managed by the Housing Authority.</text>
@@ -3323,12 +3325,12 @@
       </section>
       <section>
         <num>7.1005</num>
-        <heading>Failure To Perform Maintenance Responsibilities</heading>
+        <heading>Failure to Perform Maintenance Responsibilities</heading>
         <text>Failure of the resident to perform his maintenance responsibilities is a breach of agreement for which termination proceedings may be instituted. This includes maintaining the unit and premises in a decent, safe and sanitary condition.</text>
       </section>
       <section>
         <num>7.1006</num>
-        <heading>Charges For Maintenance</heading>
+        <heading>Charges for Maintenance</heading>
         <text>The tenant will be charged for all maintenance (other than routine) that has been caused by their abuse, misuse or neglect of the unit or appliances within the unit.  The tenant will also be charged for any damages to the unit caused by vandalism or other criminal activity. (The tenant is free to seek reimbursement from the perpetrator).</text>
       </section>
       <section>
@@ -3367,7 +3369,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>At the time of the annual inspection, the unit shall be tested for methamphetamine using a Meth Media Testing Kit (Wipe Test) in order to determine if meth is present and to determine what level of meth is present in the unit. The Housing Authority shall use the guidelines established pursuant to <cite path="XI|7|7.10|7.1004">§ 7.1004</cite> for clean-up and remediation for any unit that produces a positive test result.  Likewise, the tenant shall be subject to the eviction procedures as established pursuant to Subchapter 7.6 of this ordinance.</text>
+          <text>At the time of the annual inspection, the unit shall be tested for methamphetamine using a Meth Media Testing Kit (Wipe Test) in order to determine if meth is present and to determine what level of meth is present in the unit. The Housing Authority shall use the guidelines established pursuant to <cite path="XI|7|7.10|7.1004">§ 7.1004</cite> for clean-up and remediation for any unit that produces a positive test result.  Likewise, the tenant shall be subject to the eviction procedures as established pursuant to <cite path="XI|7|7.6">Subchapter 7.6</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -3380,7 +3382,7 @@
       </section>
       <section>
         <num>7.1104</num>
-        <heading>Property And Equipment Inspections</heading>
+        <heading>Property and Equipment Inspections</heading>
         <text>The Housing Authority shall inspect all grounds and equipment at least once a year to determine the general condition and trends which may indicate problems. The Housing Authority shall determine the scope of maintenance work that may need to be completed in the area and repair any hazardous conditions as soon as possible.</text>
       </section>
       <section>
@@ -3408,7 +3410,7 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>Law enforcement inspections are authorized pursuant to <cite path="XI|7|7.5|7.519">§ 7.519</cite> (8) (c) of this ordinance as well as the Lease. The lease provides:</text>
+            <text>Law enforcement inspections are authorized pursuant to <cite path="XI|7|7.5|7.519|(8)">§ 7.519 (8)</cite> (c) of this ordinance as well as the Lease. The lease provides:</text>
             <para>
               <num>(i)</num>
               <text><u>Law Enforcement.</u> Upon request by a law enforcement officer, any employee of the Lac Courte Oreilles Housing Authority may allow entry to your unit by law enforcement officials and to consent on your behalf to any entry or search of the unit, as requested by any law enforcement official. You agree to hold harmless the Lac Courte Oreilles Housing Authority, it's officers, employees, and agents for any harm or damages resulting therefrom.</text>
@@ -3486,7 +3488,7 @@
       </section>
       <section>
         <num>7.1204</num>
-        <heading>Schedule Of Eligible Costs</heading>
+        <heading>Schedule of Eligible Costs</heading>
         <para>
           <num>(1)</num>
           <text><u>Actual Reasonable Moving and Related Expenses (49 CFR <cite path="XI|24|24.3|24.301">§ 24.301</cite>)</u>. Any displaced owner-occupant or tenant of a dwelling who qualifies as a displaced person including temporary relocation is entitled to payment of his/her actual moving and related expenses, as the Housing Authority determines to be reasonable and necessary, including expenses for:</text>
@@ -3553,7 +3555,7 @@
         <heading>Grievance / Appeals</heading>
         <para>
           <num>(1)</num>
-          <text>A participate may file a grievance resulting from the relocation activities pursuant to Subchapter 7.14 of this ordinance.</text>
+          <text>A participate may file a grievance resulting from the relocation activities pursuant to <cite path="XI|7|7.14">Subchapter 7.14</cite> of this ordinance.</text>
         </para>
       </section>
       <section>
@@ -3749,7 +3751,7 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>7.13</num>
-      <heading>Collection And Compliance Policy</heading>
+      <heading>Collection and Compliance Policy</heading>
       <section>
         <num>7.1301</num>
         <heading>Purpose</heading>
@@ -3940,7 +3942,7 @@
       </section>
       <section>
         <num>7.1402</num>
-        <heading>Settlement Of Grievance</heading>
+        <heading>Settlement of Grievance</heading>
         <para>
           <num>(1)</num>
           <text>All grievances shall be in writing (signed by the complainant) and shall be hand delivered by the complainant or his/her representative or delivered by mail, to the Executive Director. The grievance may be simply stated, but shall specify:</text>
@@ -3978,7 +3980,7 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>The requirements specified in <cite path="XI|7|7.14|7.1402|(4) |(a) and |(b)">subs. (4) (a) and (b)</cite> above, may be waived by the Housing Authority in extraordinary circumstances.</text>
+            <text>The requirements specified in <cite path="XI|7|7.14|7.1402|(4)|(a)">subs. (4) (a)</cite> and (b) above, may be waived by the Housing Authority in extraordinary circumstances.</text>
           </para>
           <para>
             <num>(d)</num>
@@ -4060,13 +4062,13 @@
       </section>
       <section>
         <num>7.1405</num>
-        <heading>Effect Of Grievance Hearing Decision</heading>
+        <heading>Effect of Grievance Hearing Decision</heading>
         <text>The Executive Director's disposition of the grievance shall be final, however a decision by the Executive Director in favor of the Authority or which denies the relief requested by the complainant in whole or in part shall not constitute a waiver of, nor affect in any manner whatever any rights the complainant may have to any judicial proceedings, which may thereafter be brought in the matter.</text>
       </section>
       <section>
         <num>7.1406</num>
-        <heading>Exclusions Of Eviction Related Grievances</heading>
-        <text>The provisions of <cite path="XI|7|7.14">this Subchapter</cite> do not apply to eviction actions which are covered by Subchapter 7.6 of this ordinance.</text>
+        <heading>Exclusions of Eviction Related Grievances</heading>
+        <text>The provisions of <cite path="XI|7|7.14">this Subchapter</cite> do not apply to eviction actions which are covered by <cite path="XI|7|7.6">Subchapter 7.6</cite> of this ordinance.</text>
       </section>
     </container>
   </container>

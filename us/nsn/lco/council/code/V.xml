@@ -6,8 +6,10 @@
   <container>
     <prefix>Chapter</prefix>
     <num>1</num>
-    <heading>Election Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text>Preamble</text>
+    <heading>Election Code of The Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to determine its Tribal leadership which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article IV, § 3 of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the tribal governing board to "prescribe rules and regulations conducting all subsequent elections." The Tribal Governing Board duly enacted the Election Code on April 29, 2005 pursuant to Tribal Governing Board Resolution No. 05-29; as amended on May 16, 2005 pursuant to Tribal Governing Board Resolution No. 05-50; as amended on May 29, 2007 pursuant to Tribal Governing Board Resolution No. 07-59; as amended on March 11, 2011 by the Tribal Governing Board at the Lac Courte Oreilles Tribal General Membership Meeting; and as amended on May 27, 2015 pursuant to Tribal Governing Board Resolution No. 15-53.</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -60,12 +62,12 @@
       </section>
       <section>
         <num>1.106</num>
-        <heading>Severability And Non-Liability</heading>
+        <heading>Severability and Non-Liability</heading>
         <text>If any section, provision or portion of this ordinance is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this ordinance.</text>
       </section>
       <section>
         <num>1.107</num>
-        <heading>Repeal Of Inconsistent Tribal Ordinances</heading>
+        <heading>Repeal of Inconsistent Tribal Ordinances</heading>
         <text>All ordinances and resolutions inconsistent with this ordinance are hereby repealed. To the extent that this ordinance imposes greater restrictions than those contained in any other tribal law, code, ordinance or regulation, the provisions of this ordinance shall govern.</text>
       </section>
     </container>
@@ -95,7 +97,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text><strong>"Election Committee"</strong> means the Committee established on the day of the caucus as established pursuant to <cite path="V|1|1.3|1.304">§ 1.304</cite> (3) of this ordinance.</text>
+          <text><strong>"Election Committee"</strong> means the Committee established on the day of the caucus as established pursuant to <cite path="V|1|1.3|1.304|(3)">§ 1.304 (3)</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(6)</num>
@@ -157,7 +159,7 @@
         <heading>Election Procedure</heading>
         <para>
           <num>(1)</num>
-          <text><u>Eligibility</u>. Those members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians who are, or will be, 18 years of age or older, on or before the day of the election, and meet the necessary citizenship (membership) requirements, pursuant to Title IV, Chapter 1 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Citizenship Code, will be eligible to vote on election day at designated polling sites as stated in Article IV, § 1 of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+          <text><u>Eligibility</u>. Those members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians who are, or will be, 18 years of age or older, on or before the day of the election, and meet the necessary citizenship (membership) requirements, pursuant to <cite path="IV|1">Title IV, Chapter 1</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Citizenship Code, will be eligible to vote on election day at designated polling sites as stated in Article IV, § 1 of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -197,7 +199,7 @@
         </para>
         <para>
           <num>(8)</num>
-          <text><u>Ballot Controversies</u>. Any challenge to a voter's eligibility will be referred to, and settled by, the Election committee upon completion of the counting process pursuant to <cite path="V|1|1.3|1.303">§ 1.303</cite> (3) of this ordinance. Those present shall be members of the Election Committee and observer(s).</text>
+          <text><u>Ballot Controversies</u>. Any challenge to a voter's eligibility will be referred to, and settled by, the Election committee upon completion of the counting process pursuant to <cite path="V|1|1.3|1.303|(3)">§ 1.303 (3)</cite> of this ordinance. Those present shall be members of the Election Committee and observer(s).</text>
         </para>
         <para>
           <num>(9)</num>
@@ -385,7 +387,7 @@
         <heading>Election Committee</heading>
         <para>
           <num>(1)</num>
-          <text>The Election Committee shall be established on the day of the caucus as established pursuant to <cite path="V|1|1.3|1.304">§ 1.304</cite> (3) of this ordinance, by virtue of nominations by the general membership, and shall be composed of six (6) nominated and elected band members along with one designated member from the Citizenship Services Department (Enrollment Clerk).</text>
+          <text>The Election Committee shall be established on the day of the caucus as established pursuant to <cite path="V|1|1.3|1.304|(3)">§ 1.304 (3)</cite> of this ordinance, by virtue of nominations by the general membership, and shall be composed of six (6) nominated and elected band members along with one designated member from the Citizenship Services Department (Enrollment Clerk).</text>
         </para>
         <para>
           <num>(2)</num>
@@ -420,7 +422,7 @@
           <text><u>Election Committee Members Pay</u>.</text>
           <para>
             <num>(a)</num>
-            <text>Election Committee members shall be paid a stipend for each meeting of the election committee as well as a daily stipend for each election day (including primary, general, or recount). The Election Committee member's stipend amount(s) shall be established by the Tribal Governing Board. Any member of the Election Committee who is an employee of the Tribe or an employee of a tribal entity shall be allowed to receive release time pursuant to 14 LCOTCL <cite path="V|1|1.7|1.707">§ 1.707</cite> (4); 14 LCOTCL <cite path="V|4|4.7|4.707">§ 4.707</cite> (4); 14 LCOTCL <cite path="V|5|5.7|5.707">§ 5.707</cite> (4); 14 LCOTCL <cite path="V|7|7.7|7.707">§ 7.707</cite> (4); or 14 LCOTCL <cite path="V|9|9.7|9.708">§ 9.708</cite> (4) to attend Election Committee meeting held during normal working hours.</text>
+            <text>Election Committee members shall be paid a stipend for each meeting of the election committee as well as a daily stipend for each election day (including primary, general, or recount). The Election Committee member's stipend amount(s) shall be established by the Tribal Governing Board. Any member of the Election Committee who is an employee of the Tribe or an employee of a tribal entity shall be allowed to receive release time pursuant to <cite path="XIV|1|1.7|1.707">14 LCOTCL § 1.707</cite> (4); <cite path="XIV|4|4.7|4.707">14 LCOTCL § 4.707</cite> (4); <cite path="XIV|5|5.7|5.707">14 LCOTCL § 5.707</cite> (4); <cite path="XIV|7|7.7|7.707">14 LCOTCL § 7.707</cite> (4); or <cite path="XIV|9|9.7|9.708">14 LCOTCL § 9.708</cite> (4) to attend Election Committee meeting held during normal working hours.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -432,7 +434,7 @@
           </para>
           <para>
             <num>(e)</num>
-            <text>Checks for mileage reimbursements and/or compensation for working on Election Day shall be distributed according to Accounting Department policy as established in 14 LCOTCL – Chapter 10 Governmental Fiscal Policies and Procedures.</text>
+            <text>Checks for mileage reimbursements and/or compensation for working on Election Day shall be distributed according to Accounting Department policy as established in 14 LCOTCL – <cite path="V|10">Chapter 10</cite> Governmental Fiscal Policies and Procedures.</text>
           </para>
         </para>
         <para>
@@ -452,20 +454,20 @@
           </para>
           <para>
             <num>(d)</num>
-            <text>Checks for mileage reimbursements and/or compensation for working on Election Day shall be distributed according to Accounting Department policy as established in 14 LCOTCL – Chapter 10 Governmental Fiscal Policies and Procedures.</text>
+            <text>Checks for mileage reimbursements and/or compensation for working on Election Day shall be distributed according to Accounting Department policy as established in 14 LCOTCL – <cite path="V|10">Chapter 10</cite> Governmental Fiscal Policies and Procedures.</text>
           </para>
         </para>
       </section>
       <section>
         <num>1.306</num>
-        <heading>Placement Of Election Committee Members</heading>
+        <heading>Placement of Election Committee Members</heading>
         <para>
           <num>(1)</num>
-          <text><u>Election Committee Chairperson</u>. The Chairperson of the Election Committee shall not be assigned a Teller position but must be available for travel to and from the polling sites to take care of the needs of the Committee Members on duty. The Chairperson shall be responsible for delivering all printed materials to election sites, as well as collecting lunch and dinner orders pursuant to <cite path="V|1|1.3|1.305">§ 1.305</cite> (8) (c) of this ordinance.</text>
+          <text><u>Election Committee Chairperson</u>. The Chairperson of the Election Committee shall not be assigned a Teller position but must be available for travel to and from the polling sites to take care of the needs of the Committee Members on duty. The Chairperson shall be responsible for delivering all printed materials to election sites, as well as collecting lunch and dinner orders pursuant to <cite path="V|1|1.3|1.305|(8)">§ 1.305 (8)</cite> (c) of this ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text><u>Citizenship Services Department</u>. The designated member of the Election Committee from the Citizenship Services Department (Enrollment Clerk) pursuant to <cite path="V|1|1.3|1.302">§1.302</cite> (2) and <cite path="V|1|1.3|1.305">§1.305</cite> (1) of this ordinance, shall be present in the Citizenship Services Department during the whole process of the voting procedure, in the event any citizenship (membership) is questioned.</text>
+          <text><u>Citizenship Services Department</u>. The designated member of the Election Committee from the Citizenship Services Department (Enrollment Clerk) pursuant to <cite path="V|1|1.3|1.302|(2)">§1.302 (2)</cite> and <cite path="V|1|1.3|1.305|(1)">§1.305 (1)</cite> of this ordinance, shall be present in the Citizenship Services Department during the whole process of the voting procedure, in the event any citizenship (membership) is questioned.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -521,7 +523,7 @@
       </section>
       <section>
         <num>1.311</num>
-        <heading>Nominees Acceptance Or Rejection</heading>
+        <heading>Nominees Acceptance or Rejection</heading>
         <para>
           <num>(1)</num>
           <text>All persons nominated as candidates for the election to the Tribal Governing Board at the time of the caucus, whether or not personally present, shall notify the Election Committee, in writing, within ten (10) working days of the day of caucus, of their acceptance or rejection of their nomination to stand for election (Attachment "C") and verification that they have satisfied the prerequisites pursuant to <cite path="V|1|1.3|1.312">§ 1.312</cite> of this ordinance (Attachment "I").</text>
@@ -533,7 +535,7 @@
       </section>
       <section>
         <num>1.312</num>
-        <heading>Candidate Prerequisites Prior To Being Placed On The Ballot</heading>
+        <heading>Candidate Prerequisites Prior to Being Placed on The Ballot</heading>
         <para>
           <num>(1)</num>
           <text>Prior to a person's acceptance of their nomination to stand for election to the Tribal Governing Board, the following prerequisites as determined by the Election Committee shall be met prior to the candidate's "Prerequisite Certification" (Attachment "I") being completed:</text>
@@ -550,7 +552,7 @@
             <text>The prospective candidate shall provide consent for the completion of a comprehensive background check within seven (7) working days of the day of caucus. If a comprehensive background check establishes that a prospective candidate has plead guilty, no contest or been found guilty in any tribal, county, district, state, or federal court of any felony or other serious offense including: bribery, embezzlement, extortion, fraud, perjury, theft, deceit, dishonesty, or misappropriation of funds, the Election Committee shall establish that the prospective candidate thereby fails to pass the background check. A prospective candidate that fails to pass the background check shall be prohibited from being placed on the ballot for election, unless:</text>
             <para>
               <num>(i)</num>
-              <text>The Election Committee shall provide the prospective candidate with an Election Background Waiver when the prospective candidate establishes that fifteen years or more has passed since the disposition and punishment (including sentencing and probation) of the felony or other serious offense charge as established in <cite path="V|1|1.3|1.312|(c)">subs. (c)</cite>, above, that has caused the prospective candidate to fail the background check. Any prospective candidate requesting an Election Background Waiver must complete an "Election Background Waiver Petition" which is attached and incorporated as an Exhibit to this ordinance.</text>
+              <text>The Election Committee shall provide the prospective candidate with an Election Background Waiver when the prospective candidate establishes that fifteen years or more has passed since the disposition and punishment (including sentencing and probation) of the felony or other serious offense charge as established in <cite path="V|1|1.3|1.312|(1)|(c)|(c)">subs. (c)</cite>, above, that has caused the prospective candidate to fail the background check. Any prospective candidate requesting an Election Background Waiver must complete an "Election Background Waiver Petition" which is attached and incorporated as an Exhibit to this ordinance.</text>
             </para>
           </para>
           <para>
@@ -609,13 +611,13 @@
       </section>
       <section>
         <num>1.314</num>
-        <heading>Code Of Ethics</heading>
+        <heading>Code of Ethics</heading>
         <text>The Tribal Governing Board has adopted a "Code of Ethics" (Attachment "D") which governs the conduct of the members of the Election Committee. Each member of the Election Committee shall receive a copy of the "Code of Ethics" and shall be required to sign a copy of such, stating that they have read the "Code of Ethics" and agree to abide by its provisions during their tenure on the committee. The members of the Election Committee are given the same ten (10) working day period to sign the Code of Ethics as are the nominees for the Tribal Governing Board.  In the event that a member of the Election Committee does not sign the Code of Ethics, they shall be removed from the Election Committee and the Election Committee Alternate shall be asked to fill the position.</text>
       </section>
       <section>
         <num>1.315</num>
         <heading>Polling Site Workers</heading>
-        <text>Polling site workers do not necessarily have to be members of the Election Committee.  They can be hired by the Tribal Governing Board to work at the polling sites on Election Day only, and shall be paid the same rate as Election Committee Members as established pursuant to <cite path="V|1|1.3|1.305">§ 1.305</cite> (8) (b) of this ordinance.</text>
+        <text>Polling site workers do not necessarily have to be members of the Election Committee.  They can be hired by the Tribal Governing Board to work at the polling sites on Election Day only, and shall be paid the same rate as Election Committee Members as established pursuant to <cite path="V|1|1.3|1.305|(8)">§ 1.305 (8)</cite> (b) of this ordinance.</text>
       </section>
       <section>
         <num>1.316</num>
@@ -690,12 +692,12 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>All campaigning materials shall be removed by the prospective candidate associated with the campaigning material within thirty (30) days following Election Day. All prospective candidates that fail to adhere to this subs, shall be subject to a citation pursuant to 10 LCOTCL <cite path="V|2|2.3|2.305">§ 2.305</cite>.</text>
+          <text>All campaigning materials shall be removed by the prospective candidate associated with the campaigning material within thirty (30) days following Election Day. All prospective candidates that fail to adhere to this subs, shall be subject to a citation pursuant to <cite path="X|2|2.3|2.305">10 LCOTCL § 2.305</cite>.</text>
         </para>
       </section>
       <section>
         <num>1.322</num>
-        <heading>Certification Of Election Results</heading>
+        <heading>Certification of Election Results</heading>
         <text>Upon completion of the ballot counting, the Election Committee Chairperson shall, on a form approved by the Election Committee, certify the number of votes received by each candidate (Attachment "G"). The Chairperson shall then certify the election results and declare the election winners in accordance with Article IV of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. The Election Committee must complete their respective tasks of ballot counting, certification of election results, and the declaration of election winners in one sitting without recess or adjournment. Once the election results have been certified and the election winners declared, the Election Committee Chairperson shall ensure that the ballots are placed in a locked location to which all persons having access are known by the Chairperson. No person shall gain access to the locked ballot storage location without prior approval of the Election Committee Chairperson and the Executive Committee. The Chairperson shall maintain a log of all persons obtaining access to the ballots indicating the date and time of such access.</text>
       </section>
       <section>
@@ -804,8 +806,10 @@
   <container>
     <prefix>Chapter</prefix>
     <num>2</num>
-    <heading>Referendum Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
-    <text>Preamble</text>
+    <heading>Referendum Code of The Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to ascertain the will of the people which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article VI of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to "enact an ordinance to implement the provisions of this Article [Referendum]."</text>
     <container>
       <prefix>Subchapter</prefix>
@@ -836,7 +840,7 @@
       </section>
       <section>
         <num>2.104</num>
-        <heading>Findings And Declarations</heading>
+        <heading>Findings and Declarations</heading>
         <text>The Tribal Governing Board finds and declares that:</text>
         <para>
           <num>(1)</num>
@@ -880,18 +884,18 @@
       </section>
       <section>
         <num>2.107</num>
-        <heading>Severability And Non-Liability</heading>
+        <heading>Severability and Non-Liability</heading>
         <text>If any section, provision or portion of this ordinance is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this ordinance.</text>
       </section>
       <section>
         <num>2.108</num>
-        <heading>Repeal Of Inconsistent Tribal Ordinances</heading>
+        <heading>Repeal of Inconsistent Tribal Ordinances</heading>
         <text>All ordinances and resolutions inconsistent with this ordinance are hereby repealed. To the extent that this ordinance imposes greater restrictions than those contained in any other tribal law, code, ordinance or regulation, the provisions of this ordinance shall govern.</text>
       </section>
       <section>
         <num>2.109</num>
-        <heading>Relation To Election Ordinance</heading>
-        <text>The provisions of this ordinance shall govern the conduct of referendum elections. Referendum elections shall also be governed by the provisions of the Title V, Chapter 1 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Election Ordinance, to the extent expressly provided in this ordinance and to the extent that the provisions of the Election Ordinance are not inconsistent with the provisions of this ordinance.</text>
+        <heading>Relation to Election Ordinance</heading>
+        <text>The provisions of this ordinance shall govern the conduct of referendum elections. Referendum elections shall also be governed by the provisions of the <cite path="V|1">Title V, Chapter 1</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Election Ordinance, to the extent expressly provided in this ordinance and to the extent that the provisions of the Election Ordinance are not inconsistent with the provisions of this ordinance.</text>
       </section>
     </container>
     <container>
@@ -912,7 +916,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text><strong>"Election Committee"</strong> means the Committee established on the day of the caucus as established pursuant to 5 LCOTCL <cite path="V|1|1.3|1.304">§ 1.304</cite> (3).</text>
+          <text><strong>"Election Committee"</strong> means the Committee established on the day of the caucus as established pursuant to <cite path="V|1|1.3|1.304">5 LCOTCL § 1.304</cite> (3).</text>
         </para>
         <para>
           <num>(4)</num>
@@ -944,7 +948,7 @@
         </para>
         <para>
           <num>(11)</num>
-          <text><strong>"Qualified Voter" or "Those Entitled to Vote"</strong> means those members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians who are, or will be, 18 years of age or older, on or before the day of the referendum election, and meet the necessary citizenship (membership) requirements, pursuant to Title IV, Chapter 1 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Citizenship Code, will be eligible to vote on election day at designated polling sites as stated in Article IV, § 1 of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+          <text><strong>"Qualified Voter" or "Those Entitled to Vote"</strong> means those members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians who are, or will be, 18 years of age or older, on or before the day of the referendum election, and meet the necessary citizenship (membership) requirements, pursuant to <cite path="IV|1">Title IV, Chapter 1</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Citizenship Code, will be eligible to vote on election day at designated polling sites as stated in Article IV, § 1 of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
         </para>
         <para>
           <num>(12)</num>
@@ -983,12 +987,12 @@
       </section>
       <section>
         <num>2.302</num>
-        <heading>Submission By Board Of Directors</heading>
+        <heading>Submission by Board of Directors</heading>
         <text>The Tribal Governing Board may submit any legislative enactment or proposed enactment to a popular referendum by resolution adopted by an affirmative vote of a majority of the Tribal Governing Board. The resolution shall establish the wording of the referendum question on the ballot and the date of the referendum election; however such referendum election shall be no later than ninety (90) days from the date of the enactment of the referendum resolution.</text>
       </section>
       <section>
         <num>2.303</num>
-        <heading>Submission By Petition Of Qualified Voters</heading>
+        <heading>Submission by Petition of Qualified Voters</heading>
         <para>
           <num>(1)</num>
           <text>A legislative enactment or proposed enactment of the Tribal Governing Board shall be submitted to a popular referendum upon petition of at least one hundred (100) qualified voters of the Tribe presented to the Tribal Governing Board at a regular meeting of the Tribal Governing Board in accordance with <cite path="V|2|2.3|2.303">this section</cite>.</text>
@@ -1013,7 +1017,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>The Tribal Governing Board shall determine whether the petition is valid no later than sixty (60) days after receipt of the petition. If the petition is determined to be valid, the Election Committee as established pursuant to 5 LCOTCL <cite path="V|1|1.3|1.304">§ 1.304</cite> (3) shall hold such referendum within ninety (90) days of the regular Tribal Governing Board meeting where the petition was received. Regardless of whether the petition is valid or not, the Secretary shall keep the original petition(s) on file at least until the time for contesting the validity of the referendum has expired. The Secretary shall allow interested citizens with the opportunity to examine the original referendum.</text>
+          <text>The Tribal Governing Board shall determine whether the petition is valid no later than sixty (60) days after receipt of the petition. If the petition is determined to be valid, the Election Committee as established pursuant to <cite path="V|1|1.3|1.304">5 LCOTCL § 1.304</cite> (3) shall hold such referendum within ninety (90) days of the regular Tribal Governing Board meeting where the petition was received. Regardless of whether the petition is valid or not, the Secretary shall keep the original petition(s) on file at least until the time for contesting the validity of the referendum has expired. The Secretary shall allow interested citizens with the opportunity to examine the original referendum.</text>
         </para>
         <para>
           <num>(6)</num>
@@ -1028,7 +1032,7 @@
       </section>
       <section>
         <num>2.304</num>
-        <heading>Procedure For Withdrawing Signatures</heading>
+        <heading>Procedure for Withdrawing Signatures</heading>
         <text>A qualified voter who has signed a petition calling for a referendum may, by executing and filing with the Secretary an affidavit within ten (10) days from the day, on which the petition is presented to the Tribal Governing Board at a regular meeting of the Tribal Governing Board, withdraw his signature from the petition. Any signature so withdrawn shall not be counted in determining the validity of the petition. The affidavit shall:</text>
         <para>
           <num>(1)</num>
@@ -1049,15 +1053,15 @@
       </section>
       <section>
         <num>2.305</num>
-        <heading>Prohibition On Circulating Of Petitions By Certain Persons</heading>
+        <heading>Prohibition on Circulating of Petitions by Certain Persons</heading>
         <text>No member of the Election Committee shall circulate a referendum petition and all signatures verified by any such person shall be void and shall not be counted in determining the validity of the petition unless such person has removed themselves from the Election Committee.</text>
       </section>
       <section>
         <num>2.306</num>
-        <heading>Conduct Of Referendum Election</heading>
+        <heading>Conduct of Referendum Election</heading>
         <para>
           <num>(1)</num>
-          <text>The referendum election on a valid petition shall be conducted, within ninety (90) days from the date of the regular Tribal Governing Board meeting where the petition was received, by the Election Committee as established pursuant to 5 LCOTCL <cite path="V|1|1.3|1.304">§ 1.304</cite> (3), in accordance with the procedures established in Subchapter 2.4 of this ordinance.</text>
+          <text>The referendum election on a valid petition shall be conducted, within ninety (90) days from the date of the regular Tribal Governing Board meeting where the petition was received, by the Election Committee as established pursuant to <cite path="V|1|1.3|1.304">5 LCOTCL § 1.304</cite> (3), in accordance with the procedures established in <cite path="V|2|2.4">Subchapter 2.4</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1111,7 +1115,7 @@
         <heading>Election Procedure</heading>
         <para>
           <num>(1)</num>
-          <text><u>Eligibility</u>. Those members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians who are, or will be, 18 years of age or older, on or before the day of the referendum election, and meet the necessary citizenship (membership) requirements, pursuant to Title IV, Chapter 1 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Citizenship Code, will be eligible to vote on election day at designated polling sites as stated in Article IV, § 1 of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+          <text><u>Eligibility</u>. Those members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians who are, or will be, 18 years of age or older, on or before the day of the referendum election, and meet the necessary citizenship (membership) requirements, pursuant to <cite path="IV|1">Title IV, Chapter 1</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Citizenship Code, will be eligible to vote on election day at designated polling sites as stated in Article IV, § 1 of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1135,7 +1139,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text><u>Tellers</u>. Members of the Election Committee, other than the Election Committee Chairperson, shall preside at the polling sites as tellers, along with security officer(s) and observer(s). In the event that any member of the Election Committee cannot fulfill their duty, the Alternate with the next highest number of votes as established pursuant to 5 LCOTCL <cite path="V|1|1.3|1.304">§ 1.304</cite> (3), shall be asked to fill the position.</text>
+          <text><u>Tellers</u>. Members of the Election Committee, other than the Election Committee Chairperson, shall preside at the polling sites as tellers, along with security officer(s) and observer(s). In the event that any member of the Election Committee cannot fulfill their duty, the Alternate with the next highest number of votes as established pursuant to <cite path="V|1|1.3|1.304">5 LCOTCL § 1.304</cite> (3), shall be asked to fill the position.</text>
         </para>
         <para>
           <num>(6)</num>
@@ -1151,11 +1155,11 @@
         </para>
         <para>
           <num>(8)</num>
-          <text><u>Ballot Controversies</u>. Any challenge to a voter's eligibility will be referred to, and settled by, the Election committee upon completion of the counting process pursuant to <cite path="V|2|2.4|2.402">§ 2.402</cite> (3) of this ordinance. Those present shall be members of the Election Committee and observer(s).</text>
+          <text><u>Ballot Controversies</u>. Any challenge to a voter's eligibility will be referred to, and settled by, the Election committee upon completion of the counting process pursuant to <cite path="V|2|2.4|2.402|(3)">§ 2.402 (3)</cite> of this ordinance. Those present shall be members of the Election Committee and observer(s).</text>
         </para>
         <para>
           <num>(9)</num>
-          <text><u>Distribution of Ballots</u>. The Election Committee Chairperson will distribute a predetermined number of ballots, as determined by the Tribal Governing Board, at the polling site. The Chairperson and a designated Election Committee Member shall certify as to the number of official ballots received by the printer at time of pick up. The ballots shall be secured by lots of two-hundred (200) in large envelopes, signed and sealed by each Election Committee Member present at that time. Upon opening an envelope at time of election, the Election Committee Member that has been designated as Head Teller for that site, shall open and verify the number of ballots and sign the envelope in the designated space. Upon receipt of the official ballots from the Election Committee Chairperson, the Head Teller at the site will receive from the Election Committee Chairperson the <em>Distribution of Official Ballots Certification</em>, which shall be signed by both the Election Committee Chairperson and receiving Head Teller.   (Attachment "A" of Title V, Chapter 1 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Election Ordinance)</text>
+          <text><u>Distribution of Ballots</u>. The Election Committee Chairperson will distribute a predetermined number of ballots, as determined by the Tribal Governing Board, at the polling site. The Chairperson and a designated Election Committee Member shall certify as to the number of official ballots received by the printer at time of pick up. The ballots shall be secured by lots of two-hundred (200) in large envelopes, signed and sealed by each Election Committee Member present at that time. Upon opening an envelope at time of election, the Election Committee Member that has been designated as Head Teller for that site, shall open and verify the number of ballots and sign the envelope in the designated space. Upon receipt of the official ballots from the Election Committee Chairperson, the Head Teller at the site will receive from the Election Committee Chairperson the <em>Distribution of Official Ballots Certification</em>, which shall be signed by both the Election Committee Chairperson and receiving Head Teller.   (Attachment "A" of <cite path="V|1">Title V, Chapter 1</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Election Ordinance)</text>
         </para>
         <para>
           <num>(10)</num>
@@ -1251,7 +1255,7 @@
         <heading>Election Committee</heading>
         <para>
           <num>(1)</num>
-          <text>The Election Committee shall be established on the day of the caucus as established pursuant to 5 LCOTCL <cite path="V|1|1.3|1.304">§ 1.304</cite> (3), by virtue of nominations by the general membership, and shall be composed of six (6) nominated and elected band members along with one designated member from the Citizenship Services Department (Enrollment Clerk).</text>
+          <text>The Election Committee shall be established on the day of the caucus as established pursuant to <cite path="V|1|1.3|1.304">5 LCOTCL § 1.304</cite> (3), by virtue of nominations by the general membership, and shall be composed of six (6) nominated and elected band members along with one designated member from the Citizenship Services Department (Enrollment Clerk).</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1271,14 +1275,14 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>If a member of the Election Committee resigns from serving on the Election Committee, then that member shall be removed from the Election Committee and the alternate (the next highest vote getter at the Caucus) will be asked to fill that position. In the event additional Alternates are required to oversee a referendum election beyond those nominated pursuant to 5 LCOTCL <cite path="V|1|1.3|1.304">§ 1.304</cite> (3), the Tribal Governing Board shall appoint additional Alternate candidates. Such additional Alternate candidates shall sign an acceptance form pursuant to 5 LCOTCL <cite path="V|1|1.3|1.305">§ 1.305</cite> (6). In the event that the Election Chairperson resigns, then the Election Committee shall select a new chairperson.</text>
+          <text>If a member of the Election Committee resigns from serving on the Election Committee, then that member shall be removed from the Election Committee and the alternate (the next highest vote getter at the Caucus) will be asked to fill that position. In the event additional Alternates are required to oversee a referendum election beyond those nominated pursuant to <cite path="V|1|1.3|1.304">5 LCOTCL § 1.304</cite> (3), the Tribal Governing Board shall appoint additional Alternate candidates. Such additional Alternate candidates shall sign an acceptance form pursuant to <cite path="V|1|1.3|1.305">5 LCOTCL § 1.305</cite> (6). In the event that the Election Chairperson resigns, then the Election Committee shall select a new chairperson.</text>
         </para>
         <para>
           <num>(7)</num>
           <text><u>Election Committee Members Pay</u>.</text>
           <para>
             <num>(a)</num>
-            <text>Election Committee members shall be paid an hourly rate for attending an Election Committee meeting in preparation for a referendum election. Any member of the Election Committee who is an employee of the Tribe or an employee of a tribal entity shall be allowed to receive release time pursuant to 14 LCOTCL <cite path="V|1|1.7|1.707">§ 1.707</cite> (4), 14 LCOTCL <cite path="V|4|4.7|4.707">§ 4.707</cite> (4), 14 LCOTCL <cite path="V|5|5.7|5.707">§ 5.707</cite> (4), 14 LCOTCL <cite path="V|7|7.7|7.707">§ 7.707</cite> (4), or 14 LCOTCL <cite path="V|9|9.7|9.708">§ 9.708</cite> (4) to attend Election Committee meetings held during normal working hours.</text>
+            <text>Election Committee members shall be paid an hourly rate for attending an Election Committee meeting in preparation for a referendum election. Any member of the Election Committee who is an employee of the Tribe or an employee of a tribal entity shall be allowed to receive release time pursuant to <cite path="XIV|1|1.7|1.707">14 LCOTCL § 1.707</cite> (4), <cite path="XIV|4|4.7|4.707">14 LCOTCL § 4.707</cite> (4), <cite path="XIV|5|5.7|5.707">14 LCOTCL § 5.707</cite> (4), <cite path="XIV|7|7.7|7.707">14 LCOTCL § 7.707</cite> (4), or <cite path="XIV|9|9.7|9.708">14 LCOTCL § 9.708</cite> (4) to attend Election Committee meetings held during normal working hours.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -1300,14 +1304,14 @@
       </section>
       <section>
         <num>2.404</num>
-        <heading>Placement Of Election Committee Members</heading>
+        <heading>Placement of Election Committee Members</heading>
         <para>
           <num>(1)</num>
-          <text><u>Election Committee Chairperson</u>. The Chairperson of the Election Committee shall not be assigned a Teller position, but must be available for travel to and from the polling sites to take care of the needs of the Committee Members on duty. The Chairperson shall be responsible for delivering all printed materials to election sites, as well as collecting lunch and dinner orders pursuant to <cite path="V|2|2.4|2.403">§ 2.403</cite> (7) (c) of this ordinance.</text>
+          <text><u>Election Committee Chairperson</u>. The Chairperson of the Election Committee shall not be assigned a Teller position, but must be available for travel to and from the polling sites to take care of the needs of the Committee Members on duty. The Chairperson shall be responsible for delivering all printed materials to election sites, as well as collecting lunch and dinner orders pursuant to <cite path="V|2|2.4|2.403|(7)">§ 2.403 (7)</cite> (c) of this ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text><u>Citizenship Services Department</u>. The designated member of the Election Committee from the Citizenship Services Department (Enrollment Clerk) pursuant to <cite path="V|2|2.4|2.401">§2.401</cite> (2) and <cite path="V|2|2.4|2.403">§2.403</cite> (1) of this ordinance, shall be present in the Citizenship Services Department during the whole process of the voting procedure, in the event any citizenship (membership) is questioned.</text>
+          <text><u>Citizenship Services Department</u>. The designated member of the Election Committee from the Citizenship Services Department (Enrollment Clerk) pursuant to <cite path="V|2|2.4|2.401|(2)">§2.401 (2)</cite> and <cite path="V|2|2.4|2.403|(1)">§2.403 (1)</cite> of this ordinance, shall be present in the Citizenship Services Department during the whole process of the voting procedure, in the event any citizenship (membership) is questioned.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -1363,18 +1367,18 @@
       </section>
       <section>
         <num>2.409</num>
-        <heading>Code Of Ethics</heading>
-        <text>The Tribal Governing Board has adopted a "Code of Ethics" (Attachment "D" of Title V, Chapter 1 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Election Ordinance) which governs the conduct of the members of the Election Committee. Each member of the Election Committee shall receive a copy of the "Code of Ethics" and shall be required to sign a copy of such, stating that they have read the "Code of Ethics" and agree to abide by its provisions during their tenure on the committee. In the event that a member of the Election Committee does not sign the Code of Ethics, they shall be removed from the Election Committee and the Election Committee Alternate shall be asked to fill the position. In the event additional Alternates are required to oversee a referendum election beyond those nominated pursuant to 5 LCOTCL <cite path="V|1|1.3|1.304">§ 1.304</cite> (3), the Tribal Governing Board shall appoint additional Alternate candidates.</text>
+        <heading>Code of Ethics</heading>
+        <text>The Tribal Governing Board has adopted a "Code of Ethics" (Attachment "D" of <cite path="V|1">Title V, Chapter 1</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Election Ordinance) which governs the conduct of the members of the Election Committee. Each member of the Election Committee shall receive a copy of the "Code of Ethics" and shall be required to sign a copy of such, stating that they have read the "Code of Ethics" and agree to abide by its provisions during their tenure on the committee. In the event that a member of the Election Committee does not sign the Code of Ethics, they shall be removed from the Election Committee and the Election Committee Alternate shall be asked to fill the position. In the event additional Alternates are required to oversee a referendum election beyond those nominated pursuant to <cite path="V|1|1.3|1.304">5 LCOTCL § 1.304</cite> (3), the Tribal Governing Board shall appoint additional Alternate candidates.</text>
       </section>
       <section>
         <num>2.410</num>
         <heading>Polling Site Workers</heading>
-        <text>Polling site workers do not necessarily have to be members of the Election Committee.  They can be hired by the Tribal Governing Board to work at the polling sites on Referendum Election Day only, and shall be paid the same rate as Election Committee Members as established pursuant to <cite path="V|2|2.4|2.403">§ 2.403</cite> (7) (b) of this ordinance.</text>
+        <text>Polling site workers do not necessarily have to be members of the Election Committee.  They can be hired by the Tribal Governing Board to work at the polling sites on Referendum Election Day only, and shall be paid the same rate as Election Committee Members as established pursuant to <cite path="V|2|2.4|2.403|(7)">§ 2.403 (7)</cite> (b) of this ordinance.</text>
       </section>
       <section>
         <num>2.411</num>
         <heading>Observers</heading>
-        <text>Observers shall be appointed by the Tribal Governing Board prior to the day of the election. Upon the completion of the election process, on the date of the election, the observers shall sign a final statement stating whether or not they have witnessed a properly run voting and tallying process. If the statement is not signed and returned to the Chairperson of the Election Committee upon the completion of the election process, it shall be noted that they are in agreement that the process was carried out according to policy (Attachment "F" of Title V, Chapter 1 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Election Ordinance). If they are not in agreement that the process was carried out according to policy, the observer must so indicate on the final statement and state their reasons.</text>
+        <text>Observers shall be appointed by the Tribal Governing Board prior to the day of the election. Upon the completion of the election process, on the date of the election, the observers shall sign a final statement stating whether or not they have witnessed a properly run voting and tallying process. If the statement is not signed and returned to the Chairperson of the Election Committee upon the completion of the election process, it shall be noted that they are in agreement that the process was carried out according to policy (Attachment "F" of <cite path="V|1">Title V, Chapter 1</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Election Ordinance). If they are not in agreement that the process was carried out according to policy, the observer must so indicate on the final statement and state their reasons.</text>
       </section>
       <section>
         <num>2.412</num>
@@ -1403,12 +1407,12 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>All campaigning materials shall be removed by the person associated with the campaigning material within thirty (30) days following Referendum Election Day. Failure to adhere to this subs, shall be subject to a citation pursuant to 10 LCOTCL <cite path="V|2|2.3|2.305">§ 2.305</cite>.</text>
+          <text>All campaigning materials shall be removed by the person associated with the campaigning material within thirty (30) days following Referendum Election Day. Failure to adhere to this subs, shall be subject to a citation pursuant to <cite path="X|2|2.3|2.305">10 LCOTCL § 2.305</cite>.</text>
         </para>
       </section>
       <section>
         <num>2.415</num>
-        <heading>Certification Of Referendum Election Results</heading>
+        <heading>Certification of Referendum Election Results</heading>
         <text>Upon completion of the ballot counting, the Election Committee Chairperson shall, on a form approved by the Election Committee, certify the number of votes received approving and disapproving the ballot question. Provided at least two-hundred qualified voters vote in the referendum election, the Chairperson shall then certify the election results and declare the outcome of the referendum election. The Election Committee must complete their respective tasks of ballot counting, certification of election results, and the declaration of the outcome of the referendum election in one sitting without recess or adjournment. Once the election results have been certified and the outcome of the referendum election declared, the Election Committee Chairperson shall ensure that the ballots are placed in a locked location to which all persons having access are known by the Chairperson. No person shall gain access to the locked ballot storage location without prior approval of the Election Committee Chairperson and the Executive Committee. The Chairperson shall maintain a log of all persons obtaining access to the ballots indicating the date and time of such access.</text>
       </section>
       <section>
@@ -1416,10 +1420,10 @@
         <heading>Absentee Ballot Information</heading>
         <para>
           <num>(1)</num>
-          <text>No absentee ballot can be received without first being requested for in writing, by the person desiring to vote. Each qualified voter must request his or her own separate ballot in a separate envelope, and sign the request. (See Sample Request Form – Attachment "B" of Title V, Chapter 1 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Election Ordinance).</text>
+          <text>No absentee ballot can be received without first being requested for in writing, by the person desiring to vote. Each qualified voter must request his or her own separate ballot in a separate envelope, and sign the request. (See Sample Request Form – Attachment "B" of <cite path="V|1">Title V, Chapter 1</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Election Ordinance).</text>
           <para>
             <num>(a)</num>
-            <text>The use of the form established in Attachment B of Title V, Chapter 1 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Election Ordinance is not required, but recommended.</text>
+            <text>The use of the form established in Attachment B of <cite path="V|1">Title V, Chapter 1</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Election Ordinance is not required, but recommended.</text>
           </para>
         </para>
         <para>
@@ -1459,7 +1463,7 @@
           </para>
           <para>
             <num>(b)</num>
-            <text>Deliver the Official Ballot, Tribal Membership Certification (Attachment "E" of Title V, Chapter 1 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Election Ordinance), and Instructions for Voting by Absenteeism (Attachment "H" of Title V, Chapter 1 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Election Ordinance) to the requesting voter by:</text>
+            <text>Deliver the Official Ballot, Tribal Membership Certification (Attachment "E" of <cite path="V|1">Title V, Chapter 1</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Election Ordinance), and Instructions for Voting by Absenteeism (Attachment "H" of <cite path="V|1">Title V, Chapter 1</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law – Election Ordinance) to the requesting voter by:</text>
             <para>
               <num>(i)</num>
               <text>Mail; or</text>
