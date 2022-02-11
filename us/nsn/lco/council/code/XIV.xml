@@ -2490,7 +2490,7 @@
           <text>Regulations and Law References:</text>
           <para>
             <num>(a)</num>
-            <text>Administrative Procurement Requirements for Indian Tribal Governments:  24 CFR 85.36</text>
+            <text>Administrative Procurement Requirements for Indian Tribal Governments:  <cite path="cfr 85.36">24 CFR 85.36</cite></text>
           </para>
           <para>
             <num>(b)</num>
@@ -2510,7 +2510,7 @@
           </para>
           <para>
             <num>(f)</num>
-            <text>Tribal Preferences requirements:  24 CFR 1000.48</text>
+            <text>Tribal Preferences requirements:  <cite path="cfr 1000.48">24 CFR 1000.48</cite></text>
           </para>
           <para>
             <num>(g)</num>
@@ -3508,7 +3508,7 @@
         <para>
           <num>(4)</num>
           <heading>Wage Determination.</heading>
-          <text>If applicable, the CPO shall obtain Davis-Bacon wage-rates as determined by the Department of Labor using the request for wage rate determination form at least forty-five (45) days prior to the initial solicitation.  This determination must be provided to the bidder at the time the quote is requested.  For HUD related projects, the CPO must confirm the wage rates with HUD, at least ten (10) days before award of the contract (Reference 24 CFR 85.36(i)(5) and 24 CFR 1000.16).</text>
+          <text>If applicable, the CPO shall obtain Davis-Bacon wage-rates as determined by the Department of Labor using the request for wage rate determination form at least forty-five (45) days prior to the initial solicitation.  This determination must be provided to the bidder at the time the quote is requested.  For HUD related projects, the CPO must confirm the wage rates with HUD, at least ten (10) days before award of the contract (Reference <cite path="cfr 85.36">24 CFR 85.36</cite>(i)(5) and <cite path="cfr 1000.16">24 CFR 1000.16</cite>).</text>
         </para>
         <para>
           <num>(5)</num>
@@ -4323,7 +4323,7 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>HUD Contracts and subcontracts should also contain the clauses included in 24 CFR 85.36(i).</text>
+            <text>HUD Contracts and subcontracts should also contain the clauses included in <cite path="cfr 85.36">24 CFR 85.36</cite>(i).</text>
           </para>
         </para>
       </section>
