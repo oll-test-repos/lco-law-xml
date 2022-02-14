@@ -6,7 +6,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>1</num>
-    <heading>Children'S Code of The Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
+    <heading>Children's Code of The Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
     <text class="center">
       <strong>Preamble</strong>
     </text>
@@ -265,10 +265,10 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>1.3</num>
-      <heading>Children'S Court</heading>
+      <heading>Children's Court</heading>
       <section>
         <num>1.301</num>
-        <heading>Children'S Court Division</heading>
+        <heading>Children's Court Division</heading>
         <text>There is hereby established a Children's Court Division of the Lac Courte Oreilles Tribal Court exercising jurisdiction pursuant to this ordinance as follows:</text>
         <para>
           <num>(1)</num>
@@ -2828,11 +2828,13 @@
         <para>
           <num>(4)</num>
           <text>No guardian shall lend or give any funds or other property of the ward or ward's estate to himself or herself. No guardian shall purchase any property of the ward unless for fair market value and with specific approval of the Court.</text>
-          <text>
-            <u><cite path="VII|3|3.5">SUBCHAPTER 3.5</cite> – Adult Guardianship PROCEDURES</u>
-          </text>
         </para>
       </section>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>3.5</num>
+      <heading>Adult Guardianship Procedures</heading>
       <section>
         <num>3.501</num>
         <heading>Who May Petition for Adult Guardianship</heading>
@@ -2894,7 +2896,7 @@
       </section>
       <section>
         <num>3.505</num>
-        <heading>Physician'S or Psychologist'S Report</heading>
+        <heading>Physician's or Psychologist's Report</heading>
         <text>No guardian shall be appointed based on any alleged mental incapacity of the proposed ward to manage the proposed ward's own affairs without the testimony of a licensed physician or psychologist. Upon stipulation of all the parties, a written report of a licensed physician or psychologist may be introduced in lieu of testimony.</text>
       </section>
       <section>
@@ -3015,11 +3017,13 @@
         <para>
           <num>(3)</num>
           <text>If neither the ward, guardian, guardian ad litem, nor any other person requests a hearing, and if the guardian ad litem recommends continuation of the protective placement, then the Court may either hold a hearing on the continuation of the protective placement, or may order a twelve (12) month continuation of the protective placement based on the reports in the record.</text>
-          <text>
-            <u><cite path="VII|3|3.7">SUBCHAPTER 3.7</cite> – termination or changes</u>
-          </text>
         </para>
       </section>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>3.7</num>
+      <heading>Termination or Changes</heading>
       <section>
         <num>3.701</num>
         <heading>Termination or Changes to an Order for Adult Guardianship</heading>
@@ -3242,12 +3246,14 @@
         <para>
           <num>(12)</num>
           <text><strong>"Retaliation"</strong> means threatening a reporter of abuse of an elder or vulnerable adult or the reporter's family in any way; causing bodily harm to the reporter or reporter's family; causing the reporter or any of the reporter's family to be terminated, suspended from employment or reprimanded by an employer, or damaging the reporter's or the reporter's family's real or personal property in any way.</text>
-          <text>
-            <u><cite path="VII|4|4.3">SUBCHAPTER 4.3</cite> – REPORTING and Investigations</u>
-          </text>
-          <text/>
         </para>
       </section>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>4.3</num>
+      <heading>Reporting and Investigations</heading>
+      <text/>
       <section>
         <num>4.301</num>
         <heading>Duty to Report Abuse or Neglect of an Elder</heading>
@@ -3301,11 +3307,11 @@
         <heading>Investigation</heading>
         <para>
           <num>(1)</num>
-          <text>When Elder Protective Services ("EPS") receives a report of abuse or neglect perpetrated against elders or vulnerable adults, an investigation will be initiated as required in sub<cite path="VII|4|4.2|4.305|(2)">section (2)</cite>, below.</text>
+          <text>When Elder Protective Services ("EPS") receives a report of abuse or neglect perpetrated against elders or vulnerable adults, an investigation will be initiated as required in sub<cite path="VII|4|4.3|4.305|(2)">section (2)</cite>, below.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Elder Protective Services will conduct an investigation and prepare a report within three days.  The written report of the investigation shall include the information set out in sub<cite path="VII|4|4.2|4.305|(3)">section (3)</cite>, below as well as the results of interviews, observations and assessments and other fact finding.  The investigator shall conduct in-person interviews with the elder or vulnerable adult, the family and caretaker, persons suspected of having committed the acts complained of, employees of agencies or institutions with knowledge of the circumstances of the elder or vulnerable adult, and any other person the investigator believes has pertinent information.  The existence and contents of medical records and other reports of abuse and neglect shall be ascertained, after the elder or vulnerable executes a release of information.  The investigator personally shall assess the living conditions of the elder or vulnerable adult, including sleeping quarters.</text>
+          <text>Elder Protective Services will conduct an investigation and prepare a report within three days.  The written report of the investigation shall include the information set out in sub<cite path="VII|4|4.3|4.305|(3)">section (3)</cite>, below as well as the results of interviews, observations and assessments and other fact finding.  The investigator shall conduct in-person interviews with the elder or vulnerable adult, the family and caretaker, persons suspected of having committed the acts complained of, employees of agencies or institutions with knowledge of the circumstances of the elder or vulnerable adult, and any other person the investigator believes has pertinent information.  The existence and contents of medical records and other reports of abuse and neglect shall be ascertained, after the elder or vulnerable executes a release of information.  The investigator personally shall assess the living conditions of the elder or vulnerable adult, including sleeping quarters.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -3365,12 +3371,14 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Any person who violates subsections (1) or (2) of <cite path="VII|4|4.2|4.306">this section</cite> shall be enjoined from such activity and shall be subject to a civil penalty of up to $500 per occurrence and may result in the loss of tribal privileges.  If a tribal employee violates subsections (1) or (2) of <cite path="VII|4|4.2|4.306">this section</cite>, he/she shall be subject to appropriate disciplinary action as allowed by the Tribe's personnel policies and procedures.  The penalty shall be assessed by the Tribal Court only after petition, notice, the opportunity to be heard, and a determination that either interference or retaliation as set out in <cite path="VII|4|4.2|4.306">this Section</cite> occurred.</text>
-          <text>
-            <u><cite path="VII|4|4.4">SUBCHAPTER 4.4</cite> – Elder Protective Services and Placement</u>
-          </text>
+          <text>Any person who violates subsections (1) or (2) of <cite path="VII|4|4.3|4.306">this section</cite> shall be enjoined from such activity and shall be subject to a civil penalty of up to $500 per occurrence and may result in the loss of tribal privileges.  If a tribal employee violates subsections (1) or (2) of <cite path="VII|4|4.3|4.306">this section</cite>, he/she shall be subject to appropriate disciplinary action as allowed by the Tribe's personnel policies and procedures.  The penalty shall be assessed by the Tribal Court only after petition, notice, the opportunity to be heard, and a determination that either interference or retaliation as set out in <cite path="VII|4|4.3|4.306">this Section</cite> occurred.</text>
         </para>
       </section>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>4.4</num>
+      <heading>Elder Protective Services and Placement</heading>
       <section>
         <num>4.401</num>
         <heading>Elder Protective Services and Elder Protective Placement; Other Services; Evaluation Procedures; Duty to Pay</heading>
@@ -3393,11 +3401,13 @@
         <para>
           <num>(5)</num>
           <text>Lac Courte Oreilles Elder Protective Services, in consultation with the Lac Courte Oreilles Community Health Center, will establish a process for conducting a comprehensive physical, mental and social assessment of an elder or vulnerable adult when a petition for a protection order has been filed.</text>
-          <text>
-            <u><cite path="VII|4|4.5">SUBCHAPTER 4.5</cite> – Emergency Situations</u>
-          </text>
         </para>
       </section>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>4.5</num>
+      <heading>Emergency Situations</heading>
       <section>
         <num>4.501</num>
         <heading>Emergency</heading>
@@ -3459,16 +3469,18 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>If there is good cause to believe that an emergency exists and that an elder or vulnerable adult is at risk of immediate and irreparable physical harm, the LCO Elder Protective Services investigator or law enforcement shall immediately protect the elder or vulnerable adult, including, where necessary, transporting the elder or vulnerable adult for medical treatment or to an appropriate facility.  Immediately after the elder or other vulnerable adult is protected, a petition for an emergency protection order shall be filed and the procedures set out in <cite path="VII|4|4.2|4.501">this section</cite> will be followed.</text>
+          <text>If there is good cause to believe that an emergency exists and that an elder or vulnerable adult is at risk of immediate and irreparable physical harm, the LCO Elder Protective Services investigator or law enforcement shall immediately protect the elder or vulnerable adult, including, where necessary, transporting the elder or vulnerable adult for medical treatment or to an appropriate facility.  Immediately after the elder or other vulnerable adult is protected, a petition for an emergency protection order shall be filed and the procedures set out in <cite path="VII|4|4.5|4.501">this section</cite> will be followed.</text>
         </para>
         <para>
           <num>(8)</num>
-          <text>Any person who acts in good faith pursuant to <cite path="VII|4|4.2|4.501">this section</cite> is immune from any civil or criminal suit based on that person's actions.</text>
-          <text>
-            <u><cite path="VII|4|4.6">SUBCHAPTER 4.6</cite> – Rights and Privileges</u>
-          </text>
+          <text>Any person who acts in good faith pursuant to <cite path="VII|4|4.5|4.501">this section</cite> is immune from any civil or criminal suit based on that person's actions.</text>
         </para>
       </section>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>4.6</num>
+      <heading>Rights and Privileges</heading>
       <section>
         <num>4.601</num>
         <heading>Rights of Elders, Their Families and Caretakers</heading>
@@ -3491,11 +3503,13 @@
         <para>
           <num>(5)</num>
           <text>In any proceeding involving an elder or vulnerable adult, all interested parties, including family and caretakers, may petition the Tribal Court to obtain party status in the proceeding.</text>
-          <text>
-            <u><cite path="VII|4|4.7">SUBCHAPTER 4.7</cite> – Procedures</u>
-          </text>
         </para>
       </section>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>4.7</num>
+      <heading>Procedures</heading>
       <section>
         <num>4.701</num>
         <heading>Procedures for Determining Incapacity, Abuse, Neglect or Self Neglect</heading>
@@ -3518,7 +3532,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Any person who violates any portion of <cite path="VII|4|4.2|4.702">this section</cite> shall be subject to a civil penalty of up to $1,000 per occurrence and, if a tribal employee, to appropriate disciplinary actions as allowed by the Tribe's personnel policies and procedures.  The penalty shall be assessed by the Tribal Court after petition, notice, opportunity to be heard, and a determination that a violation has occurred.</text>
+          <text>Any person who violates any portion of <cite path="VII|4|4.7|4.702">this section</cite> shall be subject to a civil penalty of up to $1,000 per occurrence and, if a tribal employee, to appropriate disciplinary actions as allowed by the Tribe's personnel policies and procedures.  The penalty shall be assessed by the Tribal Court after petition, notice, opportunity to be heard, and a determination that a violation has occurred.</text>
         </para>
       </section>
       <section>
@@ -3657,12 +3671,12 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
-      <num>3.2</num>
+      <num>5.2</num>
       <heading>General Definitions</heading>
       <section>
         <num>5.201</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in <cite path="VII|5|3.2|5.201">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="VII|5|5.2|5.201">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(1)</num>
           <text>"Aging Director" or "Director" means the individual employed by the Tribal Governing Board to manage the affairs of the Aging Unit as provided for in this ordinance and other relevant documents.</text>
@@ -3715,7 +3729,7 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
-      <num>3.3</num>
+      <num>5.3</num>
       <heading>General</heading>
       <section>
         <num>5.301</num>
@@ -3818,7 +3832,7 @@
       <section>
         <num>5.303</num>
         <heading>Elders Advisory Council on Aging</heading>
-        <text>The Elders Advisory Council on Aging is hereby created to act in an advisory capacity to the Tribal Governing Board and the Aging Director and shall have those powers as stated in <cite path="VII|5|3.3|5.303">this section</cite>:</text>
+        <text>The Elders Advisory Council on Aging is hereby created to act in an advisory capacity to the Tribal Governing Board and the Aging Director and shall have those powers as stated in <cite path="VII|5|5.3|5.303">this section</cite>:</text>
         <para>
           <num>(1)</num>
           <text><u>Official Powers and Duties</u>. The Elders Advisory Council on Aging shall advise the Aging Director on all matters relating to the delivery of services within the program area of operation and offer specific recommendations to the Aging Unit. Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby establishes a public body known as the Lac Courte Oreilles Elders Advisory Council on Aging (hereinafter referred to as the Elders Advisory Council on Aging), and pursuant to this ordinance hereby establishes the following purposes, powers and duties of the Elders Advisory Council on Aging:</text>
@@ -3848,7 +3862,7 @@
           </para>
           <para>
             <num>(g)</num>
-            <text>None of the aforementioned powers and duties may be construed or interpreted to empower representatives of the Elders Advisory Council on Aging beyond the capacity of advisory in nature as more fully defined in <cite path="VII|5|3.3|5.303|(8)">subs. (8)</cite>, below.</text>
+            <text>None of the aforementioned powers and duties may be construed or interpreted to empower representatives of the Elders Advisory Council on Aging beyond the capacity of advisory in nature as more fully defined in <cite path="VII|5|5.3|5.303|(8)">subs. (8)</cite>, below.</text>
           </para>
         </para>
         <para>
@@ -3949,7 +3963,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text><u>Term</u>. Representatives to the Elders Advisory Council on Aging shall be elected by the elders residing within the Aging Unit area of operation, so long as the representative meets the qualifications established in <cite path="VII|5|3.3|5.303|(4)">subs. (4)</cite> above. Representatives to the Elders Advisory Council on Aging shall serve as follows:</text>
+          <text><u>Term</u>. Representatives to the Elders Advisory Council on Aging shall be elected by the elders residing within the Aging Unit area of operation, so long as the representative meets the qualifications established in <cite path="VII|5|5.3|5.303|(4)">subs. (4)</cite> above. Representatives to the Elders Advisory Council on Aging shall serve as follows:</text>
           <para>
             <num>(a)</num>
             <text>All representatives to the Elders Advisory Council on Aging will be appointed for three-year, staggered terms.</text>
@@ -4060,7 +4074,7 @@
           </para>
           <para>
             <num>(e)</num>
-            <text>Representatives shall be prohibited from charging or receiving actual or in-kind compensation, fees, or gifts in connection with the performance of their official duties pursuant to <cite path="VII|5|3.3|5.303|(1)">subs. (1)</cite>, above.</text>
+            <text>Representatives shall be prohibited from charging or receiving actual or in-kind compensation, fees, or gifts in connection with the performance of their official duties pursuant to <cite path="VII|5|5.3|5.303|(1)">subs. (1)</cite>, above.</text>
           </para>
         </para>
         <para>
