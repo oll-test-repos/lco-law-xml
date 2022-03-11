@@ -10,15 +10,15 @@
     </print>
   </meta>
   <heading>Lac Courte Oreilles Tribal Code of Law</heading>
-  <xi:include href="./II.xml"/>
-  <xi:include href="./III.xml"/>
-  <xi:include href="./IV.xml"/>
-  <xi:include href="./V.xml"/>
-  <xi:include href="./VI.xml"/>
-  <xi:include href="./VII.xml"/>
-  <xi:include href="./VIII.xml"/>
-  <xi:include href="./X.xml"/>
-  <xi:include href="./XI.xml"/>
-  <xi:include href="./XII.xml"/>
-  <xi:include href="./XIV.xml"/>
+  <xi:include href="./TCT.xml"/>
+  <xi:include href="./MCC.xml"/>
+  <xi:include href="./CTZ.xml"/>
+  <xi:include href="./ELE.xml"/>
+  <xi:include href="./CSV.xml"/>
+  <xi:include href="./DMR.xml"/>
+  <xi:include href="./GNC.xml"/>
+  <xi:include href="./PHS.xml"/>
+  <xi:include href="./PRP.xml"/>
+  <xi:include href="./CMP.xml"/>
+  <xi:include href="./PAP.xml"/>
 </document>
