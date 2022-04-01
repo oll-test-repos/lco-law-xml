@@ -1,754 +1,723 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Lac Courte Oreilles Tribal Code of Law">
-  <num>PHS</num>
-  <heading>Public Health And Safety</heading>
   <prefix>Title</prefix>
+  <num>X</num>
+  <heading>Public Health and Safety</heading>
   <container>
-    <num>PHS.1</num>
-    <heading>Public Safety Commission Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
     <prefix>Chapter</prefix>
+    <num>1</num>
+    <heading>Public Safety Commission Code of The Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to provide policy guidance and ensure that the Tribe's public safety agencies serve the members and visitors of the Lac Courte Oreilles Reservation, which authority predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, §§ 1(l) and (m) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "organize, charter and regulate any association or group … for the purpose of providing social or economic benefits to the members of the Band or residents of the reservation" Article V, § 1 (l);  and "delegate to subordinate boards, officers, committees or cooperative associations which are open to all members of the Band any of the foregoing powers, reserving the right to review any action taken by virtue of such delegated powers" Article V, § 1 (m). Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby establishes a public body known as the Lac Courte Oreilles Public Safety Commission (hereinafter referred to as the Public Safety Commission), and enacts this ordinance which shall establish the purposes, powers and duties of the Public Safety Commission. In any suit, action or proceeding involving the validity or enforcement of or relating to any of actions of the Tribe's public safety agencies, the Public Safety Commission shall be conclusively deemed to have become established and authorized to transact business and exercise its powers upon proof of the adoption of this ordinance. A copy of this ordinance duly certified by the Secretary/Treasurer of the Tribal Governing Board shall be admissible in evidence in any suit, action or proceedings.</text>
     <container>
-      <num>PHS.1.1</num>
-      <heading>General Provisions</heading>
       <prefix>Subchapter</prefix>
+      <num>1.1</num>
+      <heading>General Provisions</heading>
       <section>
-        <num>PHS.1.1.010</num>
+        <num>1.101</num>
         <heading>Title</heading>
         <text>This ordinance shall be known as the Public Safety Commission Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
-        <annotation type="Prior Codifications">§PHS.1.1.010 was formerly codified as X LCOTCL §1.101</annotation>
       </section>
       <section>
-        <num>PHS.1.1.020</num>
+        <num>1.102</num>
         <heading>Authority</heading>
         <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, Article V, §§ 1 (l), (m), and (s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "organize, charter and regulate any association or group … for the purpose of providing social or economic benefits to the members of the Band or residents of the reservation" Article V, § 1 (l); "delegate to subordinate boards, officers, committees or cooperative associations which are open to all members of the Band any of the foregoing powers, reserving the right to review any action taken by virtue of such delegated powers" Article V, § 1 (m); and "to promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin and providing for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers. Article V, § 1 (s).</text>
-        <annotation type="Prior Codifications">§PHS.1.1.020 was formerly codified as X LCOTCL §1.102</annotation>
       </section>
       <section>
-        <num>PHS.1.1.030</num>
-        <heading>Declaration Of Need</heading>
+        <num>1.103</num>
+        <heading>Declaration of Need</heading>
         <text>It is hereby declared:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>The safety of the tribal citizens and for our tribal public safety officers are the top priority of this Public Safety Commission.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>The protection of the tribe's resources and tribal entities are paramount for a safe community.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>This Public Safety Commission is dedicated to ensuring the Lac Courte Oreilles Reservation is safe place for citizens and guests.</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>That the necessity in the public interest for the provisions hereinafter enacted is hereby declared as a matter of legislative determination.</text>
         </para>
-        <annotation type="Prior Codifications">§PHS.1.1.030 was formerly codified as X LCOTCL §1.103</annotation>
       </section>
       <section>
-        <num>PHS.1.1.040</num>
+        <num>1.104</num>
         <heading>Purpose</heading>
         <text>The Public Safety Commission shall be operated for the purpose of providing oversight and policy development for Lac Courte Oreilles Police Department, the Lac Courte Oreilles Conservation Enforcement Division, and the Lac Courte Oreilles Fire Department.</text>
-        <annotation type="Prior Codifications">§PHS.1.1.040 was formerly codified as X LCOTCL §1.104</annotation>
       </section>
       <section>
-        <num>PHS.1.1.050</num>
+        <num>1.105</num>
         <heading>Territorial Applicability</heading>
         <text>This ordinance shall govern the activities of the public safety agencies of the Public Safety Commission pursuant to the provisions of this ordinance within Lac Courte Oreilles Reservation lands as well as off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe.</text>
-        <annotation type="Prior Codifications">§PHS.1.1.050 was formerly codified as X LCOTCL §1.105</annotation>
       </section>
       <section>
-        <num>PHS.1.1.060</num>
+        <num>1.106</num>
         <heading>Effective Date</heading>
         <text>Except as otherwise provided in specific sections, the provisions of this ordinance shall be effective on the date adopted by the Tribal Governing Board.</text>
-        <annotation type="Prior Codifications">§PHS.1.1.060 was formerly codified as X LCOTCL §1.106</annotation>
       </section>
       <section>
-        <num>PHS.1.1.070</num>
-        <heading>Compliance With Federal And State Law</heading>
+        <num>1.107</num>
+        <heading>Compliance with Federal and State Law</heading>
         <text>The Tribe shall comply with all applicable federal laws, including the, 18 U.S.C. § 117, 18 U.S.C. § 922, 18 U.S.C. § 1162, 18 U.S.C. § 2261, 18 U.S.C. § 2262, 25 U.S.C. § 1301 <em>et seq.</em>, 25 U.S.C. § 2801 <em>et seq.</em>, 25 U.S.C. § 2451, 25 U.S.C. § 3613, 28 U.S.C. § 1360, 42 U.S.C. § 13925<em> et seq.</em>, <cite doc="Wis. Stat." path="§66.0313">Wis. Stat. §66.0313</cite>, <cite doc="Wis. Stat." path="§165.90">Wis. Stat. §165.90</cite>, <cite doc="Wis. Stat." path="§165.92">Wis. Stat. §165.92</cite>, <cite doc="Wis. Stat." path="§175.40">Wis. Stat. §175.40</cite>, <cite doc="Wis. Stat." path="§806.245">Wis. Stat. §806.245</cite>, <cite doc="Wis. Stat." path="§806.247">Wis. Stat. §806.247</cite>, <cite doc="Wis. Stat." path="§813.12">Wis. Stat. §813.12</cite>, <cite doc="Wis. Stat." path="§813.122">Wis. Stat. §813.122</cite>, <cite doc="Wis. Stat." path="§813.123">Wis. Stat. §813.123</cite>, <cite doc="Wis. Stat." path="§813.125">Wis. Stat. §813.125</cite>, <cite doc="Wis. Stat." path="§813.128">Wis. Stat. §813.128</cite>, <cite doc="Wis. Stat." path="§941.29">Wis. Stat. §941.29</cite>.</text>
-        <annotation type="Prior Codifications">§PHS.1.1.070 was formerly codified as X LCOTCL §1.107</annotation>
       </section>
       <section>
-        <num>PHS.1.1.080</num>
+        <num>1.108</num>
         <heading>Interpretation</heading>
         <text>The provisions of this ordinance:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Shall be interpreted and applied as minimum requirements applicable to the activities of the public safety agencies of the Public Safety Commission subject to this ordinance;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Shall be liberally construed in favor of the Tribe;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Shall not be deemed a limitation or repeal of any other tribal power or authority.</text>
         </para>
-        <annotation type="Prior Codifications">§PHS.1.1.080 was formerly codified as X LCOTCL §1.108</annotation>
       </section>
       <section>
-        <num>PHS.1.1.090</num>
-        <heading>Severability And Non-Liability</heading>
-        <text>The provisions of this ordinance:</text>
-        <para>
-          <num>(a)</num>
-          <text>Shall be interpreted and applied as minimum requirements applicable to the activities of the public safety agencies of the Public Safety Commission subject to this ordinance;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Shall be liberally construed in favor of the Tribe;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Shall not be deemed a limitation or repeal of any other tribal power or authority.</text>
-        </para>
-        <annotation type="Prior Codifications">§PHS.1.1.090 was formerly codified as X LCOTCL §1.108</annotation>
+        <num>1.108</num>
+        <heading>Severability and Non-Liability</heading>
+        <text>If any section, provision or portion of this ordinance is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this ordinance.</text>
       </section>
       <section>
-        <num>PHS.1.1.100</num>
-        <heading>Repeal Of Inconsistent Tribal Ordinances</heading>
+        <num>1.109</num>
+        <heading>Repeal of Inconsistent Tribal Ordinances</heading>
         <text>All ordinances and resolutions inconsistent with this ordinance are hereby repealed. To the extent that this ordinance imposes greater restrictions than those contained in any other tribal law, code, ordinance or regulation, the provisions of this ordinance shall govern.</text>
-        <annotation type="Prior Codifications">§PHS.1.1.100 was formerly codified as X LCOTCL §1.109</annotation>
       </section>
     </container>
     <container>
-      <num>PHS.1.2</num>
-      <heading>Definitions</heading>
       <prefix>Subchapter</prefix>
+      <num>1.2</num>
+      <heading>Definitions</heading>
       <section>
-        <num>PHS.1.2.010</num>
+        <num>1.201</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in <cite path="§PHS.1.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="X|1|1.2|1.201">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>"Area of Operation" means all areas within the jurisdiction of the Lac Courte Oreilles Band of Lake Superior Chippewa.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>"Executive Director or Director" means the individual employed by the Tribal Governing Board to manage the affairs of the public safety agencies as provided for in this Ordinance and other relevant documents.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text><strong>"Federal Government"</strong> shall be the United States of America; the Department of Justice, the Bureau of Indian Affairs or any other agency or instrumentality, corporate or otherwise of the United States of America.</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text><strong>"Public Safety Commission"</strong> means the Lac Courte Oreilles Public Safety Commission.</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text><strong>"Reservation" or "Reservation Lands"</strong> means those lands located within the exterior boundaries of the Lac Courte Oreilles Reservation lands as well as off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe.</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text><strong>"Tribal Court"</strong> means the court of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
         </para>
         <para>
-          <num>(g)</num>
+          <num>(7)</num>
           <text><strong>"Tribal Governing Board"</strong> means the Tribal Governing Board of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
         </para>
-        <annotation type="Prior Codifications">§PHS.1.2.010 was formerly codified as X LCOTCL §1.201</annotation>
       </section>
     </container>
     <container>
-      <num>PHS.1.3</num>
-      <heading>General</heading>
       <prefix>Subchapter</prefix>
+      <num>1.3</num>
+      <heading>General</heading>
       <section>
-        <num>PHS.1.3.010</num>
+        <num>1.301</num>
         <heading>Public Safety Commission</heading>
         <text>The Tribal Governing Board hereby establishes and empowers the Lac Courte Oreilles Public Safety Commission to carry out the intent of this ordinance as further defined herein:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>The Tribal Governing Board shall employ an Executive Director who will be responsible for effectuating this Public Safety Commission Code and the duties as defined in the Director's job description.  The Executive Director shall be supervised by the Tribal Governing Board.</text>
           <para>
-            <num>(1)</num>
+            <num>(a)</num>
             <text>In the absence of an appointed Executive Director, the Board of Public Safety Commissioners shall effectuate this Public Safety Commission Code and the duties detailed herein.</text>
           </para>
         </para>
         <para>
-          <num>(b)</num>
-          <text>Pursuant to Tribal Governing Board Resolution No. 15-17, in the implementation of <cite path="§TCT.5.3.030">Section TCT.5.3.030</cite>, the Tribal Governing Board thereby gave its consent to a limited waiver of immunity from suit which it does not otherwise have pursuant <cite path="§TCT.5.3.020">Section TCT.5.3.020</cite>; thereby waiving the Tribe's sovereign immunity only to the limited extent necessary, as required by <cite doc="Wis. Stat." path="§165.92">Wis. Stat. §165.92</cite>(3m)(a)1 and <cite path="X|66|66.03|66.0313|(4)">§66.0313(4)</cite>(a)1, to allow the enforcement in state courts of its liability in actions against the Tribe and its Tribal Officers while acting within the scope of their employment pursuant to this ordinance.</text>
+          <num>(2)</num>
+          <text>Pursuant to Tribal Governing Board Resolution No. 15-17, in the implementation of <cite path="II|5|5.3|5.303">2 LCOTCL § 5.303</cite>, the Tribal Governing Board thereby gave its consent to a limited waiver of immunity from suit which it does not otherwise have pursuant <cite path="II|5|5.3|5.302">2 LCOTCL § 5.302</cite>; thereby waiving the Tribe's sovereign immunity only to the limited extent necessary, as required by <cite doc="Wis. Stat." path="§165.92">Wis. Stat. §165.92</cite>(3m)(a)1 and <cite path="X|66|66.03|66.0313|(4)">§66.0313(4)</cite>(a)1, to allow the enforcement in state courts of its liability in actions against the Tribe and its Tribal Officers while acting within the scope of their employment pursuant to this ordinance.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>The Public Safety Commission, acting through its Executive Director, shall have the following powers which it may exercise consistent with the purposes for which it has been established:</text>
           <para>
-            <num>(1)</num>
+            <num>(a)</num>
             <text>To adopt and use a corporate seal.</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(b)</num>
             <text>To enter into agreements, contracts and understandings with any governmental agency, Federal, state or local or with any person, partnership, corporation or Indian tribe; and to agree to any conditions attached to the administration of the activities of the public safety agencies of the Tribe.</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(c)</num>
             <text>To oversee the activities of the public safety agencies of the Tribe and the public safety needs of members and such other persons or entities the Public Safety Commission may serve;</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(d)</num>
             <text>To provide oversight of ongoing public safety activities;</text>
           </para>
           <para>
-            <num>(5)</num>
+            <num>(e)</num>
             <text>To receive and address citizen grievances under the relevant public safety agency policies and procedures;</text>
           </para>
           <para>
-            <num>(6)</num>
+            <num>(f)</num>
             <text>To provide oversight in the creation and review of policies governing the activities of the public safety agencies of the Tribe, and other such policies as requested by the Executive Director or the Tribal Governing Board;</text>
           </para>
           <para>
-            <num>(7)</num>
+            <num>(g)</num>
             <text>To provide oversight on the development of a Strategic Plan on public safety;</text>
           </para>
           <para>
-            <num>(8)</num>
+            <num>(h)</num>
             <text>To provide oversight in the long range planning of the Public Safety operations;</text>
           </para>
           <para>
-            <num>(9)</num>
+            <num>(i)</num>
             <text>To provide oversight on the development of the annual budgets of the public safety agencies of the Tribe; and</text>
           </para>
           <para>
-            <num>(10)</num>
-            <text>To provide oversight as directed by the Tribal Governing Board on matters relevant to the Public Safety Commission and the purposes defined in <cite path="§PHS.1.1.040">Section PHS.1.1.040</cite> of this ordinance.</text>
+            <num>(j)</num>
+            <text>To provide oversight as directed by the Tribal Governing Board on matters relevant to the Public Safety Commission and the purposes defined in <cite path="X|1|1.1|1.104">§ 1.104</cite> of this ordinance.</text>
           </para>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>It is the purpose and intent of this ordinance to authorize the Public Safety Commission to secure the financial aid or cooperation of the Federal, state or local governments in the administration of the activities of the public safety agencies of the Tribe.</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>No ordinance or other enactment of the Tribe with respect to the administration of the activities of the public safety agencies of the Tribe shall be applicable to the Public Safety Commission in its operations pursuant to this ordinance.</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>The Tribal Governing Board does not by the adoption of this ordinance consent to any authorization not accountable to the Tribal Governing Board.</text>
         </para>
         <para>
-          <num>(g)</num>
+          <num>(7)</num>
           <text>The Executive Director shall submit the following reports to the Tribal Governing Board with copies to the Board of Public Safety Commissioners;</text>
           <para>
-            <num>(1)</num>
+            <num>(a)</num>
             <text>Monthly Report showing:</text>
             <para>
-              <num>(A)</num>
+              <num>(i)</num>
               <text>Summary of the prior month's activities;</text>
             </para>
             <para>
-              <num>(B)</num>
+              <num>(ii)</num>
               <text>Financial condition of the Public Safety Commission and its public safety agencies;</text>
             </para>
             <para>
-              <num>(C)</num>
+              <num>(iii)</num>
               <text>Any significant problems and accomplishments;</text>
             </para>
             <para>
-              <num>(D)</num>
+              <num>(vi)</num>
               <text>Plans for the future;</text>
             </para>
             <para>
-              <num>(E)</num>
+              <num>(vi)</num>
               <text>Such other information as the Executive Director, the Board of Public Safety Commissioners, or the Tribal Governing Board deems pertinent.</text>
             </para>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(b)</num>
             <text>Annual Report showing;</text>
             <para>
-              <num>(A)</num>
+              <num>(i)</num>
               <text>Summary of the above concerns addressed in the monthly report;</text>
             </para>
             <para>
-              <num>(B)</num>
+              <num>(ii)</num>
               <text>Long-term plans and goals for the Public Safety Commission.</text>
             </para>
           </para>
         </para>
         <para>
-          <num>(h)</num>
+          <num>(9)</num>
           <text>The annual budgets of the public safety agencies of the Tribe must be approved by the Tribal Governing Board as well as any other operating budgets of the Public Safety Commission.</text>
         </para>
-        <annotation type="Prior Codifications">§PHS.1.3.010 was formerly codified as X LCOTCL §1.301</annotation>
       </section>
       <section>
-        <num>PHS.1.3.020</num>
-        <heading>Board Of Public Safety Commissioners And Tribal Governing Board Liaison</heading>
-        <text>The Board of Public Safety Commissioners is hereby created to act in an advisory capacity to the Tribal Governing Board and the Public Safety Commission Executive Director and shall have those powers as stated in <cite path="§PHS.1.3.020">this section</cite>:</text>
+        <num>1.302</num>
+        <heading>Board of Public Safety Commissioners and Tribal Governing Board Liaison</heading>
+        <text>The Board of Public Safety Commissioners is hereby created to act in an advisory capacity to the Tribal Governing Board and the Public Safety Commission Executive Director and shall have those powers as stated in <cite path="X|1|1.3|1.302">this section</cite>:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>The Tribal Governing Board, by formal action, shall appoint a Liaison(s) which shall be appointed to facilitate communication and coordination between the Tribal Governing Board and the Board. The Tribal Governing Board Liaison(s) shall not be considered a member of the Board.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text><u>Official Powers and Duties</u>. The Board of Public Safety Commissioners shall carry out the following official powers and duties:</text>
           <para>
-            <num>(1)</num>
+            <num>(a)</num>
             <text>To advise the Tribal Governing Board and Executive Director of the Public Safety Commission on the activities of the public safety agencies of the Tribe and the public safety needs of members and such other persons or entities the Public Safety Commission may serve;</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(c)</num>
             <text>To serve as an adjudicatory board for citizen grievances under the relevant public safety agency policies and procedures;</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(d)</num>
             <text>To provide advice on the in the creation and review and provide recommendations on policies governing the activities of the public safety agencies of the Tribe, and other such policies as requested by the Executive Director or the Tribal Governing Board;</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(e)</num>
             <text>To provide advice on the development of a Strategic Plan on public safety;</text>
           </para>
           <para>
-            <num>(5)</num>
+            <num>(f)</num>
             <text>To provide advice in the long range planning of the Public Safety operations;</text>
           </para>
           <para>
-            <num>(6)</num>
+            <num>(g)</num>
             <text>To provide advice on the development of the annual budgets of the public safety agencies of the Tribe;</text>
           </para>
           <para>
-            <num>(7)</num>
-            <text>To provide advice as directed by the Tribal Governing Board or requested by the Executive Director on matters relevant to the Public Safety Commission and the purposes defined in <cite path="§PHS.1.1.040">Section PHS.1.1.040</cite> of this ordinance; and</text>
+            <num>(h)</num>
+            <text>To provide advice as directed by the Tribal Governing Board or requested by the Executive Director on matters relevant to the Public Safety Commission and the purposes defined in <cite path="X|1|1.1|1.104">§ 1.104</cite> of this ordinance; and</text>
           </para>
           <para>
-            <num>(8)</num>
-            <text>None of the aforementioned powers and duties may be construed or interpreted to empower the Board beyond the capacity of advisory in nature as more fully defined in <cite path="§PHS.1.3.020|(h)">Section PHS.1.3.020(h)</cite>, below.</text>
+            <num>(i)</num>
+            <text>None of the aforementioned powers and duties may be construed or interpreted to empower the Board beyond the capacity of advisory in nature as more fully defined in <cite path="X|1|1.3|1.302|(7)">subs. (7)</cite>, below.</text>
           </para>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text><u>Organization</u>. The Board of Public Safety Commissioners shall be organized in accordance with the following guidelines;</text>
           <para>
-            <num>(1)</num>
+            <num>(a)</num>
             <text>The Board of Public Safety Commissioners shall be composed of seven (7) persons, all of whom must be citizens (members) of the Tribe. Applications for appointment must meet the qualifications set forth in this ordinance. In no case shall a sitting Tribal Governing Board member, or an employee of the Public Safety Commission, or an employee of any of the public safety agencies of the Tribe be appointed as a Board Member. No individual Commissioner, regardless of position, acting alone and without Board of Public Safety Commissioner approval is empowered or authorized to take any action or make any public statement regarding the Public Safety Commission, the public safety agencies of the Tribe, or Board of Public Safety Commissioners' positions on any matter. There shall be no limit on the number of terms any Commission member can serve, subject to any provision in the Tribal Constitution and Bylaws to the contrary.</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(b)</num>
             <text>The Tribal Governing Board shall recruit and post vacancies of the Board to be filled from the tribal citizenry (membership). Applications shall be developed by the Tribal Governing Board.</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(c)</num>
             <text>With the consensus of the Tribal Governing Board, the Chairperson may appoint up to two (2) non-voting members to the Board with expertise in a field relevant to the Board's work. Such ex officio Commissioners need not be enrolled members of the Band. The duration of any such ex-officio appointment shall be established by the Board at the time of appointment. These ex officio Commissioners may also serve as Emergency Response Team personnel.</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(d)</num>
             <text>Applicants and recommended ex officio Commissioners shall submit to a background investigation for a determination of eligibility by the Tribal Governing Board. Applicants shall be required to cooperate with the fingerprint process and provide all relevant information to facilitate the investigation.</text>
           </para>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(3)</num>
           <text><u>Qualifications</u>. Applicants for appointment to the Board of Public Safety Commissioners must satisfy the following requirements:</text>
           <para>
-            <num>(1)</num>
+            <num>(a)</num>
             <text>Be an enrolled citizen (member) of the Tribe.</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(b)</num>
             <text>Be at least 21 years of age.</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(c)</num>
             <text>Have obtained a High School Diploma or GED equivalent or a degree of Higher Education.</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(d)</num>
             <text>Have no prior record of, or entry of a plea of no contest to, any of the following in any tribal, county, state or federal court, unless pardoned:</text>
             <para>
-              <num>(A)</num>
+              <num>(i)</num>
               <text>A felony.</text>
             </para>
             <para>
-              <num>(B)</num>
+              <num>(ii)</num>
               <text>Fraud or misrepresentation in any connection.</text>
             </para>
           </para>
           <para>
-            <num>(5)</num>
+            <num>(e)</num>
             <text>Shall not be employed by any of the public safety agencies of the Tribe and shall not be an employee of the Public Safety Commission.</text>
           </para>
           <para>
-            <num>(6)</num>
+            <num>(g)</num>
             <text>Shall not be primarily employed in a tribal director or management position that will impede the availability as a member of the Board.</text>
           </para>
           <para>
-            <num>(7)</num>
+            <num>(h)</num>
             <text>Shall not be an elected tribal official.</text>
           </para>
           <para>
-            <num>(8)</num>
+            <num>(i)</num>
             <text>Shall have demonstrated expertise, knowledge, or credentials in one or more of the following areas for consideration of sitting on the Board; Law enforcement, fire prevention and/or detection, conservation enforcement and/or the exercise of treaty hunting, fishing or gathering rights. The Board shall set the standards for expertise expected of all Commissioners.</text>
           </para>
           <para>
-            <num>(9)</num>
+            <num>(j)</num>
             <text>Shall comply with an approved code of ethics.</text>
           </para>
         </para>
         <para>
-          <num>(e)</num>
-          <text><u>Term</u>. The Tribal Governing Board may appoint applicants, who meet the qualifications established in <cite path="§PHS.1.3.020|(c)">Section PHS.1.3.020(c)</cite> above, to the Board of Public Safety Commissioners as follows:</text>
+          <num>(4)</num>
+          <text><u>Term</u>. The Tribal Governing Board may appoint applicants, who meet the qualifications established in <cite path="X|1|1.3|1.302|(3)">subs. (3)</cite> above, to the Board of Public Safety Commissioners as follows:</text>
           <para>
-            <num>(1)</num>
+            <num>(a)</num>
             <text>All members of the Board shall be appointed for three (3) year, staggered terms, except that in the case of prior vacancy, an appointment shall be only for the length of the unexpired term.</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(b)</num>
             <text>The Tribal Governing Board shall appoint a Commissioner for all vacancies to the Board of Public Safety Commissioners as soon as reasonably possible.</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(c)</num>
             <text>Appointments shall occur on the anniversary date of the Commissioner's appointment, unless otherwise scheduled due to reasons of death, resignation or removal. Each member of the Board shall hold office until his or her successor has been appointed. All expirations shall occur on September 30th of each year and all appointments shall commence on October 1st of each year.</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(d)</num>
             <text>A member of the Board may be removed by formal action of the Tribal Governing Board for neglect of duty, conflict of interest, malfeasance in office, unexcused absences of more than three consecutive regular meetings, or other due cause in the TGB's sole discretion. The decision of the TGB regarding any such removal shall be final and not subject to appeal.</text>
           </para>
           <para>
-            <num>(5)</num>
+            <num>(e)</num>
             <text>The Commissioners shall be appointed, and may be reappointed, by the Tribal Governing Board. Formal notification by the Tribal Governing Board as to the appointment or reappointment of any Commissioner shall be conclusive evidence of the due and proper appointment.</text>
           </para>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(5)</num>
           <text><u>Officers</u>. Officers of the Board of Public Safety Commissioners shall be Chairman, Vice-Chairman, and Secretary. The Tribal Governing Board shall name one of the Board Member's as the Chairman of the Board. The Board shall elect from among its members a Vice-Chairman, and a Secretary. All officers shall serve one-year periods. In the absence of the Chairman, the Vice-Chairman shall preside; and in the absence of both the Chairman and the Vice-Chairman, the Secretary shall preside.</text>
         </para>
         <para>
-          <num>(g)</num>
+          <num>(6)</num>
           <text><u>Meetings</u>.</text>
           <para>
-            <num>(1)</num>
+            <num>(a)</num>
             <text><u>Quorum</u>. A majority of the full Board shall constitute a quorum necessary to conduct Board business but no action shall be taken by a vote of less than a majority of such full Board.</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(b)</num>
             <text><u>Voting</u>. All Commissioners are entitled to vote on all issues.  At the call of the question, by any one member on a particular issue, voting shall take place thereon.  Voting by proxy representation shall be prohibited.</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(c)</num>
             <text><u>Regularity of Meetings</u>. Regular meetings of the Board shall be held monthly on the second Tuesday of the month or at a time agreed upon by the Board and the Executive Director. Special meetings may be held at the discretion of the Chairperson or by request of four (4) Commissioners. Regular and Special meetings notices must be posted. Special meetings shall be limited to only the stated agenda and no regular business may be conducted.</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(d)</num>
             <text><u>Proceedings</u>. All deliberations of the Board of Public Safety Commissioners, except in Executive Session shall be recorded.  The Secretary shall keep complete and accurate records (minutes) of all meetings of the Board. Minutes of all meetings shall be distributed to Commissioners prior to the next meeting. Minutes shall be provided to the Tribal Governing Board upon adoption by the Board.</text>
           </para>
           <para>
-            <num>(5)</num>
+            <num>(e)</num>
             <text><u>Executive Sessions</u>. The Board of Gaming Commissioners may consider the following matter(s) in executive (closed) sessions, but action taken regarding the matter(s) discussed in executive session shall be done in open session:</text>
             <para>
-              <num>(A)</num>
+              <num>(i)</num>
               <text>Conferring with the tribal attorney who is rendering oral or written legal advice concerning strategy to be adopted by the Board of Public Safety Commissioners with respect to litigation in which it is or likely to become involved;</text>
             </para>
             <para>
-              <num>(B)</num>
+              <num>(ii)</num>
               <text>Administrative status of confidential matters such as investigations and complaints;</text>
             </para>
             <para>
-              <num>(C)</num>
+              <num>(iii)</num>
               <text>Be advised of personnel decisions made by the Executive Director.</text>
             </para>
           </para>
           <para>
-            <num>(6)</num>
+            <num>(f)</num>
             <text><u>Annual Budget / Compensation of Board of Public Safety Commissioners</u>.</text>
             <para>
-              <num>(A)</num>
+              <num>(i)</num>
               <text>The Board shall review the annual operation budget of the public safety agencies of the Tribe and the Public Safety Commission. Once reviewed, such budget shall be recommended to the Tribal Governing Board for approval as part of the tribal annual budget adoption process.</text>
             </para>
             <para>
-              <num>(B)</num>
+              <num>(ii)</num>
               <text>Appointed members of the Public Safety Commission shall not receive compensation for service as a Commissioner.</text>
             </para>
             <para>
-              <num>(C)</num>
+              <num>(iii)</num>
               <text>Training for Board members to effectively and diligently carry out the powers and duties of this ordinance shall be provided by the Tribal Governing Board as set forth in the annual operation budget of the Public Safety Commission including travel, training/conference registration fees, and lodging costs. Such travel and training cost shall be determined and approved by the Tribal Governing Board Liaison.</text>
             </para>
           </para>
         </para>
         <para>
-          <num>(h)</num>
+          <num>(7)</num>
           <text><u>Advisory Capacity</u>. The Board of Public Safety Commissioners shall serve in an advisory capacity to the Tribal Governing Board and the Executive Director to promote comprehensive planning, delivery of public safety services and evaluation of the public safety agencies of the Tribe.</text>
           <para>
-            <num>(1)</num>
+            <num>(a)</num>
             <text><strong>"Advisory Capacity"</strong> to the Tribal Governing Board means that the Board of Public Safety Commissioners shall assist the Tribal Governing Board in understanding the public safety projects and public safety services needs of members and such other persons or entities the public safety agencies of the Tribe may serve. As with other Tribal Committees, Boards and Commissions the Board of Public Safety Commissioners do not supervise the Tribal Governing Board on public safety matters nor is it empowered to require that certain actions be taken or to require or demand that the Tribal Governing Board engage in or approve any particular recommended course of action.  The Board of Public Safety Commissioners shall review but does not have approval authority over all required or requested reports that the Executive Director submits to the Tribal Governing Board. Such duty or authority of review does not extend to reports or portions thereof that may be deemed confidential. The Chairperson or the Secretary of the Board of Public Safety Commissioners may also be present at all meetings where the Director is expected to present or submit required or requested reports.</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(b)</num>
             <text><strong>"Advisory Capacity"</strong> to the Executive Director means that the Board of Public Safety Commissioners shall assist the Executive Director in understanding the public safety projects and public safety services needs of Lac Courte Oreilles Tribal members and such other persons or entities the public safety agencies of the Tribe may serve in the planning and delivery of those services and evaluation of public safety and Department programs.  The Board of Public Safety Commissioners is not authorized to supervise the Director on public safety matters or to require or demand that the Director engage in or approve any particular recommendation and shall not be involved in personnel matters of the public safety agencies of the Tribe except upon Tribal Governing Board request and then in only an advisory capacity.</text>
           </para>
         </para>
         <para>
-          <num>(i)</num>
+          <num>(8)</num>
           <text><u>Restrictions</u>.</text>
           <para>
-            <num>(1)</num>
+            <num>(a)</num>
             <text>No commissioner shall be in a position involving a conflict of interest.</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(b)</num>
             <text>No public safety agency employee shall be a commissioner.</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(c)</num>
             <text>No elected official of the Tribal Governing Board shall be a commissioner.</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(d)</num>
             <text>Nothing in this ordinance authorizes the Board to interfere with public safety management, operations, and employment relations or decisions.</text>
           </para>
         </para>
         <para>
-          <num>(j)</num>
+          <num>(9)</num>
           <text><u>Care, Loyalty, and Conflict</u>.</text>
           <para>
-            <num>(1)</num>
+            <num>(a)</num>
             <text>Commissioners shall discharge their duties in good faith and in a manner that the member reasonably believes is in the best interest of Commission, and with due diligence that an ordinarily prudent person in a like position would exercise under similar circumstances. It is expected that all Commissioners will work in a competent and professional manner that reflects favorably on the Tribal Governing Board and the Tribe.</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(b)</num>
             <text>Commissioners shall, at all time, subordinate their personal interests to those of the public safety agencies of the Tribe and the Board of Public Safety Commissioners and shall avoid conflicts of interest, including without limitation, that no Commissioner shall exploit information related to the authority of the public safety agencies of the Tribe, the Public Safety Commission, or the Board of Public Safety Commissioners for their own personal gain or profit without first presenting the same to the Board of Public Safety Commissioners or shall obtain any personal gain or profit from any transaction with the Public Safety Commission without fully disclosing such involvement and benefit to the Public Safety Commission and obtaining a waiver of any such conflict.</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(c)</num>
             <text>No Commissioner shall commit any act with respect to the public safety agencies of the Tribe, the Public Safety Commission, or the Board of Public Safety Commissioners that is illegal, fraudulent, or willfully unfair to either the public safety agencies of the Tribe, the Public Safety Commission, or the Board of Public Safety Commissioners, or any employees of said departments.</text>
           </para>
         </para>
         <para>
-          <num>(k)</num>
+          <num>(10)</num>
           <text><u>Personal Liability and Immunity</u>.</text>
           <para>
-            <num>(1)</num>
+            <num>(b)</num>
             <text>To the fullest extent permitted by law, the Tribe shall indemnify members of the Board of Public Safety Commissioners, and its officers, against costs, expenses, and liabilities incurred by them in carrying out their official duties as members of the Board and its officers.</text>
           </para>
           <para>
-            <num>(2)</num>
-            <text>The Board of Public Safety Commissioners, as a delegated body of the Tribal Governing Board pursuant to the Lac Court Oreilles Constitution, Article V, §§ 1 (m) and (n), is immune, as is the Tribe, from suit and legal process in any state, federal or tribal court. Except as provided for in <cite path="§PHS.1.3.010|(b)">Section PHS.1.3.010(b)</cite> of this ordinance, the Lac Court Oreilles Band of Lake Superior Chippewa Indians does not waive any aspect of its sovereign immunity.</text>
+            <num>(b)</num>
+            <text>The Board of Public Safety Commissioners, as a delegated body of the Tribal Governing Board pursuant to the Lac Court Oreilles Constitution, Article V, §§ 1 (m) and (n), is immune, as is the Tribe, from suit and legal process in any state, federal or tribal court. Except as provided for in <cite path="X|1|1.3|1.301|(2)">§ 1.301 (2)</cite> of this ordinance, the Lac Court Oreilles Band of Lake Superior Chippewa Indians does not waive any aspect of its sovereign immunity.</text>
           </para>
         </para>
-        <annotation type="Prior Codifications">§PHS.1.3.020 was formerly codified as X LCOTCL §1.302</annotation>
       </section>
       <section>
-        <num>PHS.1.3.030</num>
+        <num>1.303</num>
         <heading>Confidential Information</heading>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>All members of the Board of Public Safety Commissioners understand, acknowledge, and agree by virtue of service on the Commission that the performance of their duties and responsibilities and obligations under this ordinance shall occur mainly within the territory of the Tribe as set forth in Article I, § 1 of the Lac Courte Oreilles Tribal Constitution; that they have read and understand the duties and responsibilities, obligations, and all other provisions of this ordinance; and that they have agreed to abide by the same.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>The Board of Public Safety Commissioners, or any employee or agent of the Public Safety Commission may have access to confidential information obtained by the Public Safety Commission, only as authorized or permitted by the Tribal Governing Board or authorized under this ordinance.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Any member of the Board of Public Safety Commissioners, or any employee or agent of the Public Safety Commission who releases any information without approval from the Tribal Governing Board, or uses any information or personal gain, that is part of an ongoing investigation by any tribal safety agency of the Tribe shall be subject to sanctions, including dismissal from the Board of Public Safety Commissioners, or the Public Safety Commission and criminal penalties under Federal, State or Tribal law.</text>
         </para>
-        <annotation type="Prior Codifications">§PHS.1.3.030 was formerly codified as X LCOTCL §1.303</annotation>
       </section>
       <section>
-        <num>PHS.1.3.040</num>
+        <num>1.303</num>
         <heading>Miscellaneous</heading>
         <para>
-          <num>(a)</num>
-          <text>All members of the Board of Public Safety Commissioners understand, acknowledge, and agree by virtue of service on the Commission that the performance of their duties and responsibilities and obligations under this ordinance shall occur mainly within the territory of the Tribe as set forth in Article I, § 1 of the Lac Courte Oreilles Tribal Constitution; that they have read and understand the duties and responsibilities, obligations, and all other provisions of this ordinance; and that they have agreed to abide by the same.</text>
+          <num>(1)</num>
+          <text>Each program developed or operated under a contract providing for Federal financial assistance shall be developed and operated in compliance with all requirements of such contract and applicable Federal legislation, and with all regulations and requirements prescribed from time to time by the Federal government in connection with such assistance.</text>
         </para>
         <para>
-          <num>(b)</num>
-          <text>The Board of Public Safety Commissioners, or any employee or agent of the Public Safety Commission may have access to confidential information obtained by the Public Safety Commission, only as authorized or permitted by the Tribal Governing Board or authorized under this ordinance.</text>
+          <num>(2)</num>
+          <text>The property of the Public Safety Commission as well as the public safety agencies of the Tribe is declared to be public property used for essential governmental purposes and such property and the Public Safety Commission are exempt from all taxes and special assessments of the Tribe.</text>
         </para>
-        <para>
-          <num>(c)</num>
-          <text>Any member of the Board of Public Safety Commissioners, or any employee or agent of the Public Safety Commission who releases any information without approval from the Tribal Governing Board, or uses any information or personal gain, that is part of an ongoing investigation by any tribal safety agency of the Tribe shall be subject to sanctions, including dismissal from the Board of Public Safety Commissioners, or the Public Safety Commission and criminal penalties under Federal, State or Tribal law.</text>
-        </para>
-        <annotation type="Prior Codifications">§PHS.1.3.040 was formerly codified as X LCOTCL §1.303</annotation>
       </section>
     </container>
     <container>
-      <num>PHS.1.4</num>
-      <heading>Adjudicatory Board For Disciplanary Actions</heading>
       <prefix>Subchapter</prefix>
+      <num>1.4</num>
+      <heading>Adjudicatory Board for Disciplanary Actions</heading>
       <section>
-        <num>PHS.1.4.010</num>
+        <num>1.401</num>
         <heading>Disciplinary Proceedings</heading>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text><u>Purpose</u>.</text>
           <para>
-            <num>(1)</num>
+            <num>(a)</num>
             <text>Disciplinary actions may be commenced against an employee of a public safety agency of the Tribe, by the Chief of the public safety agency, for violations of departmental Standard Operating Procedures, or laws of the Tribe, or other government. Discipline may range from a verbal warning to termination.</text>
             <para>
-              <num>(A)</num>
-              <text>In serious matters, an internal investigation is conducted by the Public Safety Commission and the law enforcement officer under investigation may be placed on administrative leave pursuant to <cite path="§PHS.1.4.020">Section PHS.1.4.020</cite> of this ordinance<strong>.</strong></text>
+              <num>(b)</num>
+              <text>In serious matters, an internal investigation is conducted by the Public Safety Commission and the law enforcement officer under investigation may be placed on administrative leave pursuant to <cite path="X|1|1.4|1.402">§ 1.402</cite> of this ordinance<strong>.</strong></text>
             </para>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(c)</num>
             <text>In order to insure due process to agency personnel, a public safety agency employee has the right to appeal a disciplinary action to the Public Safety Commission.</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(d)</num>
             <text>Disciplinary actions may be ordered by the Chief of the public safety agency. The public safety agency employee may appeal a disciplinary action to the Public Safety Commission. Upon filing of an appeal, the Chief of the public safety agency shall submit formal charges against the officer to the Public Safety Commission.</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(e)</num>
             <text>Any citizen may file charges or a complaint against a public safety agency employee with the Chief of the public safety agency. The Public Safety Commission can proceed with a hearing after an investigation by the agency Chief.</text>
           </para>
           <para>
-            <num>(5)</num>
+            <num>(f)</num>
             <text>If a citizen wishes to file a complaint with the Public Safety Commission, the Public Safety Commission will refer the complaint to the Chief of the public safety agency to begin an investigation. Upon completion of the investigation the Chief of the public safety agency shall submit his written report to the Commission.</text>
           </para>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text><u>Commencement of Disciplinary Hearings</u>.  A request for an appeal of a decision of the Chief of a public safety agency must be submitted in writing to the Human Resource Director, or designee within three (3) calendar days.</text>
           <para>
-            <num>(1)</num>
+            <num>(a)</num>
             <text>If the request is by a public safety agency employee or a citizen against a public safety agency employee, the Human Resource Director, or designee must without delay, notify the Executive Director of the Public Safety Commission and the Chief of the public safety agency that a hearing has been requested.</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(b)</num>
             <text>The Board of Public Safety Commissioners must meet within ten calendar days and set a hearing date.</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(c)</num>
             <text>The Board of Public Safety Commissioners has the right to extend hearing dates for cause.</text>
           </para>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text><u>Rights and Responsibilities of the Board of Public Safety Commissioners at Hearings</u>.</text>
           <para>
-            <num>(1)</num>
+            <num>(a)</num>
             <text>The Board of Public Safety Commissioners shall have legal counsel and court reporter present at all formal proceedings.</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(b)</num>
             <text>The Board of Public Safety Commissioners has the authority to subpoena witnesses.</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(c)</num>
             <text>Hearing procedures that may be unique to a particular hearing shall be established prior to the hearing.</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(d)</num>
             <text>Disciplinary hearings shall be open, except where:</text>
             <para>
-              <num>(A)</num>
+              <num>(i)</num>
               <text>the person subject to discipline requests in writing that the hearing be closed; or</text>
             </para>
             <para>
-              <num>(B)</num>
+              <num>(ii)</num>
               <text>the Chief of the public safety agency requests in writing that the hearing be closed and indicates that confidential public safety matters are involved.</text>
             </para>
           </para>
           <para>
-            <num>(5)</num>
+            <num>(e)</num>
             <text>Commissioners shall not discuss the disciplinary matter with anyone outside  the Commission until the hearing is completed and a decision is filed.</text>
           </para>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text><u>Rights of the Accused Public Safety Employee at Hearings</u>.</text>
           <para>
-            <num>(1)</num>
+            <num>(a)</num>
             <text>Notice of charges that have been made, or will be made, as well as actions that will or may be taken against the individual.</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(b)</num>
             <text>The right to a hearing to respond to the charges.</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(c)</num>
             <text>The right to representation at the individual's expense.</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(d)</num>
             <text>The right to confront and cross-examine his/her accusers.</text>
           </para>
           <para>
-            <num>(5)</num>
+            <num>(e)</num>
             <text>The right to present evidence and argue his/her view of the facts.</text>
           </para>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text><u>Pre-Hearing Conference</u>.</text>
           <para>
-            <num>(1)</num>
+            <num>(a)</num>
             <text>A pre-hearing conference shall be scheduled at least five (5) working days before the hearing. The law enforcement officer and the complainant shall be notified in writing of the pre-hearing conference and both may be represented.</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(b)</num>
             <text>The following matters shall be accomplished at the conference:</text>
             <para>
-              <num>(A)</num>
+              <num>(i)</num>
               <text>Witness lists and any prior written or recorded statements or reports of witnesses will be exchanged between the parties or their representatives.</text>
             </para>
             <para>
-              <num>(B)</num>
+              <num>(ii)</num>
               <text>Exhibit lists will also be exchanged between the parties or their representatives, and each party and/or their representative shall be permitted to physically inspect all exhibits of the other party.</text>
             </para>
             <para>
-              <num>(C)</num>
+              <num>(iii)</num>
               <text>Witnesses or exhibits not on the pre-hearing conference lists may not be introduced at the hearing unless the Public Safety Commission determines that the party or their representative can demonstrate a satisfactory reason for the inclusion of such witness or exhibit on the list(s) submitted at the pre-hearing conference.</text>
             </para>
             <para>
-              <num>(D)</num>
+              <num>(iv)</num>
               <text>In the absence of the parry or representative at the pre-hearing conference, the Board of Public Safety Commissioners shall dismiss the charges unless the party unless the representative can demonstrate a satisfactory reason for non-appearance.</text>
             </para>
           </para>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text><u>Hearing Procedure</u>.</text>
           <para>
-            <num>(1)</num>
+            <num>(a)</num>
             <text>The nature of a public safety agency requires the highest level of public trust. As a result, hearings will be open to the public to allow the public to be reassured that hearings are conducted under the highest standards of objectiveness and reason.</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(b)</num>
             <text>The Chairperson of the Board of Public Safety Commissioners has the duties of:</text>
             <para>
-              <num>(A)</num>
+              <num>(i)</num>
               <text>Presiding over the hearing.</text>
             </para>
             <para>
-              <num>(B)</num>
+              <num>(ii)</num>
               <text>Maintaining order.</text>
             </para>
             <para>
-              <num>(C)</num>
+              <num>(iii)</num>
               <text>Insuring that the hearing is fair and impartial.</text>
             </para>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(c)</num>
             <text>The Chairperson may elect to use an attorney or experienced hearing examiner to assist in conducting the hearing.</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(d)</num>
             <text>Order of Business.</text>
             <para>
-              <num>(A)</num>
+              <num>(i)</num>
               <text>The Chairperson calls the meeting to order and:</text>
             </para>
             <para>
-              <num>(B)</num>
+              <num>(ii)</num>
               <text>Explains that the Public Safety Commission is not an investigative body.</text>
             </para>
             <para>
-              <num>(C)</num>
+              <num>(iii)</num>
               <text>Describes the hearing as a formal inquiry into the facts of the matter in front of them as an original hearing body.</text>
             </para>
             <para>
-              <num>(D)</num>
+              <num>(iv)</num>
               <text>The Chairperson reads the charges, as filed with the Public Safety Commission, and cites the rule(s) and/or policy(s) that were alleged to be violated.</text>
             </para>
             <para>
-              <num>(E)</num>
+              <num>(v)</num>
               <text>Testimony begins with the person(s) who filed the charges.</text>
               <text>1) Witnesses, evidence, documents, and other related reports will be submitted by the Chief of the public safety agency or complainant.</text>
               <text>2) Witnesses testify under oath which can be administered by the President or any other Commissioner.</text>
@@ -756,914 +725,876 @@
               <text>4) The public safety employee or representative may challenge the testimony or evidence presented.</text>
             </para>
             <para>
-              <num>(F)</num>
+              <num>(vi)</num>
               <text>The law enforcement officer or representative is given an opportunity to present facts, introduce evidence, and call witnesses to prove:</text>
               <text>1) That the law enforcement officer was wrongly charged.</text>
               <text>2) The penalty is not appropriate for the violation.</text>
             </para>
             <para>
-              <num>(G)</num>
+              <num>(vii)</num>
               <text>The complainant may challenge any testimony offered by the accused.</text>
               <text>1) Both sides are allowed to present closing summaries of their position.</text>
               <text>2) The Chairperson then adjourns the hearing.</text>
             </para>
             <para>
-              <num>(H)</num>
+              <num>(viii)</num>
               <text>The Board of Public Safety Commissioners retires to executive session to deliberate upon the matter.</text>
             </para>
           </para>
         </para>
         <para>
-          <num>(g)</num>
+          <num>(7)</num>
           <text><u>Just Cause Standard Applied to Commission Deliberations</u>.  The Commissioners shall base their decisions regarding a disciplinary action upon the "just cause" standard.</text>
           <para>
-            <num>(1)</num>
+            <num>(a)</num>
             <text>Whether the public safety employee could reasonably be expected to have had knowledge of the probable consequences of the alleged misconduct.</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(b)</num>
             <text>Whether the procedure the public safety employee allegedly violated is reasonable.</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(c)</num>
             <text>Whether the Chief of the public safety agency, before filing charges against the public safety employee, made a reasonable effort to discover whether the public safety employee did, in fact, violate a procedure.</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(d)</num>
             <text>Whether the investigation was fair and objective.</text>
           </para>
           <para>
-            <num>(5)</num>
+            <num>(e)</num>
             <text>Whether the Chief of the public safety agency discovered substantial evidence that the public safety employee violated the procedure as described in the charges filed against the public safety employee.</text>
           </para>
           <para>
-            <num>(6)</num>
+            <num>(f)</num>
             <text>Whether the Chief of the public safety agency is applying the rule or order fairly and without discrimination against the public safety employee.</text>
           </para>
           <para>
-            <num>(7)</num>
+            <num>(g)</num>
             <text>Whether the proposed discipline is reasonable as it relates to the seriousness of the alleged violation and to the public safety employee's record of service with the Tribe.</text>
           </para>
         </para>
         <para>
-          <num>(h)</num>
+          <num>(8)</num>
           <text><u>Public Safety Commission Actions</u>.</text>
           <para>
-            <num>(1)</num>
+            <num>(a)</num>
             <text>The Public Safety Commission may on appeals, review a disciplinary action taken by the Chief of a public safety agency, and:</text>
             <para>
-              <num>(A)</num>
+              <num>(i)</num>
               <text>Approve the action taken by the Chief of a public safety agency without change.</text>
             </para>
             <para>
-              <num>(B)</num>
+              <num>(ii)</num>
               <text>Dismiss or modify the charge(s) made by the Chief of a public safety agency.</text>
             </para>
             <para>
-              <num>(C)</num>
+              <num>(iii)</num>
               <text>Modify any penalty imposed by the Chief of a public safety agency.</text>
             </para>
             <para>
-              <num>(D)</num>
+              <num>(iv)</num>
               <text>Void the action taken by the Chief of a public safety agency.</text>
             </para>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(b)</num>
             <text>The Public Safety Commission may impose any of the following penalties, but is not limited to the penalties listed herein.</text>
             <para>
-              <num>(A)</num>
+              <num>(i)</num>
               <text>Verbal consultation</text>
             </para>
             <para>
-              <num>(B)</num>
+              <num>(ii)</num>
               <text>Written reprimand.</text>
             </para>
             <para>
-              <num>(C)</num>
+              <num>(iii)</num>
               <text>Suspension without pay.</text>
             </para>
             <para>
-              <num>(D)</num>
+              <num>(iv)</num>
               <text>Demotion in rank.</text>
             </para>
             <para>
-              <num>(E)</num>
+              <num>(v)</num>
               <text>Termination of employment.</text>
             </para>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(c)</num>
             <text>The Public Safety Commission's findings shall be in writing and include:</text>
             <para>
-              <num>(A)</num>
+              <num>(i)</num>
               <text>A statement of all charges filed.</text>
             </para>
             <para>
-              <num>(B)</num>
+              <num>(ii)</num>
               <text>The specific rule(s), policy(s), or standard(s) of conduct violated.</text>
             </para>
             <para>
-              <num>(C)</num>
+              <num>(iii)</num>
               <text>A list of charges that the Public Safety Commission found were proven.</text>
             </para>
             <para>
-              <num>(D)</num>
+              <num>(iv)</num>
               <text>A summary of the disciplinary actions considered by the Public Safety Commission.</text>
             </para>
             <para>
-              <num>(E)</num>
+              <num>(v)</num>
               <text>The disciplinary action ordered by the Public Safety Commission and any special actions attached to the approved disciplinary action.</text>
             </para>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(d)</num>
             <text>In acting on a complaint including a request for termination of employment, filed with the Public Safety Commission, the Public Safety Commission may:</text>
             <para>
-              <num>(A)</num>
+              <num>(i)</num>
               <text>Dismiss the complaint.</text>
             </para>
             <para>
-              <num>(B)</num>
+              <num>(ii)</num>
               <text>Dismiss or modify certain charges filed.</text>
             </para>
             <para>
-              <num>(C)</num>
+              <num>(iii)</num>
               <text>Conclude that the testimony and evidence sustain the charges and impose a penalty.</text>
             </para>
             <para>
-              <num>(D)</num>
+              <num>(iv)</num>
               <text>Allow the Public Safety Commission the power to hire an outside agency to conduct the investigation of allegations against the Chief of the public safety agency.</text>
             </para>
           </para>
         </para>
         <para>
-          <num>(i)</num>
+          <num>(9)</num>
           <text><u>Appeals of Commission Findings</u>. Appeals of Public Safety Commission's ruling shall be made to the Lac Courte Oreilles Tribal Court.</text>
           <para>
-            <num>(1)</num>
-            <text><u>Hearing before the Lac Courte Oreilles Tribal Court</u>. Either party may request a review of the Public Safety Commission's ruling by the Tribal Court. The Tribal Court review will be limited to the information presented to the Public Safety Commission and the limited review is to ensure that the Due Process rights of the Employee and the Public Safety Agency were protected and followed. If the Court finds any deficiencies in the Public Safety Commission's decision, it shall remand the matter back the Public Safety Commission for further review consistent with the Tribal Court findings. Each party shall have five (5) working days to submit their request for Tribal Court review of the Public Safety Commission's decision; failure to abide by the timeline stated in <cite path="§PHS.1.4.010">this section</cite> shall be deemed a waiver of the disciplinary appeal and the appeal shall be terminated; the Public Safety Commission's decision shall be deemed as final.</text>
+            <num>(a)</num>
+            <text><u>Hearing before the Lac Courte Oreilles Tribal Court</u>. Either party may request a review of the Public Safety Commission's ruling by the Tribal Court. The Tribal Court review will be limited to the information presented to the Public Safety Commission and the limited review is to ensure that the Due Process rights of the Employee and the Public Safety Agency were protected and followed. If the Court finds any deficiencies in the Public Safety Commission's decision, it shall remand the matter back the Public Safety Commission for further review consistent with the Tribal Court findings. Each party shall have five (5) working days to submit their request for Tribal Court review of the Public Safety Commission's decision; failure to abide by the timeline stated in <cite path="X|1|1.4|1.401">this section</cite> shall be deemed a waiver of the disciplinary appeal and the appeal shall be terminated; the Public Safety Commission's decision shall be deemed as final.</text>
             <para>
-              <num>(A)</num>
+              <num>(i)</num>
               <text>The Tribal Court shall have the discretion to decide whether to schedule a hearing in any appeal of a disciplinary action taken by the Chief of the public safety agency.</text>
             </para>
             <para>
-              <num>(B)</num>
+              <num>(ii)</num>
               <text>The Tribal Court may issue a decision without a hearing after reviewing the decision of the Public Safety Commission and the evidence submitted during the grievance and appeal processes.</text>
             </para>
             <para>
-              <num>(C)</num>
+              <num>(iii)</num>
               <text>In all cases, the Tribal Court shall review the findings of fact and conclusions of law solely to determine whether the appeals committee committed clear error. "Clear error" means that the decision is not reasonably supported by the facts or law.</text>
             </para>
             <para>
-              <num>(D)</num>
-              <text>If the Tribal Court determines that clear error occurred regarding all violations and procedural steps established in <cite path="§PHS.1.4.010">this section</cite> were not followed, it shall uphold/overturn the decision of the Public Safety Commission and order that the employee's personnel file reflect such decision; that the employee be restored to his or her previous position and that all the benefits which may have been withheld shall be credited to the employee as if no disciplinary action had ever occurred. Upon return to work, the Human Resource Director will meet with the employee and Chief of the public safety agency and develop a work reinstatement plan including specific timelines and tasks for reintroduction into the workforce.</text>
+              <num>(iv)</num>
+              <text>If the Tribal Court determines that clear error occurred regarding all violations and procedural steps established in <cite path="X|1|1.4|1.401">this section</cite> were not followed, it shall uphold/overturn the decision of the Public Safety Commission and order that the employee's personnel file reflect such decision; that the employee be restored to his or her previous position and that all the benefits which may have been withheld shall be credited to the employee as if no disciplinary action had ever occurred. Upon return to work, the Human Resource Director will meet with the employee and Chief of the public safety agency and develop a work reinstatement plan including specific timelines and tasks for reintroduction into the workforce.</text>
             </para>
             <para>
-              <num>(E)</num>
+              <num>(v)</num>
               <text>If the Tribal Court determines that clear error occurred regarding only a portion, but not all of the violations, it shall uphold/overturn the decision of the Tribal Court only regarding such violations and may, but is not required to, order such adjustments as it deems proper, including that the employee's personnel file reflect such decision; that the employee shall be restored to his or her previous position and that all or a portion of the benefits which may have been withheld shall be credited to the employee as if no disciplinary action had ever occurred. Upon return to work, the Human Resource Director will meet with the employee and the department head or director and development a work reinstatement plan including specific timelines and tasks for reintroduction into the workforce.</text>
             </para>
             <para>
-              <num>(F)</num>
-              <text>If the Tribal Court determines that clear error did not occur regarding any violation and the procedural steps established in <cite path="§PHS.1.4.010">this section</cite> were followed, it shall uphold/overturn the decision of the Tribal Court; and shall uphold all disciplinary measures taken by Management without substituting its judgment for that of Management.</text>
+              <num>(vi)</num>
+              <text>If the Tribal Court determines that clear error did not occur regarding any violation and the procedural steps established in <cite path="X|1|1.4|1.401">this section</cite> were followed, it shall uphold/overturn the decision of the Tribal Court; and shall uphold all disciplinary measures taken by Management without substituting its judgment for that of Management.</text>
             </para>
           </para>
         </para>
-        <annotation type="Prior Codifications">§PHS.1.4.010 was formerly codified as X LCOTCL §1.401</annotation>
       </section>
       <section>
-        <num>PHS.1.4.020</num>
+        <num>1.402</num>
         <heading>Administrative Leave: Public Safety Employees</heading>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text><u>General</u>. Administrative leave is an action commenced by the Chief of a public safety agency affecting the status of a public safety employee. A public safety employee is temporarily relieved of all public safety powers while on administrative leave. The public safety employee continues to receive salary and is responsible to report to the Chief of the public safety agency or perform other duties as assigned. Administrative leave does not denote wrong-doing on the part of the public safety employee</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text><u>Applicability</u>. Administrative leave may only be ordered in the following circumstances:</text>
           <para>
-            <num>(1)</num>
+            <num>(a)</num>
             <text>The public safety employee poses a threat to themselves or others.</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(b)</num>
             <text>The public safety employee is alleged to have committed a violation(s) which calls for termination of his or her employment as a public safety employee.</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(c)</num>
             <text>The public safety employee is alleged to have committed a violation(s) that is under investigation and that would cause a loss of public trust in the public safety agency of the Tribe.</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(d)</num>
             <text>The public safety employee is under investigation for alcohol or drug abuse.</text>
           </para>
           <para>
-            <num>(5)</num>
+            <num>(e)</num>
             <text>The public safety employee is under investigation for insubordination, untruthfulness, or commission of a crime.</text>
           </para>
           <para>
-            <num>(6)</num>
+            <num>(f)</num>
             <text>The public safety employee demonstrates behavior indicating the public safety employee is unfit for duty.</text>
           </para>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text><u>Duration of Administrative Leave</u>.</text>
           <para>
-            <num>(1)</num>
+            <num>(a)</num>
             <text>In cases where the public safety employee is under formal investigation, the public safety employee will remain on administrative leave until the investigation is completed.</text>
             <para>
-              <num>(A)</num>
+              <num>(i)</num>
               <text>If the investigation results in allegations being sustained, the public safety employee will remain on administrative leave pending issuance of discipline.</text>
             </para>
             <para>
-              <num>(B)</num>
+              <num>(ii)</num>
               <text>If the investigation results in a finding that the charges were unfounded or not sustained, the public safety employee shall be immediately returned to active duty status.</text>
             </para>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(b)</num>
             <text>In cases where the law enforcement officer is placed on administrative leave for other matters not involving formal investigation, the law enforcement officer shall be returned to active duty status upon order of the Chief of the public safety agency.  The period of administrative leave in incidents not involving investigation shall not exceed thirty working days.</text>
           </para>
         </para>
-        <annotation type="Prior Codifications">§PHS.1.4.020 was formerly codified as X LCOTCL §1.402</annotation>
       </section>
     </container>
     <container>
-      <num>PHS.1.5</num>
-      <heading>Establishment Of Tribal Police</heading>
       <prefix>Subchapter</prefix>
+      <num>1.5</num>
+      <heading>Establishment of Tribal Police</heading>
       <section>
-        <num>PHS.1.5.010</num>
+        <num>1.501</num>
         <heading>General Principles</heading>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>All operations shall take place on and within the reservation unless there is a potential that safety and welfare of an individual is being compromised. In addition, law enforcement operations may take place pursuant to mutual aid and other agreements with local governments.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>All law enforcement operations shall be conducted as set forth in this ordinance.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Law enforcement operations shall be used primarily for the purposes of providing law enforcement within the reservation and to supplement external law enforcement services offered by local governments within the reservation.</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>The Police Department may allow law enforcement use of service firearms in order to protect life, liberty, property, land and premises, according to the usual and minimum accepted law enforcement standards as determined by the Police Chief with approval of the Public Safety Commission. However, actual use of deadly force shall be allowed solely for the protection of life or the prevention of grievous bodily harm.</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>The Public Safety Commission and Board of Public Safety Commissioners, as established by this ordinance, shall provide oversight regarding the activities and actions of the law enforcement operations to provide the greatest possible professional services to the reservation and to allow for community input regarding those law enforcement services.</text>
         </para>
-        <annotation type="Prior Codifications">§PHS.1.5.010 was formerly codified as X LCOTCL §1.501</annotation>
       </section>
       <section>
-        <num>PHS.1.5.020</num>
-        <heading>Chief Of Police</heading>
+        <num>1.502</num>
+        <heading>Chief of Police</heading>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>The Tribal Governing Board shall appoint a Chief of Police of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians upon such terms and conditions of employment as the Tribal Governing Board shall direct.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>The Chief of Police shall coordinate the law and order program on reservation lands. The Chief of Police shall meet as necessary with the Executive Director of the Public Safety Commission to discuss the law and order program and make recommendations for improving the efficiency of the program. The Chief of Police, in conjunction with the Executive Director, shall review the law and order program and assist in the preparation of the Department's annual budgets and shall administer funds used in the law and order program pursuant to the budget approved by the Tribal Governing Board. Subject to the availability of funding, the Chief of Police, with the concurrence of the Executive Director, shall establish such ranks and appoint and commission officers within the Police Department. The Executive Director of the Public Safety Commission shall supervise the Chief of Police.</text>
         </para>
-        <annotation type="Prior Codifications">§PHS.1.5.020 was formerly codified as X LCOTCL §1.502</annotation>
       </section>
       <section>
-        <num>PHS.1.5.030</num>
-        <heading>Duties Of The Chief Of Police</heading>
+        <num>1.503</num>
+        <heading>Duties of The Chief of Police</heading>
         <text>The Chief of Police shall carry out the following official powers and duties:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>To be responsible for and have charge over all law enforcement functions within the jurisdiction of the Tribe.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>To be in command of the Police Department, all law enforcement officers and Police Department employees.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>To instruct, train, and advise law enforcement officers in their functions, duties, and responsibilities for the efficient maintenance of law and order on reservation lands.</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>To report to the Executive Director of the Public Safety Commission, the Board of Public Safety Commissioners, and the Tribal Governing Board on Tribal Police activities as requested.</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>To select and recommend persons for appointment to and dismissal from the Police Department consistent with Tribal law.</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>To provide all law enforcement officers to the Tribal Court to perform bailiff service, service of Court papers or transportation of prisoners if applicable.</text>
         </para>
         <para>
-          <num>(g)</num>
+          <num>(7)</num>
           <text>To assist the Executive Director of the Public Safety Commission in the development of a Tribal Police policies and procedures manual to serve as a standard of conduct to insure the efficient maintenance of law and order on reservation lands.</text>
         </para>
         <para>
-          <num>(h)</num>
+          <num>(8)</num>
           <text>To insure cooperation with other law enforcement agencies.</text>
         </para>
         <para>
-          <num>(i)</num>
+          <num>(9)</num>
           <text>To do other law enforcement related activities as the Executive Director of the Public Safety Commission shall direct.</text>
         </para>
         <para>
-          <num>(j)</num>
+          <num>(10)</num>
           <text>To designate an acting Chief of Police in his absence.</text>
         </para>
-        <annotation type="Prior Codifications">§PHS.1.5.030 was formerly codified as X LCOTCL §1.503</annotation>
       </section>
       <section>
-        <num>PHS.1.5.040</num>
+        <num>1.504</num>
         <heading>Law Enforcement Officer Appointment</heading>
         <text>Law enforcement officers shall be hired by the Chief of Police. The terms and conditions of employment shall be established by the Executive Director of the Public Safety Commission in accordance with applicable law.</text>
-        <annotation type="Prior Codifications">§PHS.1.5.040 was formerly codified as X LCOTCL §1.504</annotation>
       </section>
       <section>
-        <num>PHS.1.5.050</num>
+        <num>1.505</num>
         <heading>Law Enforcement Officer Qualifications</heading>
         <text>The qualifications of law enforcement officer shall be as follows:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>A sound physical and mental condition and ability to perform the required duties as established by this ordinance.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Certification as a law enforcement officer or in attendance at the police academy if not currently certified.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>High moral character and absence of conviction of a felony or a Class A misdemeanor.</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Within five years of their date of hire, completion of the educational requirements as follows:</text>
           <para>
-            <num>(1)</num>
+            <num>(a)</num>
             <text>Possess a two year associate degree from a vocational, technical, or tribal college;</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(b)</num>
             <text>Possess documentation showing a minimum of 60 fully accredited college level credits. Documentation will be required in the form of an official transcript; or</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(c)</num>
             <text>Possess a bachelor's degree from a college or university.</text>
           </para>
         </para>
-        <annotation type="Prior Codifications">§PHS.1.5.050 was formerly codified as X LCOTCL §1.505</annotation>
       </section>
       <section>
-        <num>PHS.1.5.060</num>
+        <num>1.506</num>
         <heading>Conditional Employment</heading>
         <text>Persons who are not certified law enforcement officers at the time of hire, are considered conditional employees and must attain the educational requirements as specified in <cite path="X|1|1.4|1.405|(4)">§ 1.405 (4)</cite> of this ordinance within five years of their date of hire. Conditional employees are not eligible for promotion. Law enforcement officers who fail to meet the specified requirements in <cite path="X|1|1.4|1.405">§ 1.405</cite> of this ordinance, shall be subject to immediate termination.</text>
-        <annotation type="Prior Codifications">§PHS.1.5.060 was formerly codified as X LCOTCL §1.506</annotation>
       </section>
       <section>
-        <num>PHS.1.5.070</num>
-        <heading>Duties Of A Law Enforcement Officer</heading>
+        <num>1.507</num>
+        <heading>Duties of a Law Enforcement Officer</heading>
         <text>The duties of a law enforcement officer shall be:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>To obey promptly all orders of the Police Chief and/or the ranking law enforcement officers.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>To report and investigate all violations of any law or regulation coming to the attention of the Tribal Police Department.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>To use discretion as to when to arrest persons for violation of laws and regulations when sufficient grounds exist for doing so.</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>To lend assistance to other law enforcement officers.</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>To prevent, whenever possible, violation of the laws.</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>To be informed as the Lac Courte Oreilles Tribal Code of Law and all other laws and regulations applicable to the lands and jurisdiction of the Tribe and to attend such training sessions as the Chief of Police may direct.</text>
         </para>
         <para>
-          <num>(g)</num>
+          <num>(7)</num>
           <text>To comply with all rules adopted by the Wisconsin Department of Justice Training and Standards Bureau applicable to law enforcement officers, including rules specifically applicable to Tribal law enforcement officers.</text>
         </para>
-        <annotation type="Prior Codifications">§PHS.1.5.070 was formerly codified as X LCOTCL §1.507</annotation>
       </section>
       <section>
-        <num>PHS.1.5.080</num>
-        <heading>Dismissal Of A Law Enforcement Officer</heading>
+        <num>1.508</num>
+        <heading>Dismissal of a Law Enforcement Officer</heading>
         <text>A law enforcement officer can be suspended or dismissed for noncompliance with the provisions of this ordinance or other violations of regulations, Tribal Police policies and procedures manual, the Tribes' Employee Manual, standing orders of the department or neglect of duty.</text>
-        <annotation type="Prior Codifications">§PHS.1.5.080 was formerly codified as X LCOTCL §1.508</annotation>
       </section>
       <section>
-        <num>PHS.1.5.090</num>
-        <heading>Deputizing And Scope Of Authority</heading>
+        <num>1.509</num>
+        <heading>Deputizing and Scope of Authority</heading>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>When authorized by the Tribal Governing Board, law enforcement officers of the Tribe may be deputized by another jurisdiction to aid in the effective law enforcement of the lands and jurisdiction of the Tribe.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>When authorized by the Tribal Governing Board, law enforcement officers and law enforcement personnel from other jurisdictions or other departments of the Tribe may be deputized to aid in the enforcement of this ordinance.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>When authorized by § 165.92 of the Wisconsin Statutes, Law enforcement officers of the Tribe may exercise the same powers to enforce Wisconsin state laws and to make arrests for violations of such laws as are possessed by other certified law enforcement officers in the State of Wisconsin.</text>
         </para>
-        <annotation type="Prior Codifications">§PHS.1.5.090 was formerly codified as X LCOTCL §1.509</annotation>
       </section>
       <section>
-        <num>PHS.1.5.100</num>
+        <num>1.510</num>
         <heading>Police Training</heading>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>It shall be the goal of the Tribe to attract and retain experienced, professional law enforcement personnel. To this end, the Public Safety Commission shall establish minimum standards of training, which all law enforcement officers shall be required to meet. Further, the Chief of Police shall explore, schedule, and arrange periodic training and retraining programs for law enforcement officers from all available resources. Such programs shall stress not only basic police procedures and techniques, but shall also deal with crime prevention, community and public relations and other appropriate topics. Training is to be in compliance with the requirements established by the Wisconsin Department of Justice Training and Standards Bureau.</text>
         </para>
-        <annotation type="Prior Codifications">§PHS.1.5.100 was formerly codified as X LCOTCL §1.510</annotation>
       </section>
     </container>
     <container>
-      <num>PHS.1.6</num>
-      <heading>Firearms Control</heading>
       <prefix>Subchapter</prefix>
+      <num>1.6</num>
+      <heading>Firearms Control</heading>
       <section>
-        <num>PHS.1.6.010</num>
+        <num>1.601</num>
         <heading>General Principles</heading>
         <text>The Tribe hereby establishes regulations for the carrying of firearms issued to certified law enforcement officers employed by the Tribe.</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>The needs and requirements for carrying firearms shall be established and determined by the Executive Director of the Public Safety Commission subject to the review of the Board of Public Safety Commissioners.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Said requirements shall reflect the needs of the Tribe in order to protect all persons and property.</text>
         </para>
-        <annotation type="Prior Codifications">§PHS.1.6.010 was formerly codified as X LCOTCL §1.601</annotation>
       </section>
     </container>
   </container>
   <container>
-    <num>PHS.2</num>
-    <heading>Solid Waste Disposal And Recycling Code Of The Lac Courte Oreilles Band Of Lake Superior Chippewa Indians</heading>
     <prefix>Chapter</prefix>
+    <num>2</num>
+    <heading>Solid Waste Disposal and Recycling Code of The Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, to promote and protect the land, water, health, safety, and well-being of the Lac Courte Oreilles tribal community and surrounding area and to ensure that efficient and environmentally safe solid waste management procedures are practiced on the Lac Courte Oreilles Reservation, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, § 1(s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "To promulgate and enforce ordinances…providing for the maintenance of law and order and the administration of justice…" Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby regulates solid waste and recycling by providing procedural guidelines and planning for the administration and enforcement of ordinance violations. This ordinance applies to the disposal and recycling activities of citizens (members) on the Lac Courte Oreilles Reservation. Further, this ordinance applies to residences, tribal programs and tribal enterprises located within the exterior boundaries of the reservation.</text>
     <container>
-      <num>PHS.2.1</num>
-      <heading>General Provisions</heading>
       <prefix>Subchapter</prefix>
+      <num>2.1</num>
+      <heading>General Provisions</heading>
       <section>
-        <num>PHS.2.1.010</num>
+        <num>2.101</num>
         <heading>Title</heading>
         <text>This ordinance shall be known as the Solid Waste Disposal and Recycling Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
-        <annotation type="Prior Codifications">§PHS.2.1.010 was formerly codified as X LCOTCL §2.101</annotation>
       </section>
       <section>
-        <num>PHS.2.1.020</num>
+        <num>2.102</num>
         <heading>Authority</heading>
         <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, Article V, §§ 1(s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "To promulgate and enforce ordinances…providing for the maintenance of law and order and the administration of justice…"</text>
-        <annotation type="Prior Codifications">§PHS.2.1.020 was formerly codified as X LCOTCL §2.102</annotation>
       </section>
       <section>
-        <num>PHS.2.1.030</num>
+        <num>2.103</num>
         <heading>Purpose</heading>
         <text>The purpose of this ordinance is to promote and protect the land, water, health, safety, and well-being of the Lac Courte Oreilles tribal community and surrounding area. Further, to ensure that efficient and environmentally safe solid waste management procedures are practiced on the Lac Courte Oreilles Reservation: to regulate solid waste and recycling by providing procedural guidelines and planning for the administration and enforcement of ordinance violations. This ordinance applies to the disposal and recycling activities of citizens (members) on the Lac Courte Oreilles Reservation. Further, this ordinance applies to residences, tribal programs and tribal enterprises located within the exterior boundaries of the reservation.</text>
-        <annotation type="Prior Codifications">§PHS.2.1.030 was formerly codified as X LCOTCL §2.103</annotation>
       </section>
       <section>
-        <num>PHS.2.1.040</num>
+        <num>2.104</num>
         <heading>Territorial Applicability</heading>
         <text>This ordinance shall govern the practice of solid waste management procedures subject to the provisions of this ordinance by members and non-members within Lac Courte Oreilles Reservation lands as well as off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe.</text>
-        <annotation type="Prior Codifications">§PHS.2.1.040 was formerly codified as X LCOTCL §2.104</annotation>
       </section>
       <section>
-        <num>PHS.2.1.050</num>
+        <num>2.105</num>
         <heading>Effective Date</heading>
         <text>Except as otherwise provided in specific sections, the provisions of this ordinance shall be effective on the date adopted by the Tribal Governing Board.</text>
-        <annotation type="Prior Codifications">§PHS.2.1.050 was formerly codified as X LCOTCL §2.105</annotation>
       </section>
       <section>
-        <num>PHS.2.1.060</num>
+        <num>2.106</num>
         <heading>Interpretation</heading>
         <text>The provisions of this ordinance:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Shall be interpreted and applied as minimum requirements applicable to the Housing Authority activities subject to this ordinance;</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Shall be liberally construed in favor of the Tribe;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>Shall not be deemed a limitation or repeal of any other tribal power or authority.</text>
         </para>
-        <annotation type="Prior Codifications">§PHS.2.1.060 was formerly codified as X LCOTCL §2.106</annotation>
       </section>
       <section>
-        <num>PHS.2.1.070</num>
-        <heading>Severability And Non-Liability</heading>
+        <num>2.107</num>
+        <heading>Severability and Non-Liability</heading>
         <text>If any section, provision or portion of this ordinance is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this ordinance.</text>
-        <annotation type="Prior Codifications">§PHS.2.1.070 was formerly codified as X LCOTCL §2.107</annotation>
       </section>
       <section>
-        <num>PHS.2.1.080</num>
-        <heading>Repeal Of Inconsistent Tribal Ordinances</heading>
+        <num>2.108</num>
+        <heading>Repeal of Inconsistent Tribal Ordinances</heading>
         <text>All ordinances and resolutions inconsistent with this ordinance are hereby repealed. To the extent that this ordinance imposes greater restrictions than those contained in any other tribal law, code, ordinance or regulation, the provisions of this ordinance shall govern.</text>
-        <annotation type="Prior Codifications">§PHS.2.1.080 was formerly codified as X LCOTCL §2.108</annotation>
       </section>
     </container>
     <container>
-      <num>PHS.2.2</num>
-      <heading>Definitions</heading>
       <prefix>Subchapter</prefix>
+      <num>2.2</num>
+      <heading>Definitions</heading>
       <section>
-        <num>PHS.2.2.010</num>
+        <num>2.201</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in <cite path="§PHS.2.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="X|2|2.2|2.201">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text><strong>"Citizen"</strong> means an enrolled member of the Lac Courte Oreilles Lake Superior Band of Chippewa Indians.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text><strong>"Collector"</strong> means any person or business who collects and transports solid waste and recyclable materials.</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text><strong>"Garbage"</strong> means animal and vegetable waste resulting from the handling, preparation, cooking, and/or consumption of foods.</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text><strong>"Hazardous Solid Waste"</strong> means any substance or combination of substances including any waste of a solid, semi-solid, liquid, or gaseous form which may cause or significantly contribute to an increase in mortality or an increase in serious irreversible or incapacitating reversible illness, or which may pose a substantial present or potential hazard to human health or the environment because of its quantity, concentration, or physical, chemical or infectious characteristics. This term includes, but is not limited to, substances which are toxic, radioactive, corrosive, flammable, irritants, strong sensitizers, pesticides, and explosives.</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text><strong>"Incinerator"</strong> means a facility where the process of burning solid, semi-solid or gaseous combustible wastes to an inoffensive gas or a residue containing little or no combustible material.</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text><strong>"Non-Recyclable Material"</strong> means pyrex glass, window glass, light bulbs, mirrors, broken glass, china, styrofoam and melamine type plastics, waxed paper, waxed cardboard, envelopes with gummed labels, glossy paper, magazines, envelopes with plastic windows, garbage, rubbish, telephone directories, bottle or jar caps and any materials for which there is no destination point for reclamation or processing.</text>
         </para>
         <para>
-          <num>(g)</num>
+          <num>(7)</num>
           <text><strong>"Open Burning"</strong> means any fire wherein the products of combustion are emitted directly into the outdoor atmosphere and are not directed through a stack or chimney, incinerator, or other similar device.</text>
         </para>
         <para>
-          <num>(h)</num>
+          <num>(8)</num>
           <text><strong>"Public Nuisance"</strong> means the disposal of solid waste materials in such a manner which is offensive to the surrounding community which affects the general health, welfare, and peace.</text>
         </para>
         <para>
-          <num>(i)</num>
+          <num>(9)</num>
           <text><strong>"Recyclable Material"</strong> means brown, clear, and green container glass, aluminum cans, plastic containers with #1 or #2 inside a triangle on the bottom, corrugated cardboard, newspaper, and any material for which there is a destination point named for reclamation or processing.</text>
         </para>
         <para>
-          <num>(j)</num>
+          <num>(10)</num>
           <text><strong>"Regulations"</strong> means any conservation regulation contained within this ordinance.</text>
         </para>
         <para>
-          <num>(k)</num>
+          <num>(11)</num>
           <text><strong>"Reservation" or "Reservation Lands"</strong> means those lands, including the beds of any streams and flowages, located within the exterior boundaries of the Lac Courte Oreilles Reservation lands as well as off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe.</text>
         </para>
         <para>
-          <num>(l)</num>
+          <num>(12)</num>
           <text><strong>"Rubbish" </strong>means combustible and non-combustible refuse, including paper, wood, metal, glass, cloth, litter, yard waste, ashes, lumber, and concrete.</text>
         </para>
         <para>
-          <num>(m)</num>
+          <num>(13)</num>
           <text><strong>"Tribe"</strong> means the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
         </para>
         <para>
-          <num>(n)</num>
+          <num>(14)</num>
           <text><strong>"Tribal Attorney(s)"</strong> means the tribal attorney(s) employed by the Lac Courte Oreilles Legal Department, whom are in charge of and responsible for the prosecution of citations relating to Conservation.</text>
         </para>
         <para>
-          <num>(o)</num>
+          <num>(15)</num>
           <text><strong>"Tribal Conservation Department" or "Department"</strong> means the conservation department of the Tribe.</text>
         </para>
         <para>
-          <num>(p)</num>
+          <num>(16)</num>
           <text><strong>"Tribal Court"</strong> means the court of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
         </para>
         <para>
-          <num>(q)</num>
+          <num>(17)</num>
           <text><strong>"Tribal Governing Board"</strong> means the Tribal Governing Board of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
         </para>
         <para>
-          <num>(r)</num>
+          <num>(18)</num>
           <text><strong>"Solid Waste" </strong>means all garbage, refuse, rubbish, trash, construction and demolition materials, yard waste, dead animals, and solid materials generated from residential, commercial, and industrial activities. Solid waste does not include hazardous waste and human body waste.</text>
         </para>
         <para>
-          <num>(s)</num>
+          <num>(19)</num>
           <text><strong>"White Goods" </strong>means household appliance such as refrigerator, stove, air conditioner, washing machine, dryer, dishwasher, etc.</text>
         </para>
-        <annotation type="Prior Codifications">§PHS.2.2.010 was formerly codified as X LCOTCL §2.201</annotation>
       </section>
     </container>
     <container>
-      <num>PHS.2.3</num>
-      <heading>General</heading>
       <prefix>Subchapter</prefix>
+      <num>2.3</num>
+      <heading>General</heading>
       <section>
-        <num>PHS.2.3.010</num>
+        <num>2.301</num>
         <heading>Transfer Station Site</heading>
         <text>The Lac Courte Oreilles Solid Waste Transfer Station and Recycling Center is located at the closed landfill site on County Highway NN. The Lac Courte Oreilles Solid Waste Transfer Station and Recycling Center, as such facility is now or may hereafter be expanded or revised, shall be the only location upon which non-hazardous solid wastes and recyclables shall be dropped off. No other site, unless opened and managed by the Lac Courte Oreilles Conservation Department, as directed by the Tribal Governing Board, shall be utilized on the Lac Courte Oreilles Reservation.</text>
-        <annotation type="Prior Codifications">§PHS.2.3.010 was formerly codified as X LCOTCL §2.301</annotation>
       </section>
       <section>
-        <num>PHS.2.3.020</num>
-        <heading>Disposal Of Solid Wastes, Recyclables, Hazardous</heading>
+        <num>2.302</num>
+        <heading>Disposal of Solid Wastes, Recyclables, Hazardous</heading>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text><u>Waste and General Provisions</u>.</text>
           <para>
-            <num>(1)</num>
+            <num>(a)</num>
             <text><u>Solid Waste Disposal</u>. Solid Waste disposal of non-recyclable materials shall be disposed of in the designated compacting bin at the Lac Courte Oreilles Solid Waste Transfer Station and Recycling Center, according to sorting guidelines stated in the Lac Courte Oreilles Plan of Operation and posted at the Transfer Station Site. Solid Waste generated by non-tribal members who reside or operate businesses within the reservation boundaries may use the Lac Courte Oreilles Transfer Station and Recycling Center, provided that such waste is placed in "LCO" labeled bags.</text>
           </para>
           <para>
-            <num>(2)</num>
-            <text><u>Disposal of Recyclables</u>. All recyclable materials as stated in <cite path="§PHS.2.2.010|(i)">Section PHS.2.2.010(i)</cite> of this ordinance	shall be sorted, according to guidelines posted at the Transfer Station site, and placed in an unlabeled, clear plastic bag. Recycled materials shall be dropped off in the designated bin at the Transfer Station.</text>
+            <num>(b)</num>
+            <text><u>Disposal of Recyclables</u>. All recyclable materials as stated in <cite path="X|2|2.2|2.201|(9)">§ 2.201 (9)</cite> of this ordinance	shall be sorted, according to guidelines posted at the Transfer Station site, and placed in an unlabeled, clear plastic bag. Recycled materials shall be dropped off in the designated bin at the Transfer Station.</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(c)</num>
             <text><u>Hazardous Waste</u>. Materials designated as hazardous waste or hazardous substance by this Ordinance or subsequent regulations passed by the Tribal Governing Board shall not be transported for disposal or accepted for disposal at the Lac Courte Oreilles Solid Waste Transfer Station.</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(d)</num>
             <text><u>General Provisions</u>. Solid Waste generated outside the reservation boundaries of Lac Courte Oreilles may be disposed at the LCO Transfer Station and Recycling Center, at scheduled and posted fees.</text>
             <para>
-              <num>(A)</num>
+              <num>(i)</num>
               <text>It shall be illegal to dispose of solid waste on tribal or allotment lands where disposal of these wastes will cause a public nuisance or health hazard or by causing foul odors to escape or by infestation of rodents.</text>
             </para>
             <para>
-              <num>(B)</num>
+              <num>(ii)</num>
               <text>Solid waste and recyclable materials may be disposed of by private collectors who haul waste off the LCO Reservation. Such private collectors shall be subject to this Ordinance for proper transfer of waste.</text>
             </para>
             <para>
-              <num>(C)</num>
+              <num>(iii)</num>
               <text>Vehicle batteries shall not be disposed of on any lands within the Lac Courte Oreilles Reservation. Batteries shall be properly disposed of at a designated business within or outside the reservation.</text>
             </para>
             <para>
-              <num>(D)</num>
+              <num>(iv)</num>
               <text>Used engine oil shall not be disposed at the LCO Transfer Station and Recycling Center. Proper disposal of engine oil shall be designated through the assistance and cooperation of tribal and private businesses located within and outside the reservation.</text>
             </para>
             <para>
-              <num>(E)</num>
+              <num>(v)</num>
               <text>Vehicle tires, yard waste, and white goods (household appliances) shall be deposited and stored at the LCO Transfer Station and Recycling Center, at a scheduled and posted fee for certain items.</text>
             </para>
             <para>
-              <num>(F)</num>
+              <num>(vi)</num>
               <text>It shall be illegal to burn solid waste materials in residential burning barrels and business incinerators on the Lac Courte Oreilles Reservation, except by issuance of burning permit.</text>
             </para>
             <para>
-              <num>(G)</num>
+              <num>(vii)</num>
               <text>It shall be illegal to scavenge/salvage any waste materials to retrieve recyclable materials deposited at the LCO Transfer Station and Recycling Center.</text>
             </para>
             <para>
-              <num>(H)</num>
+              <num>(viii)</num>
               <text>It shall be illegal to hunt wild animals in the immediate vicinity of the LCO Transfer Station and Recycling Center, where "No Hunting" signs are posted.</text>
             </para>
             <para>
-              <num>(I)</num>
-              <text>All solid waste, not collected by private collectors and transferred away, shall be disposed at the LCO Transfer Station and Recycling Center in accordance with the stated provisions under <cite path="§PHS.2.3.030">Section PHS.2.3.030</cite> of this ordinance, below.</text>
+              <num>(ix)</num>
+              <text>All solid waste, not collected by private collectors and transferred away, shall be disposed at the LCO Transfer Station and Recycling Center in accordance with the stated provisions under <cite path="X|2|2.3|2.303">§ 2.303</cite> of this ordinance, below.</text>
             </para>
             <para>
-              <num>(J)</num>
+              <num>(x)</num>
               <text>It is unlawful for any person to fail to dispose of solid waste, which may be or may accumulate upon property owned or occupied by him, in a sanitary manner as often as may be necessary to keep said premises in an orderly and sanitary condition. Failure to keep said premises is an orderly and sanitary condition constitutes a public nuisance.</text>
             </para>
           </para>
         </para>
-        <annotation type="Prior Codifications">§PHS.2.3.020 was formerly codified as X LCOTCL §2.302</annotation>
       </section>
       <section>
-        <num>PHS.2.3.030</num>
+        <num>2.303</num>
         <heading>Administration</heading>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Solid waste shall be disposed at the LCO Solid Waste Transfer Station and Recycling Center where an attendant shall monitor the final disposal of sorted waste.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Solid waste shall be disposed in clear plastic bags which are marked "LCO" for non-recyclable material.</text>
         </para>
         <para>
-          <num>(c)</num>
-          <text>Solid waste disposed in "LCO" plastic bags shall include all non-recyclable materials defined in <cite path="§PHS.2.2.010|(c)">Section PHS.2.2.010(c)</cite> and <cite path="§PHS.2.2.010|(f)">Section PHS.2.2.010(f)</cite> of this ordinance.</text>
+          <num>(3)</num>
+          <text>Solid waste disposed in "LCO" plastic bags shall include all non-recyclable materials defined in <cite path="X|2|2.2|2.201|(3)">§ 2.201 (3)</cite> and <cite path="X|2|2.2|2.201|(6)">§ 2.201 (6)</cite> of this ordinance.</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>All other waste which is recyclable shall be disposed of in clear, unlabeled plastic bags.</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>The LCO Housing Authority shall sell "LCO" labeled clear plastic bags at its offices for convenience of its tenants.</text>
         </para>
         <para>
-          <num>(f)</num>
+          <num>(6)</num>
           <text>Clear plastic bags labeled with "LCO" shall be available for sale at designated locations, including the LCO Transfer Station and Recycling Center and LCO Commercial Center.</text>
         </para>
-        <annotation type="Prior Codifications">§PHS.2.3.030 was formerly codified as X LCOTCL §2.303</annotation>
       </section>
       <section>
-        <num>PHS.2.3.040</num>
+        <num>2.304</num>
         <heading>Fees</heading>
         <text>Solid waste clear plastic bags shall be labeled "LCO" for use at the Transfer Station. Such fees for the sale of bags shall be adjusted when necessary, with posted notice to the tribal community. Recyclable waste requiring clear plastic bags shall not be subject to a fee schedule. Such plastic bags must be purchased or obtained by the tribal consumer on an individual basis.</text>
-        <annotation type="Prior Codifications">§PHS.2.3.040 was formerly codified as X LCOTCL §2.304</annotation>
       </section>
       <section>
-        <num>PHS.2.3.050</num>
+        <num>2.305</num>
         <heading>Penalties</heading>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text><u>Warning</u>.</text>
           <para>
-            <num>(1)</num>
-            <text>The first time a citizen or non-citizen is suspected of violating any provisions of this ordinance, the person shall be given a written warning and advised of the general requirements of <cite path="PHS|PHS.2">this chapter</cite> and that a subsequent violation may result in the application of a penalty or forfeiture as provided in <cite path="§PHS.2.3.050">this section</cite>.</text>
+            <num>(a)</num>
+            <text>The first time a citizen or non-citizen is suspected of violating any provisions of this ordinance, the person shall be given a written warning and advised of the general requirements of <cite path="X|2">this chapter</cite> and that a subsequent violation may result in the application of a penalty or forfeiture as provided in <cite path="X|2|2.3|2.305">this section</cite>.</text>
           </para>
           <para>
-            <num>(2)</num>
-            <text>Notwithstanding the provisions of <cite path="§PHS.2.3.050|(a)|(1)">Section PHS.2.3.050(a)(1)</cite> above, if an identified name or address is found on mail, a prescription bottle, or any other identifiable article in solid waste discarded in in violation of this ordinance, the citizen or non-citizen is hereby in violation of this ordinance subject to a rebuttable presumption and shall be issued a citation pursuant to <cite path="§PHS.2.4.050">Section PHS.2.4.050</cite> of this ordinance and shall clean up the unlawfully discarded solid waste within three (3) days of the issuance of a citation.</text>
+            <num>(b)</num>
+            <text>Notwithstanding the provisions of <cite path="X|2|2.3|2.305|(1)|(a)">subs. (a)</cite> above, if an identified name or address is found on mail, a prescription bottle, or any other identifiable article in solid waste discarded in in violation of this ordinance, the citizen or non-citizen is hereby in violation of this ordinance subject to a rebuttable presumption and shall be issued a citation pursuant to <cite path="X|2|2.4|2.405">§ 2.405</cite> of this ordinance and shall clean up the unlawfully discarded solid waste within three (3) days of the issuance of a citation.</text>
           </para>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text><u>Prosecution</u>.</text>
           <para>
-            <num>(1)</num>
-            <text>Any person who has been warned in the manner provided in <cite path="§PHS.2.3.050|(a)">Section PHS.2.3.050(a)</cite> above, and who thereafter violates any provisions of this ordinance shall, upon conviction thereof, forfeit not less than Twenty and 00/100 Dollars ($20.00) nor more than Five Thousand and 00/100 Dollars ($5000.00), together with the cost of prosecution.</text>
+            <num>(a)</num>
+            <text>Any person who has been warned in the manner provided in <cite path="X|2|2.3|2.305|(1)">subs. (1)</cite> above, and who thereafter violates any provisions of this ordinance shall, upon conviction thereof, forfeit not less than Twenty and 00/100 Dollars ($20.00) nor more than Five Thousand and 00/100 Dollars ($5000.00), together with the cost of prosecution.</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(b)</num>
             <text>A citizen found guilty of violating this ordinance, whom has failed to pay a fine within the timeframe established by the Tribal Court or whom has failed to properly clean up the unlawfully discarded solid waste within three (3) days of the issuance of a citation pursuant to <cite path="X|3|3.8|3.801|(2)">§ 3.801 (2)</cite> of this ordinance shall have their hunting, fishing, trapping, and gathering rights (both on-reservation and off-reservation) revoked for the period of one (1) year from the date of the issuance of a citation.</text>
           </para>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>The LCO Transfer Station and Recycling Center shall not accept solid waste which is not properly placed into "LCO" clear plastic bags for non-recyclables and ordinary clear plastic bags for recyclable materials.</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>Sanctions for dumping of hazardous solid waste materials shall be the suspension of the privilege to use the LCO Transfer Station and Recycling Center for a time period designated by the Tribal Court.</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>Costs of clean-up, prosecution, and court fees shall be assessed upon conviction in the Lac Courte Oreilles Tribal Court, in addition to penalties for violating provisions of the Ordinance.</text>
         </para>
-        <annotation type="Prior Codifications">§PHS.2.3.050 was formerly codified as X LCOTCL §2.305</annotation>
       </section>
     </container>
     <container>
-      <num>PHS.2.4</num>
-      <heading>General</heading>
       <prefix>Subchapter</prefix>
+      <num>2.4</num>
+      <heading>General</heading>
       <section>
-        <num>PHS.2.4.010</num>
-        <heading>Hearings In Tribal Court</heading>
+        <num>2.401</num>
+        <heading>Hearings in Tribal Court</heading>
         <text>Jurisdiction over all matters arising under this ordinance shall be with the tribal court which shall adjudicate in accordance with Title II of the Lac Courte Oreilles Tribal Code of Law all questions, complaints and alleged violations involving the provisions of this ordinance.</text>
-        <annotation type="Prior Codifications">§PHS.2.4.010 was formerly codified as X LCOTCL §2.401</annotation>
       </section>
       <section>
-        <num>PHS.2.4.020</num>
-        <heading>Enforcement By Conservation Wardens</heading>
+        <num>2.402</num>
+        <heading>Enforcement by Conservation Wardens</heading>
         <text>Any provision of this ordinance may be enforced by wardens of the tribal conservation department or officers of the tribal law enforcement department. Said tribal law enforcement officers are hereby deputized by the Tribe as tribal conservation wardens for the purpose of enforcing this ordinance. The Conservation Department shall develop and implement department rules to administer daily responsibilities pursuant to this Ordinance.</text>
-        <annotation type="Prior Codifications">§PHS.2.4.020 was formerly codified as X LCOTCL §2.402</annotation>
       </section>
       <section>
-        <num>PHS.2.4.030</num>
-        <heading>Enforcement By Other Law Enforcement Officers</heading>
+        <num>2.403</num>
+        <heading>Enforcement by Other Law Enforcement Officers</heading>
         <text>The Tribal Governing Board has the discretion to allow other state, local or federal law enforcement officers the authority to enforce the provisions of this ordinance and to institute proceedings in the tribal court by use of citation forms of the tribal conservation department or to refer the matter to appropriate tribal wardens or the tribal prosecutor for further investigation or action.</text>
-        <annotation type="Prior Codifications">§PHS.2.4.030 was formerly codified as X LCOTCL §2.403</annotation>
       </section>
       <section>
-        <num>PHS.2.4.040</num>
+        <num>2.404</num>
         <heading>Investigations</heading>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Any person authorized to enforce the provisions of this ordinance may:</text>
           <para>
-            <num>(1)</num>
+            <num>(a)</num>
             <text>Investigate complaints regarding alleged violations of this ordinance within the Lac Courte Oreilles Reservation lands as well as off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe.</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(b)</num>
             <text>Execute and serve warrants and other process issued by the tribal court in accordance with applicable law;</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(c)</num>
             <text>Exercise reasonable discretion and judgment in enforcing and applying any provision of this ordinance.</text>
           </para>
         </para>
-        <annotation type="Prior Codifications">§PHS.2.4.040 was formerly codified as X LCOTCL §2.404</annotation>
       </section>
       <section>
-        <num>PHS.2.4.050</num>
-        <heading>Issuance Of Citations</heading>
+        <num>2.405</num>
+        <heading>Issuance of Citations</heading>
         <text>Any person authorized to enforce this ordinance may issue a citation when any violation of this ordinance occurs in the presence of the enforcement authority or the enforcement authority investigating a report of a violation of this ordinance finds probable cause to believe that a violation has occurred, provided:</text>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>The citation is issued on a form approved by the Tribal Governing Board or tribal court to any person whose conduct is regulated by the provisions of this ordinance upon reasonable belief that such person has violated or breached a provision of this ordinance; and</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>The citation states the nature of the violation, the location of the violation, the date and time of the violation (or the date and time when the violation was discovered) and the section(s) of this ordinance that were violated;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(3)</num>
           <text>The citation states the date of the initial hearing before the tribal court which shall be no sooner than ten (10) days after the service of the notice;</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(4)</num>
           <text>The citation states the amount of the fine which may be paid by the violator to the tribal court in order to avoid the initial hearing;</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(5)</num>
           <text>The citation states that the failure to pay the amount of the fine or appear before the tribal court on the date set for hearing, shall result in entry of a default judgment and an award of relief in accordance with this ordinance.</text>
         </para>
-        <annotation type="Prior Codifications">§PHS.2.4.050 was formerly codified as X LCOTCL §2.405</annotation>
       </section>
       <section>
-        <num>PHS.2.4.060</num>
+        <num>2.406</num>
         <heading>Penalties</heading>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>If the tribal court finds that any member or duly authorized non-member who, for himself or herself, or by his or her agent, servant or employee, or who as an agent, servant or employee of another, violates this ordinance, the member or non-member shall be liable as follows:</text>
           <para>
-            <num>(1)</num>
+            <num>(a)</num>
             <text>For all violations for which no other amount is specified, a civil 	remedial forfeiture of not more than $5,000.00;</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(b)</num>
             <text>For any violation, attendance of cultural education classes;</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(c)</num>
             <text>For all violations, appropriate court costs within the discretion of the court.</text>
           </para>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>Any member or duly authorized non-member who fails to pay any fine assessed by the tribal court within thirty (30) days after the fine has been assessed and who fails to make other arrangements regarding payment of the fine, shall owe, in addition to the fine imposed, $10.00 for each thirty (30) Day period that the fine is overdue.</text>
         </para>
-        <annotation type="Prior Codifications">§PHS.2.4.060 was formerly codified as X LCOTCL §2.406</annotation>
       </section>
       <section>
-        <num>PHS.2.4.070</num>
-        <heading>Enhancement Of Forfeiture And Penalties</heading>
+        <num>2.407</num>
+        <heading>Enhancement of Forfeiture and Penalties</heading>
         <text>Upon conviction of any member or duly authorized non-member for a violation of this ordinance when such person has been convicted of a previous violation of this ordinance within a period of one year, the court may enhance any civil remedial forfeiture or other penalty as the court deems appropriate.</text>
-        <annotation type="Prior Codifications">§PHS.2.4.070 was formerly codified as X LCOTCL §2.407</annotation>
       </section>
       <section>
-        <num>PHS.2.4.080</num>
-        <heading>Schedule Of Money Penalties; No Contest</heading>
+        <num>2.408</num>
+        <heading>Schedule of Money Penalties; No Contest</heading>
         <text>The Tribal Court, in consultation with the Tribal Governing Board, may adopt a schedule of forfeitures to be imposed by the Court upon the receipt of an admission that a violation of this ordinance has occurred, or a plea of no contest, which may be done either in person or in writing.  This schedule shall not bind the Court as to forfeitures assessed by the Court after adjudicating a violation where the defendant has entered a plea of not guilty.</text>
-        <annotation type="Prior Codifications">§PHS.2.4.080 was formerly codified as X LCOTCL §2.408</annotation>
       </section>
       <section>
-        <num>PHS.2.4.090</num>
-        <heading>Collection Of Money Penalties</heading>
+        <num>2.409</num>
+        <heading>Collection of Money Penalties</heading>
         <text>Enforcement of the money penalties imposed pursuant to this ordinance may be had through the collection of penalties from funds of the violator held by the Tribe, through the imposition of community service work requirements in lieu of money payment, through debt collection mechanisms of the courts of other jurisdictions, or through any other method authorized by law.</text>
-        <annotation type="Prior Codifications">§PHS.2.4.090 was formerly codified as X LCOTCL §2.409</annotation>
       </section>
       <section>
-        <num>PHS.2.4.100</num>
-        <heading>Parties To A Violation</heading>
+        <num>2.410</num>
+        <heading>Parties to a Violation</heading>
         <para>
-          <num>(a)</num>
+          <num>(1)</num>
           <text>Whoever is concerned in the commission of a violation of this ordinance shall be deemed a principal and may be charged with the violation although he or she did not directly commit it and although the member or non-member who directly committed it has not been convicted of the violation.</text>
         </para>
         <para>
-          <num>(b)</num>
+          <num>(2)</num>
           <text>A member or duly authorized non-member is concerned in the commission of the violation if the member or duly authorized non-member:</text>
           <para>
-            <num>(1)</num>
+            <num>(a)</num>
             <text>Directly commits the violation;</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(b)</num>
             <text>Aids or abets the commission of it; or</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(c)</num>
             <text>Is a party to a conspiracy with another to commit it, or advises, hires, or counsels or otherwise procures another to commit it.</text>
           </para>
         </para>
-        <annotation type="Prior Codifications">§PHS.2.4.100 was formerly codified as X LCOTCL §2.410</annotation>
       </section>
       <section>
-        <num>PHS.2.4.110</num>
-        <heading>Interference With Department</heading>
+        <num>2.411</num>
+        <heading>Interference with Department</heading>
         <text>No member or non-member shall knowingly interfere with or hinder or restrict wardens of the tribal conservation department or officers of the tribal law enforcement department or any other law enforcement department or agency from which the tribal conservation department has sought assistance, in the exercise of authority or performance of duties under this ordinance.</text>
-        <annotation type="Prior Codifications">§PHS.2.4.110 was formerly codified as X LCOTCL §2.411</annotation>
       </section>
     </container>
   </container>
