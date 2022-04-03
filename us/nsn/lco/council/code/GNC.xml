@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Lac Courte Oreilles Tribal Code of Law">
+  <num>GNC</num>
+  <heading>General Conduct</heading>
+  <prefix>Title</prefix>
+  <container>
+    <num>GNC.5</num>
+    <heading>School Attendance (Truancy) Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
+    <prefix>Chapter</prefix>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
+    <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to require the regular attendance at school of all school age children which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, § 1(s) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and providing for the maintenance of law and order and the administration of justice …"</text>
+    <container>
+      <num>GNC.5.1</num>
+      <heading>Introduction</heading>
+      <prefix>Subchapter</prefix>
+      <section>
+        <num>GNC.5.1.010</num>
+        <heading>Title</heading>
+        <text>This ordinance shall be known as the School Attendance (Truancy) Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians (hereinafter "Tribe").</text>
+        <annotation type="Prior Codifications">§GNC.5.1.010 was formerly codified as VIII LCOTCL §5.101</annotation>
+      </section>
+      <section>
+        <num>GNC.5.1.020</num>
+        <heading>Authority</heading>
+        <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, Article V, § 1(s) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and providing for the maintenance of law and order and the administration of justice …"</text>
+        <annotation type="Prior Codifications">§GNC.5.1.020 was formerly codified as VIII LCOTCL §5.102</annotation>
+      </section>
+      <section>
+        <num>GNC.5.1.030</num>
+        <heading>Purpose</heading>
+        <text>It is the purpose of this ordinance to require the regular attendance at school of all school age children living on the Lac Courte Oreilles Reservation and all tribal children who live off of the Lac Courte Oreilles Reservation and attend school within the Hayward Community School District and the Winter School District.</text>
+        <annotation type="Prior Codifications">§GNC.5.1.030 was formerly codified as VIII LCOTCL §5.103</annotation>
+      </section>
+      <section>
+        <num>GNC.5.1.040</num>
+        <heading>Effective Date</heading>
+        <text>Except as otherwise provided in specific sections, the provisions of this ordinance shall be effective on the date adopted by the Tribal Governing Board.</text>
+        <annotation type="Prior Codifications">§GNC.5.1.040 was formerly codified as VIII LCOTCL §5.104</annotation>
+      </section>
+      <section>
+        <num>GNC.5.1.050</num>
+        <heading>Interpretation</heading>
+        <text>The provisions of this ordinance:</text>
+        <para>
+          <num>(a)</num>
+          <text>Shall be interpreted and applied as minimum requirements applicable to the regular attendance at school of all school age children subject to this ordinance;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Shall be liberally construed in favor of the Tribe;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Shall not be deemed a limitation or repeal of any other tribal power or authority.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Tribe by adoption of this ordinance does not waive its sovereign immunity in any respect.</text>
+        </para>
+        <annotation type="Prior Codifications">§GNC.5.1.050 was formerly codified as VIII LCOTCL §5.105</annotation>
+      </section>
+      <section>
+        <num>GNC.5.1.060</num>
+        <heading>Severability and Non-Liability</heading>
+        <text>If any section, provision or portion of this ordinance is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this ordinance.</text>
+        <annotation type="Prior Codifications">§GNC.5.1.060 was formerly codified as VIII LCOTCL §5.106</annotation>
+      </section>
+      <section>
+        <num>GNC.5.1.070</num>
+        <heading>Repeal of Inconsistent Tribal Ordinances</heading>
+        <text>All ordinances and resolutions inconsistent with this ordinance are hereby repealed. To the extent that this ordinance imposes greater restrictions than those contained in any other tribal law, code, ordinance or regulation, the provisions of this ordinance shall govern.</text>
+        <annotation type="Prior Codifications">§GNC.5.1.070 was formerly codified as VIII LCOTCL §5.107</annotation>
+      </section>
+    </container>
+    <container>
+      <num>GNC.5.2</num>
+      <heading>Definitions</heading>
+      <prefix>Subchapter</prefix>
+      <section>
+        <num>GNC.5.2.010</num>
+        <heading>General Definitions</heading>
+        <text>Any term not defined in <cite path="§GNC.5.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <para>
+          <num>(a)</num>
+          <text><strong>"Truant"</strong> is understood by this ordinance to mean any enrolled pupil who is absent from school without an acceptable excuse for part or all of any day on which school is held during a school semester.  Acceptable excuses are the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>Excused by the school for temporary physical or mental condition that impairs school attendance.  Any request by a parent or guardian to excuse a child under this subsection for more than ten days, cumulative, in any one semester must be accompanied by a written note from a physician or other appropriate professional care-giver justifying the absence.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Written permission of up to ten days per semester for absence by parent or guardian prior to absence, and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Verified instruction in home-based educational program.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><strong>"Habitual Truant"</strong> means any enrolled pupil who is absent from school without an acceptable excuse under the previous subsection for part or all of 5 or more days on which school is held during a school semester.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text><strong>"Dropout"</strong> means a person under the age of 18 who ceased to attend school, does not attend a public or private school, technical college or home-based private educational program on a full-time basis, has not graduated from high school and does not have an acceptable excuse under <cite path="§GNC.5.3.030|(a)">Section GNC.5.3.030(a)</cite> of this ordinance.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text><strong>"School Age Child"</strong> is any child enrolled in school up to his or her eighteenth birthday.</text>
+        </para>
+        <annotation type="Prior Codifications">§GNC.5.2.010 was formerly codified as VIII LCOTCL §5.201</annotation>
+      </section>
+    </container>
+    <container>
+      <num>GNC.5.3</num>
+      <heading>General</heading>
+      <prefix>Subchapter</prefix>
+      <section>
+        <num>GNC.5.3.010</num>
+        <heading>Truancy</heading>
+        <para>
+          <num>(a)</num>
+          <text>No person under 18 years of age may be truant.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If the Lac Courte Oreilles Tribal Court determines that a person is truant, the Tribal Court may order one or more of the following dispositions.</text>
+          <para>
+            <num>(1)</num>
+            <text>An order for the person to attend school.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A forfeiture of not more than $50.00 plus costs for a first violation, or a forfeiture of not more than $100.00 plus costs for any second or subsequent violation committed within 12 months of a previous violation, subject to a maximum cumulative forfeiture amount of not more than $500.00 for all violations committed during a school semester.  All or part of the forfeiture plus costs may be assessed against the person, the parents or guardians of the person, or both.</text>
+          </para>
+        </para>
+        <annotation type="Prior Codifications">§GNC.5.3.010 was formerly codified as VIII LCOTCL §5.301</annotation>
+      </section>
+      <section>
+        <num>GNC.5.3.020</num>
+        <heading>Habitual Truancy</heading>
+        <para>
+          <num>(a)</num>
+          <text>No person under 18 years of age may be habitually truant.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If the Tribal Court determines that a person is truant, the Tribal Court may order one or more of the following dispositions:</text>
+          <para>
+            <num>(1)</num>
+            <text>An order for the person to attend school.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>An order for the person to attend an education program as prescribed by the Tribal Court.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>An order for the person to participate in counseling or a supervised work program or other community service as deemed appropriate by the Tribal Court.  The cost of any such counseling, supervised work program or other community service work may be assessed against the person, the parents or the guardian, or both.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>An order for the person to remain at home except during the hours in which the person is attending a school program, religious worship or other activities specified by the Tribal Court, including travel time required.  The Order may permit a person to leave his or her home if the school age child is accompanied by a parent or guardian.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>An order placing the person under formal or informal supervision of a tribal agency, program, department or a suitable adult, including a friend of the juvenile, under conditions prescribed by the Tribal Court and subject to the limitations of placement, if necessary, as prescribed in VII LCOTCL, <cite path="VIII|1">Chapter 1</cite> – Children's Code.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>A forfeiture of not more than $100.00 plus costs, for a first violation, or a forfeiture of not more than $500.00 plus costs for any second or subsequent violation committed within 12 months of a previous violation, subject to the limitation that such fines may be levied only against a juvenile of twelve (12) years of age or older and subject to a maximum cumulative forfeiture amount of not more than $500.00 for all violations committed during a school semester.  All or part of the forfeiture plus costs may be assessed against the person, the parents or guardians or the person, or both.  An order for the person's parent, guardian or legal custodian to participate in counseling at the parent's, guardian's or legal custodian's own expense or to attend school with the person, or both.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Notification of the truancy to any jurisdiction or agency issuing licensing of any nature to the person, including but not limited to, the Wisconsin Department of Transportation.  The Tribal Court may present to the licensing agency, a recommendation of a suspension of privileges licensed, including the case of any license to operate a motor vehicle, or obtain a license to so operate, the suspension of privileges granted by Wisconsin Statue § 343.05(2)(a)(2 or 4)(b)(1) or comparable provisions in any other jurisdiction.</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>Any other reasonable conditions consistent with this ordinance, including a curfew, restrictions as to going to or remaining on specified premises and restrictions for associating with other children and adults.</text>
+          </para>
+        </para>
+        <annotation type="Prior Codifications">§GNC.5.3.020 was formerly codified as VIII LCOTCL §5.302</annotation>
+      </section>
+      <section>
+        <num>GNC.5.3.030</num>
+        <heading>Dropouts</heading>
+        <para>
+          <num>(a)</num>
+          <text>No school age child may be a Dropout.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If the Tribal Court determines that a person is a dropout, the court may notify the Wisconsin Department of Transportation with a recommendation for a suspension of operating privileges until the age of 18 with a notice stating the reasons for, and duration of, recommended suspension.</text>
+        </para>
+        <annotation type="Prior Codifications">§GNC.5.3.030 was formerly codified as VIII LCOTCL §5.303</annotation>
+      </section>
+      <section>
+        <num>GNC.5.3.040</num>
+        <heading>Failure to Cause a Child to Attend School Regularly</heading>
+        <para>
+          <num>(a)</num>
+          <text>Unless the school age child is excepted or excused under <cite path="§GNC.5.2.010|(a)">Section GNC.5.2.010(a)</cite> of this ordinance, or has graduated from high school, any person having under his or her control a school age child, shall cause the school age child to attend school regularly during the full period and hours, religious and traditional holidays excepted, that the tribal, public, or private school in which the school age child should be enrolled, is in session until the end of the school term, quarter or semester of the school year in which the school age child becomes 18 years of age.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><cite path="§GNC.5.3.040">This section</cite> does not apply:</text>
+          <para>
+            <num>(1)</num>
+            <text>To a person who proves that or she is unable to comply with the requirements of <cite path="§GNC.5.3.040">this section</cite> because of the disobedience of the school age child, in which case the action shall be dismissed and the Tribal Court may appoint a guardian ad litem relative to such school age child or make such reference to the Indian Child Welfare Department, Law Enforcement or other authority as deemed appropriate.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Should persuasive evidence be provided by the school attendance officer that the person has completed an educational counseling session or other program designed to address previous truancy problems.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>To any person who violates <cite path="§GNC.5.3.040">this section</cite> and pursuant to <cite path="§GNC.5.3.020|(b)">Section GNC.5.3.020(b)</cite> (f) of this ordinance has been subject to a previous forfeiture of $500.00.</text>
+          </para>
+        </para>
+        <annotation type="Prior Codifications">§GNC.5.3.040 was formerly codified as VIII LCOTCL §5.304</annotation>
+      </section>
+    </container>
+  </container>
+</container>
