@@ -14,5 +14,6 @@
       <html/>
     </canonical-urls>
   </meta>
+  <xi:include href="./us/nsn/lco/council/constitution/index.xml"/>
   <xi:include href="./us/nsn/lco/council/code/index.xml"/>
 </library>
