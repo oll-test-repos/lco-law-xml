@@ -1,17 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="Lac Courte Oreilles Constitution and By-laws">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Constitution and By-laws">
   <heading>Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin</heading>
   <meta>
     <effective>1966-11-02</effective>
     <citations>
-      <citation type="const" url="./adopted/const.pdf"></citation>
+      <citation type="const" url="./adopted/const.pdf"/>
     </citations>
   </meta>
-  <container>
+  <container id="Constitution">
     <heading>Constitution of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin</heading>
-    <container>
-      <preamble>We, the members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin, in order to secure the advantages of local self-government for ourselves and our children and to organize for our common welfare, do hereby establish this Constitution and Bylaws.</preamble>
-    </container>
+    <text>We, the members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin, in order to secure the advantages of local self-government for ourselves and our children and to organize for our common welfare, do hereby establish this Constitution and Bylaws.</text>
     <container>
       <prefix>Article</prefix>
       <num>I</num>
@@ -106,7 +104,9 @@
         </para>
         <para>
           <num>(d)</num>
-          <text><u>Misuse of authority.</u></text>
+          <text>
+            <u>Misuse of authority.</u>
+          </text>
         </para>
       </section>
       <section>
@@ -289,7 +289,7 @@
       <text>It shall be the duty of the Secretary of the Interior to call an election on any proposed amendment upon request by majority vote of the Lac Courte Oreilles Governing Board or upon petition of at least 75 qualified voters of the Band.</text>
     </container>
   </container>
-  <container id="bylaws">
+  <container id="Bylaws">
     <heading>Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin</heading>
     <container>
       <prefix>Article</prefix>
