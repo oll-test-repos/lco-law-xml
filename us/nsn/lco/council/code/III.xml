@@ -357,7 +357,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Assignment of such persons to duties, positions, governmental offices or other entities shall in all instances be made in strict compliance with the current provisions of this ordinance and the following provisions of the governmental and tribal entity personnel policies and procedures manuals: <cite path="XIV|1|1.4|1.410">14 LCOTCL § 1.410</cite>, <cite path="XIV|4|4.4|4.410">14 LCOTCL § 4.410</cite>, <cite path="XIV|5|5.4|5.410">14 LCOTCL § 5.410</cite>, <cite path="XIV|7|7.4|7.410">14 LCOTCL § 7.410</cite>, 14 LCOTCL §§ <cite path="XIV|9|9.4|9.408">9.408</cite> and <cite path="XIV|9|9.4|9.409">9.409</cite>.</text>
+          <text>Assignment of such persons to duties, positions, governmental offices or other entities shall in all instances be made in strict compliance with the current provisions of this ordinance and the following provisions of the governmental and tribal entity personnel policies and procedures manuals: <cite path="XIV|1|1.4|1.410">14 LCOTCL § 1.410</cite>, <cite path="XIV|4|4.4|4.410">14 LCOTCL § 4.410</cite>, <cite path="XIV|5|5.4|5.410">14 LCOTCL § 5.410</cite>, <cite path="XIV|7|7.4|7.410">14 LCOTCL § 7.410</cite>, <cite path="XIV|9|9.4|9.408">14 LCOTCL § 9.408</cite> and <cite path="XIV|9|9.4|9.409">14 LCOTCL § 9.409</cite>.</text>
         </para>
       </section>
       <section>
@@ -2389,7 +2389,7 @@
       <section>
         <num>6.102</num>
         <heading>Authority</heading>
-        <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, Article V, § 1 (m) and (s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "delegate to subordinate boards, officers, committees or cooperative associations which are open to all members of the Band any of the foregoing powers, reserving the right to review any action taken by virtue of such delegated powers," Article V, § 1 (m); and "promulgate and enforce ordinances.. .providing for the maintenance of law and order and the administration of justice..." Article V, § 1 (s).</text>
+        <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, Article V, § 1 (m) and (s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "delegate to subordinate boards, officers, committees or cooperative associations which are open to all members of the Band any of the foregoing powers, reserving the right to review any action taken by virtue of such delegated powers," Article V, § 1 (m); and "promulgate and enforce ordinances...providing for the maintenance of law and order and the administration of justice..." Article V, § 1 (s).</text>
       </section>
       <section>
         <num>6.103</num>
@@ -2792,11 +2792,10 @@
             <text>The Committee, as a delegated body of the Tribal Governing Board pursuant to the Lac Court Oreilles Constitution, Article V, §§ 1 (m), is immune, as is the Tribe, from suit and legal process in any state, federal or tribal court as the Lac Court Oreilles Band of Lake Superior Chippewa Indians has not waived any aspect of its sovereign immunity in enacting this ordinance.</text>
           </para>
         </para>
-        <aftertext>
-          <strong>
-            <u>Responsibilities of the Human Resources Director.</u>
-          </strong>
-        </aftertext>
+      </section>
+      <section>
+        <num>6.302</num>
+        <heading>Responsibilities of the Human Resources Director</heading>
         <para>
           <num>(1)</num>
           <text>The Lac Courte Oreilles Human Resources Director shall assist the Committee with carrying out the provisions of this ordinance and assist individuals in applying for a pardon or forgiveness. The Human Resources Director shall:</text>
@@ -2847,9 +2846,8 @@
         </para>
         <para>
           <num>(2)</num>
-          <text><u>Ineligibility</u>. An individual is ineligible for a pardon or forgiveness if he or she is: being investigated for an act and if found to have committed such act, would be ineligible for the benefit he or she is seeking; or appealing a termination and the termination makes him or her ineligible for the benefit he or she is seeking; or currently incarcerated, on parole, probation,</text>
+          <text><u>Ineligibility</u>. An individual is ineligible for a pardon or forgiveness if he or she is: being investigated for an act and if found to have committed such act, would be ineligible for the benefit he or she is seeking; or appealing a termination and the termination makes him or her ineligible for the benefit he or she is seeking; or currently incarcerated, on parole, probation, and/or under a deferred prosecution agreement; or has any outstanding penalties or fines.</text>
         </para>
-        <aftertext>and/or under a deferred prosecution agreement; or has any outstanding penalties or fines.</aftertext>
         <para>
           <num>(3)</num>
           <text><u>Initiating an Application</u>. Applications for a pardon or forgiveness may be obtained from the Human Resources Director or on the Tribal website. Completed applications shall be filed with the Human Resources Director in person, during normal Tribal business hours, or sent by certified mail to the Human Resources Department at 13394 W Trepania Rd, Hayward, WI 54843.</text>
@@ -2886,7 +2884,7 @@
             </para>
             <para>
               <num>(vii)</num>
-              <text>a personal written statement, including the reason(s) for requesting a pardon and a description and documentation of the applicant's efforts towards selfimprovement;</text>
+              <text>a personal written statement, including the reason(s) for requesting a pardon and a description and documentation of the applicant's efforts towards self-improvement;</text>
             </para>
             <para>
               <num>(viii)</num>
@@ -3300,7 +3298,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Any member of the Committee who releases any information without approval from the Tribal Governing Board, or uses any information for personal gain, that is part of an application shall be subject to sanctions, including dismissal from the Committee and penalties under Federal, State or Tribal law</text>
+          <text>Any member of the Committee who releases any information without approval from the Tribal Governing Board, or uses any information for personal gain, that is part of an application shall be subject to sanctions, including dismissal from the Committee and penalties under Federal, State or Tribal law.</text>
         </para>
       </section>
     </container>
