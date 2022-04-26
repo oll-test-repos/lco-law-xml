@@ -1225,10 +1225,22 @@
             <para>
               <num>(i)</num>
               <text>A person having responsibility for a management contract; and/or any person who has authority:</text>
-              <text>1) To hire and fire employees; and/or</text>
-              <text>2) To set up working policy for the gaming operation; and/or</text>
-              <text>3) The chief financial officer or other person who has financial management responsibility.</text>
-              <text>4) Any other gaming employee the Tribe designates.</text>
+              <para>
+                <num>(1)</num>
+                <text>To hire and fire employees; and/or</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>To set up working policy for the gaming operation; and/or</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>The chief financial officer or other person who has financial management responsibility.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Any other gaming employee the Tribe designates.</text>
+              </para>
             </para>
           </para>
         </para>
@@ -1463,10 +1475,22 @@
             <para>
               <num>(iii)</num>
               <text>A summary of the information presented in the investigative report, including:</text>
-              <text>1) licenses that have previously been denied;</text>
-              <text>2) gaming licenses that have been revoked, even if subsequently reinstated;</text>
-              <text>3) every known criminal charge brought against the applicant within the last 10 years of the date of the application; and</text>
-              <text>4) every felony offense of which the applicant has been convicted or any ongoing prosecution; and</text>
+              <para>
+                <num>(1)</num>
+                <text>licenses that have previously been denied;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>gaming licenses that have been revoked, even if subsequently reinstated;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>every known criminal charge brought against the applicant within the last 10 years of the date of the application; and</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>every felony offense of which the applicant has been convicted or any ongoing prosecution; and</text>
+              </para>
             </para>
             <para>
               <num>(iv)</num>
@@ -3215,7 +3239,10 @@
             <para>
               <num>(iv)</num>
               <text><u>Exclusions</u>.</text>
-              <text>1)	<u>Military</u>. Military is excluded as the product does not comply with the Military Lending Act's APR requirements.</text>
+              <para>
+                <num>(1)</num>
+                <text><u>Military</u>. Military is excluded as the product does not comply with the Military Lending Act's APR requirements.</text>
+              </para>
             </para>
             <para>
               <num>(v)</num>
