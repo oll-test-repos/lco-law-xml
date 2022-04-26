@@ -5844,6 +5844,7 @@
       <num>9</num>
       <heading>Limited Liability Companies Wholly-Owned by the Tribe</heading>
       <container>
+        <num path-omit="true">1</num>
         <heading>General Provisions for Tribally-Owned LLC's</heading>
         <section>
           <num>911</num>
@@ -5913,6 +5914,7 @@
         </section>
       </container>
       <container>
+        <num path-omit="true">2</num>
         <heading>Special Formation Requirements for Tribally-Owned LLC's</heading>
         <section>
           <num>921</num>
@@ -5970,6 +5972,7 @@
         </section>
       </container>
       <container>
+        <num path-omit="true">3</num>
         <heading>Management of Tribally-Owned LLC's</heading>
         <section>
           <num>931</num>
@@ -6002,6 +6005,7 @@
         </section>
       </container>
       <container>
+        <num path-omit="true">4</num>
         <heading>Decisions and Voting for Tribally-Owned LLC's</heading>
         <section>
           <num>941</num>
@@ -6017,6 +6021,7 @@
         </section>
       </container>
       <container>
+        <num path-omit="true">5</num>
         <heading>Distributions for Tribally-Owned LLC's</heading>
         <section>
           <num>951</num>
@@ -6032,6 +6037,7 @@
         </section>
       </container>
       <container>
+        <num path-omit="true">6</num>
         <heading>Additional Reports and Audits</heading>
         <section>
           <num>961</num>
@@ -6057,6 +6063,7 @@
         </section>
       </container>
       <container>
+        <num path-omit="true">7</num>
         <heading>Actions Against Tribally-Owned LLC's</heading>
         <section>
           <num>971</num>

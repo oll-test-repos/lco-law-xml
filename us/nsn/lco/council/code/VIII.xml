@@ -2296,6 +2296,7 @@
       <num>XI</num>
       <heading>Animal Control Ordinance</heading>
       <container>
+        <num path-omit="true">I</num>
         <heading>General Provisions</heading>
         <section>
           <num>4.81</num>
@@ -2487,6 +2488,7 @@
         </section>
       </container>
       <container>
+        <num path-omit="true">II</num>
         <heading>Licensing and Vaccination</heading>
         <section>
           <num>4.89</num>
@@ -2522,6 +2524,7 @@
         </section>
       </container>
       <container>
+        <num path-omit="true">III</num>
         <heading>Restraint of Animals</heading>
         <section>
           <num>4.91</num>
@@ -2570,6 +2573,7 @@
         </section>
       </container>
       <container>
+        <num path-omit="true">IV</num>
         <heading>Animal Bites</heading>
         <section>
           <num>4.96</num>
@@ -2583,6 +2587,7 @@
         </section>
       </container>
       <container>
+        <num path-omit="true">V</num>
         <heading>Treatment of Animals</heading>
         <section>
           <num>4.98</num>
@@ -2658,6 +2663,7 @@
         </section>
       </container>
       <container>
+        <num path-omit="true">VI</num>
         <heading>Impoundment</heading>
         <section>
           <num>4.104</num>
