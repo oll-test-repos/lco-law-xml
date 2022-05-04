@@ -2242,7 +2242,7 @@
           <text><u>Intent</u>. The Governing Board, on behalf of the Tribe, declares that the intent of this Ordinance is to:</text>
           <para>
             <num>(a)</num>
-            <text>Diversify and expedite the development of the economy of the Tribe's Reservation for the purposes described in <cite path="XII|2|2.1|2.103|(a)">§ 2.103 (a)</cite> above.</text>
+            <text>Diversify and expedite the development of the economy of the Tribe's Reservation for the purposes described in <cite path="XII|2|2.1|2.103|(1)|(a)">§ 2.103 (a)</cite> above.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -3681,41 +3681,14 @@
                 <td><cite doc="Wis. Stat." path="§409.501">§409.501</cite> Filing Office.</td>
                 <td proof="needed">
                   <p>Tribal UCC 9 §2.1001.501 shall read as follows:</p>
-                  <p>(1) Unless otherwise provided by Tribal law, the office in which to file a financing statement to perfect any security interest is the office of the Secretary/Treasurer of the Tribe</p>
-                </td>
-              </tr>
-            </tbody>
-          </table>
-        </text>
-        <text>
-          <table>
-            <tbody>
-              <tr>
-                <td>Wisconsin UCC 9 Reference</td>
-                <td>Tribal UCC9 Exception or Comment</td>
-              </tr>
-              <tr>
-                <td proof="needed"/>
-                <td proof="needed">
-                  <p>in all cases. The Secretary/Treasurer shall mark any</p>
-                  <p>security interests so filed with the date and time such security interest was received and maintain any such recorded interests in searchable files so that members of the public may reasonably research the priority of security interests with respect to any property subject to the Tribe's jurisdiction that has also been the subject of some financing statement filed with the Secretary/Treasurer.</p>
-                  <p>(2)	If the Secretary/Treasurer receives a financing statement under <cite path="XII|2|2.10|2.1005|(1)">subsection (1)</cite> for filing, and any debtor identified on the financing statement is an individual, the Secretary/Treasurer shall provide written notice of the filing of the financing statement to that debtor. The Secretary/Treasurer shall determine the form of the written notice and the written notice shall contain at least all of the following information:</p>
+                  <p>(1) Unless otherwise provided by Tribal law, the office in which to file a financing statement to perfect any security interest is the office of the Secretary/Treasurer of the Tribe in all cases. The Secretary/Treasurer shall mark any security interests so filed with the date and time such security interest was received and maintain any such recorded interests in searchable files so that members of the public may reasonably research the priority of security interests with respect to any property subject to the Tribe's jurisdiction that has also been the subject of some financing statement filed with the Secretary/Treasurer.</p>
+                  <p>(2)	If the Secretary/Treasurer receives a financing statement under subsection (1) for filing, and any debtor identified on the financing statement is an individual, the Secretary/Treasurer shall provide written notice of the filing of the financing statement to that debtor. The Secretary/Treasurer shall determine the form of the written notice and the written notice shall contain at least all of the following information:</p>
                   <p>(a)	The debtor's name and address as shown on the financing statement.</p>
                   <p>(b)	The secured party's name and address as shown on the financing statement.</p>
                   <p>(c)	The remedies available to the debtor under this act if he or she believes that the financing statement is erroneously or fraudulently filed.</p>
-                  <p>(3)	In addition to the written notice described in <cite path="XII|2|2.10|2.1005|(2)">subsection (2)</cite>, the Secretary/Treasurer shall provide at no charge to a debtor described in that subsection a copy or image of the filed financing statement and any attachments. If the debtor requests additional copies or searches, the fees provided in section 9525 apply to that request.</p>
-                  <p>(4)	A person shall not knowingly or intentionally file a false or fraudulent financing statement with the office of the secretary of state under <cite path="XII|2|2.10|2.1005|(1)">subsection (1)</cite>. A violation of this subsection is punishable under Tribal law and/or other applicable laws.</p>
+                  <p>(3)	In addition to the written notice described in subsection (2), the Secretary/Treasurer shall provide at no charge to a debtor described in that subsection a copy or image of the filed financing statement and any attachments. If the debtor requests additional copies or searches, the fees provided in section 9525 apply to that request.</p>
+                  <p>(4)	A person shall not knowingly or intentionally file a false or fraudulent financing statement with the office of the secretary of state under subsection (1). A violation of this subsection is punishable under Tribal law and/or other applicable laws.</p>
                 </td>
-              </tr>
-            </tbody>
-          </table>
-        </text>
-        <text>
-          <table>
-            <tbody>
-              <tr>
-                <td>Wisconsin UCC 9 Reference</td>
-                <td>Tribal UCC9 Exception or Comment</td>
               </tr>
               <tr>
                 <td><cite doc="Wis. Stat." path="§409.612">§409.612</cite> Timeliness of notification before disposition of collateral.</td>
@@ -3737,7 +3710,7 @@
                 <td>Tribal UCC9 does not incorporate <cite doc="Wis. Stat." path="§409.6">§409.624</cite>.</td>
               </tr>
               <tr>
-                <td><cite path="XII|409|409.6|409.636">§409.636</cite> Action in which deficiency or surplus is in issue.</td>
+                <td><cite doc="Wis. Stat." path="§409.626">§409.626</cite> Action in which deficiency or surplus is in issue.</td>
                 <td>Tribal UCC9 does not incorporate <cite doc="Wis. Stat." path="§409.626">§409.626.</cite></td>
               </tr>
               <tr>
@@ -3800,16 +3773,6 @@
                 <td><cite doc="Wis. Stat." path="§411.104">§ 411.104</cite> Leases subject to other law.</td>
                 <td>Tribal UCC2A § 2.1101.104 is adopted with the deletion of Wisconsin UCC2A § 411.004(1)(c). This ordinance contains its own consumer protection provisions.</td>
               </tr>
-            </tbody>
-          </table>
-        </text>
-        <text>
-          <table>
-            <tbody>
-              <tr>
-                <td>Wisconsin UCC 2A Reference</td>
-                <td>Tribal UCC2A Exception or Comment</td>
-              </tr>
               <tr>
                 <td><cite doc="Wis. Stat." path="§411.106">§ 411.106</cite> Limitation on power of parties to consumer lease to choose applicable law and judicial forum</td>
                 <td>Tribal UCC2A § 2.1101.106 is adopted to read as follows: § 2.11.106 Power of parties to consumer lease to choose applicable law and judicial forum. In all instances, the choice of law, jurisdiction, and forum of the parties to a consumer lease with the Tribe is enforceable.</td>
@@ -3827,7 +3790,7 @@
                   <cite doc="Wis. Stat." path="§411.503">§ 411.503 Modification or impairment of rights and remedies</cite>
                 </td>
                 <td proof="needed">
-                  <p>Tribal UCC2A § 2.1101.503 is adopted with an amended <cite path="XII|2|2.11|2.1105|(3)">subsection (3)</cite> to read as follows:</p>
+                  <p>Tribal UCC2A § 2.1101.503 is adopted with an amended subsection (3) to read as follows:</p>
                   <p>(3) Consequential damages may be liquidated under § 411.504, or may otherwise be limited, altered or excluded.</p>
                   <p>In this regard, this ordinance contains its own consumer protection provisions.</p>
                 </td>
@@ -3840,17 +3803,6 @@
           </table>
         </text>
         <text>[Reserved for expansion]</text>
-        <text class="center">Tribal Consumer Financial Services Regulatory Code Lac Courte Oreilles Band of Lake Superior Chippewa Indians</text>
-        <text>
-          <table class="layout-table">
-            <tbody>
-              <tr>
-                <td proof="needed"/>
-                <td>Page 44</td>
-              </tr>
-            </tbody>
-          </table>
-        </text>
       </section>
     </container>
     <container>
@@ -3899,23 +3851,9 @@
               <tr>
                 <td><cite doc="Wis. Stat." path="§401.203">§ 401.203</cite> Lease distinguished from security interest.</td>
                 <td proof="needed">
-                  <p>Tribal UCC2A § 2.1201.203 is adopted with an amended <cite path="XII|2|2.12|2.1205|(4)">subsection (4)</cite> to read as follows:</p>
-                  <p class="text-indent-2">(4) Additional consideration is nominal if it is less</p>
+                  <p>Tribal UCC2A § 2.1201.203 is adopted with an amended subsection (4) to read as follows:</p>
+                  <p class="text-indent-2">(4) Additional consideration is nominal if it is less than the lessee's reasonably predictable cost of performing under the lease agreement if the option is not exercised. Among other bases, additional consideration is not nominal if any of the following apply: (a) when the option to renew the lease is granted to the lessee, the rent is stated to be the fair market rent, or substantially the same as fair market rent, for the use of the goods for the term of the renewal determined at the time the option is to be performed; (b) when the option to become the owner of the goods is granted to the lessee, the price is stated to be the fair market value, or substantially the same as the fair market value, of the goods determined at the time the option is to be performed.</p>
                 </td>
-              </tr>
-            </tbody>
-          </table>
-        </text>
-        <text>
-          <table>
-            <tbody>
-              <tr>
-                <td>Wisconsin UCC1-203 Reference</td>
-                <td>Tribal UCC1-203 Exception or Comment</td>
-              </tr>
-              <tr>
-                <td proof="needed"/>
-                <td>than the lessee's reasonably predictable cost of performing under the lease agreement if the option is not exercised. Among other bases, additional consideration is not nominal if any of the following apply: (a) when the option to renew the lease is granted to the lessee, the rent is stated to be the fair market rent, or substantially the same as fair market rent, for the use of the goods for the term of the renewal determined at the time the option is to be performed; (b) when the option to become the owner of the goods is granted to the lessee, the price is stated to be the fair market value, or substantially the same as the fair market value, of the goods determined at the time the option is to be performed.</td>
               </tr>
               <tr>
                 <td>[Reserved for expansion]</td>

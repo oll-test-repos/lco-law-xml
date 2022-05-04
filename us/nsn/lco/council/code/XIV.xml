@@ -10,7 +10,7 @@
     <text class="center">
       <strong>Preamble</strong>
     </text>
-    <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in the implementation of <cite path="XII|3">Title XII, Chapter 3</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Employment Code. This personnel policy and procedural manual, outlines the general policies, rules and practices in effect for the Lac Courte Oreilles Tribal Government and is intended to be a helpful reference during your employment with the Tribe. The information contained herein is general information, and its contents do not create or constitute a contract between the Tribe and any employee. The Tribal Governing Board acting in its sovereign capacity may in its sole discretion amend this personnel policy and procedural manual from time to time. The Human Resource Director, or designee, will distribute approved revisions to all employees.</text>
+    <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in the implementation of Title XII, Chapter 3 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Employment Code. This personnel policy and procedural manual, outlines the general policies, rules and practices in effect for the Lac Courte Oreilles Tribal Government and is intended to be a helpful reference during your employment with the Tribe. The information contained herein is general information, and its contents do not create or constitute a contract between the Tribe and any employee. The Tribal Governing Board acting in its sovereign capacity may in its sole discretion amend this personnel policy and procedural manual from time to time. The Human Resource Director, or designee, will distribute approved revisions to all employees.</text>
     <container>
       <prefix>Subchapter</prefix>
       <num>1.1</num>
@@ -33,7 +33,7 @@
       <section>
         <num>1.102</num>
         <heading>Authority</heading>
-        <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in the implementation of <cite path="XII|3">Title XII, Chapter 3</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Employment Code.</text>
+        <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in the implementation of Title XII, Chapter 3 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Employment Code.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-82"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-106"/>
@@ -682,7 +682,7 @@
         <heading>Orientation</heading>
         <para>
           <num>(1)</num>
-          <text>All new employees will be provided an orientation within the first day of employment, and will be provided this personnel policy and procedural manual, all required forms for employment, benefits, a copy of <cite path="XII|6">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code, and day-to-day procedures. The Human Resource Director, or designee, will also answer any questions which may arise throughout the course of employment.  Supervisors will provide further direction relevant to the operation of their department.</text>
+          <text>All new employees will be provided an orientation within the first day of employment, and will be provided this personnel policy and procedural manual, all required forms for employment, benefits, a copy of <cite path="XII|3">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code, and day-to-day procedures. The Human Resource Director, or designee, will also answer any questions which may arise throughout the course of employment.  Supervisors will provide further direction relevant to the operation of their department.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1221,7 +1221,7 @@
       <section>
         <num>1.608</num>
         <heading>Workers' Compensation</heading>
-        <text>The Tribe carries insurance to cover the cost of work-incurred injury or illness.  Benefits help pay for employees' medical treatment and a portion of any income lost while recovering.  An employee must report any work-related injury or illness to his or her department head or director by completing the "First Report of Injury or Illness Form," which must be completed within the timelines as stated in the <cite path="XII|6">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code<strong>.</strong> Refer to the <cite path="XII|6">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code for additional guidelines.</text>
+        <text>The Tribe carries insurance to cover the cost of work-incurred injury or illness.  Benefits help pay for employees' medical treatment and a portion of any income lost while recovering.  An employee must report any work-related injury or illness to his or her department head or director by completing the "First Report of Injury or Illness Form," which must be completed within the timelines as stated in the <cite path="XII|3">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code<strong>.</strong> Refer to the <cite path="XII|3">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code for additional guidelines.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-82"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-106"/>
@@ -3292,7 +3292,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>the Trial shall be conducted pursuant to 2 LCOTCL – <cite path="XIV|1|1.10">Subchapter 1.10</cite>.</text>
+              <text>the Trial shall be conducted pursuant to <cite path="II|1|1.10">2 LCOTCL – Subchapter 1.10</cite>.</text>
             </para>
             <para>
               <num>(iii)</num>
@@ -7095,7 +7095,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Violations shall be subject to the <cite path="XIV|1|1.2|1.202">14 LCOTCL § 1.202</cite> of the Tribal Government Personnel Manual, titled "Grounds for Disciplinary Action;" the procedures under that section will be followed regarding any violations under this manual. All violations are subject to discipline up to and including termination. The tribe reserves the right to pursue recovery for any funds deemed to be used in violation under this manual by current and former employees, including criminal and civil remedies.</text>
+          <text>Violations shall be subject to the <cite path="XIV|1|1.2|1.1202">14 LCOTCL § 1.202</cite> of the Tribal Government Personnel Manual, titled "Grounds for Disciplinary Action;" the procedures under that section will be followed regarding any violations under this manual. All violations are subject to discipline up to and including termination. The tribe reserves the right to pursue recovery for any funds deemed to be used in violation under this manual by current and former employees, including criminal and civil remedies.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-98"/>
@@ -7661,7 +7661,7 @@
       <section>
         <num>4.412</num>
         <heading>Orientation</heading>
-        <text>All new employees will be provided an orientation within the first five (5) days of employment, and will be provided this personnel policy and procedural manual, all required forms for employment, benefits, a copy of <cite path="XII|6">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code, and day-to-day procedures. The LCOHA Human Resource Director, or designee, will also answer any questions which may arise throughout the course of employment.  Supervisors will provide further direction relevant to the operation of their department.</text>
+        <text>All new employees will be provided an orientation within the first five (5) days of employment, and will be provided this personnel policy and procedural manual, all required forms for employment, benefits, a copy of <cite path="XII|3">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code, and day-to-day procedures. The LCOHA Human Resource Director, or designee, will also answer any questions which may arise throughout the course of employment.  Supervisors will provide further direction relevant to the operation of their department.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-12"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-14"/>
@@ -8022,7 +8022,7 @@
       <section>
         <num>4.608</num>
         <heading>Workers' Compensation</heading>
-        <text>The LCOHA carries insurance to cover the cost of work-incurred injury or illness.  Benefits help pay for employees' medical treatment and a portion of any income lost while recovering.  An employee must report any work-related injury or illness to his or her department head or director by completing the "First Report of Injury or Illness Form," which must be completed within the timelines as stated in the <cite path="XII|6">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code<strong>.</strong> Refer to the <cite path="XII|6">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code for additional guidelines.</text>
+        <text>The LCOHA carries insurance to cover the cost of work-incurred injury or illness.  Benefits help pay for employees' medical treatment and a portion of any income lost while recovering.  An employee must report any work-related injury or illness to his or her department head or director by completing the "First Report of Injury or Illness Form," which must be completed within the timelines as stated in the <cite path="XII|3">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code<strong>.</strong> Refer to the <cite path="XII|3">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code for additional guidelines.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-12"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-14"/>
@@ -9895,7 +9895,7 @@
             </para>
             <para>
               <num>(viii)</num>
-              <text>If either party disagrees with the appeals committee's decision, the party may appeal the decision to the Tribal Court by filing notice of appeal within three (3) working days of the decision, with a copy to the Tribal Operations Human Resource Director. The filing of an appeal by the employer shall stay any action under <cite path="XIV|4|4.12|4.1204|(4)|(b)|(iv)">subsection (4) (b) (iv)</cite> or (v) above, pending resolution of the appeal by the Tribal Court. The Human Resource Director shall submit to the Tribal Court the record of the appeals committee proceedings within five (5) working days of receiving a copy of the notice of appeal. The Lac Courte Oreilles Legal Department shall be notified of all appeals and shall be provided with the entire record of the grievance and the all information submitted in connection to the appeal.</text>
+              <text>If either party disagrees with the appeals committee's decision, the party may appeal the decision to the Tribal Court by filing notice of appeal within three (3) working days of the decision, with a copy to the Tribal Operations Human Resource Director. The filing of an appeal by the employer shall stay any action under <cite path="XIV|4|4.12|4.1204|(3)|(b)|(iv)">subsection (4) (b) (iv)</cite> or <cite path="XIV|4|4.12|4.1204|(3)|(b)|(iv)">(v)</cite> above, pending resolution of the appeal by the Tribal Court. The Human Resource Director shall submit to the Tribal Court the record of the appeals committee proceedings within five (5) working days of receiving a copy of the notice of appeal. The Lac Courte Oreilles Legal Department shall be notified of all appeals and shall be provided with the entire record of the grievance and the all information submitted in connection to the appeal.</text>
             </para>
           </para>
           <para>
@@ -9966,7 +9966,7 @@
     <text class="center">
       <strong>Preamble</strong>
     </text>
-    <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in the implementation of <cite path="XII|3">Title XII, Chapter 3</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Employment Code and <cite path="III|5">Title III, Chapter 5</cite> of the LCOTCL – Community Health Center Code. This personnel policy and procedural manual, outlines the general policies, rules and practices in effect for the Lac Courte Oreilles Community Health Center and is intended to be a helpful reference during your employment with the LCO-CHC. The information contained herein is general information, and its contents do not create or constitute a contract between the LCO-CHC and any employee. The Tribal Governing Board acting in its sovereign capacity may in its sole discretion amend this personnel policy and procedural manual from time to time. The Human Resource Director, or designee, will distribute approved revisions to all employees.</text>
+    <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in the implementation of Title XII, Chapter 3 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Employment Code and <cite path="III|5">Title III, Chapter 5</cite> of the LCOTCL – Community Health Center Code. This personnel policy and procedural manual, outlines the general policies, rules and practices in effect for the Lac Courte Oreilles Community Health Center and is intended to be a helpful reference during your employment with the LCO-CHC. The information contained herein is general information, and its contents do not create or constitute a contract between the LCO-CHC and any employee. The Tribal Governing Board acting in its sovereign capacity may in its sole discretion amend this personnel policy and procedural manual from time to time. The Human Resource Director, or designee, will distribute approved revisions to all employees.</text>
     <container>
       <prefix>Subchapter</prefix>
       <num>5.1</num>
@@ -9985,7 +9985,7 @@
       <section>
         <num>5.102</num>
         <heading>Authority</heading>
-        <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in the implementation of <cite path="XII|3">Title XII, Chapter 3</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Employment Code and <cite path="III|5">Title III, Chapter 5</cite> of the LCOTCL – Community Health Center Code.</text>
+        <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in the implementation of Title XII, Chapter 3 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Employment Code and <cite path="III|5">Title III, Chapter 5</cite> of the LCOTCL – Community Health Center Code.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-104"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-13"/>
@@ -10345,7 +10345,7 @@
           </para>
           <para>
             <num>(f)</num>
-            <text>Ensure completion of the scopes of work of all activities contained in the Tribe's P.<cite path="L|L.93">L.93</cite>-638 Contract with the Indian Health Service and other programs under the direct control of the LCO-CHC;</text>
+            <text>Ensure completion of the scopes of work of all activities contained in the Tribe's P.L.93-638 Contract with the Indian Health Service and other programs under the direct control of the LCO-CHC;</text>
           </para>
           <para>
             <num>(g)</num>
@@ -10865,7 +10865,7 @@
         <heading>Orientation</heading>
         <para>
           <num>(1)</num>
-          <text>All new employees will be provided an orientation checklist within the first day of employment, and will be provided: this personnel policy and procedural manual, all required forms for employment, benefits, a copy of <cite path="XII|6">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code, HIPAA, Cultural Sensitivity, OSHA, risk management, infection control, and day-to-day procedures. The Human Resource Director, or designee, will also answer any questions which may arise throughout the course of employment. Supervisors will provide further direction relevant to the operation of their department.</text>
+          <text>All new employees will be provided an orientation checklist within the first day of employment, and will be provided: this personnel policy and procedural manual, all required forms for employment, benefits, a copy of <cite path="XII|3">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code, HIPAA, Cultural Sensitivity, OSHA, risk management, infection control, and day-to-day procedures. The Human Resource Director, or designee, will also answer any questions which may arise throughout the course of employment. Supervisors will provide further direction relevant to the operation of their department.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -11311,7 +11311,7 @@
       <section>
         <num>5.608</num>
         <heading>Workers' Compensation</heading>
-        <text>The LCO-CHC carries insurance to cover the cost of work-incurred injury or illness.  Benefits help pay for employees' medical treatment and a portion of any income lost while recovering.  An employee must report any work-related injury or illness to his or her department head or director by completing the "First Report of Injury or Illness Form," which must be completed within the timelines as stated in the <cite path="XII|6">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code<strong>.</strong> Refer to the <cite path="XII|6">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code for additional guidelines.</text>
+        <text>The LCO-CHC carries insurance to cover the cost of work-incurred injury or illness.  Benefits help pay for employees' medical treatment and a portion of any income lost while recovering.  An employee must report any work-related injury or illness to his or her department head or director by completing the "First Report of Injury or Illness Form," which must be completed within the timelines as stated in the <cite path="XII|3">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code<strong>.</strong> Refer to the <cite path="XII|3">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code for additional guidelines.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-104"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-13"/>
@@ -13414,7 +13414,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>the Trial shall be conducted pursuant to 2 LCOTCL – <cite path="XIV|5|1.10">Subchapter 1.10</cite>.</text>
+              <text>the Trial shall be conducted pursuant to <cite path="II|1|1.10">2 LCOTCL – Subchapter 1.10</cite>.</text>
             </para>
             <para>
               <num>(iii)</num>
@@ -13750,7 +13750,7 @@
     <text class="center">
       <strong>Preamble</strong>
     </text>
-    <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in the implementation of <cite path="XII|3">Title XII, Chapter 3</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Employment Code and <cite path="VII|7">Title VII, Chapter 7</cite> of the LCOTCL – Education Code. This personnel policy and procedural manual, outlines the general policies, rules and practices in effect for the LCO Ojibwe School – Waadookodaading and is intended to be a helpful reference during your employment with the School. The information contained herein is general information, and its contents do not create or constitute a contract between the LCO Ojibwe School – Waadookodaading and any employee. The Tribal Governing Board acting in its sovereign capacity may in its sole discretion amend this personnel policy and procedural manual from time to time. The Human Resource Director, or designee, will distribute approved revisions to all employees.</text>
+    <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in the implementation of Title XII, Chapter 3 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Employment Code and <cite path="VII|7">Title VII, Chapter 7</cite> of the LCOTCL – Education Code. This personnel policy and procedural manual, outlines the general policies, rules and practices in effect for the LCO Ojibwe School – Waadookodaading and is intended to be a helpful reference during your employment with the School. The information contained herein is general information, and its contents do not create or constitute a contract between the LCO Ojibwe School – Waadookodaading and any employee. The Tribal Governing Board acting in its sovereign capacity may in its sole discretion amend this personnel policy and procedural manual from time to time. The Human Resource Director, or designee, will distribute approved revisions to all employees.</text>
     <container>
       <prefix>Subchapter</prefix>
       <num>7.1</num>
@@ -13769,7 +13769,7 @@
       <section>
         <num>7.102</num>
         <heading>Authority</heading>
-        <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in the implementation of <cite path="XII|3">Title XII, Chapter 3</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Employment Code and <cite path="VII|7">Title VII, Chapter 7</cite> of the LCOTCL – Education Code.</text>
+        <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in the implementation of Title XII, Chapter 3 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Employment Code and <cite path="VII|7">Title VII, Chapter 7</cite> of the LCOTCL – Education Code.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-81"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-89"/>
@@ -14386,7 +14386,7 @@
         <heading>Orientation</heading>
         <para>
           <num>(1)</num>
-          <text>All new employees will be provided an orientation within the first day of employment, and will be provided this personnel policy and procedural manual, all required forms for employment, benefits, a copy of <cite path="XII|6">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code, and day-to-day procedures. The Human Resource Director, or designee, will also answer any questions which may arise throughout the course of employment.  Supervisors will provide further direction relevant to the operation of their department.</text>
+          <text>All new employees will be provided an orientation within the first day of employment, and will be provided this personnel policy and procedural manual, all required forms for employment, benefits, a copy of <cite path="XII|3">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code, and day-to-day procedures. The Human Resource Director, or designee, will also answer any questions which may arise throughout the course of employment.  Supervisors will provide further direction relevant to the operation of their department.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -14447,7 +14447,7 @@
       <section>
         <num>7.415</num>
         <heading>Classifications</heading>
-        <text>Upon hire, the School will inform every employee of his or her employment classification, whether exempt or non-exempt, full-time, part-time, short-term substitute, long-term substitute or temporary. This is important because employment classification has an effect on employee rights and benefits under this personnel policy and procedural manual (See <cite path="XIV|7|1.2">Subchapter 1.2</cite> – Definitions for the various classifications).</text>
+        <text>Upon hire, the School will inform every employee of his or her employment classification, whether exempt or non-exempt, full-time, part-time, short-term substitute, long-term substitute or temporary. This is important because employment classification has an effect on employee rights and benefits under this personnel policy and procedural manual (See <cite path="XIV|7|7.2">Subchapter 1.2</cite> – Definitions for the various classifications).</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-81"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-89"/>
@@ -14893,7 +14893,7 @@
       <section>
         <num>7.608</num>
         <heading>Workers' Compensation</heading>
-        <text>The School carries insurance to cover the cost of work-incurred injury or illness.  Benefits help pay for employees' medical treatment and a portion of any income lost while recovering.  An employee must report any work-related injury or illness to his or her department head or director by completing the "First Report of Injury or Illness Form," which must be completed within the timelines as stated in the <cite path="XII|6">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code<strong>.</strong> Refer to the <cite path="XII|6">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code for additional guidelines.</text>
+        <text>The School carries insurance to cover the cost of work-incurred injury or illness.  Benefits help pay for employees' medical treatment and a portion of any income lost while recovering.  An employee must report any work-related injury or illness to his or her department head or director by completing the "First Report of Injury or Illness Form," which must be completed within the timelines as stated in the <cite path="XII|3">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code<strong>.</strong> Refer to the <cite path="XII|3">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code for additional guidelines.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-81"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-89"/>
@@ -16832,7 +16832,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>the Trial shall be conducted pursuant to 2 LCOTCL – <cite path="XIV|7|1.10">Subchapter 1.10</cite>.</text>
+              <text>the Trial shall be conducted pursuant to <cite path="II|1|1.10">2 LCOTCL – Subchapter 1.10</cite>.</text>
             </para>
             <para>
               <num>(iii)</num>
@@ -17273,7 +17273,7 @@
     <text class="center">
       <strong>Preamble</strong>
     </text>
-    <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in the implementation of <cite path="XII|3">Title XII, Chapter 3</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Employment Code and <cite path="XII|1">Title XII, Chapter 1</cite> of the LCOTCL – Gaming Code. This personnel policy and procedural manual, outlines the general policies, rules and practices in effect for the Lac Courte Oreilles Gaming Enterprises and is intended to be a helpful reference during your employment with the Gaming Enterprises. The information contained herein is general information, and its contents do not create or constitute a contract between the Gaming Enterprises and any employee. The Tribal Governing Board acting in its sovereign capacity may in its sole discretion amend this personnel policy and procedural manual from time to time. The Human Resource Director, or designee, will distribute approved revisions to all employees.</text>
+    <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in the implementation of Title XII, Chapter 3 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Employment Code and <cite path="XII|1">Title XII, Chapter 1</cite> of the LCOTCL – Gaming Code. This personnel policy and procedural manual, outlines the general policies, rules and practices in effect for the Lac Courte Oreilles Gaming Enterprises and is intended to be a helpful reference during your employment with the Gaming Enterprises. The information contained herein is general information, and its contents do not create or constitute a contract between the Gaming Enterprises and any employee. The Tribal Governing Board acting in its sovereign capacity may in its sole discretion amend this personnel policy and procedural manual from time to time. The Human Resource Director, or designee, will distribute approved revisions to all employees.</text>
     <container>
       <prefix>Subchapter</prefix>
       <num>9.1</num>
@@ -17305,7 +17305,7 @@
       <section>
         <num>9.102</num>
         <heading>Authority</heading>
-        <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in the implementation of <cite path="XII|3">Title XII, Chapter 3</cite> of the LCOTCL – Employment Code and <cite path="XII|1">Title XII, Chapter 1</cite> of the LCOTCL – Gaming Code.</text>
+        <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in the implementation of Title XII, Chapter 3 of the LCOTCL – Employment Code and <cite path="XII|1">Title XII, Chapter 1</cite> of the LCOTCL – Gaming Code.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-107"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-113"/>
@@ -21776,7 +21776,7 @@
         <heading>Workers' Compensation</heading>
         <para>
           <num>(1)</num>
-          <text>The Gaming Enterprises carries insurance to cover the cost of work-incurred injury or illness.  Benefits help pay for team member's medical treatment and a portion of any income lost while recovering. A team member must report any work-related injury or illness to his or her Director/Manager by completing the "First Report of Injury or Illness Form," which must be completed within the timelines as stated in the <cite path="XII|6">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code<strong>.</strong></text>
+          <text>The Gaming Enterprises carries insurance to cover the cost of work-incurred injury or illness.  Benefits help pay for team member's medical treatment and a portion of any income lost while recovering. A team member must report any work-related injury or illness to his or her Director/Manager by completing the "First Report of Injury or Illness Form," which must be completed within the timelines as stated in the <cite path="XII|3">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code<strong>.</strong></text>
           <para>
             <num>(a)</num>
             <text>The Director/Manager will then ensure that the Security and Human Resource departments are notified for completion of an accident report and for the investigation of the injury.</text>
@@ -21804,7 +21804,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Refer to the <cite path="XII|6">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code for additional guidelines.</text>
+          <text>Refer to the <cite path="XII|3">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code for additional guidelines.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-107"/>
@@ -24376,15 +24376,29 @@
       <section>
         <num>9.1110</num>
         <heading>[Open]</heading>
-        <text>
-          <strong>
-            <cite path="XIV|9|9.11|9.1111">§ 9.1111</cite>
-          </strong>
-          <strong>
-            <u>Post-Accident Testing</u>
-          </strong>
-          <strong>.</strong>
-        </text>
+        <annotations>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-107"/>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-113"/>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-117"/>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-02"/>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-15"/>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-35"/>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-45"/>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-91"/>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-109"/>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-129"/>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 18-14"/>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 18-15"/>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 18-56"/>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 18-68"/>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 18-86"/>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-14"/>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-30"/>
+        </annotations>
+      </section>
+      <section>
+        <num>9.1111</num>
+        <heading>Post-Accident Testing</heading>
         <text>It is the Gaming Enterprises' policy that an alcohol and drug test will be given to any team member involved in a work-related accident or injury event requiring professional medical treatment (EMT, paramedics, and other professional medical providers) for her/himself, another team member or guest.</text>
         <para>
           <num>(1)</num>
@@ -25258,7 +25272,7 @@
           <text><u>Appeal Policy</u>.</text>
           <para>
             <num>(a)</num>
-            <text>It is the policy of the Gaming Enterprises to ensure fair and equitable treatment for all team members. Therefore, the Tribe on behalf of the Gaming Enterprises hereby issues a waiver of its sovereign immunity pursuant to <cite path="II|5|5.3|5.302">2 LCOTCL § 5.302</cite> to all non-contracted employees for the limited purpose of appealing in Tribal Court as detailed in <cite path="XIV|9|9.12|9.1204">this section</cite>, any suspension or termination received by a team member pursuant to <cite path="XIV|9|9.12|9.1202">§ 9.1202</cite> of this manual, however the right to appeal does not extend to probationary actions pursuant to <cite path="XIV|9|9.4|9.414">§ 9.414</cite>; and the right to appeal does not extend to discipline received for engaging in dishonest acts pursuant to <cite path="XIV|9|9.8|9.805|(2)">§ 9.805 (2)</cite>(n). Verbal and written warnings are corrective action tools and thus are not subject to appeal pursuant to <cite path="XIV|9|9.12|9.1203|(a)">§ 9.1203(a)</cite>(i) and <cite path="XIV|9|9.12|9.1203|(b)">§ 9.1203 (b)</cite>(i).</text>
+            <text>It is the policy of the Gaming Enterprises to ensure fair and equitable treatment for all team members. Therefore, the Tribe on behalf of the Gaming Enterprises hereby issues a waiver of its sovereign immunity pursuant to <cite path="II|5|5.3|5.302">2 LCOTCL § 5.302</cite> to all non-contracted employees for the limited purpose of appealing in Tribal Court as detailed in <cite path="XIV|9|9.12|9.1204">this section</cite>, any suspension or termination received by a team member pursuant to <cite path="XIV|9|9.12|9.1202">§ 9.1202</cite> of this manual, however the right to appeal does not extend to probationary actions pursuant to <cite path="XIV|9|9.4|9.414">§ 9.414</cite>; and the right to appeal does not extend to discipline received for engaging in dishonest acts pursuant to <cite path="XIV|9|9.8|9.805|(2)|(n)">§ 9.805 (2)(n)</cite>. Verbal and written warnings are corrective action tools and thus are not subject to appeal pursuant to <cite path="XIV|9|9.12|9.1203|(1)|(a)|(i)">§ 9.1203(a)(i)</cite> and <cite path="XIV|9|9.12|9.1203|(1)|(b)|(i)">§ 9.1203 (b)(i)</cite>.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -25309,7 +25323,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>the Trial shall be conducted pursuant to 2 LCOTCL – <cite path="XIV|9|1.10">Subchapter 1.10</cite>.</text>
+              <text>the Trial shall be conducted pursuant to <cite path="II|1|1.10">2 LCOTCL – Subchapter 1.10</cite>.</text>
             </para>
             <para>
               <num>(iii)</num>
@@ -28786,7 +28800,7 @@
     <text class="center">
       <strong>Preamble</strong>
     </text>
-    <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in the implementation of <cite path="XII|3">Title XII, Chapter 3</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Employment Code. This personnel policy and procedural manual, outlines the general policies, rules and practices in effect for the Lac Courte Oreilles Tribal Government and is intended to be a helpful reference during your employment with the Tribe. The information contained herein is general information, and its contents do not create or constitute a contract between the Tribe and any employee. The Tribal Governing Board acting in its sovereign capacity may in its sole discretion amend this personnel policy and procedural manual from time to time. The Human Resource Director, or designee, will distribute approved revisions to all employees.</text>
+    <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in the implementation of Title XII, Chapter 3 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Employment Code. This personnel policy and procedural manual, outlines the general policies, rules and practices in effect for the Lac Courte Oreilles Tribal Government and is intended to be a helpful reference during your employment with the Tribe. The information contained herein is general information, and its contents do not create or constitute a contract between the Tribe and any employee. The Tribal Governing Board acting in its sovereign capacity may in its sole discretion amend this personnel policy and procedural manual from time to time. The Human Resource Director, or designee, will distribute approved revisions to all employees.</text>
     <container>
       <prefix>Subchapter</prefix>
       <num>14.1</num>
@@ -28799,7 +28813,7 @@
       <section>
         <num>14.102</num>
         <heading>Authority</heading>
-        <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in the implementation of <cite path="XII|3">Title XII, Chapter 3</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Employment Code.</text>
+        <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in the implementation of Title XII, Chapter 3 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Employment Code.</text>
       </section>
       <section>
         <num>14.103</num>
@@ -29216,7 +29230,7 @@
         <heading>Orientation</heading>
         <para>
           <num>(1)</num>
-          <text>All new employees will be provided an orientation within the first day of employment, and will be provided this personnel policy and procedural manual, safety manual, all required forms for employment, benefits, a copy of <cite path="XII|6">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code, and day-to-day procedures. The Human Resource Director designee, will also answer any questions which may arise throughout the course of employment.  Foreman will provide further direction relevant to the operation of their division.</text>
+          <text>All new employees will be provided an orientation within the first day of employment, and will be provided this personnel policy and procedural manual, safety manual, all required forms for employment, benefits, a copy of <cite path="XII|3">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code, and day-to-day procedures. The Human Resource Director designee, will also answer any questions which may arise throughout the course of employment.  Foreman will provide further direction relevant to the operation of their division.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -29460,7 +29474,7 @@
       <section>
         <num>14.607</num>
         <heading>Workers' Compensation</heading>
-        <text>The LCO Development Corporation carries insurance to cover the cost of work-incurred injury or illness.  Benefits help pay for employees' medical treatment and a portion of any income lost while recovering.  An employee must report any work-related injury or illness to his or her foreman or management by completing the "First Report of Injury or Illness Form," which must be completed within the timelines as stated in the <cite path="XII|6">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code<strong>.</strong> Refer to the <cite path="XII|6">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code for additional guidelines.</text>
+        <text>The LCO Development Corporation carries insurance to cover the cost of work-incurred injury or illness.  Benefits help pay for employees' medical treatment and a portion of any income lost while recovering.  An employee must report any work-related injury or illness to his or her foreman or management by completing the "First Report of Injury or Illness Form," which must be completed within the timelines as stated in the <cite path="XII|3">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code<strong>.</strong> Refer to the <cite path="XII|3">12 LCOTCL Chapter 6</cite> – Worker's Compensation Code for additional guidelines.</text>
       </section>
     </container>
     <container>
