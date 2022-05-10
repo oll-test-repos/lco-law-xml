@@ -33,4 +33,5 @@
     <xi:include href="./us/nsn/lco/council/resolutions/2004/index.xml"/>
     <xi:include href="./us/nsn/lco/council/resolutions/1990/index.xml"/>
   </collection>
+  <xi:include href="./us/nsn/lco/council/drafting-manual/index.xml"/>
 </library>
