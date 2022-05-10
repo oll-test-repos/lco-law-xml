@@ -4,17 +4,17 @@
   <meta>
     <effective>2022-06-01</effective>
   </meta>
-  <text>The purpose of this guide is to provide a uniform style and thoughtful/necessary considerations for drafting Lac Courte Oreilles Band of Lake Superior Chippewa Indians Codes and Resolutions.  Our goal is to inform staff with little previous experience, and assist those who have had some experience collaborating with departments and the Tribal Attorney's office.</text>
+  <text>The purpose of this guide is to provide a uniform style and thoughtful/necessary considerations for drafting Lac Courte Oreilles Band of Lake Superior Chippewa Indians Codes and Resolutions.  Our goal is to inform staff with little previous experience, and assist those who have had some experience collaborating with departments and the Lac Courte Oreilles Office of the Attorney General.</text>
   <section>
     <num>1</num>
     <heading>Division of Responsibilities.</heading>
     <para>
       <num>(a)</num>
-      <text>Department staff responsible for the ordinance should work with the attorney assigned to their department to complete the project.  The department staff shall describe the goals of the project and explain the concepts to be incorporated into the ordinance. Generally, it will be the responsibility of the attorney to draft the ordinance.</text>
+      <text>Department staff responsible for the resolution should work with the Lac Courte Oreilles Office of the Attorney General to complete the project.  The department staff shall describe the goals of the project and explain the concepts to be incorporated into the resolution. Generally, it will be the responsibility of the Attorney General's Office to draft the resolution.</text>
     </para>
     <para>
       <num>(b)</num>
-      <text>In any code amendment, the drafter shall take time to eliminate duplicative provisions in a particular chapter, section, or subsection.</text>
+      <text>In any Code amendment, the drafter shall take time to eliminate duplicative provisions in a particular chapter, subchapter, section, or subsection.</text>
     </para>
     <para>
       <num>(c)</num>
@@ -22,7 +22,7 @@
     </para>
     <para>
       <num>(d)</num>
-      <text>The City Clerk's Office is responsible for the final formatting of all ordinances and for the publication of ordinances, or ordinance summaries, as required by the city's charter.</text>
+      <text>The Lac Courte Oreilles Office of the Attorney General is responsible for the final formatting of all resolutions and for the publication of resolutions.</text>
     </para>
   </section>
   <section>
@@ -34,32 +34,26 @@
       <text>Page layout.</text>
       <para>
         <num>(1)</num>
-        <text>Top, Left, &amp; Right margins at .75, Bottom at .50</text>
+        <text>Bottom, Left, &amp; Right margins at 1", Bottom at 0.4"</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Text is formatted to be ragged right.</text>
+        <text>Text is formatted to be justified</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>Font is Calibri at 11 pt.</text>
+        <text>Font is Times New Roman at 12 pt.</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>Line spacing shall be 1.15 and a blank line shall follow each paragraph.</text>
+        <text>Line spacing shall be 1.0 and a blank line shall follow each paragraph.</text>
       </para>
       <para>
         <num>(5)</num>
-        <text>Page numbers shall be at the top of all pages starting on page 2, Calibri Italic, 11 point, .50 margin from the top, left &amp; right margins at .75 as follows:</text>
+        <text>Page numbers shall be at the top of all pages starting on page 2, Calibri Italic, 11 point, .50 margin from the top, left &amp; right margins at 1" as follows:</text>
         <include>
-          <text>
-            <em>Ordinance No. YYYY-#</em>
-          </text>
-          <text>
-            <em>
-              <u>Title of Ordinance Page # of #</u>
-            </em>
-          </text>
+          <text>Resolution No. <u>YYYY-#</u></text>
+          <text>Page # of #</text>
         </include>
       </para>
     </para>
@@ -68,11 +62,11 @@
       <heading>Grammar, Punctuation, Capitalization.</heading>
       <para>
         <num>(1)</num>
-        <text>"Title", "Chapter", "Article", and "Section" shall be capitalized. Subsection shall be lower-case.</text>
+        <text>"Title", "Chapter", "Subchapter", and "Section" shall be capitalized. Subsection shall be lower-case.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Capitalize "City Council" and "City" if referring to City of San Mateo; "Code" when referring to City of San Mateo Municipal Code; "County" when referring to San Mateo County; "State" when referring to the State of California; "Federal" when referring to the United States.</text>
+        <text>Capitalize "Tribal Governing Board" and "Tribe" if referring to the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin; "Code" when referring to Lac Courte Oreilles Tribal Code of Law; "State" when referring to the State of Wisconsin; "Federal" when referring to the United States.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -100,26 +94,21 @@
       <heading>Citations.</heading>
       <para>
         <num>(1)</num>
-        <text>All citations shall follow the California Style Manual Fourth Edition (<a href="http://www.sdap.org/downloads/Style-Manual.pdf">http://www.sdap.org/downloads/Style-Manual.pdf</a>). If this manual conflicts with the California Style Manual, this manual will control.  The following may be used for City of San Mateo documents:</text>
+        <text>The following may be used for Lac Courte Oreilles documents:</text>
         <para>
           <num>(A)</num>
-          <heading>City of San Mateo Municipal Code:</heading>
-          <text>"the City Code", or "the San Mateo Municipal Code", or "this Code" (as applicable).</text>
+          <heading>Lac Courte Oreilles Tribal Code of Law:</heading>
+          <text>"the Tribal Code", or "LCOTCL", or "this Code" (as applicable).</text>
         </para>
         <para>
           <num>(B)</num>
-          <heading>City Charter of the City of San Mateo:</heading>
-          <text>"the City Charter", or "this Charter" (as applicable);</text>
+          <heading>Amended Constitution and Bylaws of the Lac Courte Oreilles Tribe of Lake Superior Chippewa Indians:</heading>
+          <text>"Tribal Constitution", or "LCO Constitution" (as applicable);</text>
         </para>
         <para>
           <num>(C)</num>
-          <heading>City of San Mateo Ordinance:</heading>
-          <text>"Ord. No. YYYY-XX" or "this Ordinance" (as applicable);</text>
-        </para>
-        <para>
-          <num>(D)</num>
-          <heading>City of San Mateo Resolution:</heading>
-          <text>"Resolution No. XX (YYYY)</text>
+          <heading>Tribal Governing Board Resolution:</heading>
+          <text>"Resolution No. YYYY-XX" or "this Resolution" (as applicable);</text>
         </para>
       </para>
     </para>
@@ -132,7 +121,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>All references to an obligation by the City or by an employee or an officer of the City shall use the term "may".</text>
+        <text>All references to an obligation by the Tribe or by an employee or an officer of the Tribe shall use the term "may".</text>
       </para>
       <para>
         <num>(3)</num>
@@ -141,10 +130,6 @@
       <para>
         <num>(4)</num>
         <text>Remember that the heading of an ordinance, such as "Density Limit" or "Tax To Be Paid", is not a part of an ordinance itself, so if that heading wording is to be part of the ordinance, it has to be placed in the text itself.</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>Proposal must account for general definitions found in the title itself; often those definitions, which are binding on all sections in the title, will alter the meaning that the drafter intended.  For example, lot is defined as a creation under the Subdivision Map Act in <cite doc="City of San Mateo, Cal., Code" path="27">Title 27</cite>, but it is often used to mean any unit of land.</text>
       </para>
     </para>
     <para>
@@ -224,7 +209,7 @@
       <heading>Titles.</heading>
       <para>
         <num>(1)</num>
-        <text>Titles shall be numbered with sequential Arabic numerals: "Title &lt;title num&gt;".</text>
+        <text>Titles shall be "numbered" with three capitalized letters: "Title &lt;title num&gt;".</text>
       </para>
       <para>
         <num>(2)</num>
@@ -240,7 +225,7 @@
       <heading>Chapters.</heading>
       <para>
         <num>(1)</num>
-        <text>Chapters shall be numbered with two zero-padded sequential Arabic numerals: "Chapter &lt;title num&gt;.&lt;chapter num&gt;".</text>
+        <text>Chapters shall be numbered with  sequential Arabic numerals: "Chapter &lt;title num&gt;.&lt;chapter num&gt;".</text>
       </para>
       <para>
         <num>(2)</num>
@@ -257,10 +242,10 @@
     </para>
     <para>
       <num>(c)</num>
-      <heading>Articles.</heading>
+      <heading>Subchapters.</heading>
       <para>
         <num>(1)</num>
-        <text>Articles shall be numbered with two zero-padded sequential Arabic numerals: "Article &lt;article num&gt;".</text>
+        <text>Subchapters shall be numbered with sequential Arabic numerals: "Subchapter &lt;title num&gt;.&lt;chapter num&gt;.&lt;Subchapter num&gt;".</text>
       </para>
       <para>
         <num>(2)</num>
@@ -268,7 +253,23 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Article num and title shall be centered and bold.</text>
+        <text>Subchapter num and title shall be centered and bold.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Parts.</heading>
+      <para>
+        <num>(1)</num>
+        <text>Parts shall be numbered with two zero-padded sequential Arabic numerals: "Part &lt;part num&gt;".</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A title case title is required without a trailing period.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Part num and title shall be centered and bold.</text>
       </para>
     </para>
     <para>
@@ -276,7 +277,7 @@
       <heading>Sections.</heading>
       <para>
         <num>(1)</num>
-        <text>Sections shall be numbered with three zero-padded Arabic numerals in sequential multiples of ten: "&lt;title num&gt;.&lt;chapter num&gt;.&lt;section num&gt;".</text>
+        <text>Sections shall be numbered with three zero-padded Arabic numerals in sequential multiples of ten: "&lt;title num&gt;.&lt;chapter num&gt;.Subchapter num&gt;.&lt;section num&gt;".</text>
       </para>
       <para>
         <num>(2)</num>
@@ -289,18 +290,6 @@
       <para>
         <num>(4)</num>
         <text>Section text shall start on a new line following the title.</text>
-      </para>
-    </para>
-    <para>
-      <num>(e)</num>
-      <heading>Citations.</heading>
-      <para>
-        <num>(1)</num>
-        <text>There shall be no reference in the Code to an Ordinance.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Statutes of the State or Federal government may be referred to when, and only when, they are not to be codified.  For example, the City's tidelands trust grant is in a statute that will not be codified; however, laws regarding State redevelopment will almost always be codified in either the <cite doc="Cal. Gov't Code">Government Code</cite> or the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite>.</text>
       </para>
     </para>
   </section>
