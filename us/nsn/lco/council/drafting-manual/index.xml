@@ -18,7 +18,7 @@
     </para>
     <para>
       <num>(c)</num>
-      <text>The drafter shall consider powers and duties of boards, commissions, or officers, as defined, and if new responsibility is proposed, appropriate amendment should be made.</text>
+      <text>The drafter shall consider powers and duties of boards, commissions, or officers, as defined, and if a new responsibility is proposed, an appropriate amendment should be made.</text>
     </para>
     <para>
       <num>(d)</num>
@@ -31,14 +31,14 @@
     <text/>
     <para>
       <num>(a)</num>
-      <text>Page layout.</text>
+      <heading>Page layout.</heading>
       <para>
         <num>(1)</num>
         <text>Bottom, Left, &amp; Right margins at 1", Bottom at 0.4"</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Text is formatted to be justified</text>
+        <text>Text is formatted to be ragged right</text>
       </para>
       <para>
         <num>(3)</num>
@@ -50,7 +50,7 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>Page numbers shall be at the top of all pages starting on page 2, Calibri Italic, 11 point, .50 margin from the top, left &amp; right margins at 1" as follows:</text>
+        <text>Page numbers shall be at the top of all pages starting on page 2, Times New Roman, 12 point, .50 margin from the top, left &amp; right margins at 1" as follows:</text>
         <include>
           <text>Resolution No. <u>YYYY-#</u></text>
           <text>Page # of #</text>
@@ -108,13 +108,13 @@
         <para>
           <num>(C)</num>
           <heading>Tribal Governing Board Resolution:</heading>
-          <text>"Resolution No. YYYY-XX" or "this Resolution" (as applicable);</text>
+          <text>"Resolution No. YYYY-#" or "this Resolution" (as applicable);</text>
         </para>
       </para>
     </para>
     <para>
       <num>(d)</num>
-      <text>Drafting Terms and Phrases.</text>
+      <heading>Drafting Terms and Phrases.</heading>
       <para>
         <num>(1)</num>
         <text>Only "shall" is enforceable. Neither "must" nor "will" shall be used to indicate imperative.</text>
@@ -196,7 +196,7 @@
       <para>
         <num>(4)</num>
         <heading>Lists.</heading>
-        <text>When a series of subsections are to be construed together as a list, all except the last shall end with a semicolon. A conjunction, such as "or" or "and" shall be placed after the semicolon of the next-to-last subsection. The last subsection shall end with a period.</text>
+        <text>When a multiple subsections are to be construed together as a list, all except the last shall end with a semicolon. A conjunction, such as "or" or "and" shall be placed after the semicolon of the next-to-last subsection. The last subsection shall end with a period.</text>
       </para>
     </para>
   </section>
@@ -245,7 +245,7 @@
       <heading>Subchapters.</heading>
       <para>
         <num>(1)</num>
-        <text>Subchapters shall be numbered with sequential Arabic numerals: "Subchapter &lt;title num&gt;.&lt;chapter num&gt;.&lt;Subchapter num&gt;".</text>
+        <text>Subchapters shall be numbered with sequential Arabic numerals: "Subchapter &lt;title num&gt;.&lt;chapter num&gt;.&lt;subchapter num&gt;".</text>
       </para>
       <para>
         <num>(2)</num>
@@ -277,7 +277,7 @@
       <heading>Sections.</heading>
       <para>
         <num>(1)</num>
-        <text>Sections shall be numbered with three zero-padded Arabic numerals in sequential multiples of ten: "&lt;title num&gt;.&lt;chapter num&gt;.Subchapter num&gt;.&lt;section num&gt;".</text>
+        <text>Sections shall be numbered with three zero-padded Arabic numerals in sequential multiples of ten: "&lt;title num&gt;.&lt;chapter num&gt;.&lt;subchapter num&gt;.&lt;section num&gt;".</text>
       </para>
       <para>
         <num>(2)</num>
@@ -295,7 +295,7 @@
   </section>
   <section>
     <num>4</num>
-    <heading>Ordinance guidelines.</heading>
+    <heading>Resolution guidelines.</heading>
     <text/>
     <para>
       <num>(a)</num>
@@ -305,32 +305,61 @@
         <text>The banner and title shall be in the following form:</text>
         <include>
           <text class="center">
-            <strong>"CITY OF SAN MATEO"</strong>
+            <strong>Resolution No. YYYY-#</strong>
           </text>
           <text class="center">
-            <strong>"ORDINANCE NO. YYYY-XX"</strong>
-          </text>
-          <text class="center">
-            <strong>"&lt;Title&gt;"</strong>
+            <strong>&lt;Title&gt;</strong>
           </text>
         </include>
       </para>
       <para>
         <num>(2)</num>
-        <text>The title shall be in title-case and start with an action (Adopt, Add, Repeal, Amend) followed by municipal code section, chapter number, then title in quotations.  The title shall provide a succinct unbiased description of the contents of the ordinance.</text>
+        <text>The title shall be in title-case and start with an action (Amendment, Establishment, Ratification, Repeal) followed by "of" and then "Title &lt;title num&gt;, Chapter &lt;chapter num&gt;" with the title number and chapter number corresponding to the Code Title and Chapter affected. The title shall then end with "of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law".</text>
       </para>
     </para>
     <para>
       <num>(b)</num>
       <heading>Recitals.</heading>
-      <text>Leading conjunctions shall be all-caps and un-bolded. The last recital shall be followed by:</text>
-      <include>
-        <text>NOW, THEREFORE, THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
-      </include>
+      <para>
+        <num>(1)</num>
+        <text>Leading conjunctions shall be all-caps and bolded. The last recital shall be followed by:</text>
+        <include>
+          <text><strong>"NOW, THEREFORE, BE IT RESOLVED:"</strong>, and (optionally);</text>
+        </include>
+        <include>
+          <text><strong>"NOW, THEREFORE, BE IT FINALLY RESOLVED:"</strong></text>
+        </include>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Mandatory Recitals.</heading>
+        <text>The following recitals shall be included as the first three recitals of every resolution:</text>
+        <para>
+          <num>(A)</num>
+          <heading>Federally Recognized Tribe.</heading>
+          <include>
+            <text><strong>WHEREAS,</strong> the Lac Courte Oreilles Band of Lake Superior Chippewa Indians (“Tribe”) is a federally recognized Indian tribe organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. § 5101, et seq.; and</text>
+          </include>
+        </para>
+        <para>
+          <num>(B)</num>
+          <heading>Tribal Governing Board.</heading>
+          <include>
+            <text><strong>WHEREAS,</strong> the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to Article III, Section 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians; and </text>
+          </include>
+        </para>
+        <para>
+          <num>(C)</num>
+          <heading>Powers of the Tribal Governing Board.</heading>
+          <include>
+            <text><strong>WHEREAS,</strong> pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(l)">Article V, Section 1(l)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(m)">(m)</cite> of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: “organize, charter and regulate any association or group, including a housing authority, for the purpose of providing social or economic benefits to the members of the Band or residents of the reservation” <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(l)">Article V, Section 1 (l)</cite>;  and “delegate to subordinate boards, officers, committees or cooperative associations which are open to all members of the Band any of the foregoing powers, reserving the right to review any action taken by virtue of such delegated powers” <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(m)">Article V, Section 1 (m)</cite>.</text>
+          </include>
+        </para>
+      </para>
     </para>
     <para>
       <num>(c)</num>
-      <text>Sections.</text>
+      <heading>Sections.</heading>
       <para>
         <num>(1)</num>
         <text>Sections shall be numbered with sequential Arabic numerals and a trailing period: "Section &lt;section num&gt;.".</text>
@@ -359,49 +388,6 @@
         <num>(4)</num>
         <text>Text shall continue on same line as the section number.</text>
       </para>
-      <para>
-        <num>(5)</num>
-        <heading>Mandatory Sections.</heading>
-        <text>The following sections shall be included as the last four sections of every ordinance:</text>
-        <para>
-          <num>(A)</num>
-          <heading>Environmental Determination.</heading>
-          <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section XXXXX(x)(x), this action….</text>
-        </para>
-        <para>
-          <num>(B)</num>
-          <heading>Severability.</heading>
-          <text>In the event any section, clause or provision of <cite doc="City of San Mateo, Cal., Code" path="4">this chapter</cite> shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
-        </para>
-        <para>
-          <num>(C)</num>
-          <heading>Publication.</heading>
-          <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
-        </para>
-        <para>
-          <num>(D)</num>
-          <heading>Legislative History and Effective Date.</heading>
-          <text>This Ordinance was introduced on Month date, year, and adopted on Month date, year, and shall be effective 30 days after its date of adoption.</text>
-        </para>
-        <para>
-          <num>(E)</num>
-          <text>City Clerk will insert Vote, Attest, Signature Block as follows:</text>
-          <include>
-            <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
-            <text>AYES: XXX, YYY, and ZZZ</text>
-            <text>NOES: None</text>
-            <text>ABSENT: None</text>
-            <text>ATTEST:</text>
-            <text>______________________________ ______________________________</text>
-            <text>Patrice M. Olds, City Clerk    _________, Mayor</text>
-          </include>
-        </para>
-      </para>
-      <para>
-        <num>(6)</num>
-        <heading>Conforming Amendments.</heading>
-        <text>If conforming amendments are required, they shall be included in the ultimate section before the Mandatory Sections defined in subsection (5).</text>
-      </para>
     </para>
     <para>
       <num>(d)</num>
@@ -413,60 +399,97 @@
         <para>
           <num>(A)</num>
           <heading>Add:</heading>
-          <text>'Chapter XX.YY of the San Mateo Municipal Code is added to Title XX as follows:'</text>
+          <text>'Chapter WWW.X of the Lac Courte Oreilles Tribal Code of Law is added to Title WWW as follows:'</text>
         </para>
         <para>
           <num>(B)</num>
           <heading>Repeal:</heading>
-          <text>'Chapter XX.YY of the San Mateo Municipal Code is repealed.'</text>
+          <text>'Chapter WWW.X of the Lac Courte Oreilles Tribal Code of Law is repealed.'</text>
         </para>
         <para>
           <num>(C)</num>
           <heading>Amend:</heading>
-          <text>Amendment of a Chapter in its entirety is prohibited. Instead create, amend, and repeal the appropriate sections. To amend a chapter title: 'The title of Chapter XX.YY of the San Mateo Municipal Code is amended as follows: "Chapter Title".'</text>
+          <text>Amendment of a Chapter in its entirety is prohibited. Instead create, amend, and repeal the appropriate sections. To amend a Chapter title: 'The title of Chapter WWW.X of the Lac Courte Oreilles Tribal Code of Law is amended as follows: "Chapter Title".'</text>
         </para>
       </para>
       <para>
         <num>(2)</num>
-        <heading>Section.</heading>
+        <heading>Subchapter.</heading>
         <para>
           <num>(A)</num>
           <heading>Add:</heading>
-          <text>When inserting a section between two existing sections, the section should use the number closest to the midpoint between the numbers of the neighboring sections. 'Section XX.YY.ZZZ of the San Mateo Municipal Code is added to Chapter XX.YY as follows:'</text>
+          <text>'Subchapter WWW.X.Y of the Lac Courte Oreilles Tribal Code of Law is added to Chapter WWW.X as follows:'</text>
         </para>
         <para>
           <num>(B)</num>
           <heading>Repeal:</heading>
-          <text>'Section XX.YY.ZZZ of the San Mateo Municipal Code is repealed.'</text>
+          <text>'Subchapter WWW.X.Y of the Lac Courte Oreilles Tribal Code of Law is repealed.'</text>
         </para>
         <para>
           <num>(C)</num>
           <heading>Amend:</heading>
-          <text>'Section XX.YY.ZZZ of the San Mateo Municipal Code is amended as follows:'</text>
+          <text>Amendment of a Subchapter in its entirety is prohibited. Instead create, amend, and repeal the appropriate sections. To amend a Subchapter title: 'The title of Subchapter WWW.X.Y of the Lac Courte Oreilles Tribal Code of Law is amended as follows: "Subchapter Title".'</text>
         </para>
       </para>
       <para>
         <num>(3)</num>
-        <heading>Subsection.</heading>
+        <heading>Section.</heading>
         <para>
           <num>(A)</num>
           <heading>Add:</heading>
-          <text>'Subsection (AA)(…) of Section XX.YY.ZZZ of the San Mateo Municipal Code is added to Section XX.YY.ZZZ(…) as follows:'</text>
+          <text>When inserting a section between two existing sections, the section should use the number closest to the midpoint between the numbers of the neighboring sections. 'Section WWW.X.Y.ZZZ of the Lac Courte Oreilles Tribal Code of Law is added to Subchapter WWW.X.Y as follows:'</text>
         </para>
         <para>
           <num>(B)</num>
           <heading>Repeal:</heading>
-          <text>'Subsection (AA)(…) of Section XX.YY.ZZZ of the San Mateo Municipal Code is repealed.'</text>
+          <text>'Section WWW.X.Y.ZZZ of the Lac Courte Oreilles Tribal Code of Law is repealed.'</text>
         </para>
         <para>
           <num>(C)</num>
           <heading>Amend:</heading>
-          <text>'Subsection (AA)(…) of Section XX.YY.ZZZ of the San Mateo Municipal Code is amended as follows:'</text>
+          <text>'Section WWW.X.Y.ZZZ of the Lac Courte Oreilles Tribal Code of Law is amended as follows:'</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <heading>Subsection.</heading>
+        <para>
+          <num>(A)</num>
+          <heading>Add:</heading>
+          <text>'Subsection (AA)(…) of Section WWW.X.Y.ZZZ of the Lac Courte Oreilles Tribal Code of Law is added to Section WWW.X.Y.ZZZ(…) as follows:'</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <heading>Repeal:</heading>
+          <text>'Subsection (AA)(…) of Section WWW.X.Y.ZZZ of the Lac Courte Oreilles Tribal Code of Law is repealed.'</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <heading>Amend:</heading>
+          <text>'Subsection (AA)(…) of Section WWW.X.Y.ZZZ of the Lac Courte Oreilles Tribal Code of Law is amended as follows:'</text>
         </para>
       </para>
     </para>
     <para>
       <num>(e)</num>
+      <heading>Certification.</heading>
+      <para>
+        <num>(1)</num>
+        <text>The Certification shall be in the following form:</text>
+        <include>
+          <text class="center">
+            <strong>Certification</strong>
+          </text>
+          <text> I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom _ being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>&lt;day&gt; day of &lt;month&gt;, &lt;year&gt;</u></strong>; that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of __ members, __ against, __ abstaining, that said resolution will become effective on <strong><u>&lt;day&gt; day of &lt;month&gt;, &lt;year&gt;</u></strong>, and that said Resolution has not been rescinded or amended in any way.
+          </text>
+          <text>__________________________________________</text>
+          <text>&lt;name&gt;, Secretary/Treasurer</text>
+          <text>Lac Courte Oreilles Tribal Governing Board</text>
+        </include>
+      </para>
+    </para>
+    <para>
+      <num>(f)</num>
       <heading>Amendment of existing code.</heading>
       <text>When an existing section of the code that does not conform to this manual is amended, the section shall be amended in its entirety to bring it into conformance with this manual.</text>
     </para>
