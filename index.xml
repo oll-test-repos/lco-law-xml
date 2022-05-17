@@ -19,6 +19,7 @@
   <collection name="us/nsn/lco/council/resolutions">
     <heading>Tribal Governing Board Resolutions</heading>
     <text>Resolutions impacting the Lac Courte Oreilles Tribal Code are provided for reference and the convenience of Lac Courte Oreilles Tribal Law Library users. The list of resolutions for changes prior to codification in 2022 may be incomplete.</text>
+    <xi:include href="./us/nsn/lco/council/resolutions/2022/index.xml"/>
     <xi:include href="./us/nsn/lco/council/resolutions/2021/index.xml"/>
     <xi:include href="./us/nsn/lco/council/resolutions/2020/index.xml"/>
     <xi:include href="./us/nsn/lco/council/resolutions/2019/index.xml"/>
