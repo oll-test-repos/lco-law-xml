@@ -411,6 +411,16 @@
           <heading>Amend:</heading>
           <text>Amendment of a Chapter in its entirety is prohibited. Instead create, amend, and repeal the appropriate sections. To amend a Chapter title: 'The title of Chapter WWW.X of the Lac Courte Oreilles Tribal Code of Law is amended as follows: "Chapter Title".'</text>
         </para>
+        <para>
+          <num>(D)</num>
+          <heading>Redesignate:</heading>
+          <text>'Chapter WWW.X of the Lac Courte Oreilles Tribal Code of Law is redesignated as Chapter AAA.B'</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <heading>Redesignate and Amend:</heading>
+          <text>'Chapter WWW.X of the Lac Courte Oreilles Tribal Code of Law is redesignated as Chapter AAA.B and amended as follows:'</text>
+        </para>
       </para>
       <para>
         <num>(2)</num>
@@ -429,6 +439,16 @@
           <num>(C)</num>
           <heading>Amend:</heading>
           <text>Amendment of a Subchapter in its entirety is prohibited. Instead create, amend, and repeal the appropriate sections. To amend a Subchapter title: 'The title of Subchapter WWW.X.Y of the Lac Courte Oreilles Tribal Code of Law is amended as follows: "Subchapter Title".'</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <heading>Redesignate:</heading>
+          <text>'Subchapter WWW.X.Y of the Lac Courte Oreilles Tribal Code of Law is redesignated as Subchapter AAA.B.C'</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <heading>Redesignate and Amend:</heading>
+          <text>'Subchapter WWW.X.Y of the Lac Courte Oreilles Tribal Code of Law is redesignated as Subchapter AAA.B.C and amended as follows:'</text>
         </para>
       </para>
       <para>
@@ -449,6 +469,16 @@
           <heading>Amend:</heading>
           <text>'Section WWW.X.Y.ZZZ of the Lac Courte Oreilles Tribal Code of Law is amended as follows:'</text>
         </para>
+        <para>
+          <num>(D)</num>
+          <heading>Redesignate:</heading>
+          <text>'Section WWW.X.Y.ZZZ of the Lac Courte Oreilles Tribal Code of Law is redesignated as Section AAA.B.C.DDD'</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <heading>Redesignate and Amend:</heading>
+          <text>'Section WWW.X.Y.ZZZ of the Lac Courte Oreilles Tribal Code of Law is redesignated as Section AAA.B.C.DDD and amended as follows:'</text>
+        </para>
       </para>
       <para>
         <num>(4)</num>
@@ -467,6 +497,16 @@
           <num>(C)</num>
           <heading>Amend:</heading>
           <text>'Subsection (AA)(…) of Section WWW.X.Y.ZZZ of the Lac Courte Oreilles Tribal Code of Law is amended as follows:'</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <heading>Redesignate:</heading>
+          <text>'Subsection (AA)(…) of Section WWW.X.Y.ZZZ of the Lac Courte Oreilles Tribal Code of Law is redesignated as Subsection (BB)(…) of Section WWW.X.Y.ZZZ'</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <heading>Redesignate and Amend:</heading>
+          <text>'Subsection (AA)(…) of Section WWW.X.Y.ZZZ of the Lac Courte Oreilles Tribal Code of Law is redesignated as Subsection (BB)(…) of Section WWW.X.Y.ZZZ and amended as follows:'</text>
         </para>
       </para>
     </para>
