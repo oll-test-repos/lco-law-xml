@@ -34,5 +34,12 @@
     <xi:include href="./us/nsn/lco/council/resolutions/2004/index.xml"/>
     <xi:include href="./us/nsn/lco/council/resolutions/1990/index.xml"/>
   </collection>
+  <collection name="us/nsn/lco/council/treaties">
+    <heading>Treaties</heading>
+    <xi:include href="./us/nsn/lco/council/treaties/1854/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/treaties/1842/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/treaties/1837/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/treaties/1825/index.xml"/>
+  </collection>
   <xi:include href="./us/nsn/lco/council/drafting-manual/index.xml"/>
 </library>
