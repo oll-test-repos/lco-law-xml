@@ -1133,7 +1133,7 @@
       </section>
       <section>
         <num>CMP.1.5.030</num>
-        <heading>Tribal Class Iii Games-General Regulations</heading>
+        <heading>Tribal Class III Games-General Regulations</heading>
         <para>
           <num>(a)</num>
           <text>The Tribe may not hire, employ or enter into a contract for services relating to Class III gaming with any person, or entity which employs a person who:</text>
@@ -5781,7 +5781,7 @@
       <container>
         <num>1</num>
         <heading>General Provisions for Tribally-Owned LLC's</heading>
-        <prefix/>
+        <prefix>Part</prefix>
         <section>
           <num>CMP.4.9.010</num>
           <heading>Tribally-Owned Companies</heading>
@@ -5859,7 +5859,7 @@
       <container>
         <num>2</num>
         <heading>Special Formation Requirements for Tribally-Owned LLC's</heading>
-        <prefix/>
+        <prefix>Part</prefix>
         <section>
           <num>CMP.4.9.080</num>
           <heading>Formation</heading>
@@ -5920,7 +5920,7 @@
       <container>
         <num>3</num>
         <heading>Management of Tribally-Owned LLC's</heading>
-        <prefix/>
+        <prefix>Part</prefix>
         <section>
           <num>CMP.4.9.100</num>
           <heading>Management</heading>
@@ -5955,7 +5955,7 @@
       <container>
         <num>4</num>
         <heading>Decisions and Voting for Tribally-Owned LLC's</heading>
-        <prefix/>
+        <prefix>Part</prefix>
         <section>
           <num>CMP.4.9.120</num>
           <heading>Voting</heading>
@@ -5973,7 +5973,7 @@
       <container>
         <num>5</num>
         <heading>Distributions for Tribally-Owned LLC's</heading>
-        <prefix/>
+        <prefix>Part</prefix>
         <section>
           <num>CMP.4.9.130</num>
           <heading>Distributions of Income</heading>
@@ -5991,7 +5991,7 @@
       <container>
         <num>6</num>
         <heading>Additional Reports and Audits</heading>
-        <prefix/>
+        <prefix>Part</prefix>
         <section>
           <num>CMP.4.9.140</num>
           <heading>Audit</heading>
@@ -6020,7 +6020,7 @@
       <container>
         <num>7</num>
         <heading>Actions Against Tribally-Owned LLC's</heading>
-        <prefix/>
+        <prefix>Part</prefix>
         <section>
           <num>CMP.4.9.160</num>
           <heading>Court Actions by a Tribe Authorized</heading>

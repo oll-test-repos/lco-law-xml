@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-48">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-48" codify:doc="Lac Courte Oreilles Tribal Code of Law">
   <num>2022-48</num>
   <heading>Amendment to Compensatory Time Sections of All Chapters under Title XIV of the LCOTCL</heading>
   <meta>
@@ -37,6 +37,18 @@
       <text>that this amendment shall remove the above language from all Sections titled "Compensatory Time" in all Chapters under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="XIV">Title XIV</cite>, of the LCOTCL.</text>
     </recital>
   </recitals>
+  <codify:find-replace path="§PAP.1.6.040|(a)">
+    <find>The Human Resource Director, or designee, will classify and consistently review the classification of employees as either Exempt or Non-exempt. Exempt employees are compensated on a salary basis and will not accrue compensatory time for hours worked in excess of forty (40) hours in a workweek. Non-exempt employees will accrue, in lieu of overtime compensation, compensatory time for authorized hours worked in excess of forty (40) hours in a workweek. Time paid for PTO or other paid leave does not count as hours worked for purposes of calculating compensatory in a work week.</find>
+    <replace>The Human Resource Director, or designee, will classify and consistently review the classification of employees as either Exempt or Non-exempt. Exempt employees are compensated on a salary basis and will not accrue compensatory time for hours worked in excess of forty (40) hours in a workweek. Non-exempt employees will accrue, in lieu of overtime compensation, compensatory time for authorized hours worked in excess of forty (40) hours in a workweek.</replace>
+  </codify:find-replace>
+  <codify:find-replace path="§PAP.4.6.040|(a)">
+    <find>The LCOHA Human Resource Director, or designee, will classify and consistently review the classification of employees as either Exempt or Non-exempt. Exempt employees are compensated on a salary basis and will not accrue compensatory time or overtime for hours worked in excess of forty (40) hours in a workweek. Non-exempt employees will accrue, in lieu of overtime compensation, compensatory time for authorized hours worked in excess of forty (40) hours in a workweek. Time paid for PTO or other paid leave does not count as hours worked for purposes of calculating compensatory in a work week.</find>
+    <replace>The LCOHA Human Resource Director, or designee, will classify and consistently review the classification of employees as either Exempt or Non-exempt. Exempt employees are compensated on a salary basis and will not accrue compensatory time or overtime for hours worked in excess of forty (40) hours in a workweek. Non-exempt employees will accrue, in lieu of overtime compensation, compensatory time for authorized hours worked in excess of forty (40) hours in a workweek.</replace>
+  </codify:find-replace>
+  <codify:find-replace path="§PAP.5.6.040|(a)">
+    <find>The Human Resource Director, or designee, will classify and consistently review the classification of employees as either Exempt or Non-exempt. Exempt employees are compensated on a salary basis and will not accrue compensatory time for hours worked in excess of forty (40) hours in a workweek. Non-exempt employees will accrue, in lieu of overtime compensation, compensatory time for authorized hours worked in excess of forty (40) hours in a workweek. Time paid for PTO or other paid leave does not count as hours worked for purposes of calculating compensatory in a work week.</find>
+    <replace>The Human Resource Director, or designee, will classify and consistently review the classification of employees as either Exempt or Non-exempt. Exempt employees are compensated on a salary basis and will not accrue compensatory time for hours worked in excess of forty (40) hours in a workweek. Non-exempt employees will accrue, in lieu of overtime compensation, compensatory time for authorized hours worked in excess of forty (40) hours in a workweek.</replace>
+  </codify:find-replace>
   <procedural-data>
     <text class="center">
       <strong>CERTIFICATION</strong>

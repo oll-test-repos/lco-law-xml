@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2021-4">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2021-4" codify:doc="Lac Courte Oreilles Tribal Code of Law">
   <num>2021-4</num>
   <heading>Amendment of Title XI, Chapter 7 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law Housing Authority Code</heading>
   <meta>
@@ -59,8 +59,20 @@
     <strong>Amended Subsection:</strong>
   </text>
   <text>(5) No person shall be allowed admission to housing, either as head of household or other member of household, who has been convicted of the illegal manufacture, sale, or distribution of a controlled substance, or possession with intent to manufacture, sell, or distribute a controlled substance, unless granted pardon and forgiveness;</text>
+  <codify:find-replace path="§PRP.7.5.060|(e)">
+    <find>No person shall be allowed admission to housing, either as head of household or other member of household, who has been convicted of the illegal manufacture, sale, or distribution of a controlled substance, or possession with intent to manufacture, sell, or distribute a controlled substance;</find>
+    <replace>No person shall be allowed admission to housing, either as head of household or other member of household, who has been convicted of the illegal manufacture, sale, or distribution of a controlled substance, or possession with intent to manufacture, sell, or distribute a controlled substance, unless granted pardon and forgiveness;</replace>
+  </codify:find-replace>
   <text>(6) No person shall be allowed admission to housing, either as head of household or other member of household, who has been convicted with use or possession of a controlled substance with intent to deliver, for a period of five-years after the date of the charge or is granted a waiver pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="III|6">Title III, Chapter 6</cite> of the LCOTCL – Pardon and Forgiveness Code;</text>
+  <codify:find-replace path="§PRP.7.5.060|(f)">
+    <find>No person shall be allowed admission to housing, either as head of household or other member of household, who has been convicted with use or possession of a controlled substance with intent to deliver, for a period of five-years after the date of the charge and a grant of a waiver pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="III|6">Title III, Chapter 6</cite> of the LCOTCL – Pardon and Forgiveness Code;</find>
+    <replace>No person shall be allowed admission to housing, either as head of household or other member of household, who has been convicted with use or possession of a controlled substance with intent to deliver, for a period of five-years after the date of the charge or is granted a waiver pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.6">Chapter MCC.6</cite> of the LCOTCL – Pardon and Forgiveness Code;</replace>
+  </codify:find-replace>
   <text>(7) No person shall be allowed admission to housing, either as head of household or other member of household, who has been charged with use or possession of a controlled substance or drug paraphernalia, for a period of three years after the date of the charge or is granted a waiver pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="III|6">Title III, Chapter 6</cite> of the LCOTCL – Pardon and Forgiveness Code;</text>
+  <codify:find-replace path="§PRP.7.5.060|(g)">
+    <find>No person shall be allowed admission to housing, either as head of household or other member of household, who has been charged with use or possession of a controlled substance or drug paraphernalia, for a period of three years after the date of the charge and granted a waiver pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="III|6">Title III, Chapter 6</cite> of the LCOTCL – Pardon and Forgiveness Code;</find>
+    <replace>No person shall be allowed admission to housing, either as head of household or other member of household, who has been charged with use or possession of a controlled substance or drug paraphernalia, for a period of three years after the date of the charge or is granted a waiver pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.6">Chapter MCC.6</cite> of the LCOTCL – Pardon and Forgiveness Code;</replace>
+  </codify:find-replace>
   <procedural-data>
     <text class="center">
       <strong>CERTIFICATION</strong>
