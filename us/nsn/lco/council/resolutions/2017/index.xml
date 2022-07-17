@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="2017">
   <heading>2017 Governing Board Resolutions</heading>
-  <xi:include href="./17-02.xml"/>
-  <xi:include href="./17-11.xml"/>
-  <xi:include href="./17-12.xml"/>
-  <xi:include href="./17-13.xml"/>
-  <xi:include href="./17-14.xml"/>
-  <xi:include href="./17-15.xml"/>
-  <xi:include href="./17-35.xml"/>
-  <xi:include href="./17-36.xml"/>
-  <xi:include href="./17-41.xml"/>
-  <xi:include href="./17-45.xml"/>
-  <xi:include href="./17-46.xml"/>
-  <xi:include href="./17-53.xml"/>
-  <xi:include href="./17-71.xml"/>
-  <xi:include href="./17-87.xml"/>
-  <xi:include href="./17-91.xml"/>
-  <xi:include href="./17-109.xml"/>
-  <xi:include href="./17-122.xml"/>
-  <xi:include href="./17-128.xml"/>
-  <xi:include href="./17-129.xml"/>
-  <xi:include href="./17-130.xml"/>
   <xi:include href="./17-136.xml"/>
+  <xi:include href="./17-130.xml"/>
+  <xi:include href="./17-129.xml"/>
+  <xi:include href="./17-128.xml"/>
+  <xi:include href="./17-122.xml"/>
+  <xi:include href="./17-109.xml"/>
+  <xi:include href="./17-91.xml"/>
+  <xi:include href="./17-87.xml"/>
+  <xi:include href="./17-71.xml"/>
+  <xi:include href="./17-53.xml"/>
+  <xi:include href="./17-46.xml"/>
+  <xi:include href="./17-45.xml"/>
+  <xi:include href="./17-41.xml"/>
+  <xi:include href="./17-36.xml"/>
+  <xi:include href="./17-35.xml"/>
+  <xi:include href="./17-15.xml"/>
+  <xi:include href="./17-14.xml"/>
+  <xi:include href="./17-13.xml"/>
+  <xi:include href="./17-12.xml"/>
+  <xi:include href="./17-11.xml"/>
+  <xi:include href="./17-02.xml"/>
 </collection>

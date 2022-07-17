@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="2018">
   <heading>2018 Governing Board Resolutions</heading>
-  <xi:include href="./18-14.xml"/>
-  <xi:include href="./18-15.xml"/>
-  <xi:include href="./18-43.xml"/>
-  <xi:include href="./18-56.xml"/>
-  <xi:include href="./18-57.xml"/>
-  <xi:include href="./18-68.xml"/>
-  <xi:include href="./18-71.xml"/>
-  <xi:include href="./18-86.xml"/>
   <xi:include href="./18-94.xml"/>
+  <xi:include href="./18-86.xml"/>
+  <xi:include href="./18-71.xml"/>
+  <xi:include href="./18-68.xml"/>
+  <xi:include href="./18-57.xml"/>
+  <xi:include href="./18-56.xml"/>
+  <xi:include href="./18-43.xml"/>
+  <xi:include href="./18-15.xml"/>
+  <xi:include href="./18-14.xml"/>
 </collection>
