@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-2">
-  <num>2022-2</num>
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-04">
+  <num>2022-04</num>
   <heading>Amendment of Title III, Chapter 6 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law Pardon and Forgiveness Code</heading>
   <meta>
     <ordinance>Pardon and Forgiveness Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</ordinance>
@@ -10,7 +10,7 @@
     </history>
     <citatations/>
     <citations>
-      <citation type="res" url="">Lac Courte Oreilles Tribal Governing Board Res. No. 2022-2</citation>
+      <citation type="res" url="./adopted/2022-04.pdf">Lac Courte Oreilles Tribal Governing Board Res. No. 2022-04</citation>
     </citations>
   </meta>
   <recitals>
@@ -36,7 +36,7 @@
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
-      <text>that the amendment found below to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="III|6">Title III, Chapter 6</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law “Pardon and Forgiveness Code” shall be, and hereby are, enacted, effective December 20<sup>th</sup> 2021, as an ordinance of the Tribe, pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(l)">Article V, Section 1(l)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(m)">(m)</cite> of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and these sections as they exist at this time are hereby repealed in their entirety.</text>
+      <text>that the amendment found below to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="MCC|MCC.6">Title III, Chapter 6</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law “Pardon and Forgiveness Code” shall be, and hereby are, enacted, effective December 20<sup>th</sup> 2021, as an ordinance of the Tribe, pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(l)">Article V, Section 1(l)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(m)">(m)</cite> of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and these sections as they exist at this time are hereby repealed in their entirety.</text>
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT FINALLY RESOLVED,</conjunction>
