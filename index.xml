@@ -13,6 +13,7 @@
       <law-git>https://github.com/lco-nsn/law.git</law-git>
       <html/>
     </canonical-urls>
+    <history-start>2021-12-20</history-start>
   </meta>
   <xi:include href="./us/nsn/lco/council/constitution/index.xml"/>
   <xi:include href="./us/nsn/lco/council/code/index.xml"/>
