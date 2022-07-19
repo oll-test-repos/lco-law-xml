@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-68">
+  <num>2022-68</num>
+  <heading>Recodification of the Lac Courte Oreilles Band of Lake Superior Indians Tribal Code of Law</heading>
+  <meta>
+    <ordinance>Recodification</ordinance>
+    <effective>2022-07-18</effective>
+    <history>
+      <adopted>2022-07-11</adopted>
+    </history>
+    <citatations/>
+    <citations>
+      <citation type="res" url="./adopted/2022-68.pdf">Lac Courte Oreilles Tribal Governing Board Res. No. 2022-68</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe (“Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. § 5101, et seq.; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V">Article V</cite>, including, but not limited to, Sections <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">1 (q)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">(s)</cite> of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "establish a tribal court for the purpose of enforcing tribal ordinance" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">Article V, Section 1 (q)</cite>;  and "to promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin and providing for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, Section 1 (s)</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>for the convenience of community members and governmental operations, and to enhance economic opportunity and investment, the Tribe desires to publish its ordinances and other laws of general applicability on the Internet; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe has worked with Open Law Library (“OLL”) to recodify the Tribe’s ordinances and publish them in a new electronic tribal law library at <a href="https://law.lco-nsn.gov">https://law.lco-nsn.gov</a>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>OLL is a 501(c)(3) non-profit with the mission to help governments make all their official laws freely and openly accessible to the public in human and computer readable formats, and OLL develops and maintains software systems for the performance of this mission; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>OLL’s software is capable of ensuring that the published code is:</text>
+      <text>
+        <ul>
+          <li>(a) Preservable - All published laws will be maintained in a manner that meets or exceeds all requirements for level 2 preservation as specified by the National Digital Stewardship Alliance,</li>
+          <li>(b) Authenticatable - All published laws will be authenticatable as the official laws of the Tribe. Authentication will use Open Law Library certificates, and</li>
+          <li>(c) Accessible - All published laws will be available to the public through OLL or the Tribe indefinitely.</li>
+        </ul>
+      </text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe, as part of establishing its new online Lac Courte Oreilles Law Library, intends to recodify its ordinances as the Lac Courte Oreilles Tribal Code of Law. This codification includes reorganizing and renumbering ordinances and codes; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe wishes to make the Lac Courte Oreilles Tribal Code of Law the official version of the Tribe’s ordinances; and</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>as follows:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <heading>Recodification</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Tribal Governing Board hereby codifies its current ordinances as the Lac Courte Oreilles Tribal Code of Law.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>this codification reorganizes and consolidates the existing tribal ordinances by subject area into titles and chapters. Tribal ordinances shall be reorganized, and renumbered appropriately, into the following Titles:</text>
+      <text>
+        <ul>
+          <li>
+            <text>Title TCT – Tribal Court</text>
+            <ul>
+              <li>Sovereign Immunity Code</li>
+              <li>Rules of Civil Procedure Code</li>
+              <li>Court of Appeals Code</li>
+              <li>Rules of Evidence</li>
+            </ul>
+          </li>
+          <li>
+            <text>Title MCC – Meetings, Committees, and Commissions</text>
+            <ul>
+              <li>Tribal Government Code of Conduct</li>
+              <li>Lac Courte Oreilles Head Start/Early Head Start Council By-Laws</li>
+              <li>Pardon and Forgiveness Code</li>
+            </ul>
+          </li>
+          <li>
+            <text>Title CTZ – Citizenship</text>
+            <ul>
+              <li>Citizenship Code</li>
+              <li>Citizenship Committee By-Laws</li>
+            </ul>
+          </li>
+          <li>
+            <text>Title ELE – Elections</text>
+            <ul>
+              <li>Election Code</li>
+              <li>Referendum Code</li>
+            </ul>
+          </li>
+          <li>
+            <text>Title CSV – Conservation Code</text>
+            <ul>
+              <li>Reservation/Tribal Land Conservation Code</li>
+              <li>WI 1837/1842 Treaty Off-Reservation Conservation Code</li>
+              <li>Shoreland Protection Code</li>
+              <li>Industrial Hemp Code</li>
+            </ul>
+          </li>
+          <li>
+            <text>Title DMR – Domestic Relations</text>
+            <ul>
+              <li>Children’s Code</li>
+              <li>Domestic Relations Code (includes only those Subchapters not superseded by newer law)</li>
+              <li>Guardianship of Adults and Protective Placement Code</li>
+              <li>Elders and Vulnerable Adults Protection Code</li>
+              <li>Aging Administration Code</li>
+              <li>Paternity and Child Support Code</li>
+            </ul>
+          </li>
+          <li>
+            <text>Title GNC – General Conduct</text>
+            <ul>
+              <li>General Conduct Code</li>
+              <li>School Attendance (Truancy) Code</li>
+            </ul>
+          </li>
+          <li>
+            <text>Title VEH – Vehicles</text>
+            <ul>
+              <li>Vehicle Licensing and Registration Code</li>
+            </ul>
+          </li>
+          <li>
+            <text>Title PHS – Public Health and Safety</text>
+            <ul>
+              <li>Public Safety Commission Code</li>
+              <li>Solid Waste Disposal and Recycling Code</li>
+              <li>Exclusion and Removal Code</li>
+              <li>Tattoo and Body Piercing Code</li>
+            </ul>
+          </li>
+          <li>
+            <text>Title PRP – Property</text>
+            <ul>
+              <li>Housing Authority Code</li>
+              <li>Homeowner Assistance Fund Policies and Procedures</li>
+            </ul>
+          </li>
+          <li>
+            <text>Title CMP – Commercial Practices</text>
+            <ul>
+              <li>Gaming Code</li>
+              <li>Tribal Consumer Financial Services Regulatory Code</li>
+              <li>Workers' Compensation Ordinance</li>
+              <li>Limited Liability Company Code</li>
+            </ul>
+          </li>
+          <li>
+            <text>Title PAP – Policies and Procedures</text>
+            <ul>
+              <li>Governmental Personnel Policies and Procedures</li>
+              <li>Property and Procurement Policies and Procedures</li>
+              <li>Travel Policies and Procedures</li>
+              <li>Housing Authority Personnel Policies and Procedures</li>
+              <li>LCO Community Health Center Personnel Policies and Procedures</li>
+              <li>LCO Ojibwe School – Waadookodaading Personnel Policies and Procedures</li>
+              <li>Gaming Enterprise Personnel Policies and Procedures</li>
+              <li>Governmental Fiscal Policies and Procedures</li>
+              <li>LCO Development Corporation Personnel Policies and Procedures</li>
+              <li>Big Fish Golf Corporation Personnel Policies and Procedures</li>
+              <li>Police Policies and Procedures</li>
+            </ul>
+          </li>
+        </ul>
+      </text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>as part of this recodification, the Tribal Governing Board authorized administrative corrections to replace inaccurate citations and references within the individual ordinances and codes, update renumbering within and between ordinances, correct typos, and make other similar minor changes that do not change the substantive content of the ordinances and codes that are part of the Tribal Code. All such corrections are included as Attachment 1.</text>
+    </para>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Official Version</heading>
+    <text>The electronic version of the Lac Courte Oreilles Tribal Code of Law, which is published online using OLL software and which is part of the Lac Courte Oreilles Law Library, shall be the official version of such code. Additionally, this Lac Courte Oreilles Tribal Code of Law shall be in the public domain.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Enactment and Effective Date</heading>
+    <text>The Council hereby enacts the Lac Courte Oreilles Tribal Code of Law, which shall become effective on July 18, 2022.</text>
+  </section>
+  <procedural-data>
+    <text class="center">
+      <strong>CERTIFICATION</strong>
+    </text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>7</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>11th day of July, 2022</u></strong>; that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>6</u></strong> members, <strong><u>0</u></strong> against, <strong><u>0</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>_______________________________________________</text>
+    <text>Tweed Shuman, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>
