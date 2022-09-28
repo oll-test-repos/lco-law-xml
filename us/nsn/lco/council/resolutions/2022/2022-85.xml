@@ -38,7 +38,7 @@
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
-      <text>that the Lac Courte Oreilles Tribal Governing Board pass this Resolution to formally update and amend §<cite doc="Lac Courte Oreilles Tribal Code of Law" path="GNC.5">GNC.5</cite> School Attendance Policy and §<cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.7">PAP.12</cite> LCO Ojibwe School-Waadookodadding Personnel Policies and Procedures in conformity with the Open Law required formatting. These two policies are to be incorporated as drafted into the new online LCO Tribal Code through Open Law.</text>
+      <text>that the Lac Courte Oreilles Tribal Governing Board pass this Resolution to formally update and amend §<cite doc="Lac Courte Oreilles Tribal Code of Law" path="GNC.5">GNC.5</cite> School Attendance Policy and §<cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.7">PAP.7</cite> LCO Ojibwe School-Waadookodadding Personnel Policies and Procedures in conformity with the Open Law required formatting. These two policies are to be incorporated as drafted into the new online LCO Tribal Code through Open Law.</text>
     </recital>
   </recitals>
   <procedural-data>
@@ -55,7 +55,7 @@
       <text>Employees are allowed one (1) hour leave for lunch.  Employees must take their lunch at the usual time, between 12:00 – 1:00, unless mutually changed by the employee and supervisor.</text>
       <para>
         <num>(a)</num>
-        <text>Ten month employees are allowed lunch during the time the students take lunch unless assigned a lunch duty. Those assigned a duty may leave campus for the day after student dismissal provided there are no mandatory COnmeetings, trainings, or conferences scheduled. Such time shall be reflected on their timecard and employee's shall sign-out pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.7.5.110">Section PAP.7.5.110</cite> of this manual.</text>
+        <text>Ten month employees are allowed lunch during the time the students take lunch unless assigned a lunch duty. Those assigned a duty may leave campus for the day after student dismissal provided there are no mandatory meetings, trainings, or conferences scheduled. Such time shall be reflected on their timecard and employee's shall sign-out pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.7.5.110">Section PAP.7.5.110</cite> of this manual.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -114,7 +114,7 @@
   <codify:replace path="PAP.7.7.090|(h)">
     <para>
       <num>(h)</num>
-      <text><u>Procedure for Requesting Leave</u>. In situations where leave is foreseeable, employees must provide written notice to the department head or director at least thirty (30) days prior to the date on which the leave is scheduled to begin. If the leave is foreseeable due to a planned medical treatment, employees must make reasonable efforts to schedule the treatment(s) to minimize disruptions to the SchoolHar's operations. If circumstances occur, in which it is not practicable to provide thirty (30) days' notice, employees must provide written notice as far in advance as is practicable. If an employee fails to provide thirty (30) days advance written notice of a requested leave and have no reasonable excuse, the leave may at the School Superintendent's discretion be delayed for up to thirty (30) days from the date of written notice.</text>
+      <text><u>Procedure for Requesting Leave</u>. In situations where leave is foreseeable, employees must provide written notice to the department head or director at least thirty (30) days prior to the date on which the leave is scheduled to begin. If the leave is foreseeable due to a planned medical treatment, employees must make reasonable efforts to schedule the treatment(s) to minimize disruptions to the School's operations. If circumstances occur, in which it is not practicable to provide thirty (30) days' notice, employees must provide written notice as far in advance as is practicable. If an employee fails to provide thirty (30) days advance written notice of a requested leave and have no reasonable excuse, the leave may at the School Superintendent's discretion be delayed for up to thirty (30) days from the date of written notice.</text>
     </para>
   </codify:replace>
   <codify:replace path="PAP.7.8.050|(a)|(3)">
@@ -360,7 +360,7 @@
   <codify:replace path="GNC.5.3.040|(a)">
     <para>
       <num>(a)</num>
-      <text>Unless the school age person is excepted or excused under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§GNC.5.2.010|(a)">Section GNC.5.2.010(a)</cite> of this ordinance, or has graduated from high school, any person having under his or her control a school age person, shall cause the school age child to attend school regularly during the full period and hours, religious and traditional holidays excepted, that the tribal, public, or private school in which the school age person should be enrolled, is in session until the end of the school term, quarter or semester of the school year in which the school age person becomes 18 years of age.</text>
+      <text>Unless the school age person is excepted or excused under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§GNC.5.2.010|(a)">Section GNC.5.2.010(a)</cite> of this ordinance, or has graduated from high school, any person having under his or her control a school age person, shall cause the school age person to attend school regularly during the full period and hours, religious and traditional holidays excepted, that the tribal, public, or private school in which the school age person should be enrolled, is in session until the end of the school term, quarter or semester of the school year in which the school age person becomes 18 years of age.</text>
     </para>
   </codify:replace>
   <codify:replace path="GNC.5.3.040|(b)">
