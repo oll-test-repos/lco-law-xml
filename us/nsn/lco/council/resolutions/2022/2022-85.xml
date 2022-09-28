@@ -1,0 +1,410 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" codify:doc="Lac Courte Oreilles Tribal Code of Law">
+  <num>2022-85</num>
+  <heading>Recodification and Amendments to GNC School Attendance Policy &amp; PAP LCO Ojibwe School-Waadookodaading Personnel Policies and Procedures</heading>
+  <meta>
+    <effective>2022-09-02</effective>
+    <citations>
+      <citation type="res" url="./adopted/2022-85.pdf">Lac Courte Oreilles Tribal Governing Board Res. 2022-85</citation>
+    </citations>
+    <history>
+      <adopted>2022-09-02</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians (hereinafter "Tribe") is a federally recognized Indian tribe organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. 5101, et. seq.; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to Article V, Section 1(l); and (m) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "organize, charter and regulate any association or group, including a housing authority, for the purpose of providing social or economic benefits to the members of the Band or residents of the reservation" Article V, Section 1(l); and "delegate to subordinate boards, officers, committees or cooperative associations which are open to all members of the Band any of the foregoing powers, reserving the right to review any action taken by virtue of such delegated powers" Article V, Section 1(m); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>On July 18, 2022, the Tribal Governing Board passed Resolution 22-68 which recodified, reorganized, and renumbering the LCO Tribal Code of Law; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>two policies and resolutions were passed on September 6, 2022 approving the amended §<cite doc="Lac Courte Oreilles Tribal Code of Law" path="GNC.5">GNC.5</cite> School Attendance Code and  §<cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.7">PAP.7</cite>  LCO Ojibwe School-Waadookodaading Personnel Policies and Procedures; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the policies as drafted, were not in conformity with the new Open Law format as mandated by Resolution 2022-68.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Lac Courte Oreilles Tribal Governing Board pass this Resolution to formally update and amend §<cite doc="Lac Courte Oreilles Tribal Code of Law" path="GNC.5">GNC.5</cite> School Attendance Policy and §<cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.7">PAP.12</cite> LCO Ojibwe School-Waadookodadding Personnel Policies and Procedures in conformity with the Open Law required formatting. These two policies are to be incorporated as drafted into the new online LCO Tribal Code through Open Law.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <u>5</u> being present, constituted a quorum at a meeting thereof, duly called, convened and held on this <u>2<sup>nd</sup> <strong>day of September 2022</strong></u>, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote <strong><u>4</u></strong> members, <strong><u>0</u></strong> against, <strong><u>0</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>Tweed Shuman, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+  <codify:replace path="PAP.7.5.120">
+    <section>
+      <num>PAP.7.5.120</num>
+      <heading>Lunch</heading>
+      <text>Employees are allowed one (1) hour leave for lunch.  Employees must take their lunch at the usual time, between 12:00 – 1:00, unless mutually changed by the employee and supervisor.</text>
+      <para>
+        <num>(a)</num>
+        <text>Ten month employees are allowed lunch during the time the students take lunch unless assigned a lunch duty. Those assigned a duty may leave campus for the day after student dismissal provided there are no mandatory COnmeetings, trainings, or conferences scheduled. Such time shall be reflected on their timecard and employee's shall sign-out pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.7.5.110">Section PAP.7.5.110</cite> of this manual.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Twelve month employees wishing to take an off campus lunch up to one hour, must work an additional 30 minutes that day and sign out and back in pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.7.5.110">Section PAP.7.5.110</cite> of this manual. Such time shall be reflected on their timecard.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="PAP.7.5.150">
+    <section>
+      <num>PAP.7.5.150</num>
+      <heading>Contractual Acceptance</heading>
+      <para>
+        <num>(a)</num>
+        <text>All employment contracts must be signed and returned within the period specified on the contract. Failure to turn in a contract within the specified time allotted can indicate non-acceptance by the employee.  All positions of non-returned or unsigned contracts will be posted. A fine may be imposed if the employee fails to fulfill the contract obligation.  Contractual agreements can be deemed invalid unless returned signed within ten (10) workdays from the date of issuance unless otherwise specified.  The school reserves the right to pursue legal action against any violation of the employment agreement.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><u>Release from Contract Agreement</u>. The Employee shall not be released from the employment agreement except for unusual circumstances that will be reviewed by the School Board.  Violation of the employment agreement shall result in the following penalties incurred by the Employee:</text>
+        <para>
+          <num>(1)</num>
+          <text>After June 30<sup>th</sup>……………………………………..$1,000.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>After July 31<sup>st</sup>……………………………………...$2,000.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>After August 31<sup>st</sup> or during the school year………..$3,000.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><u>Contract Renewal/Intent to Renew</u>. All employees currently under contract will be notified by May 1 of the school's intent to renew or of non-renewal of their contract for the coming school year. Contract renewal is contingent upon available funding of specific programs, evaluations and job performance as otherwise provided in this manual.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:insert path="PAP.7.7.050">
+    <para>
+      <num>(g)</num>
+      <text>Use of Paid and Unpaid Leave. Employees who have accrued PTO must use paid leave first and then take additional approved leave as unpaid leave.</text>
+    </para>
+  </codify:insert>
+  <codify:replace path="PAP.7.7.070|(b)">
+    <para>
+      <num>(b)</num>
+      <text><u>Jury Duty Leave</u>. The School grants eligible employees paid leave during the required absence for jury service. An employee must promptly notify his or her department head or director upon receipt of any notice to appear. If an employee receives any stipend (other than food or fuel expenses) for such jury duty leave, he or she must use PTO during any work absence for such service. No employee shall take both compensated time and stipend pay during the required absence for jury service.</text>
+    </para>
+  </codify:replace>
+  <codify:insert path="PAP.7.7.070|(m)">
+    <para>
+      <num>(1)</num>
+      <text><u>Advanced Degree Seeking Stipulation</u>: In the best interest of the school and at the School Directors discretion, employees seeking advanced degrees beyond a bachelor's degree, agree to remain with the LCO Ojibwe School-Waadookodaading for a minimum of three (3) consecutive school years once the sought after degree has been acquired.  Failure to remain at the LCO Ojibwe School-Waadookodaading for a minimum of three (3) consecutive school years will result in a fine equal to 50% of the amount spent by the school on that individual continuing education costs.</text>
+    </para>
+  </codify:insert>
+  <codify:replace path="PAP.7.7.090|(h)">
+    <para>
+      <num>(h)</num>
+      <text><u>Procedure for Requesting Leave</u>. In situations where leave is foreseeable, employees must provide written notice to the department head or director at least thirty (30) days prior to the date on which the leave is scheduled to begin. If the leave is foreseeable due to a planned medical treatment, employees must make reasonable efforts to schedule the treatment(s) to minimize disruptions to the SchoolHar's operations. If circumstances occur, in which it is not practicable to provide thirty (30) days' notice, employees must provide written notice as far in advance as is practicable. If an employee fails to provide thirty (30) days advance written notice of a requested leave and have no reasonable excuse, the leave may at the School Superintendent's discretion be delayed for up to thirty (30) days from the date of written notice.</text>
+    </para>
+  </codify:replace>
+  <codify:replace path="PAP.7.8.050|(a)|(3)">
+    <para>
+      <num>(3)</num>
+      <text><u>General</u>. Harassment under this policy may also include words, actions,  or conduct committed by students, coworkers, parents, community members,  customers or suppliers of the School. In the event that any harassing or offensive language or conduct occurs, employees must report it to the Human Resource Director, or designee, immediately so the matter can be addressed promptly.</text>
+    </para>
+  </codify:replace>
+  <codify:replace path="PAP.7.8.200">
+    <section>
+      <num>PAP.7.8.200</num>
+      <heading>Policy Regarding Use of Social Media by Employees</heading>
+      <para>
+        <num>(a)</num>
+        <text>While the School encourages its employees to enjoy and make good use of their off-duty time, certain activities on the part of employees may become a concern if they have the effect of impairing the work of any employee; harassing, demeaning, or creating a hostile working environment for any employee; disrupting the smooth and orderly flow of work within the office; or harming the goodwill and reputation of the School. In the area of social media (print, broadcast, digital, and online services such as Facebook, LinkedIn, MySpace, Plaxo, and Twitter, among others), employees may use such media in any way they choose as long as such use does not produce the adverse consequences noted above. For this reason, the following provisions apply regarding an employee's use of social media, both on and off duty:</text>
+        <para>
+          <num>(1)</num>
+          <text>An employee shall be subject to disciplinary action, up to and including termination of employment, depending upon the severity and repeat nature of the offense, if an employee publishes any personal information about the employee, another employee of the School, the School and its officials, the Tribe and its officials, or a tribal member in any public medium (print, broadcast, digital, or online) that:</text>
+          <para>
+            <num>(A)</num>
+            <text>has the potential or effect of involving the employee, their coworkers, tribal members or the School in any kind of dispute or conflict with other employees or third parties;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>interferes with the work of any employee;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>creates a harassing, demeaning, or hostile working environment for any employee;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>disrupts the smooth and orderly flow of work within the office, or the delivery of services to tribal members;</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>harms the goodwill and reputation of the School in the community at large; or</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>tends to place in doubt the reliability, trustworthiness, or sound judgment of the person who is the subject of the information.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>No employee may use the School's equipment or facilities for furtherance of non-work-related social media related activities or relationships without the express advance permission of their program Director.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Employees who conduct themselves in such a way that their social media related actions toward and relationships with each other interfere with or damage work relationships, disrupt the flow of work or tribal member relations, or cause unfavorable publicity in the community, may be subject to discipline.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Use of social media that involves any kind of criminal activity or harms the rights of others may result in criminal prosecution or civil liability to those harmed, or both.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Social media access and use involving School equipment and resources are subject to the School's computer and internet policy at all times.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The provisions in this policy are not intended to restrict communications regarding the terms and conditions of the workplace.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>How an employee uses social media is not a matter of concern as long as it is consistent with the aforementioned provisions on this policy.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="PAP.7.11.010|(b)">
+    <para>
+      <num>(b)</num>
+      <text><u>Chain of Command</u>. All employees are required to follow the chain of command, with no exceptions. The chain of command consists of and is limited to the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Your Supervisor</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>K-12 Principal</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>School Superintendent</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>School Board</text>
+      </para>
+    </para>
+  </codify:replace>
+  <codify:find-replace path="GNC.5">
+    <find>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to require the regular attendance at school of all school age children which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, § 1(s) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> empowers the Tribal Governing Board to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and providing for the maintenance of law and order and the administration of justice …"</find>
+    <replace>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to require the regular attendance at school of all school age person which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, § 1(s) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> empowers the Tribal Governing Board to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and providing for the maintenance of law and order and the administration of justice …"</replace>
+  </codify:find-replace>
+  <codify:replace path="GNC.5.1.030">
+    <section>
+      <num>GNC.5.1.030</num>
+      <heading>Purpose</heading>
+      <text>It is the purpose of this ordinance to require the regular attendance at school of all school age person living on the Lac Courte Oreilles Reservation and all tribal persons who live off of the Lac Courte Oreilles Reservation and attend school within the Hayward Community School District and the Winter School District.</text>
+    </section>
+  </codify:replace>
+  <codify:replace path="GNC.5.1.050|(a)">
+    <para>
+      <num>(a)</num>
+      <text>Shall be interpreted and applied as minimum requirements applicable to the regular attendance at school of all school age persons subject to this ordinance;</text>
+    </para>
+  </codify:replace>
+  <codify:replace path="GNC.5.2.010|(a)">
+    <para>
+      <num>(a)</num>
+      <text><strong>"Truant"</strong> is understood by this ordinance to mean any enrolled person who is absent from school without an acceptable excuse for part or all of any day on which school is held during a school semester.  Acceptable excuses are the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Excused by the school for temporary physical or mental condition that impairs school attendance.  Any request by a parent or guardian to excuse a person under this subsection for more than ten days, cumulative, in any one semester must be accompanied by a written note from a physician or other appropriate professional care-giver justifying the absence.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Written permission of up to ten days per semester for absence by parent or guardian prior to absence, and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Verified instruction in home-based educational program.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Students who have reached their 18<sup>th</sup> birthdays are permitted to originate their own excuse for an absence only if they are not living with their parents/guardians or the parent/guardian has provided permission for the student to originate their own excuse in writing. The student is still bound by the same set of acceptable reasons in (a)(1).</text>
+      </para>
+    </para>
+  </codify:replace>
+  <codify:replace path="GNC.5.2.010|(c)">
+    <para>
+      <num>(c)</num>
+      <text><strong>"Dropout"</strong> means a person 18 years or younger who ceased to attend school, does not attend a public or private school, technical college or home-based private educational program on a full-time basis, has not graduated from high school and does not have an acceptable excuse under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§GNC.5.3.030|(a)">Section GNC.5.3.030(a)</cite> of this ordinance.</text>
+    </para>
+  </codify:replace>
+  <codify:replace path="GNC.5.2.010|(d)">
+    <para>
+      <num>(d)</num>
+      <text><strong>"School Age Person"</strong> is any person enrolled in school from the age of five years old through the age of 18 or until high school graduation. When a student turns 18 they are still subject to all school policies until the end of the current school year.</text>
+    </para>
+  </codify:replace>
+  <codify:replace path="GNC.5.3.010">
+    <section>
+      <num>GNC.5.3.010</num>
+      <heading>Truancy</heading>
+      <para>
+        <num>(a)</num>
+        <text>If the Lac Courte Oreilles Tribal Court determines that a person is truant, the Tribal Court may order one or more of the following dispositions.</text>
+        <para>
+          <num>(1)</num>
+          <text>An order for the school age person to attend school.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A forfeiture of not more than $50.00 plus costs for a first violation, or a forfeiture of not more than $100.00 plus costs for any second or subsequent violation committed within 12 months of a previous violation, subject to a maximum cumulative forfeiture amount of not more than $500.00 for all violations committed during a school semester.  All or part of the forfeiture plus costs may be assessed against the person, the caregivers, the parents or guardians of the person, or both.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="GNC.5.3.020">
+    <section>
+      <num>GNC.5.3.020</num>
+      <heading>Habitual Truancy</heading>
+      <para>
+        <num>(a)</num>
+        <text>If the Tribal Court determines that a person is truant, the Tribal Court may order one or more of the following dispositions:</text>
+        <para>
+          <num>(1)</num>
+          <text>An order for the person to attend school.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>An order for the person to attend an education program as prescribed by the Tribal Court.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>An order for the person to participate in counseling or a supervised work program or other community service as deemed appropriate by the Tribal Court.  The cost of any such counseling, supervised work program or other community service work may be assessed against the person, the caregivers, the parents or the guardian, or both.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>An order placing the person under formal or informal supervision of a tribal agency, program, department or a suitable adult, under conditions prescribed by the Tribal Court and subject to the limitations of placement, if necessary, as prescribed in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="DMR.1">Chapter DMR.1</cite> – Children's Code.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>A forfeiture of not more than $100.00 plus costs, for a first violation, or a forfeiture of not more than $500.00 plus costs for any second or subsequent violation committed within 12 months of a previous violation, subject to the limitation that such fines may be levied only against a juvenile of twelve (12) years of age or older and subject to a maximum cumulative forfeiture amount of not more than $500.00 for all violations committed during a school semester.  All or part of the forfeiture plus costs may be assessed against the person, the parents or guardians or the person, or both.  An order for the person's parent, caregiver, guardian or legal custodian to participate in counseling at the parent's, guardian's or legal custodian's own expense or to attend school with the person, or both.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Notification of the truancy to any jurisdiction or agency issuing licensing of any nature to the person, including but not limited to, the Wisconsin Department of Transportation.  The Tribal Court may present to the licensing agency, a recommendation of a suspension of privileges licensed, including the case of any license to operate a motor vehicle, or obtain a license to so operate, the suspension of privileges granted by Wisconsin Statue                             §§ 343.05(2)(a)(2 or (4)(b)(1) or comparable provisions in any other jurisdiction.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Refer the habitually truant person who continues to be truant to the Sawyer County District Attorney for delinquency charges pursuant to <cite doc="Wis. Stat." path="§938.12">Wis. Stat. §938.12</cite>. Filing information on a person does not preclude concurrent prosecution of the person's parent or guardian for failure to cause a person to attend school.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Refer the person to the LCO Indian Child Welfare Department to evaluate and determine whether familial problems may be the cause of the person's truancy and or make appropriate referrals necessary.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Any other reasonable conditions consistent with this ordinance, including a curfew, restrictions as to going to or remaining on specified premises and restrictions for associating with other persons and adults.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="GNC.5.3.030|(a)">
+    <para>
+      <num>(a)</num>
+      <text>If the Tribal Court determines that a person is a dropout, the court may:</text>
+      <para>
+        <num>(1)</num>
+        <text>Notification of the drop-out to any jurisdiction or agency issuing licensing of any nature to the person, including but not limited to, the Wisconsin Department of Transportation.  The Tribal Court may present to the licensing agency, a recommendation of a suspension of privileges licensed, including the case of any license to operate a motor vehicle, or obtain a license to so operate, the suspension of privileges granted by Wisconsin Statue §§ 343.05(2)(a)(2) or (4)(b)(1) or comparable provisions in any other jurisdiction.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Court may order for the person to attend school.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Order a forfeiture of not more than $500 plus costs, to be assessed against the drop-out, the parents or guardians, or both.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Refer the case of the habitually truant person who continues to be truant to the Sawyer County District Attorney for delinquency charges pursuant to <cite doc="Wis. Stat." path="§938.12">Wis. Stat. §938.12</cite>.  Filing information on a person does not preclude concurrent prosecution of the person's parent or guardian for failure to cause a person to attend school.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Refer the person to the LCO Indian Child Welfare department to evaluate and determine whether familial problems may be the cause of the person's truancy and if so, make appropriate referrals as necessary.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Any other reasonable conditions consistent with this ordinance, including a curfew, restrictions as to going to or remaining on specified premises and restrictions for associating with other juveniles and adults.</text>
+      </para>
+    </para>
+  </codify:replace>
+  <codify:remove path="GNC.5.3.030|(b)" />
+  <codify:find-replace path="GNC.5">
+    <find>Failure to Cause a Child to Attend School Regularly</find>
+    <replace>Failure to Cause a Person to Attend School Regularly</replace>
+  </codify:find-replace>
+  <codify:replace path="GNC.5.3.040|(a)">
+    <para>
+      <num>(a)</num>
+      <text>Unless the school age person is excepted or excused under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§GNC.5.2.010|(a)">Section GNC.5.2.010(a)</cite> of this ordinance, or has graduated from high school, any person having under his or her control a school age person, shall cause the school age child to attend school regularly during the full period and hours, religious and traditional holidays excepted, that the tribal, public, or private school in which the school age person should be enrolled, is in session until the end of the school term, quarter or semester of the school year in which the school age person becomes 18 years of age.</text>
+    </para>
+  </codify:replace>
+  <codify:replace path="GNC.5.3.040|(b)">
+    <para>
+      <num>(b)</num>
+      <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="§GNC.5.3.040">This section</cite> does not apply to:</text>
+      <para>
+        <num>(1)</num>
+        <text>A school age person is exempted or excused under XX of this ordinance, or has graduated from high school</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To a person who proves that he or she is unable to comply with the requirements of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§GNC.5.3.040">this section</cite> because of the disobedience of the school age person, in which case the action shall be dismissed, and the Tribal Court may appoint a guardian ad litem relative to such school age person or make such reference to the Indian Child Welfare Department, Law Enforcement or other authority as deemed appropriate.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If the Court determines that a person is guilty of Failure to Cause a Person to Attend School Regularly, the Court may:</text>
+        <para>
+          <num>(A)</num>
+          <text>Order a forfeiture of not more than $500 plus costs to be assessed against the persona unless contrary to X and X.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Refer the case to the Sawyer County District Attorney for criminal charges pursuant to Wis. Stat. §§ 948.40 or 948.45</text>
+        </para>
+      </para>
+    </para>
+  </codify:replace>
+  <codify:insert path="GNC.5.3">
+    <section>
+      <num>GNC.5.3.050</num>
+      <heading>Payments of Forfeitures</heading>
+      <para>
+        <num>(a)</num>
+        <text>If a person is obligated to pay a forfeiture fails to do so within 60 calendar days, the Lac Courte Oreilles Attorney General's Office may institute an action requesting:</text>
+        <para>
+          <num>(1)</num>
+          <text>An order for the payer to show cause why he or she should not be subject to contempt of court.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A finding of Contempt of Court may result in incarceration.</text>
+        </para>
+      </para>
+    </section>
+  </codify:insert>
+</document>
