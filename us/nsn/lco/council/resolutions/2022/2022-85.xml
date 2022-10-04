@@ -22,7 +22,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>pursuant to Article V, Section 1(l); and (m) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "organize, charter and regulate any association or group, including a housing authority, for the purpose of providing social or economic benefits to the members of the Band or residents of the reservation" Article V, Section 1(l); and "delegate to subordinate boards, officers, committees or cooperative associations which are open to all members of the Band any of the foregoing powers, reserving the right to review any action taken by virtue of such delegated powers" Article V, Section 1(m); and</text>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(l)">Article V, Section 1(l)</cite>; and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(m)">(m)</cite> of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "organize, charter and regulate any association or group, including a housing authority, for the purpose of providing social or economic benefits to the members of the Band or residents of the reservation" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(l)">Article V, Section 1(l)</cite>; and "delegate to subordinate boards, officers, committees or cooperative associations which are open to all members of the Band any of the foregoing powers, reserving the right to review any action taken by virtue of such delegated powers" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(m)">Article V, Section 1(m)</cite>; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -369,7 +369,7 @@
       <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="§GNC.5.3.040">This section</cite> does not apply to:</text>
       <para>
         <num>(1)</num>
-        <text>A school age person is exempted or excused under XX of this ordinance, or has graduated from high school</text>
+        <text>A school age person is exempted or excused under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§GNC.5.2.010|(a)">Section GNC.5.2.010(a)</cite> of this ordinance, or has graduated from high school</text>
       </para>
       <para>
         <num>(2)</num>
@@ -380,7 +380,7 @@
         <text>If the Court determines that a person is guilty of Failure to Cause a Person to Attend School Regularly, the Court may:</text>
         <para>
           <num>(A)</num>
-          <text>Order a forfeiture of not more than $500 plus costs to be assessed against the persona unless contrary to X and X.</text>
+          <text>Order a forfeiture of not more than $500 plus costs to be assessed against the person unless contrary to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§GNC.5.3.030|(a)">Section GNC.5.3.030(a)</cite> and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§GNC.5.3.020|(a)|(5)">Section GNC.5.3.020(a)(5)</cite>.</text>
         </para>
         <para>
           <num>(B)</num>
