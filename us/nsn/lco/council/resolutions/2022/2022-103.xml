@@ -1,0 +1,463 @@
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-103" codify:doc="Lac Courte Oreilles Tribal Code of Law">
+  <num>2022-103</num>
+  <heading>Addition of Chapter VEH.4 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law</heading>
+  <meta>
+    <effective>2022-10-24</effective>
+    <citations>
+      <citation type="res" url="./adopted/2022-103.pdf">Council Resolution No. 2022-103</citation>
+    </citations>
+    <history>
+      <adopted>2022-10-24</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V">Article V</cite>, including but not limited to, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">Section 1(q)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">(s)</cite> of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers he Tribal Governing Board to: "establish a tribal court for the purposes of enforcing tribal ordinance" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">Article V, Section 1 (q)</cite> and "to promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin and providing for the maintenance of law and order and the administration of justice by and establishing a tribal court and defining its duties and powers" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V. Section 1(s)</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>to provide regulations for the safe operation of ATV/UTV vehicles to protect real and personal property of the Band; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>to protect trails and roadways within the boundaries of the Lac Courte Oreilles Reservation.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby pass this Resolution to formally adopt <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4" proof="needed">Chapter VEH.4</cite> ALL TERRAIN VEHICLES AND UTILITY TASK VEHICLES inconformity with the Open Law required formatting.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT FINALLY RESOLVED,</conjunction>
+      <text>as follows:</text>
+      <text>The attached Chapter VEH.4 ALL TERRAIN VEHICLES AND UTILITY TASK VEHICLES be adopted into the Lac Courte Oreilles Tribal Code of Law.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>5</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>24<sup>th</sup> day of October, 2022</u></strong>, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>5</u></strong> members, <strong><u>0</u></strong> against, <strong><u>0</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>Tweed Shuman, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+  <codify:insert path="VEH" after="VEH.3">
+    <container>
+      <num>VEH.4</num>
+      <heading>ALL-TERRAIN VEHICLES AND UTILITY TASK VEHICLES</heading>
+      <prefix>Chapter</prefix>
+      <text class="center">
+        <strong>Preamble</strong>
+      </text>
+      <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to provide a code for the operation and enforcement for ATV/UTV vehicles on the Reservation, including the regulation of operation and identification of enforcement for persons who operate under this code. To provide regulations for the safe operation of ATV/UTV vehicles to protect real or personal property of the Band, harming its members or Reservation residents, or by endangering or harming the natural, social, or physical well-being of members or other persons on the Reservation which predates its treaties of 1825, 1826, 1837, 1842, 1847, and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, § 1(s)</cite> of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to “promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin and providing for the maintenance of law and order and the administration of justice….” </text>
+      <container>
+        <num>VEH.4.1</num>
+        <heading>Introduction</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <num>VEH.4.1.010</num>
+          <heading>Title</heading>
+          <text>This ordinance shall be known as the ATV/UTV Code for the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Reservation.</text>
+        </section>
+        <section>
+          <num>VEH.4.1.020</num>
+          <heading>Authority</heading>
+          <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, § 1(s) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> empowers the Tribal Governing Board to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin and providing for the maintenance of law and order and the administration of justice…" And Article I, §2 "The jurisdiction of the band shall extend to all lands and waters within the territory of the band…"</text>
+        </section>
+        <section>
+          <num>VEH.4.1.030</num>
+          <heading>Purpose</heading>
+          <text>The purpose of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4" proof="needed">this Chapter</cite> is to provide for the regulation of all-terrain vehicle operations, utility task vehicle operations, owner safety, operator safety, and for the safety of those operating motor vehicles on roadways within the boundaries of the Lac Courte Oreilles Reservation.</text>
+        </section>
+        <section>
+          <num>VEH.4.1.040</num>
+          <heading>Scope</heading>
+          <text>The Lac Courte Oreilles Tribal Governing Board is authorized to regulate operations of all-terrain vehicles, off-highway motorcycle ("mini-bikes"), and utility terrain vehicles, (hereinafter "ATV/UTV") on the Reservation and to establish safety regulations for safe use. Except as provided by this Code, all persons and ATV/UTV shall operate under the authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. Any authorized personnel may operate an ATV/UTV on the Reservation, consistent with the regulations set forth under this code.  Any violations shall be subject to the Lac Courte Oreilles Tribal Court.</text>
+        </section>
+        <section>
+          <num>VEH.4.1.050</num>
+          <heading>Effective Date</heading>
+          <text>Except as otherwise provided in specific sections, the provisions of this ordinance shall be effective on the date adopted by the Tribal Governing Board.</text>
+        </section>
+        <section>
+          <num>VEH.4.1.060</num>
+          <heading>Severability and Non-Liability</heading>
+          <text>If any section, provision or portion of this ordinance is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this ordinance.</text>
+        </section>
+        <section>
+          <num>VEH.4.1.070</num>
+          <heading>Non-Exclusive Remedy</heading>
+          <text>Any conviction of a violation under this Code does not prevent, negate or exclude the use of any other remedy or penalty that is otherwise provided by this Code or other governing federal, state or tribal law.</text>
+        </section>
+        <section>
+          <num>VEH.4.1.080</num>
+          <heading>Interpretation</heading>
+          <text>The provisions of this ordinance:</text>
+          <para>
+            <num>(a)</num>
+            <text>Shall be liberally construed in favor of the Tribe;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Shall not be deemed a limitation or repeal of any other tribal power or authority.</text>
+          </para>
+        </section>
+      </container>
+      <container>
+        <num>VEH.4.2</num>
+        <heading>Definitions</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <num>VEH.4.2.010</num>
+          <heading>General Definitions</heading>
+          <text>Any term not defined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.2.010" proof="needed">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+          <para>
+            <num>(a)</num>
+            <text>"<strong>All-terrain vehicle" and "ATV"</strong> means an engine-driven device which has a net weight of 650 pounds or less, which has a width of forty-eight (48) inches or less, which is equipped with a seat designed to be straddled by the operator, and which is designed to travel on three (3) or more low-pressure tires. Every non-electric ATV/UTV is required to be equipped with a functioning muffler to prevent excessive or unusual noise.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><strong>"County"</strong> means Sawyer County, a political subdivision of Wisconsin.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><strong>"County Road"</strong> means any road that is maintained by the County that exists within the exterior boundaries of the reservation.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>"<strong>Highway"</strong> means all public ways and thoroughfares and bridges and the same.  It includes the entire width between the boundary lines of every way open to the use of the public as a matter of right for the purposes of vehicular travel.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>"<strong>Purpose of access from lodging"</strong> means for the purpose of traveling for the shortest distance that is necessary and as far to the right side of the roadway as possible for a person operating the all-terrain vehicle to go between a lodging establishment and the all-terrain vehicle route or trail that is closest to the lodging establishment.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text><strong>"Purpose of residential access"</strong> means for the purpose of traveling for the shortest distance that is necessary and as far to the right side of the roadway as possible for a person operating the all-terrain vehicle to go between a residence and the all-terrain vehicle route or trail that is closest to that residence.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text><strong>"Reservation"</strong> means the Lac Courte Oreilles Reservation as established under the 1854 Treaty (cite) between the United States and the Ojibwe tribes.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text><strong>"Reservation road"</strong> means any road that is maintained by the tribal roads department.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text><strong>"Road, trail, or street"</strong> means any path that may or may not be paved which is identified by name, number of which the automobile use is intended.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text><strong>"Roadway"</strong> means that portion of a highway between the regularly established curb lines or that portion which is improved, designed, or ordinarily used for vehicular travel, excluding the berm or shoulder.</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text><strong>"Nonmember" or "Non-Tribal Member" </strong>means a person is not currently enrolled   in the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+          </para>
+          <para>
+            <num>(l)</num>
+            <text><strong>"Off-highway motorcycle" </strong>means a two-wheeled motor vehicle that is straddled by the operator that is equipped with handlebars, and that is designed for use off a highway, regardless of whether it is also designed for use on a highway. The off-highway motorcycle operator shall be subject to the same terms and conditions as an ATV/UTV operator.</text>
+          </para>
+          <para>
+            <num>(m)</num>
+            <text><strong>"Tribal Governing Board"</strong> means the Tribal Governing Board of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+          </para>
+          <para>
+            <num>(n)</num>
+            <text><strong>"Tribal Member"</strong> means an enrolled member of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+          </para>
+          <para>
+            <num>(o)</num>
+            <text><strong>"Tribe"</strong> means the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+          </para>
+          <para>
+            <num>(p)</num>
+            <text><strong>"Utility-task vehicle" and "UTV"</strong> as a commercially designed and manufactured motor-driven device that is designed to be used primarily off highway, and originally manufactured and equipped with all of the following: a weight, without fluids, of 3000 pounds or less; four or more tires; steering wheel; tail light; brake light; two headlights; width of not more than 65 inches; seat belts; and roll bar or similar device designed to reduce the likelihood that an occupant would be crushed as the result of a rollover. Every non-electric ATV/UTV is required to be equipped with a functioning muffler to prevent excessive or unusual noise.</text>
+          </para>
+        </section>
+      </container>
+      <container>
+        <num>VEH.4.3</num>
+        <heading>Rules of Operation</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <num>VEH.4.3.010</num>
+          <heading>Authorized Operation</heading>
+          <para>
+            <num>(a)</num>
+            <text>All ATV/UTV operators shall comply with posted speed limits, stop signs, traffic signs, and must comply with any law enforcement attempts to stop to the ATV/UTV.  For all roads under this Code the maximum allowable speed for ATV/UTV use shall not exceed 35 mph.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Operators may operate an ATV/UTV:</text>
+            <para>
+              <num>(1)</num>
+              <text>On all marked roads and marked trails within the boundaries of the Lac Courte Oreilles Reservation.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>On all state and county highways located within the boundaries of the Lac Courte Oreilles reservation.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>On tribally-owned lands whose purpose is to hunt, fish or gather within the exterior boundaries of the reservation.  Failure to post that land is the property of the Tribe does not imply consent for ATV/UTV use.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>All persons under the age of 18 are required to wear a helmet and eye protection  when operating an ATV/UTV.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>ATV operation is limited to one person per vehicle unless designed for a passenger.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>No passengers allowed for operators under the age 18.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>Infants are prohibited from being passengers in an ATV/UTV during its operation.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>VEH.4.3.020</num>
+          <heading>Unauthorized Operations Operators may not operate an ATV/UTV:</heading>
+          <para>
+            <num>(a)</num>
+            <text>In any reckless or negligent way so as to endanger the person or property of another.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>On the private property of another without the consent of the owner or lessee.  Failure to post private property does not imply consent for ATV/UTV use.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>On allotted lands to tribal members within the exterior boundaries of the reservation.  Failure to post that land is the property of the Tribe does not imply consent for ATV/UTV use.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>When under the influence of alcohol, drugs or any other altering substance.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>When within 150 feet of a dwelling at a speed exceeding ten (10) miles per hour.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>On land owned in fee simple that belongs to a non-tribal member within the exterior boundaries of the reservation, failure to post private property does not imply consent for ATV/UTV use.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>No operator may cause excessive, unusual noise, or noise pollution while operating an ATV/UTV.</text>
+          </para>
+        </section>
+        <section>
+          <num>VEH.4.3.030</num>
+          <heading>Operation on County Roads or Highways</heading>
+          <para>
+            <num>(a)</num>
+            <text>Highways.  ATV/UTV all-terrain vehicle may operate on a state highway or county road marked for ATV/UTV use located within the exterior boundaries of the reservation.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Operation on roadway or pavement.  all-terrain vehicles may operate on the roadway portion of any state or county highway or any road, street or trail that is marked as a AT/UTV trail.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Operation adjacent to roadway.  all-terrain vehicles may operate adjacent to a roadway on an all-terrain vehicle route or trail if the person operates it in the following manner:</text>
+            <para>
+              <num>(1)</num>
+              <text>At a distance of ten (10) or more feet from the shoulder of the roadway along state, county and tribal roadways.  Travel on the median of a divided highway is prohibited except to cross,</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>During hours of darkness in the same direction as motor vehicle traffic in the nearest lane, although during daylight hours travel may be in either direction regardless of the flow of motor vehicle traffic, and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Not in excess of the speed limits of the adjacent roadway.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>VEH.4.3.040</num>
+          <heading>Hours of Operation</heading>
+          <para>
+            <num>(a)</num>
+            <text>Hours of Operation for recreational use of ATV/UTV on the Lac Courte Oreilles Reservation shall be from 6:00 A.M. until 11:00 P.M. Sunday through Saturday.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Hours of Operation of ATV/UTV use for the exercise of treaty hunting, fishing, and gathering rights shall be allowed outside the Hours of Operation above for Tribal Members who are exercising such treaty-protected rights on reservation.</text>
+          </para>
+        </section>
+        <section>
+          <num>VEH.4.3.050</num>
+          <heading>Logging Areas and Sacred Sites</heading>
+          <para>
+            <num>(a)</num>
+            <text>Areas located on the reservation that are marked as "logging areas" or areas that are deemed by the Tribe to be a "sacred site" are off-limits to any ATV/UTV operation under this code.</text>
+          </para>
+        </section>
+        <section>
+          <num>VEH.4.3.060</num>
+          <heading>Trail Designation</heading>
+          <para>
+            <num>(a)</num>
+            <text>All ATV/UTV trails shall be designated for use by the LCO Conservation Department.  Each trail shall be conspicuously marked with a trail designation. A map of the ATV/UTV trail system for the reservation will be maintained in the Land Management Division.</text>
+          </para>
+        </section>
+      </container>
+      <container>
+        <num>VEH.4.4</num>
+        <heading>Enforcement</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <num>VEH.4.4.010</num>
+          <heading>Enforcement</heading>
+          <text>A duly appointed and designated Lac Courte Oreilles Tribal Police Officer, Lac Courte Oreilles Conservation Warden, and are authorized to enforce the provisions of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4" proof="needed">this chapter</cite> and to cite individuals for violation thereof into Tribal Court.</text>
+        </section>
+        <section>
+          <num>VEH.4.4.020</num>
+          <heading>Tribal Court</heading>
+          <text>All citations issued under this code shall be heard in the Lac Courte Oreilles Tribal Court.  The Tribal Court shall personal and subject-matter jurisdiction for all citations issued under this code.</text>
+        </section>
+        <section>
+          <num>VEH.4.4.030</num>
+          <heading>Tribal ATV/UTV Registration</heading>
+          <para>
+            <num>(a)</num>
+            <text>All ATV/UTV that operate on the Reservation shall be registered  with the Lac Courte Oreilles Police Department.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Each ATV/UTV shall be issued a unique ATV/UTV permit that shall be prominently displayed on the ATV/UTV.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The registration of the ATV/UTV shall be renewed every two years.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The registration fee shall not exceed $50.00 per ATV/UTV.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Failure to register ones ATV/UTV may result in immediate impoundment of the ATV/UTV, at the owner's expense.</text>
+          </para>
+        </section>
+      </container>
+      <container>
+        <num>VEH.4.5</num>
+        <heading>Penalties</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <num>VEH.4.5.010</num>
+          <heading>Penalties</heading>
+          <para>
+            <num>(a)</num>
+            <text>Any person who violates any section of this code shall pay a forfeiture of not less than $50 no more than $5000 for each offense.  Said forfeiture is exclusive of any vehicle confiscation or vehicle impoundment by the Tribe.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>For any ATV/UTV that is operating outside the posted roadways or ATV/UTV trails, the Tribe reserves the right to confiscate any ATV/UTV and remove the vehicle the Reservation boundary.  The Lac Courte Oreilles Police Department  or the Lac Courte Oreilles Conservation Department reserves the right to impound any ATV/UTV that violates any section under this Code.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>For any ATV/UTV that does not have tribal registration or tribal plates displayed, may be confiscated, or impounded by a Lac Courte Oreilles Law Enforcement Officer.  Any ATV/UTV which is confiscated or impounded shall be held at the Tribal Police Department or Safety Center. Any vehicle may be released at the reservation boundary by Tribal Law Enforcement.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Any ATV/UTV that is confiscated by Tribal Law enforcement may be released at the reservation boundary or at the registered residence of the ATV/UTV owner, at the Owner's expense.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Any ATV/UTV that is impounded by Tribal Law Enforcement may be released to the registered owner with an order of the Tribal Court and proof of payment for any fines or penalties under this code.</text>
+          </para>
+        </section>
+        <section>
+          <num>VEH.4.5.020</num>
+          <heading>Citations</heading>
+          <text>The following is a non-exhaustive list of citations that may be issued for a violation of this Code:</text>
+          <para>
+            <num>(a)</num>
+            <text>Operation of an ATV/UTV without fully operational vehicle lights, pursuant to §<cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.010" proof="needed">VEH.4.3.010</cite>,</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Operation of an ATV/UTV in excess of posted speed limits, pursuant to § <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.020" proof="needed">VEH.4.3.020</cite>,</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Operation of an ATV/UTV outside of the posted roadways or marked paths/trails, pursuant to § VEH 4.<cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH|2|2.0|2.010" proof="needed">2.010</cite>, §<cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.030" proof="needed">VEH.4.3.030</cite>, &amp; §<cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.050" proof="needed">VEH.4.3.050</cite>,</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Operation of an ATV/UTV without protective safety equipment, pursuant to § <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.010" proof="needed">VEH.4.3.010</cite>,</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Operation of an ATV/UTV near sacred sites or on private property, pursuant to § <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.030" proof="needed">VEH.4.3.030</cite> and § <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.050" proof="needed">VEH.4.3.050</cite>,</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Operation of an ATV/UTV in a reckless or negligent manner, pursuant to § <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.020" proof="needed">VEH.4.3.020</cite>,</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Operation of an ATV/UTV with an unauthorized passenger, pursuant to § <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.010" proof="needed">VEH.4.3.010</cite>,</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>Operation of an ATV/UTV after hours of operations, pursuant to § <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.040" proof="needed">VEH.4.3.040</cite> &amp; § <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.030|(c)|(2)" proof="needed">VEH.4.3.030(c)(2)</cite>,</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>Operation of an ATV/UTV without current registration, pursuant to § <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.4.030" proof="needed">VEH.4.4.030</cite>,</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>Operation of an ATV/UTV when under the influence of alcohol, drugs, or any other altering substance <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.020|(d)" proof="needed">§ VEH.4.3.020(d)</cite>,</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text>Operation of an ATV/UTV without a muffler pursuant to §<cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.2.010|(a)" proof="needed">VEH.4.2.010(a)</cite> and (k), and</text>
+          </para>
+          <para>
+            <num>(l)</num>
+            <text>Operation of an ATV/UTV causing excessive noise, unusual noise, and or noise pollution pursuant to §<cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.020|(g)" proof="needed">VEH.4.3.020(g)</cite>.</text>
+          </para>
+        </section>
+        <section>
+          <num>VEH.4.5.030</num>
+          <heading>Citation Procedure</heading>
+          <para>
+            <num>(a)</num>
+            <text>All citations issued under this code shall be prosecuted under the Lac Courte Oreilles Tribal Code of Law §<cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.2" proof="needed">TCT.2</cite> Rules of Civil Procedures Code of the Lac Courte Oreilles Band.  Please see the Tribal Court Code for further details about the court procedure for citations issued under this Code.</text>
+          </para>
+        </section>
+        <section>
+          <num>VEH.4.5.040</num>
+          <heading>Confiscated or Impoundment Procedure</heading>
+          <para>
+            <num>(a)</num>
+            <text>Any ATV/UTV that is confiscated by Tribal Law Enforcement may be released at the reservation boundary or at the registered residence of the ATV/UTV owner, at the Owner's expense.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Any ATV/UTV that is impounded by Tribal Law Enforcement may be released to the registered owner with an order of the Tribal Court and proof of payment for any fines or penalties under this code.</text>
+          </para>
+        </section>
+      </container>
+    </container>
+  </codify:insert>
+</document>
