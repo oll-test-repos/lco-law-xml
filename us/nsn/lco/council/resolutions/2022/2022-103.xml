@@ -33,12 +33,12 @@
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
-      <text>that the Council hereby pass this Resolution to formally adopt <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4" proof="needed">Chapter VEH.4</cite> ALL TERRAIN VEHICLES AND UTILITY TASK VEHICLES inconformity with the Open Law required formatting.</text>
+      <text>that the Council hereby pass this Resolution to formally adopt <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4">Chapter VEH.4</cite> ALL TERRAIN VEHICLES AND UTILITY TASK VEHICLES inconformity with the Open Law required formatting.</text>
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT FINALLY RESOLVED,</conjunction>
       <text>as follows:</text>
-      <text>The attached Chapter VEH.4 ALL TERRAIN VEHICLES AND UTILITY TASK VEHICLES be adopted into the Lac Courte Oreilles Tribal Code of Law.</text>
+      <text>The attached <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4">Chapter VEH.4</cite> ALL TERRAIN VEHICLES AND UTILITY TASK VEHICLES be adopted into the Lac Courte Oreilles Tribal Code of Law.</text>
     </recital>
   </recitals>
   <procedural-data>
@@ -51,7 +51,7 @@
   <codify:insert path="VEH" after="VEH.3">
     <container>
       <num>VEH.4</num>
-      <heading>ALL-TERRAIN VEHICLES AND UTILITY TASK VEHICLES</heading>
+      <heading>All-Terrain Vehicles and Utility Task Vehicles</heading>
       <prefix>Chapter</prefix>
       <text class="center">
         <strong>Preamble</strong>
@@ -74,7 +74,7 @@
         <section>
           <num>VEH.4.1.030</num>
           <heading>Purpose</heading>
-          <text>The purpose of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4" proof="needed">this Chapter</cite> is to provide for the regulation of all-terrain vehicle operations, utility task vehicle operations, owner safety, operator safety, and for the safety of those operating motor vehicles on roadways within the boundaries of the Lac Courte Oreilles Reservation.</text>
+          <text>The purpose of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4">this Chapter</cite> is to provide for the regulation of all-terrain vehicle operations, utility task vehicle operations, owner safety, operator safety, and for the safety of those operating motor vehicles on roadways within the boundaries of the Lac Courte Oreilles Reservation.</text>
         </section>
         <section>
           <num>VEH.4.1.040</num>
@@ -117,7 +117,7 @@
         <section>
           <num>VEH.4.2.010</num>
           <heading>General Definitions</heading>
-          <text>Any term not defined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.2.010" proof="needed">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+          <text>Any term not defined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.2.010">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
           <para>
             <num>(a)</num>
             <text>"<strong>All-terrain vehicle" and "ATV"</strong> means an engine-driven device which has a net weight of 650 pounds or less, which has a width of forty-eight (48) inches or less, which is equipped with a seat designed to be straddled by the operator, and which is designed to travel on three (3) or more low-pressure tires. Every non-electric ATV/UTV is required to be equipped with a functioning muffler to prevent excessive or unusual noise.</text>
@@ -324,7 +324,7 @@
         <section>
           <num>VEH.4.4.010</num>
           <heading>Enforcement</heading>
-          <text>A duly appointed and designated Lac Courte Oreilles Tribal Police Officer, Lac Courte Oreilles Conservation Warden, and are authorized to enforce the provisions of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4" proof="needed">this chapter</cite> and to cite individuals for violation thereof into Tribal Court.</text>
+          <text>A duly appointed and designated Lac Courte Oreilles Tribal Police Officer, Lac Courte Oreilles Conservation Warden, and are authorized to enforce the provisions of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4">this chapter</cite> and to cite individuals for violation thereof into Tribal Court.</text>
         </section>
         <section>
           <num>VEH.4.4.020</num>
@@ -390,51 +390,51 @@
           <text>The following is a non-exhaustive list of citations that may be issued for a violation of this Code:</text>
           <para>
             <num>(a)</num>
-            <text>Operation of an ATV/UTV without fully operational vehicle lights, pursuant to §<cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.010" proof="needed">VEH.4.3.010</cite>,</text>
+            <text>Operation of an ATV/UTV without fully operational vehicle lights, pursuant to §<cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.010">VEH.4.3.010</cite>,</text>
           </para>
           <para>
             <num>(b)</num>
-            <text>Operation of an ATV/UTV in excess of posted speed limits, pursuant to § <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.020" proof="needed">VEH.4.3.020</cite>,</text>
+            <text>Operation of an ATV/UTV in excess of posted speed limits, pursuant to § <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.020">VEH.4.3.020</cite>,</text>
           </para>
           <para>
             <num>(c)</num>
-            <text>Operation of an ATV/UTV outside of the posted roadways or marked paths/trails, pursuant to § VEH 4.<cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH|2|2.0|2.010" proof="needed">2.010</cite>, §<cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.030" proof="needed">VEH.4.3.030</cite>, &amp; §<cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.050" proof="needed">VEH.4.3.050</cite>,</text>
+            <text>Operation of an ATV/UTV outside of the posted roadways or marked paths/trails, pursuant to § VEH 4.<cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH|2|2.0|2.010">2.010</cite>, §<cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.030">VEH.4.3.030</cite>, &amp; §<cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.050">VEH.4.3.050</cite>,</text>
           </para>
           <para>
             <num>(d)</num>
-            <text>Operation of an ATV/UTV without protective safety equipment, pursuant to § <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.010" proof="needed">VEH.4.3.010</cite>,</text>
+            <text>Operation of an ATV/UTV without protective safety equipment, pursuant to § <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.010">VEH.4.3.010</cite>,</text>
           </para>
           <para>
             <num>(e)</num>
-            <text>Operation of an ATV/UTV near sacred sites or on private property, pursuant to § <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.030" proof="needed">VEH.4.3.030</cite> and § <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.050" proof="needed">VEH.4.3.050</cite>,</text>
+            <text>Operation of an ATV/UTV near sacred sites or on private property, pursuant to § <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.030">VEH.4.3.030</cite> and § <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.050">VEH.4.3.050</cite>,</text>
           </para>
           <para>
             <num>(f)</num>
-            <text>Operation of an ATV/UTV in a reckless or negligent manner, pursuant to § <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.020" proof="needed">VEH.4.3.020</cite>,</text>
+            <text>Operation of an ATV/UTV in a reckless or negligent manner, pursuant to § <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.020">VEH.4.3.020</cite>,</text>
           </para>
           <para>
             <num>(g)</num>
-            <text>Operation of an ATV/UTV with an unauthorized passenger, pursuant to § <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.010" proof="needed">VEH.4.3.010</cite>,</text>
+            <text>Operation of an ATV/UTV with an unauthorized passenger, pursuant to § <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.010">VEH.4.3.010</cite>,</text>
           </para>
           <para>
             <num>(h)</num>
-            <text>Operation of an ATV/UTV after hours of operations, pursuant to § <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.040" proof="needed">VEH.4.3.040</cite> &amp; § <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.030|(c)|(2)" proof="needed">VEH.4.3.030(c)(2)</cite>,</text>
+            <text>Operation of an ATV/UTV after hours of operations, pursuant to § <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.040">VEH.4.3.040</cite> &amp; § <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.030|(c)|(2)">VEH.4.3.030(c)(2)</cite>,</text>
           </para>
           <para>
             <num>(i)</num>
-            <text>Operation of an ATV/UTV without current registration, pursuant to § <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.4.030" proof="needed">VEH.4.4.030</cite>,</text>
+            <text>Operation of an ATV/UTV without current registration, pursuant to § <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.4.030">VEH.4.4.030</cite>,</text>
           </para>
           <para>
             <num>(j)</num>
-            <text>Operation of an ATV/UTV when under the influence of alcohol, drugs, or any other altering substance <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.020|(d)" proof="needed">§ VEH.4.3.020(d)</cite>,</text>
+            <text>Operation of an ATV/UTV when under the influence of alcohol, drugs, or any other altering substance <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.020|(d)">§ VEH.4.3.020(d)</cite>,</text>
           </para>
           <para>
             <num>(k)</num>
-            <text>Operation of an ATV/UTV without a muffler pursuant to §<cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.2.010|(a)" proof="needed">VEH.4.2.010(a)</cite> and (k), and</text>
+            <text>Operation of an ATV/UTV without a muffler pursuant to §<cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.2.010|(a)">VEH.4.2.010(a)</cite> and (k), and</text>
           </para>
           <para>
             <num>(l)</num>
-            <text>Operation of an ATV/UTV causing excessive noise, unusual noise, and or noise pollution pursuant to §<cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.020|(g)" proof="needed">VEH.4.3.020(g)</cite>.</text>
+            <text>Operation of an ATV/UTV causing excessive noise, unusual noise, and or noise pollution pursuant to §<cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.020|(g)">VEH.4.3.020(g)</cite>.</text>
           </para>
         </section>
         <section>
@@ -442,7 +442,7 @@
           <heading>Citation Procedure</heading>
           <para>
             <num>(a)</num>
-            <text>All citations issued under this code shall be prosecuted under the Lac Courte Oreilles Tribal Code of Law §<cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.2" proof="needed">TCT.2</cite> Rules of Civil Procedures Code of the Lac Courte Oreilles Band.  Please see the Tribal Court Code for further details about the court procedure for citations issued under this Code.</text>
+            <text>All citations issued under this code shall be prosecuted under the Lac Courte Oreilles Tribal Code of Law §<cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.2">TCT.2</cite> Rules of Civil Procedures Code of the Lac Courte Oreilles Band.  Please see the Tribal Court Code for further details about the court procedure for citations issued under this Code.</text>
           </para>
         </section>
         <section>
