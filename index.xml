@@ -43,4 +43,8 @@
     <xi:include href="./us/nsn/lco/council/treaties/1825/index.xml"/>
   </collection>
   <xi:include href="./us/nsn/lco/council/drafting-manual/index.xml"/>
+  <collection name="us/nsn/lco/council/forms">
+    <heading>Forms</heading>
+    <xi:include href="./us/nsn/lco/council/forms/election/index.xml"/>
+  </collection>
 </library>
