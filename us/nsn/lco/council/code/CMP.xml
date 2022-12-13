@@ -6100,11 +6100,11 @@
       </section>
     </container>
     <container>
-      <num>CMP.6.6</num>
+      <num>CMP.6.3</num>
       <heading>Eligibility</heading>
       <prefix>Subchapter</prefix>
       <section>
-        <num>CMP.6.6.010</num>
+        <num>CMP.6.3.010</num>
         <heading>Persons Eligible</heading>
         <text>The following people are eligible to apply for compensation under this Ordinance.</text>
         <para>
@@ -6137,7 +6137,7 @@
         </para>
       </section>
       <section>
-        <num>CMP.6.6.020</num>
+        <num>CMP.6.3.020</num>
         <heading>Conditions of Liability</heading>
         <para>
           <num>(a)</num>
@@ -6210,7 +6210,7 @@
         </para>
       </section>
       <section>
-        <num>CMP.6.6.030</num>
+        <num>CMP.6.3.030</num>
         <heading>Right of Action When a Third Party Liable</heading>
         <text>Whenever an injury for which benefits are payable under this Ordinance occurs under circumstances creating a legal liability in a person other than the Employer, the injured Employee may either claim benefits under this Ordinance or proceed at law against such other person to recover damages, but the Employee shall not collect from both.</text>
         <text>If the Employee proceeds against a person other than the Employer with respect to such an injury or condition and recovers any amount, that action shall constitute an irrevocable election to proceed against such person and the Employee shall have no rights to any compensation from the Employer under this Ordinance with respect to such injury or condition.</text>
